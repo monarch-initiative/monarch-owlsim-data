@@ -1,0 +1,8 @@
+## Add your data here
+#
+# Format: two columns separated by tabs
+#
+## Column1: Identifier of individual
+## Column2: Phenotype ID
+#
+# These comments are not required, they can be overwritten

@@ -1,0 +1,36 @@
+This directory contains configurations necessary to start an OWLSim
+server running over the set of ontologies in this repo (src/ontolog/),
+together with triples exported from Monarch (data/).
+
+First ensure all directories are up to date. From this directory:
+
+    svn update ../data ../src/ontology
+
+Note that the cache files required by OWLSim are not distributed in
+SVN as they are too large. To build them, you will need owltools and
+make.
+
+Type:
+
+    make
+
+This will create:
+
+   all.owl <- analysis ontology, including phenotype associations
+   ic-cache.owl <- information content values
+   owlsim.cache <- lookup table of all class pairs
+
+Now type:
+
+   ./start-owlsim-server
+
+It may take a few minites to start up
+
+Connect on port 9031.
+
+Note the first operation may take a few minutes.
+
+See owlsim docs.
+
+
+

@@ -1,0 +1,8 @@
+## Add your labels here
+#
+# Format: two columns separated by tabs
+#
+## Column1: Identifier of individual
+## Column2: Concise labe for individual
+#
+# These comments are not required, they can be overwritten
