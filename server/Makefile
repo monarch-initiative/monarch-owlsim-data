@@ -51,6 +51,9 @@ Drosophila_melanogaster-all.owl:  $(ONT)/dpo/dpo-importer.owl $(TRIGGERS)
 Danio_rerio-all.owl:  $(ONT)/zp/zp-importer.owl $(TRIGGERS)
 	owltools $(USECAT) $< --merge-imports-closure --load-instances $(DR_G2P) --load-labels $(DR_G2L) --merge-support-ontologies --remove-axioms -t DisjointClasses -o $@
 
+Homo_sapiens-data.owl:  $(TRIGGERS)
+	owltools $(USECAT) --create-ontology $(OBO)/upheno/$@ --merge-imports-closure --load-instances $(HS_D2P) --load-labels $(HS_D2L) --merge-support-ontologies -o -f ofn --prefix hp http://purl.obolibrary.org/obo/HP_ --prefix omim http://purl.obolibrary.org/obo/OMIM_ $@
+
 mammal-all.owl:  $(ONT)/mammal.owl $(TRIGGERS)
 	$(OWLTOOLS) $(USECAT) $< --merge-imports-closure --load-instances $(MM_G2P) --load-labels $(MM_G2L) --load-instances $(HS_D2P) --load-labels $(HS_D2L) --merge-support-ontologies -o $@
 
