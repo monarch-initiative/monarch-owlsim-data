@@ -1,0 +1,6 @@
+
+FILTERS
+O: Organ Abnormality - only anatomical annotations are listed.  frequency and onset has been filtered.
+I: Inheritance - annotations about inheritance pattern
+C: Onset or Clinical Course - annotations about onset or clinical progression of disease, as applied to the entire disease (rather than individual phenotypes)
+
