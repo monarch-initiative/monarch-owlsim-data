@@ -39,8 +39,8 @@ $(CATALOG):
 
 
 # TODO: trigger rebuild
-all.owl: $(CATALOG) additional-associations.txt additional-labels.txt
-	$(OWLTOOLS) --use-catalog $(CATALOG) $(ROOT) --merge-imports-closure --load-instances additional-associations.txt --load-labels additional-labels.txt --load-instances $(MM_G2P) --load-labels $(MM_G2L) --load-instances $(DR_G2P) --load-labels $(DR_G2L) --load-instances $(HS_D2P) --load-labels $(HS_D2L) --merge-support-ontologies --remove-axioms -t ObjectPropertyDomain --remove-axioms -t ObjectPropertyRange --remove-axioms -t DisjointClasses -o $@
+all.owl:  additional-associations.txt additional-labels.txt
+	$(OWLTOOLS)  $(ROOT) --merge-imports-closure --load-instances additional-associations.txt --load-labels additional-labels.txt --load-instances $(MM_G2P) --load-labels $(MM_G2L) --load-instances $(DR_G2P) --load-labels $(DR_G2L) --load-instances $(HS_D2P) --load-labels $(HS_D2L) --merge-support-ontologies --remove-axioms -t ObjectPropertyDomain --remove-axioms -t ObjectPropertyRange --remove-axioms -t DisjointClasses -o $@
 
 
 owlsim.cache: all.owl
