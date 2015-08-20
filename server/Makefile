@@ -25,7 +25,8 @@ HS = $(DATA)/Homo_sapiens
 HS_D2P = $(HS)/Hs-disease-to-phenotype-O.txt
 HS_D2L = $(HS)/Hs-disease-labels.txt
 
-ROOT = $(UPHENO)/metazoa.owl
+#ROOT = $(UPHENO)/metazoa.owl
+ROOT = $(UPHENO)/vertebrate.owl
 
 USECAT = --catalog-xml $(ONT)/catalog-v001.xml 
 
