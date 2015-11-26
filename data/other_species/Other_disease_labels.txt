@@ -1,0 +1,681 @@
+OMIA:000003	Achalasia of the oesophagus, congenital
+OMIA:000008	Acromegaly
+OMIA:000011	Acute posterior paresis
+OMIA:000012	Adactyly
+OMIA:000016	Adrenal cortical atrophy
+OMIA:000020	Agenesia of anal sphincter
+OMIA:000021	Agenesis of corpus callosum
+OMIA:000022	Agnathia
+OMIA:000023	Agnathia (type-3 otocephaly)
+OMIA:000027	Allergic rhinitis
+OMIA:000028	Alloimmune haemolytic anaemia of the newborn
+OMIA:000030	Alopecia, generic
+OMIA:000031	Alopecia, colour mutant
+OMIA:000033	Alzheimer disease
+OMIA:000037	Amyloidosis
+OMIA:000038	Amyloidosis, AA
+OMIA:000039	Amyloidosis, lambda
+OMIA:000040	Amyloidosis, renal
+OMIA:000041	Diamond-Blackfan anaemia
+OMIA:000044	Anencephaly
+OMIA:000045	Aniridia with cataract
+OMIA:000052	Aortic stenosis, subvalvular
+OMIA:000053	Aorticopulmonary septal defect
+OMIA:000054	Aphakia
+OMIA:000060-9940	Argininaemia in sheep
+OMIA:000061	Arnold-Chiari malformation
+OMIA:000062	Artery, anomaly of
+OMIA:000062-9825	Artery, anomaly of in domestic pig
+OMIA:000064	Arthritis
+OMIA:000065	Arthritis deformans
+OMIA:000066	Arthritis of the carpal joint
+OMIA:000067	Arthritis, rheumatoid
+OMIA:000068	Arthritis, type-II collagen-immune complex
+OMIA:000076-9825	Asymmetric hindquarter syndrome in domestic pig
+OMIA:000077	Ataxia, generic
+OMIA:000078	Ataxia, cerebellar
+OMIA:000079	Ataxia, progressive, with degenerative thoracic myelopathy
+OMIA:000080	Atherosclerosis
+OMIA:000080-8932	Atherosclerosis in rock pigeon
+OMIA:000080-93934	Atherosclerosis in Japanese quail
+OMIA:000080-9615	Atherosclerosis in dog
+OMIA:000080-9825	Atherosclerosis in domestic pig
+OMIA:000083	Atresia ani
+OMIA:000083-30538	Atresia ani in alpaca
+OMIA:000083-9685	Atresia ani in domestic cat
+OMIA:000083-9825	Atresia ani in domestic pig
+OMIA:000083-9913	Atresia ani in cattle
+OMIA:000083-9925	Atresia ani in goat
+OMIA:000083-9940	Atresia ani in sheep
+OMIA:000084	Atresia ani vaginalis
+OMIA:000089	Atrial septal defect
+OMIA:000090	Atrial septal defect and atrial fibrillation
+OMIA:000091	Atrophic rhinitis
+OMIA:000091-9825	Atrophic rhinitis in domestic pig
+OMIA:000091-9913	Atrophic rhinitis in cattle
+OMIA:000093	Audiogenic seizure
+OMIA:000097	Autoimmune thyroiditis, spontaneous
+OMIA:000098	Axonopathy, distal
+OMIA:000099	Axonopathy, peripheral
+OMIA:000100	Baldness, congenital
+OMIA:000105-9796	Osteoporosis in horse
+OMIA:000108-9103	Binucleated erythrocyte
+OMIA:000109-9940	Birthcoat in sheep
+OMIA:000112	Bleeding diathesis
+OMIA:000114	Blindness
+OMIA:000115	Blindness, congenital
+OMIA:000146	Brachydactyly
+OMIA:000146-9031	Brachydactyly in chicken
+OMIA:000146-9615	Brachydactyly in dog
+OMIA:000146-9825	Brachydactyly in domestic pig
+OMIA:000147	Brachygnathia
+OMIA:000147-9615	Brachygnathia in dog
+OMIA:000147-9793	Brachygnathia in ass
+OMIA:000147-9796	Brachygnathia in horse
+OMIA:000147-9913	Lethal brachygnathia trisomy syndrome
+OMIA:000147-9940	Brachygnathia in sheep
+OMIA:000149	Brachygnathia superior
+OMIA:000149-9825	Brachygnathia superior in domestic pig
+OMIA:000149-9913	Brachygnathia superior in cattle
+OMIA:000149-9925	Brachygnathia superior in goat
+OMIA:000149-9940	Brachygnathia superior in sheep
+OMIA:000149-9986	Brachygnathia superior in rabbit
+OMIA:000150	Brachygnathia superior and degenerative joint disease
+OMIA:000155-9615	C3 deficiency in dog
+OMIA:000155-9986	C3 deficiency in rabbit
+OMIA:000156-9986	C8 deficiency in rabbit
+OMIA:000159	Cardiac anomaly
+OMIA:000160	Cardiomyopathy
+OMIA:000161	Cardiomyopathy and woolly haircoat syndrome
+OMIA:000162	Cardiomyopathy, dilated
+OMIA:000162-10036	Cardiomyopathy, dilated in golden hamster
+OMIA:000162-34882	Cardiomyopathy, dilated in sea otter
+OMIA:000162-9103	Cardiomyopathy, dilated in turkey
+OMIA:000162-9615	Dilated cardiomyopathy
+OMIA:000162-9685	Cardiomyopathy, dilated in domestic cat
+OMIA:000162-9825	Cardiomyopathy, dilated in domestic pig
+OMIA:000162-9913	Bovine hereditary cardiomyopathy; Bovine dilated cardiomyopa
+OMIA:000162-9986	Cardiomyopathy, dilated in rabbit
+OMIA:000164	Cardiomyopathy, spontaneous
+OMIA:000165	Cardiovascular malformations
+OMIA:000168	Cataract, generic
+OMIA:000174	Cerebellar Purkinje cell degeneration
+OMIA:000176	Cerebellar anomaly, congenital
+OMIA:000179	Cerebellar hypoplasia
+OMIA:000180	Cerebellar malformation
+OMIA:000181-60468	Neuronal Ceroid Lipofuscinosis, generic in peach-faced lovebird
+OMIA:000181-8839	Neuronal Ceroid Lipofuscinosis, generic in mallard
+OMIA:000181-9541	Neuronal Ceroid Lipofuscinosis, generic in crab-eating macaque
+OMIA:000181-9615	Neuronal ceroid lipofuscinosis
+OMIA:000181-9669	Neuronal Ceroid Lipofuscinosis, generic in domestic ferret
+OMIA:000181-9685	neuronal ceroid lipofuscinosis
+OMIA:000181-9796	Neuronal ceroid lipofuscinosis
+OMIA:000181-9825	Neuronal Ceroid Lipofuscinosis, generic in domestic pig
+OMIA:000181-9913	Neuronal ceroid lipofuscinosis
+OMIA:000181-9925	neuronal ceroid lipofuscinosis
+OMIA:000181-9940	Neuronal ceroid lipofuscinosis
+OMIA:000185-452646	Chediak-Higashi syndrome in American mink
+OMIA:000185-494514	Chediak-Higashi syndrome in Arctic fox
+OMIA:000185-9685	Chediak-Higashi syndrome in domestic cat
+OMIA:000185-9733	Chediak-Higashi syndrome in killer whale
+OMIA:000185-9913	Chediak-Higashi syndrome in cattle
+OMIA:000187	Chondrodysplasia
+OMIA:000189	Chondrodystrophy
+OMIA:000192	Chronic interstitial nephropathy
+OMIA:000194-9913	Citrullinaemia in cattle
+OMIA:000197	Cleft palate
+OMIA:000201-30538	Coat colour, agouti in alpaca
+OMIA:000201-9627	Coat colour, agouti in red fox
+OMIA:000202-452646	Coat colour, albinism in American mink
+OMIA:000202-8090	Coat colour, albinism in Japanese medaka
+OMIA:000213-74535	Coat colour, white in Bengal tiger
+OMIA:000214-9615	Coat colour, white spotting in dog
+OMIA:000214-9685	Coat colour, white spotting in domestic cat
+OMIA:000214-9796	Splashed white
+OMIA:000214-9913	Coat colour, white spotting in cattle
+OMIA:000218-9615	Collie eye anomaly in dog
+OMIA:000221	Congenital anaemia, dyskeratosis and progressive alopecia
+OMIA:000224	Conotruncal heart malformations
+OMIA:000230	Corneal dystrophy
+OMIA:000231	Corneal opacity
+OMIA:000237	Cranioschisis
+OMIA:000242	Crippled
+OMIA:000243	Cryptorchidism
+OMIA:000243-9615	Cryptorchidism in dog
+OMIA:000243-9685	Cryptorchidism in domestic cat
+OMIA:000247	Cushing disease
+OMIA:000248-9615	Grey Collie Syndrome; Gray Collie Syndrome
+OMIA:000249	Cyclopia
+OMIA:000249-452646	Cyclopia in American mink
+OMIA:000249-9031	Cyclopia in chicken
+OMIA:000249-9615	Cyclopia in dog
+OMIA:000249-9685	Cyclopia in domestic cat
+OMIA:000249-9796	Cyclopia in horse
+OMIA:000249-9825	Cyclopia in domestic pig
+OMIA:000249-9913	Cyclopia in cattle
+OMIA:000249-9940	Cyclopia in sheep
+OMIA:000250	Cystic bile ducts and renal tubules
+OMIA:000252	Cystic liver
+OMIA:000254	Cystic ovary
+OMIA:000255	Cystic renal dysplasia
+OMIA:000256-9615	Cystinuria, type I - A in dog
+OMIA:000258	Dandy-Walker syndrome
+OMIA:000259	Deafness
+OMIA:000263-9615	Canine degenerative myelopathy
+OMIA:000264	Degenerative myopathy of deep pectoral muscle
+OMIA:000265	Degenerative myopathy of obturator-externus
+OMIA:000267	Delta 9-tetrahydrocannabinol seizure
+OMIA:000269	Dermatitis, atopic
+OMIA:000271-9825	Club foot
+OMIA:000275	Retinal detachment
+OMIA:000286	Diaphragmatic defects
+OMIA:000292-9940	Doggy wool in sheep
+OMIA:000299	Dwarfism
+OMIA:000299-9615	Dwarfism in dog
+OMIA:000299-9796	Dwarfism in horse
+OMIA:000299-9825	Dwarfism in domestic pig
+OMIA:000299-9913	Dwarfism in cattle
+OMIA:000299-9940	Dwarfism in sheep
+OMIA:000299-9986	Dwarfism in rabbit
+OMIA:000300	Dwarfism with anaemia
+OMIA:000301	Ocular-skeletal dysplasia
+OMIA:000302	Dwarfism, Ancon
+OMIA:000302-9940	Otter
+OMIA:000303	Dwarfism, autosomal
+OMIA:000303-9031	Dwarfism, autosomal in chicken
+OMIA:000305	Dwarfism, chondroplastic
+OMIA:000306	Dwarfism, crooked neck
+OMIA:000307	Dwarfism, pituitary
+OMIA:000308	Dwarfism, proportionate
+OMIA:000309	Dwarfism, sex-linked
+OMIA:000309-9031	Dwarfism, sex-linked in chicken
+OMIA:000310	Dwarfism, snorter
+OMIA:000311	Dwarfism, stumpy
+OMIA:000313	Congenital dyserythropoietic anaemia with dyskeratosis and progressive alopecia
+OMIA:000314	Ear defect
+OMIA:000315	Ear length
+OMIA:000316	Ear tuftedness
+OMIA:000317	Ears, crop
+OMIA:000317-9913	Notched ears; Nicked ears
+OMIA:000318	Ears, double
+OMIA:000319	Ears, folded
+OMIA:000320	Ears, four
+OMIA:000320-9685	Ears, four in domestic cat
+OMIA:000321	Ears, notched
+OMIA:000322	Ears, short
+OMIA:000323	Ectodermal dysplasia
+OMIA:000323-9031	Ectodermal dysplasia in chicken
+OMIA:000323-9615	Canine ectodermal dysplasia
+OMIA:000325	Ectropion
+OMIA:000327	Ehlers-Danlos syndrome
+OMIA:000328	Ehlers-Danlos syndrome, type VII (Dermatosparaxis)
+OMIA:000328-9685	Ehlers-Danlos syndrome, type VII (Dermatosparaxis) in domestic cat
+OMIA:000328-9913	Ehlers-Danlos syndrome, type VII (Dermatosparaxis) in cattle
+OMIA:000328-9940	Ehlers-Danlos syndrome, type VII (Dermatosparaxis) in sheep
+OMIA:000337	Entropion
+OMIA:000339	Epidermolysis
+OMIA:000340	Epidermolysis bullosa
+OMIA:000341	Epidermolysis bullosa, dystrophic
+OMIA:000341-9615	Recessive dystrophic epidermolysis bullosa (RDEB)
+OMIA:000341-9685	Epidermolysis bullosa, dystrophic in domestic cat
+OMIA:000341-9913	Epidermolysis bullosa, dystrophic in cattle
+OMIA:000341-9925	Epidermolysis bullosa, dystrophic in goat
+OMIA:000341-9940	Epidermolysis bullosa, dystrophic in sheep
+OMIA:000342	Epidermolysis bullosa, junctionalis
+OMIA:000344	Epilepsy
+OMIA:000348-89462	Epitheliogenesis imperfecta in water buffalo
+OMIA:000348-9685	Epitheliogenesis imperfecta in domestic cat
+OMIA:000348-9796	Epitheliogenesis imperfecta in horse
+OMIA:000348-9825	Aplasia cutis congenita
+OMIA:000348-9913	Epitheliogenesis imperfecta in cattle
+OMIA:000348-9940	Epitheliogenesis imperfecta in sheep
+OMIA:000351	Excessive appetite for water
+OMIA:000352	Exencephaly
+OMIA:000353	Exophthalmos with strabismus
+OMIA:000355	Extra ear lobes
+OMIA:000358	Eye defects
+OMIA:000359	Eyelid gland, third, prolapse of
+OMIA:000364-9615	Factor XII deficiency in dog
+OMIA:000364-9685	Factor XII deficiency in domestic cat
+OMIA:000364-9733	Factor XII deficiency in killer whale
+OMIA:000364-9739	Factor XII deficiency in bottlenosed dolphin
+OMIA:000366	Fanconi syndrome
+OMIA:000373-9031	Feather colour, dominant white in chicken
+OMIA:000380-8996	Feathering, Z-linked in helmeted guineafowl
+OMIA:000380-9031	Feathering, Z-linked in chicken
+OMIA:000380-9103	Feathering, Z-linked in turkey
+OMIA:000383-9940	Fecundity, Booroola, FecB(B) in sheep
+OMIA:000384-9940	Fecundity, Galway, FecX(G) in sheep
+OMIA:000385-9940	Fecundity, Thoka, FecG(T) in sheep
+OMIA:000386-9940	Fecundity, Inverdale, FecX(I) in sheep
+OMIA:000387-9940	Fecundity, Java in sheep
+OMIA:000391	Fragile X
+OMIA:000392-34880	Fragile site in raccoon dog
+OMIA:000392-9615	Fragile site in dog
+OMIA:000392-9685	Fragile site in domestic cat
+OMIA:000392-9796	Fragile site in horse
+OMIA:000392-9825	Fragile site in domestic pig
+OMIA:000392-9940	Fragile site in sheep
+OMIA:000396-9615	Fucosidosis, alpha in dog
+OMIA:000402-8790	Gangliosidosis, GM1 in emu
+OMIA:000402-9615	Gangliosidosis, GM1 in dog
+OMIA:000402-9685	Gangliosidosis, GM1 in domestic cat
+OMIA:000402-9913	Gangliosidosis, GM1 in cattle
+OMIA:000402-9940	Gangliosidosis, GM1 in sheep
+OMIA:000405	Gaucher disease, type I
+OMIA:000411	Glaucoma, generic
+OMIA:000413	Glomerulonephritis
+OMIA:000414	Glomerulonephropathy
+OMIA:000415	Glossopharyngeal defect
+OMIA:000418	Glycogen storage disease Ia
+OMIA:000418-9615	Glycogen storage disease Ia in dog
+OMIA:000419	Glycogen storage disease II
+OMIA:000420	Glycogen storage disease IV
+OMIA:000421	Glycogen storage disease VII
+OMIA:000421-9615	Glycogen storage disease VII in dog
+OMIA:000424	Goitre, familial
+OMIA:000424-10036	Goitre, familial in golden hamster
+OMIA:000424-69297	Goitre, familial in bongo
+OMIA:000424-89462	Goitre, familial in water buffalo
+OMIA:000424-9031	Goitre, familial in chicken
+OMIA:000424-9615	Goitre, familial in dog
+OMIA:000424-9643	Goitre, familial in American black bear
+OMIA:000424-9685	Goitre, familial in domestic cat
+OMIA:000424-9825	Goitre, familial in domestic pig
+OMIA:000424-9913	Goitre, familial in cattle
+OMIA:000424-9925	Goitre, familial in goat
+OMIA:000424-9940	Goitre, familial in sheep
+OMIA:000425-9940	Golden ram effect in sheep
+OMIA:000426	Gonadal hypoplasia
+OMIA:000426-9913	Gonadal hypoplasia in cattle
+OMIA:000428	Haemochromatosis
+OMIA:000429	Haemoglobin, abnormal
+OMIA:000430	Haemolytic anaemia
+OMIA:000432	Haemolytic anaemia, autoimmune
+OMIA:000433	Haemolytic anaemia, nonspherocytic
+OMIA:000434	Haemolytic anaemia, primary autoimmune
+OMIA:000437	Haemophilia A
+OMIA:000437-9615	Haemophilia A in dog
+OMIA:000437-9825	Haemophilia A in domestic pig
+OMIA:000438	Haemophilia B
+OMIA:000443-9940	Carpet wool
+OMIA:000444	Harelip
+OMIA:000452-9031	Henny feathering in chicken
+OMIA:000468-10036	Heterochromia irides in golden hamster
+OMIA:000468-9615	Heterochromia irides in dog
+OMIA:000468-9825	Glass eye
+OMIA:000468-9913	Heterochromia irides in cattle
+OMIA:000468-9940	Heterochromia irides in sheep
+OMIA:000483-9913	Haplotype BHP; Haplotype HHP; Haplotype JHP
+OMIA:000483-9925	Polled/Intersex syndrome (PIS)
+OMIA:000483-9940	Polled/Horns in sheep
+OMIA:000496-27679	Hyperbilirubinaemia I in Bolivian squirrel monkey
+OMIA:000496-9796	Hyperbilirubinaemia I in horse
+OMIA:000496-9940	Hyperbilirubinaemia I in sheep
+OMIA:000497-9940	Hyperbilirubinaemia II in sheep
+OMIA:000507-9825	Inherited thick forelegs
+OMIA:000515	Cardiomyopathy, hypertrophic
+OMIA:000515-9685	Feline familial HCM
+OMIA:000515-9825	Cardiomyopathy, hypertrophic in domestic pig
+OMIA:000536-9031	Hypothyroidism in chicken
+OMIA:000536-9615	Congenital hypothyroidism with goiter
+OMIA:000536-9685	Hypothyroidism in domestic cat
+OMIA:000536-9796	Hypothyroidism in horse
+OMIA:000536-9925	Hypothyroidism in goat
+OMIA:000536-9940	Hypothyroidism in sheep
+OMIA:000543-9615	Ectodermal dysplasia, X-linked, X-linked hypohidrotic ectode
+OMIA:000545-93934	Quiver quail; hax
+OMIA:000552-9612	Immunoglobulin A deficiency in gray wolf
+OMIA:000565-9615	Intestinal cobalamin malabsorption due to AMN mutation in dog
+OMIA:000573-9615	Kartagener syndrome in dog
+OMIA:000573-9685	Kartagener syndrome in domestic cat
+OMIA:000573-9825	Kartagener syndrome in domestic pig
+OMIA:000576-9615	Knobbed acrosome in dog
+OMIA:000576-9796	Knobbed acrosome in horse
+OMIA:000576-9825	Knobbed acrosome in domestic pig
+OMIA:000576-9913	Knobbed acrosome in cattle
+OMIA:000576-9940	Knobbed acrosome in sheep
+OMIA:000578-9544	Krabbe disease in Rhesus monkey
+OMIA:000578-9615	globoid cell leukodystrophy
+OMIA:000578-9685	Krabbe disease in domestic cat
+OMIA:000578-9940	Krabbe disease in sheep
+OMIA:000591-9940	Coat colour, lethal grey/gray in sheep
+OMIA:000595-89462	Leukocyte adhesion deficiency, type I in water buffalo
+OMIA:000595-9615	Canine leukocyte adhesion deficiency
+OMIA:000610-9940	Lustrous wool in sheep
+OMIA:000621-9615	Malignant hyperthermia in dog
+OMIA:000621-9825	Porcine Stress Syndrome
+OMIA:000625-9685	Mannosidosis, alpha in domestic cat
+OMIA:000625-9913	Mannosidosis, alpha in cattle
+OMIA:000626-59523	Mannosidosis, beta in springbok
+OMIA:000626-9913	Mannosidosis, beta in cattle
+OMIA:000626-9925	Mannosidosis, beta in goat
+OMIA:000627-9913	Maple syrup urine disease in cattle
+OMIA:000628-9913	Marfan Syndrome
+OMIA:000629-9685	Megacolon in domestic cat
+OMIA:000629-9796	Overo lethal white foal syndrome; frame overo spotting
+OMIA:000629-9825	Megacolon in domestic pig
+OMIA:000629-9913	Megacolon in cattle
+OMIA:000629-9986	Megacolon in rabbit
+OMIA:000636-9825	Porcine dense deposit disease; Hereditary factor H deficienc
+OMIA:000642-9940	Mesangiocapillary glomerulonephritis, type I in sheep
+OMIA:000648-8835	Micromelia in ducks
+OMIA:000648-9031	Micromelia in chicken
+OMIA:000648-93934	Micromelia in Japanese quail
+OMIA:000662-9615	Motor neuron disease, lower in dog
+OMIA:000662-9796	Motor neuron disease, lower in horse
+OMIA:000662-9825	Motor neuron disease, lower in domestic pig
+OMIA:000662-9940	Motor neuron disease, lower in sheep
+OMIA:000664-9615	Mucopolysaccharidosis I
+OMIA:000664-9685	Mucopolysaccharidosis I in domestic cat
+OMIA:000665-9925	Mucopolysaccharidosis IIID in goat
+OMIA:000666-9615	Mucopolysaccharidosis VI in dog
+OMIA:000666-9685	Mucopolysaccharidosis VI in domestic cat
+OMIA:000667-9615	Mucopolysaccharidosis VII in dog
+OMIA:000667-9685	Mucopolysaccharidosis VII in domestic cat
+OMIA:000668-9031	Muffs and beard in chicken
+OMIA:000679-452646	Muscular dystrophy in American mink
+OMIA:000679-9031	Abnormal muscle; AM
+OMIA:000679-9103	Muscular dystrophy in turkey
+OMIA:000679-9615	Muscular dystrophy in dog
+OMIA:000679-9685	Muscular dystrophy in domestic cat
+OMIA:000679-9940	Muscular dystrophy in sheep
+OMIA:000683-9615	Muscular hypertrophy (double muscling) in dog
+OMIA:000683-9825	Muscular hypertrophy (double muscling) in domestic pig
+OMIA:000683-9913	Double muscling
+OMIA:000685-9615	Congenital myasthenic syndrome
+OMIA:000685-9913	Myasthenic syndrome, congenital in cattle
+OMIA:000698-89462	Myotonia in water buffalo
+OMIA:000698-9615	Myotonia in dog
+OMIA:000698-9685	Myotonia in domestic cat
+OMIA:000698-9796	Myotonia in horse
+OMIA:000698-9925	Myotonia in goat
+OMIA:000698-9940	Myotonia in sheep
+OMIA:000703-9615	Narcolepsy in dog
+OMIA:000703-9685	Narcolepsy in domestic cat
+OMIA:000703-9796	Narcolepsy in horse
+OMIA:000703-9940	Narcolepsy in sheep
+OMIA:000708	Nephritis
+OMIA:000710	Nephropathy
+OMIA:000715-9615	Fetal-onset neuroaxonal dystrophy
+OMIA:000715-9685	Neuroaxonal dystrophy in domestic cat
+OMIA:000715-9796	Neuroaxonal dystrophy in horse
+OMIA:000715-9940	Neuroaxonal dystrophy in sheep
+OMIA:000715-9986	Neuroaxonal dystrophy in rabbit
+OMIA:000716-32443	Neurofibromatosis in teleost fishes
+OMIA:000716-9913	Neurofibromatosis in cattle
+OMIA:000723-9940	Neuropathy, thalamic-cerebellar in sheep
+OMIA:000747	Osteoarthritis
+OMIA:000770-9615	Shaking pup
+OMIA:000770-9825	Congenital tremor syndrome
+OMIA:000770-9986	Tremor, X-linked in rabbit
+OMIA:000785-9796	Hyperkalemic Periodic Paralysis (HYPP)
+OMIA:000791-9615	Persistent Mullerian Duct Syndrome
+OMIA:000791-9685	Persistent Mullerian duct syndrome in domestic cat
+OMIA:000791-9925	Persistent Mullerian duct syndrome in goat
+OMIA:000806-9940	Polyceraty in sheep
+OMIA:000807-10160	Polycystic kidney disease in degu
+OMIA:000807-59523	Polycystic kidney disease in springbok
+OMIA:000807-9615	Polycystic kidney disease in dog
+OMIA:000807-9685	Polycystic kidney disease in domestic cat
+OMIA:000807-9796	Polycystic kidney disease in horse
+OMIA:000807-9858	Polycystic kidney disease in Western roe deer
+OMIA:000807-9940	Polycystic kidney disease in sheep
+OMIA:000807-9986	Polycystic kidney disease in rabbit
+OMIA:000818-9940	Potassium transport in sheep
+OMIA:000844-9615	Pyruvate kinase deficiency of erythrocyte in dog
+OMIA:000844-9685	Pyruvate kinase deficiency of erythrocyte in domestic cat
+OMIA:000853-9940	Reduced glutathione deficiency due to GCS deficiency in sheep
+OMIA:000864-9940	Response to noradrenaline in sheep
+OMIA:000878-9615	Arrhythmogenic right ventricular cardiomyopathy
+OMIA:000878-9685	Arrhythmogenic right ventricular cardiomyopathy in domestic cat
+OMIA:000899-9615	Severe combined immunodeficiency disease, X-linked in dog
+OMIA:000899-9825	Severe combined immunodeficiency disease, X-linked in domestic pig
+OMIA:000901-8090	XX testicular DSD (Disorder of Sexual Development) in Japanese medaka
+OMIA:000901-9615	XX sex reversal, XX DSD testicular/ovotesticular
+OMIA:000901-9796	XX testicular DSD (Disorder of Sexual Development) in horse
+OMIA:000901-9825	XX testicular DSD (Disorder of Sexual Development) in domestic pig
+OMIA:000901-9844	XX testicular DSD (Disorder of Sexual Development) in llama
+OMIA:000901-9925	Polled/Intersex syndrome
+OMIA:000914-9940	Silky wool in sheep
+OMIA:000939-9615	Spinal muscular atrophy in dog
+OMIA:000939-9685	Spinal muscular atrophy in domestic cat
+OMIA:000939-9913	Haplotyoe BHM
+OMIA:000941-9940	Split eyelid in sheep
+OMIA:000944-10036	Spongiform encephalopathy in golden hamster
+OMIA:000944-32536	Spongiform encephalopathy in cheetah
+OMIA:000944-37185	Spongiform encephalopathy in blue antelope
+OMIA:000944-39411	Spongiform encephalopathy in Arabian oryx
+OMIA:000944-452646	Scrapie
+OMIA:000944-89462	Spongiform encephalopathy in water buffalo
+OMIA:000944-9031	Spongiform encephalopathy in chicken
+OMIA:000944-9483	Spongiform encephalopathy in white-tufted-ear marmoset
+OMIA:000944-9539	Spongiform encephalopathy in macaques
+OMIA:000944-9541	Spongiform encephalopathy in crab-eating macaque
+OMIA:000944-9544	Spongiform encephalopathy in Rhesus monkey
+OMIA:000944-9615	Spongiform encephalopathy in dog
+OMIA:000944-9669	Spongiform encephalopathy in domestic ferret
+OMIA:000944-9685	Spongiform encephalopathy in domestic cat
+OMIA:000944-9696	Spongiform encephalopathy in puma
+OMIA:000944-9825	Spongiform encephalopathy in domestic pig
+OMIA:000944-9850	Spongiform encephalopathy in deer
+OMIA:000944-9861	Spongiform encephalopathy in Eastern wapiti
+OMIA:000944-9865	Spongiform encephalopathy in Manchurian Wapiti
+OMIA:000944-9873	Spongiform encephalopathy in black-tailed deer
+OMIA:000944-9913	Bovine spongiform encephalopathy; Mad Cow Disease
+OMIA:000944-9925	Scrapie
+OMIA:000944-9940	Scrapie
+OMIA:000944-9945	Spongiform encephalopathy in eland
+OMIA:000944-9946	Spongiform encephalopathy in greater kudu
+OMIA:000944-9986	Spongiform encephalopathy in rabbit
+OMIA:000961-9940	Swayback in sheep
+OMIA:000963-9031	Syndactyly (mule foot) in chicken
+OMIA:000963-9315	Syndactyly (mule foot) in tammar wallaby
+OMIA:000963-9615	Syndactyly (mule foot) in dog
+OMIA:000963-9685	Syndactyly (mule foot) in domestic cat
+OMIA:000963-9825	Syndactyly (mule foot) in domestic pig
+OMIA:000963-9913	Mule foot disease; Haplotype HHM
+OMIA:000963-9940	Syndactyly (mule foot) in sheep
+OMIA:000975-9615	bob-tail, bob tail
+OMIA:000975-9940	Tail, short in sheep
+OMIA:000977-9685	Manx tailllessness
+OMIA:000977-9825	Taillessness in domestic pig
+OMIA:000977-9913	Taillessness in cattle
+OMIA:000991-9615	Androgen insensitivity syndrome (AIS) in dog
+OMIA:000991-9685	Androgen insensitivity syndrome (AIS) in domestic cat
+OMIA:000991-9796	Androgen insensitivity syndrome (AIS) in horse
+OMIA:000991-9825	Androgen insensitivity syndrome (AIS) in domestic pig
+OMIA:000991-9913	Androgen insensitivity syndrome (AIS) in cattle
+OMIA:000994-9615	Tetralogy of fallot in dog
+OMIA:000994-9685	Tetralogy of fallot in domestic cat
+OMIA:000994-9796	Tetralogy of fallot in horse
+OMIA:000994-9913	Tetralogy of fallot in cattle
+OMIA:000998-9940	Thread defect in sheep
+OMIA:001033-10152	Urolithiasis in short-tailed chinchilla
+OMIA:001033-9322	Urolithiasis in kangaroo
+OMIA:001033-9615	Hyperuricosuria and hyperuricemia
+OMIA:001033-9669	Urolithiasis in domestic ferret
+OMIA:001033-9685	Urolithiasis in domestic cat
+OMIA:001033-9796	Urolithiasis in horse
+OMIA:001033-9825	Urolithiasis in domestic pig
+OMIA:001033-9844	Urolithiasis in llama
+OMIA:001033-9913	Urolithiasis in cattle
+OMIA:001033-9925	Urolithiasis in goat
+OMIA:001033-9940	Urolithiasis in sheep
+OMIA:001079-9796	Yellow fat in horse
+OMIA:001079-9825	Yellow fat in domestic pig
+OMIA:001079-9913	Yellow fat in cattle
+OMIA:001079-9940	Yellow fat in sheep
+OMIA:001079-9986	Yellow fat in rabbit
+OMIA:001081-9615	X-linked muscular dystrophy; Dystrophin-deficient muscular d
+OMIA:001081-9685	Muscular dystrophy, Duchenne type in domestic cat
+OMIA:001085-9825	"""Hampshire effect"""
+OMIA:001087	Anaemia
+OMIA:001088-9825	K88 scours
+OMIA:001091	Ataxia, progressive
+OMIA:001091-9615	Ataxia, progressive in dog
+OMIA:001091-9825	congenital progressive ataxia and spastic paresis
+OMIA:001091-9913	Ataxia, progressive in cattle
+OMIA:001093-9615	Hepatitis, chronic active in dog
+OMIA:001094-9615	Hepatitis, neonatal in dog
+OMIA:001097-9913	Necrotising encephalopathy, subacute, of Leigh in cattle
+OMIA:001098-9615	Polymicrogyria and asymmetrical ventricular dilation in dog
+OMIA:001102-9685	Situs inversus in domestic cat
+OMIA:001106	Axonopathy
+OMIA:001112	Nephritis, X-linked
+OMIA:001112-9615	Alport syndrome
+OMIA:001114	Nephritis, autosomal dominant
+OMIA:001119-89462	Abomasum, displaced in water buffalo
+OMIA:001119-9913	Abomasum, displaced in cattle
+OMIA:001119-9940	Abomasum, displaced in sheep
+OMIA:001122	Connected toes
+OMIA:001132-9615	Spondylosis deformans in dog
+OMIA:001132-9685	Spondylosis deformans in domestic cat
+OMIA:001135	Renal dysplasia
+OMIA:001139	Glycogen storage disease V
+OMIA:001139-9913	Myophosphorylase deficiency
+OMIA:001139-9940	Glycogen storage disease V in sheep
+OMIA:001140	Cleft lip with or without cleft palate
+OMIA:001142-9615	Wilms tumour in dog
+OMIA:001142-9825	Wilms tumour in domestic pig
+OMIA:001142-9913	Wilms tumour in cattle
+OMIA:001142-9940	Wilms tumour in sheep
+OMIA:001157	Anisocoria
+OMIA:001158-9615	Polysaccharide storage myopathy/Exertional rhabdomyolysis in dog
+OMIA:001158-9796	Equine rhabdomyolysis syndrome; Polysaccharide storage myopa
+OMIA:001158-9825	Polysaccharide storage myopathy/Exertional rhabdomyolysis in domestic pig
+OMIA:001168	Coronal suture synostosis
+OMIA:001169	Ascites
+OMIA:001175-9685	Porphyria, congenital erythropoietic in domestic cat
+OMIA:001175-9913	Pink tooth
+OMIA:001181	Atrial fibrillation
+OMIA:001186	Erythrocytosis
+OMIA:001199-10141	Coat colour, extension in domestic guinea pig
+OMIA:001199-30521	Coat colour, extension in domestic yak
+OMIA:001199-30538	Coat colour, extension in alpaca
+OMIA:001199-30640	Coat colour, extension in gray squirrel
+OMIA:001199-37349	Coat colour, extension in woolly mammoth
+OMIA:001199-38666	Coat colour, extension in rock pocket mouse
+OMIA:001199-42413	Coat colour, extension in oldfield mouse
+OMIA:001199-43597	Coat colour, extension in lesser earless lizard
+OMIA:001199-494514	Coat colour, extension in Arctic fox
+OMIA:001199-61402	Also known as Puma yagouaroundi
+OMIA:001199-68352	Coat colour, extension in little striped whiptail
+OMIA:001199-89462	Coat colour, extension in water buffalo
+OMIA:001199-9614	Coat colour, extension in coyote
+OMIA:001199-9615	Coat colour, extension in dog
+OMIA:001199-9627	Coat colour, extension in red fox
+OMIA:001199-9643	Coat colour, extension in American black bear
+OMIA:001199-9685	Coat colour, extension in domestic cat
+OMIA:001199-9690	Coat colour, extension in jaguar
+OMIA:001199-9796	Chestnut
+OMIA:001199-9825	Coat colour, extension in domestic pig
+OMIA:001199-9913	Black/red coat colour; Haplotype HBR; Haplotype HHR
+OMIA:001199-9925	Coat colour, extension in goat
+OMIA:001199-9940	Dominant black
+OMIA:001199-9986	Coat colour, extension in rabbit
+OMIA:001200-9539	Tremor, high-frequency in macaques
+OMIA:001200-9825	Campus syndrome
+OMIA:001226-9031	Polymelia in chicken
+OMIA:001226-9615	Polymelia in dog
+OMIA:001226-9913	Developmental Duplications
+OMIA:001226-9940	Polymelia in sheep
+OMIA:001228-9615	Spherocytosis in dog
+OMIA:001233	Cyanosis
+OMIA:001239-9913	Epiphora in cattle
+OMIA:001240-9615	Hyperphosphatasaemia in dog
+OMIA:001245-9031	GUCY1*
+OMIA:001246	Chronic valvular disease
+OMIA:001248-7955	Mucolipidosis II in zebrafish
+OMIA:001248-9685	Mucolipidosis II in domestic cat
+OMIA:001270	Convulsions and ataxia, familial
+OMIA:001271	Dwarfism, aggrecan type
+OMIA:001272-9615	Schnauzer comedo syndrome
+OMIA:001273-9940	Resistance to Fasciola gigantica in sheep
+OMIA:001274-452646	Coat colour, black crystal in American mink
+OMIA:001292-9615	Polyneuropathy in dog
+OMIA:001294	Dwarfism, growth-hormone-receptor deficiency
+OMIA:001294-9913	GHRD
+OMIA:001296	Dwarfism, hypochondroplastic
+OMIA:001299-9031	Resistance to avian sarcoma and leukosis viruses, subgroup A in chicken
+OMIA:001302-9031	tvb locus
+OMIA:001321	Nephritis, X-linked dominant
+OMIA:001323	Dwarfism, Laron
+OMIA:001331	Eclampsia
+OMIA:001334-9825	Immotile short-tail sperm defect; Sterilizing short-tail spe
+OMIA:001334-9913	Sperm, short tail in cattle
+OMIA:001340	Complex vertebral malformation
+OMIA:001340-9913	Haplotype HHC
+OMIA:001344-9615	Coat colour, cream dilution in dog
+OMIA:001344-9796	Palomino
+OMIA:001354-9940	Callipyge
+OMIA:001355-9940	Carwell; rib-eye muscling (REM)
+OMIA:001356-9796	Gray; Grey; Greying with age
+OMIA:001359	Nephritis, autosomal recessive
+OMIA:001363	Ataxia, progressive, with head tremor and seizures
+OMIA:001367	Blindness enlarged globe
+OMIA:001371-9615	L-2-hydroxyglutaric aciduria
+OMIA:001397	Eyelid gland, third, prolpase of
+OMIA:001402-9615	Invermectin sensitivity
+OMIA:001404-9913	Leptin concentration in cattle
+OMIA:001405-9615	Protein deletion
+OMIA:001406-7955	Pyruvate dehydrogenase deficiency in zebrafish
+OMIA:001406-9615	Pyruvate dehydrogenase deficiency in dog
+OMIA:001407-9913	Black kidney
+OMIA:001415-9615	Hyperkeratosis, epidermolytic in dog
+OMIA:001417-9615	Pulmonary fibrosis, idiopathic in dog
+OMIA:001417-9685	Pulmonary fibrosis, idiopathic in domestic cat
+OMIA:001418-9615	CD
+OMIA:001436-9825	Non-shivering thermiogenesis, absence of in domestic pig
+OMIA:001442-9913	Forelimb-girdle muscular anomaly in cattle
+OMIA:001443-9615	Neuronal ceroid lipofuscinosis, 6 in dog
+OMIA:001443-9940	Battens disease
+OMIA:001444-9615	Canine multifocal retinopathy
+OMIA:001450-9913	Congenital muscular dystonia 1 in cattle
+OMIA:001451-9913	Congenital muscular dystonia 2 in cattle
+OMIA:001452-9913	Crooked tail syndrome
+OMIA:001461-9217	Gangliosidosis, GM2, type I (B variant) in American flamingo
+OMIA:001461-9615	Gangliosidosis, GM2, type I
+OMIA:001461-9888	Gangliosidosis, GM2, type I (B variant) in muntjak
+OMIA:001461-9940	Gangliosidosis, GM2, type I (B variant) in sheep
+OMIA:001461-9986	Gangliosidosis, GM2, type I (B variant) in rabbit
+OMIA:001465-9825	Arthrogryposis multiplex congenita in domestic pig
+OMIA:001465-9913	Bovine Hereditary Arthrogyposis Multiplex Congentia
+OMIA:001466-9615	Exercise-induced collapse in dog
+OMIA:001471-9615	Neonatal encephalopathy with seizures in dog
+OMIA:001472-9615	Neuronal ceroid lipofuscinosis, 2 in dog
+OMIA:001482-9615	Neuronal ceroid lipofuscinosis, 5 in dog
+OMIA:001482-9913	Neuronal ceroid lipofuscinosis, 5 in cattle
+OMIA:001482-9940	Neuronal ceroid lipofuscinosis, 5 in sheep
+OMIA:001484-9685	Coat colour, ticked in domestic cat
+OMIA:001488-9913	Encephalomyelopathy, multifocal symmetrical necrotizing, Angus in cattle
+OMIA:001497-452646	Marbled
+OMIA:001503-9615	Neuronal ceroid lipofuscinosis, 4A in dog
+OMIA:001504-9615	Neuronal ceroid lipofuscinosis, 1 in dog
+OMIA:001505-9615	Neuronal ceroid lipofuscinosis, 10 in dog
+OMIA:001522-9615	Oculoskeletal dysplasia 1 in dog
+OMIA:001523-9615	Oculoskeletal dysplasia 2 in dog
+OMIA:001552-9615	Neuronal ceroid lipofuscinosis, 12 in dog
+OMIA:001553-9615	cmr2
+OMIA:001554-9615	cmr3
+OMIA:001577-9615	Glycogen storage disease IIIa in dog
+OMIA:001609-9615	Exfoliative cutaneous lupus erythematosus in dog
+OMIA:001614-9685	Vitamin D-deficiency rickets, non-type I, non-type II in domestic cat
+OMIA:001622-9031	Resistance to avian sarcoma and leukosis viruses, subgroup C in chicken
+OMIA:001673-9825	Spermatogenic arrest in domestic pig
+OMIA:001677	Epidermolysis bullosa, junctionalis, LAMA3
+OMIA:001678	Epidermolysis bullosa, junctionalis, LAMC2
+OMIA:001680-9913	German White Fleckvieh syndrome
+OMIA:001695-8090	Reduced scale-3 in Japanese medaka
+OMIA:001703-9940	Spider-lamb syndrome 
+OMIA:001718-9825	Dwarfism, Schmid metaphyseal chondrodysplasia in domestic pig
+OMIA:001721-32536	Coat colour, king in cheetah
+OMIA:001730-9031	Stringy in chicken
+OMIA:001743-9825	Coat colour, patch in domestic pig
+OMIA:001744-9913	Resistance to mastitis in cattle
+OMIA:001772-9615	Skeletal dysplasia 2
+OMIA:001786-9615	Intestinal cobalamin malabsorption due to CUBN mutation in dog
+OMIA:001789-9903	Trypanotolerance in oxen, cattle
+OMIA:001794-9669	Cystic fibrosis in domestic ferret
+OMIA:001794-9825	Cystic fibrosis in domestic pig
+OMIA:001805-9615	Amelogenesis imperfecta in dog
