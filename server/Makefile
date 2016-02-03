@@ -32,7 +32,7 @@ USECAT = --catalog-xml $(ONT)/catalog-v001.xml
 
 OWLTOOLS_MEMORY ?= 14G
  
-OWLTOOLS = $(OWLTOOLS_MEMORY) owltools
+OWLTOOLS = OWLTOOLS_MEMORY=$(OWLTOOLS_MEMORY) owltools
 
 all: caches
 caches: owlsim.cache ic-cache.owl
