@@ -30,7 +30,9 @@ ROOT = $(UPHENO)/vertebrate.owl
 
 USECAT = --catalog-xml $(ONT)/catalog-v001.xml 
 
-OWLTOOLS = OWLTOOLS_MEMORY=14G owltools
+OWLTOOLS_MEMORY ?= 14G
+ 
+OWLTOOLS = $(OWLTOOLS_MEMORY) owltools
 
 all: caches
 caches: owlsim.cache ic-cache.owl
