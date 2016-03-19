@@ -26,7 +26,8 @@ HS_D2P = $(HS)/Hs-disease-to-phenotype-O.txt
 HS_D2L = $(HS)/Hs-disease-labels.txt
 
 #ROOT = $(UPHENO)/metazoa.owl
-ROOT = $(UPHENO)/vertebrate.owl
+#ROOT = $(UPHENO)/vertebrate.owl
+ROOT = $(UPHENO)/monarch.owl
 
 USECAT = --catalog-xml $(ONT)/catalog-v001.xml 
 
@@ -42,8 +43,8 @@ $(CATALOG):
 
 
 # TODO: trigger rebuild
-all.owl:  additional-associations.txt additional-labels.txt $(DR_G2P) $(MM_G2P) $(HS_D2P)
-	$(OWLTOOLS)  $(ROOT) --merge-imports-closure --load-instances additional-associations.txt --load-labels additional-labels.txt --load-instances $(MM_G2P) --load-labels $(MM_G2L) --load-instances $(DR_G2P) --load-labels $(DR_G2L) --load-instances $(HS_D2P) --load-labels $(HS_D2L) --merge-support-ontologies --remove-axioms -t ObjectPropertyDomain --remove-axioms -t ObjectPropertyRange --remove-axioms -t DisjointClasses -o $@
+all.owl:  additional-associations.txt additional-labels.txt $(DR_G2P) $(MM_G2P) $(HS_D2P) $(DM_G2P)
+	$(OWLTOOLS)  $(ROOT) --merge-imports-closure --load-instances additional-associations.txt --load-labels additional-labels.txt --load-instances $(DM_G2P) --load-labels $(DM_G2L) --load-instances $(MM_G2P) --load-labels $(MM_G2L) --load-instances $(DR_G2P) --load-labels $(DR_G2L) --load-instances $(HS_D2P) --load-labels $(HS_D2L) --merge-support-ontologies --remove-axioms -t ObjectPropertyDomain --remove-axioms -t ObjectPropertyRange --remove-axioms -t DisjointClasses -o $@
 
 
 owlsim.cache: all.owl
