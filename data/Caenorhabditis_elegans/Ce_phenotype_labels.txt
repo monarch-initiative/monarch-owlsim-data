@@ -2,11 +2,16 @@ FBbt:00001251PHENOTYPE	Drosophila embryonic/larval glial cell phenotype
 FBbt:00001684PHENOTYPE	Drosophila embryonic/larval hemocyte phenotype
 FBbt:00001722PHENOTYPE	ring gland phenotype
 FBbt:00001724PHENOTYPE	prothoracic gland phenotype
+FBbt:00001766PHENOTYPE	Drosophila eye-antennal disc phenotype
 FBbt:00001778PHENOTYPE	Drosophila wing disc phenotype
+FBbt:00001780PHENOTYPE	Drosophila ventral thoracic disc phenotype
 FBbt:00001911PHENOTYPE	embryonic/larval nervous system phenotype
 FBbt:00004230PHENOTYPE	Drosophila pigment cell phenotype
 FBbt:00004508PHENOTYPE	eye phenotype
+FBbt:00005098PHENOTYPE	peripheral nervous system phenotype
 FBbt:00006009PHENOTYPE	eye photoreceptor cell phenotype
+FBbt:00006015PHENOTYPE	Drosophila wing blade phenotype
+FBcv:0000351	lethal
 FBcv:0000354	visible
 FBcv:0000424	cell death defective
 FBcv:0001347	phenotype
@@ -15,3 +20,92 @@ FBcv:0002007	lethal - all die during larval stage
 FBcv:0002023	some die during larval stage
 FBcv:0002027	lethal - all die before end of pupal stage
 FBcv:0002039	some die during pupal stage
+HP:0000458	Anosmia
+HP:0000510	Rod-cone dystrophy
+HP:0000546	Retinal degeneration
+HP:0000648	Optic atrophy
+HP:0000712	Emotional lability
+HP:0000726	Dementia
+HP:0000733	Stereotypic behavior
+HP:0000738	Hallucinations
+HP:0000752	Hyperactivity
+HP:0000819	Diabetes mellitus
+HP:0000822	Hypertension
+HP:0000855	Insulin resistance
+HP:0000939	Osteoporosis
+HP:0001000	Abnormality of skin pigmentation
+HP:0001009	Telangiectasia
+HP:0001050	Plethora
+HP:0001138	Optic neuropathy
+HP:0001250	Seizures
+HP:0001251	Ataxia
+HP:0001268	Mental deterioration
+HP:0001297	Stroke
+HP:0001300	Parkinsonism
+HP:0001324	Muscle weakness
+HP:0001332	Dystonia
+HP:0001336	Myoclonus
+HP:0001337	Tremor
+HP:0001396	Cholestasis
+HP:0001399	Hepatic failure
+HP:0001404	Hepatocellular necrosis
+HP:0001510	Growth delay
+HP:0001513	Obesity
+HP:0001575	Mood changes
+HP:0001824	Weight loss
+HP:0001909	Leukemia
+HP:0002015	Dysphagia
+HP:0002063	Rigidity
+HP:0002067	Bradykinesia
+HP:0002071	Abnormality of extrapyramidal motor function
+HP:0002072	Chorea
+HP:0002120	Cerebral cortical atrophy
+HP:0002135	Basal ganglia calcification
+HP:0002140	Ischemic stroke
+HP:0002145	Frontotemporal dementia
+HP:0002171	Gliosis
+HP:0002172	Postural instability
+HP:0002174	Postural tremor
+HP:0002180	Neurodegeneration
+HP:0002181	Cerebral edema
+HP:0002185	Neurofibrillary tangles
+HP:0002186	Apraxia
+HP:0002312	Clumsiness
+HP:0002317	Unsteady gait
+HP:0002322	Resting tremor
+HP:0002344	Progressive neurologic deterioration
+HP:0002354	Memory impairment
+HP:0002355	Difficulty walking
+HP:0002378	Hand tremor
+HP:0002446	Astrocytosis
+HP:0002453	Abnormality of the globus pallidus
+HP:0002464	Spastic dysarthria
+HP:0002480	Hepatic encephalopathy
+HP:0002511	Alzheimer disease
+HP:0002529	Neuronal loss in central nervous system
+HP:0002621	Atherosclerosis
+HP:0002721	Immunodeficiency
+HP:0002958	Immune dysregulation
+HP:0002960	Autoimmunity
+HP:0003002	Breast carcinoma
+HP:0003006	Neuroblastoma
+HP:0003124	Hypercholesterolemia
+HP:0003128	Lactic acidosis
+HP:0003198	Myopathy
+HP:0003202	Skeletal muscle atrophy
+HP:0003470	Paralysis
+HP:0003881	Humeral sclerosis
+HP:0004325	Decreased body weight
+HP:0004409	Hyposmia
+HP:0007354	Amyotrophic lateral sclerosis
+HP:0007868	Age-related macular degeneration
+HP:0008760	Violent behavior
+HP:0011034	Amyloidosis
+HP:0100022	Abnormality of movement
+HP:0100315	Lewy bodies
+HP:0100513	Vitamin E deficiency
+HP:0100543	Cognitive impairment
+HP:0100544	Neoplasm of the heart
+HP:0100653	Optic neuritis
+HP:0100710	Impulsivity
+HP:0100753	Schizophrenia

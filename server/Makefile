@@ -18,12 +18,12 @@ DR_G2L = $(DR)/Dr-gene-labels.txt
 
 # TODO: genes
 DM = $(DATA)/Drosophila_melanogaster
-DM_G2P = $(DM)/Dm_phenotype_labels.txt
-DM_G2L = $(DM)/Dm_genotype_labels.txt
+DM_G2P = $(DM)/Dm_gene_phenotype.txt
+DM_G2L = $(DM)/Dm_gene_labels.txt
 
 CE = $(DATA)/Caenorhabditis_elegans
-CE_G2P = $(CE)/Ce_phenotype_labels.txt
-CE_G2L = $(CE)/Ce_genotype_labels.txt
+CE_G2P = $(CE)/Ce_gene_phenotype.txt
+CE_G2L = $(CE)/Ce_gene_labels.txt
 
 HS = $(DATA)/Homo_sapiens
 HS_D2P = $(HS)/Hs-disease-to-phenotype-O.txt

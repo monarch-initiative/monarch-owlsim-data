@@ -186,6 +186,7 @@ FBbt:00000443PHENOTYPE	embryonic primordium of adult salivary gland phenotype
 FBbt:00000444PHENOTYPE	anterior midgut primordium phenotype
 FBbt:00000449PHENOTYPE	Drosophila adult midgut precursor cell phenotype
 FBbt:00000453PHENOTYPE	Drosophila midgut chamber 1 phenotype
+FBbt:00000454PHENOTYPE	Drosophila midgut chamber 2 phenotype
 FBbt:00000455PHENOTYPE	midgut chamber 3 phenotype
 FBbt:00000457PHENOTYPE	midgut constriction phenotype
 FBbt:00000458PHENOTYPE	Drosophila midgut constriction 1 phenotype
@@ -214,6 +215,7 @@ FBbt:00000504PHENOTYPE	Drosophila prothoracic dorsal oblique muscle 2 phenotype
 FBbt:00000505PHENOTYPE	Drosophila prothoracic dorsal oblique muscle 3 phenotype
 FBbt:00000506PHENOTYPE	prothoracic dorsal oblique muscle 4 phenotype
 FBbt:00000509PHENOTYPE	Drosophila prothoracic ventral transverse muscle 1 phenotype
+FBbt:00000515PHENOTYPE	Drosophila prothoracic ventral intersegmental muscle phenotype
 FBbt:00000523PHENOTYPE	Drosophila mesothoracic dorsal acute muscle 1 phenotype
 FBbt:00000525PHENOTYPE	Drosophila mesothoracic dorsal acute muscle 3 phenotype
 FBbt:00000526PHENOTYPE	mesothoracic dorsal acute muscle 4 phenotype
@@ -222,6 +224,7 @@ FBbt:00000530PHENOTYPE	mesothoracic dorsal oblique muscle 2 phenotype
 FBbt:00000531PHENOTYPE	mesothoracic dorsal oblique muscle 3 phenotype
 FBbt:00000532PHENOTYPE	Drosophila mesothoracic dorsal oblique muscle 4 phenotype
 FBbt:00000535PHENOTYPE	mesothoracic ventral oblique muscle phenotype
+FBbt:00000537PHENOTYPE	Drosophila mesothoracic ventral oblique muscle 2 phenotype
 FBbt:00000538PHENOTYPE	Drosophila mesothoracic segment border muscle phenotype
 FBbt:00000540PHENOTYPE	mesothoracic lateral transverse muscle phenotype
 FBbt:00000541PHENOTYPE	Drosophila mesothoracic lateral transverse muscle 1 phenotype
@@ -234,6 +237,7 @@ FBbt:00000549PHENOTYPE	mesothoracic ventral longitudinal muscle 1 phenotype
 FBbt:00000555PHENOTYPE	metathoracic dorsal acute muscle 1 phenotype
 FBbt:00000557PHENOTYPE	metathoracic dorsal acute muscle 3 phenotype
 FBbt:00000558PHENOTYPE	metathoracic dorsal acute muscle 4 phenotype
+FBbt:00000559PHENOTYPE	Drosophila metathoracic ventral acute muscle phenotype
 FBbt:00000560PHENOTYPE	metathoracic ventral acute muscle 1 phenotype
 FBbt:00000563PHENOTYPE	metathoracic dorsal oblique muscle 1 phenotype
 FBbt:00000564PHENOTYPE	Drosophila metathoracic dorsal oblique muscle 2 phenotype
@@ -270,6 +274,7 @@ FBbt:00000609PHENOTYPE	Drosophila A1-7 dorsal oblique muscle 1 phenotype
 FBbt:00000610PHENOTYPE	A1-7 dorsal oblique muscle 2 phenotype
 FBbt:00000611PHENOTYPE	Drosophila A1-7 dorsal oblique muscle 3 phenotype
 FBbt:00000612PHENOTYPE	Drosophila A1-7 dorsal oblique muscle 4 phenotype
+FBbt:00000613PHENOTYPE	A1-7 dorsal oblique muscle 5 phenotype
 FBbt:00000615PHENOTYPE	Drosophila A1-7 lateral oblique muscle 1 phenotype
 FBbt:00000616PHENOTYPE	Drosophila A1-7 ventral oblique muscle phenotype
 FBbt:00000617PHENOTYPE	Drosophila A1-7 ventral oblique muscle 1 phenotype
@@ -529,6 +534,7 @@ FBbt:00001066PHENOTYPE	Drosophila embryonic protocerebrum phenotype
 FBbt:00001067PHENOTYPE	Drosophila embryonic deuterocerebrum phenotype
 FBbt:00001068PHENOTYPE	embryonic tritocerebrum phenotype
 FBbt:00001069PHENOTYPE	embryonic stomatogastric nervous system phenotype
+FBbt:00001070PHENOTYPE	Drosophila precursor cell of the stomatogastric nervous system phenotype
 FBbt:00001082PHENOTYPE	Drosophila embryonic ventral nervous system phenotype
 FBbt:00001087PHENOTYPE	embryonic ventral neuromere phenotype
 FBbt:00001102PHENOTYPE	Drosophila ventral nerve cord phenotype
@@ -571,9 +577,11 @@ FBbt:00001268PHENOTYPE	A-subperineurial glial cell of abdominal segment 1 phenot
 FBbt:00001276PHENOTYPE	B-subperineurial glial cell of abdomen phenotype
 FBbt:00001277PHENOTYPE	B-subperineurial glial cell of abdominal segment 1 phenotype
 FBbt:00001289PHENOTYPE	Drosophila lateral ventral subperineurial glial cell phenotype
+FBbt:00001297PHENOTYPE	Drosophila cortex associated CNS glial cell phenotype
 FBbt:00001298PHENOTYPE	Drosophila embryonic/larval cell body glial cell phenotype
 FBbt:00001299PHENOTYPE	Drosophila medial-most cell body glial cell phenotype
 FBbt:00001300PHENOTYPE	medial cell body glial cell phenotype
+FBbt:00001303PHENOTYPE	neuropil associated CNS glial cell phenotype
 FBbt:00001304PHENOTYPE	Drosophila intersegmental nerve root glial cell phenotype
 FBbt:00001306PHENOTYPE	Drosophila lateral intersegmental nerve root glial cell phenotype
 FBbt:00001311PHENOTYPE	interface glial cell phenotype
@@ -619,6 +627,7 @@ FBbt:00001398PHENOTYPE	neuroblast NB6-1 phenotype
 FBbt:00001399PHENOTYPE	neuroblast NB6-4 phenotype
 FBbt:00001400PHENOTYPE	Drosophila neuroblast NB6-4 of thorax phenotype
 FBbt:00001401PHENOTYPE	Drosophila neuroblast NB6-4 of abdomen phenotype
+FBbt:00001402PHENOTYPE	Drosophila neuroblast NB6-4a phenotype
 FBbt:00001409PHENOTYPE	Drosophila stage 4 neuroblast phenotype
 FBbt:00001410PHENOTYPE	Drosophila neuroblast NB2-1 phenotype
 FBbt:00001411PHENOTYPE	neuroblast NB2-4 phenotype
@@ -750,6 +759,7 @@ FBbt:00001769PHENOTYPE	morphogenetic furrow phenotype
 FBbt:00001770PHENOTYPE	Drosophila ommatidial precursor cluster phenotype
 FBbt:00001771PHENOTYPE	five-cell ommatidial precursor cluster phenotype
 FBbt:00001773PHENOTYPE	mature eight-cell ommatidial precursor cluster phenotype
+FBbt:00001775PHENOTYPE	Drosophila four cone-cell ommatidial precursor cluster phenotype
 FBbt:00001776PHENOTYPE	dorsal thoracic disc phenotype
 FBbt:00001777PHENOTYPE	Drosophila humeral disc phenotype
 FBbt:00001778PHENOTYPE	Drosophila wing disc phenotype
@@ -822,6 +832,7 @@ FBbt:00001882PHENOTYPE	Drosophila embryonic/larval midgut phenotype
 FBbt:00001883PHENOTYPE	anterior embryonic/larval midgut phenotype
 FBbt:00001885PHENOTYPE	posterior embryonic/larval midgut phenotype
 FBbt:00001887PHENOTYPE	Drosophila embryonic/larval cuprophilic cell phenotype
+FBbt:00001890PHENOTYPE	embryonic/larval principal midgut epithelial cell phenotype
 FBbt:00001891PHENOTYPE	embryonic/larval hindgut phenotype
 FBbt:00001894PHENOTYPE	Drosophila embryonic/larval anal pad phenotype
 FBbt:00001895PHENOTYPE	Drosophila anal slit phenotype
@@ -876,6 +887,7 @@ FBbt:00002018PHENOTYPE	Drosophila lch3 neuron phenotype
 FBbt:00002019PHENOTYPE	Drosophila lch5 neuron phenotype
 FBbt:00002024PHENOTYPE	Drosophila dorsal multidendritic neuron phenotype
 FBbt:00002025PHENOTYPE	Drosophila dorsal multidendritic neuron ddaA phenotype
+FBbt:00002026PHENOTYPE	Drosophila dorsal multidendritic neuron ddaB phenotype
 FBbt:00002027PHENOTYPE	Drosophila dorsal multidendritic neuron ddaC phenotype
 FBbt:00002028PHENOTYPE	dorsal multidendritic neuron ddaD phenotype
 FBbt:00002029PHENOTYPE	dorsal multidendritic neuron ddaE phenotype
@@ -942,6 +954,7 @@ FBbt:00002381PHENOTYPE	abdominal 4 lch5 neuron phenotype
 FBbt:00002382PHENOTYPE	Drosophila abdominal 5 lch5 neuron phenotype
 FBbt:00002383PHENOTYPE	abdominal 6 lch5 neuron phenotype
 FBbt:00002384PHENOTYPE	abdominal 7 lch5 neuron phenotype
+FBbt:00002385PHENOTYPE	Drosophila abdominal dorsal/lateral multidendritic neuron phenotype
 FBbt:00002386PHENOTYPE	abdominal dorsal multidendritic neuron ddaA phenotype
 FBbt:00002402PHENOTYPE	abdominal dorsal multidendritic neuron ddaC phenotype
 FBbt:00002403PHENOTYPE	abdominal 1 dorsal multidendritic neuron ddaC phenotype
@@ -1072,6 +1085,7 @@ FBbt:00002951PHENOTYPE	Drosophila abdominal 11 anal tuft phenotype
 FBbt:00002952PHENOTYPE	prepupa phenotype
 FBbt:00002953PHENOTYPE	Drosophila pupa phenotype
 FBbt:00002954PHENOTYPE	Drosophila pupal tracheal system phenotype
+FBbt:00002955PHENOTYPE	coiled tracheole phenotype
 FBbt:00002981PHENOTYPE	pupal abdominal trachea phenotype
 FBbt:00002996PHENOTYPE	Drosophila pupal spiracle phenotype
 FBbt:00002997PHENOTYPE	anterior pupal spiracle phenotype
@@ -1098,6 +1112,7 @@ FBbt:00003031PHENOTYPE	Drosophila adult abdominal segment 7 phenotype
 FBbt:00003032PHENOTYPE	Drosophila adult abdominal segment 8 phenotype
 FBbt:00003033PHENOTYPE	Drosophila adult abdominal segment 9 phenotype
 FBbt:00003037PHENOTYPE	Drosophila adult tracheal system phenotype
+FBbt:00003038PHENOTYPE	Drosophila adult trachea phenotype
 FBbt:00003051PHENOTYPE	Drosophila dorsal branch phenotype
 FBbt:00003070PHENOTYPE	Drosophila visceral branch phenotype
 FBbt:00003083PHENOTYPE	dorsal superficial trachea phenotype
@@ -1113,13 +1128,17 @@ FBbt:00003144PHENOTYPE	Drosophila posterior adult hindgut phenotype
 FBbt:00003152PHENOTYPE	adult dorsal vessel phenotype
 FBbt:00003154PHENOTYPE	Drosophila adult heart phenotype
 FBbt:00003156PHENOTYPE	Drosophila adult heart chamber phenotype
+FBbt:00003157PHENOTYPE	adult heart chamber 1 phenotype
+FBbt:00003158PHENOTYPE	adult heart chamber 2 phenotype
 FBbt:00003183PHENOTYPE	adult garland cell phenotype
+FBbt:00003185PHENOTYPE	Drosophila adult oenocyte phenotype
 FBbt:00003208PHENOTYPE	adult adipose system phenotype
 FBbt:00003209PHENOTYPE	Drosophila adult fat body phenotype
 FBbt:00003213PHENOTYPE	Drosophila abdominal adult fat mass phenotype
 FBbt:00003215PHENOTYPE	Drosophila adult corpus allatum phenotype
 FBbt:00003217PHENOTYPE	Drosophila dorsal neurohemal organ phenotype
 FBbt:00003218PHENOTYPE	adult muscle system phenotype
+FBbt:00003225PHENOTYPE	adepithelial cell of wing disc phenotype
 FBbt:00003232PHENOTYPE	embryonic precursor cell of adult muscle phenotype
 FBbt:00003233PHENOTYPE	Drosophila thoracic adult muscle precursor cell phenotype
 FBbt:00003234PHENOTYPE	Drosophila abdominal adult muscle precursor cell phenotype
@@ -1154,6 +1173,7 @@ FBbt:00003305PHENOTYPE	Drosophila skeletal muscle of thorax phenotype
 FBbt:00003318PHENOTYPE	Drosophila skeletal muscle of leg phenotype
 FBbt:00003319PHENOTYPE	Drosophila depressor muscle phenotype
 FBbt:00003329PHENOTYPE	Drosophila tibial levator muscle phenotype
+FBbt:00003330PHENOTYPE	tarsal levator muscle phenotype
 FBbt:00003339PHENOTYPE	Drosophila prothoracic sternal muscle phenotype
 FBbt:00003360PHENOTYPE	Drosophila flight muscle phenotype
 FBbt:00003361PHENOTYPE	indirect flight muscle phenotype
@@ -1175,6 +1195,8 @@ FBbt:00003376PHENOTYPE	Drosophila coxal tergal remotor muscle phenotype
 FBbt:00003377PHENOTYPE	Drosophila coxal tergal remotor muscle 48a phenotype
 FBbt:00003378PHENOTYPE	coxal tergal remotor muscle 48b phenotype
 FBbt:00003379PHENOTYPE	direct flight muscle phenotype
+FBbt:00003380PHENOTYPE	Drosophila direct flight muscle 49 phenotype
+FBbt:00003381PHENOTYPE	direct flight muscle 50 phenotype
 FBbt:00003385PHENOTYPE	basalar muscle 51 phenotype
 FBbt:00003386PHENOTYPE	basalar muscle 52 phenotype
 FBbt:00003388PHENOTYPE	Drosophila muscle of first axillary 53 phenotype
@@ -1234,6 +1256,7 @@ FBbt:00003698PHENOTYPE	optic glomerulus phenotype
 FBbt:00003699PHENOTYPE	ocellar nerve phenotype
 FBbt:00003700PHENOTYPE	Drosophila adult pars intercerebralis phenotype
 FBbt:00003701PHENOTYPE	Drosophila optic lobe phenotype
+FBbt:00003702PHENOTYPE	optic lobe neuron phenotype
 FBbt:00003708PHENOTYPE	lamina phenotype
 FBbt:00003718PHENOTYPE	Drosophila lamina monopolar neuron phenotype
 FBbt:00003719PHENOTYPE	Drosophila lamina monopolar neuron L1 phenotype
@@ -1247,6 +1270,7 @@ FBbt:00003745PHENOTYPE	lamina tangential neuron phenotype
 FBbt:00003746PHENOTYPE	Drosophila lamina intrinsic neuron phenotype
 FBbt:00003747PHENOTYPE	optic cartridge phenotype
 FBbt:00003748PHENOTYPE	Drosophila medulla phenotype
+FBbt:00003750PHENOTYPE	Drosophila medulla layer M1 phenotype
 FBbt:00003752PHENOTYPE	medulla layer M3 phenotype
 FBbt:00003755PHENOTYPE	medulla layer M6 phenotype
 FBbt:00003756PHENOTYPE	Drosophila serpentine layer phenotype
@@ -1320,6 +1344,7 @@ FBbt:00004092PHENOTYPE	metathoracic neuromere phenotype
 FBbt:00004097PHENOTYPE	Drosophila abdominal neuromere phenotype
 FBbt:00004101PHENOTYPE	Drosophila peptidergic neuron phenotype
 FBbt:00004113PHENOTYPE	Drosophila adult sense organ phenotype
+FBbt:00004114PHENOTYPE	head sensillum phenotype
 FBbt:00004115PHENOTYPE	Drosophila head bristle phenotype
 FBbt:00004116PHENOTYPE	orbital bristle phenotype
 FBbt:00004117PHENOTYPE	anterior orbital bristle phenotype
@@ -1354,10 +1379,13 @@ FBbt:00004191PHENOTYPE	Drosophila cornea phenotype
 FBbt:00004193PHENOTYPE	cone cell phenotype
 FBbt:00004194PHENOTYPE	Drosophila posterior cone cell phenotype
 FBbt:00004195PHENOTYPE	anterior cone cell phenotype
+FBbt:00004196PHENOTYPE	polar cone cell phenotype
+FBbt:00004197PHENOTYPE	equatorial cone cell phenotype
 FBbt:00004198PHENOTYPE	Drosophila pseudocone phenotype
 FBbt:00004199PHENOTYPE	Drosophila lens phenotype
 FBbt:00004200PHENOTYPE	retina phenotype
 FBbt:00004207PHENOTYPE	Drosophila dorsal margin photoreceptor phenotype
+FBbt:00004209PHENOTYPE	dorsal margin photoreceptor cell R8 phenotype
 FBbt:00004210PHENOTYPE	subretinal glial cell phenotype
 FBbt:00004211PHENOTYPE	Drosophila photoreceptor cell phenotype
 FBbt:00004213PHENOTYPE	Drosophila photoreceptor cell R1 phenotype
@@ -1403,8 +1431,10 @@ FBbt:00004278PHENOTYPE	prothoracic tibial bract phenotype
 FBbt:00004279PHENOTYPE	prothoracic tibial transverse row bristle phenotype
 FBbt:00004282PHENOTYPE	Drosophila prothoracic tibial apical bristle phenotype
 FBbt:00004283PHENOTYPE	Drosophila prothoracic tarsal bristle phenotype
+FBbt:00004285PHENOTYPE	Drosophila prothoracic tarsal segment 1 transverse row bristle phenotype
 FBbt:00004286PHENOTYPE	Drosophila prothoracic tarsal bristle longitudinal row phenotype
 FBbt:00004296PHENOTYPE	Drosophila sex comb phenotype
+FBbt:00004297PHENOTYPE	Drosophila adult mesothoracic sensillum phenotype
 FBbt:00004298PHENOTYPE	mesothoracic bristle phenotype
 FBbt:00004299PHENOTYPE	Drosophila presutural bristle phenotype
 FBbt:00004300PHENOTYPE	notopleural bristle phenotype
@@ -1480,6 +1510,7 @@ FBbt:00004422PHENOTYPE	Drosophila metathoracic coxal sensillum trichodeum phenot
 FBbt:00004437PHENOTYPE	metathoracic femoral bract phenotype
 FBbt:00004445PHENOTYPE	metathoracic tibial bract phenotype
 FBbt:00004446PHENOTYPE	metathoracic tibial transverse bristle row phenotype
+FBbt:00004449PHENOTYPE	dorsal margin photoreceptor cell R7 phenotype
 FBbt:00004450PHENOTYPE	Drosophila late extended germ band embryo phenotype
 FBbt:00004452PHENOTYPE	Drosophila metathoracic tarsal bristle longitudinal row phenotype
 FBbt:00004461PHENOTYPE	Drosophila adult abdominal sensillum phenotype
@@ -1515,6 +1546,7 @@ FBbt:00004508PHENOTYPE	eye phenotype
 FBbt:00004509PHENOTYPE	Drosophila eye equator phenotype
 FBbt:00004510PHENOTYPE	Drosophila ommatidium phenotype
 FBbt:00004511PHENOTYPE	Drosophila antenna phenotype
+FBbt:00004513PHENOTYPE	Drosophila first segment of antenna phenotype
 FBbt:00004514PHENOTYPE	second segment of antenna phenotype
 FBbt:00004515PHENOTYPE	Drosophila third segment of antenna phenotype
 FBbt:00004516PHENOTYPE	Drosophila fourth segment of antenna phenotype
@@ -1532,6 +1564,7 @@ FBbt:00004542PHENOTYPE	Drosophila distiproboscis phenotype
 FBbt:00004546PHENOTYPE	Drosophila maxillary palpus phenotype
 FBbt:00004550PHENOTYPE	neck phenotype
 FBbt:00004551PHENOTYPE	Drosophila adult external thorax phenotype
+FBbt:00004552PHENOTYPE	Drosophila tergum phenotype
 FBbt:00004553PHENOTYPE	Drosophila pleurum phenotype
 FBbt:00004559PHENOTYPE	dorsal prothorax phenotype
 FBbt:00004561PHENOTYPE	Drosophila pronotum phenotype
@@ -1615,14 +1648,19 @@ FBbt:00004730PHENOTYPE	Drosophila tegula phenotype
 FBbt:00004731PHENOTYPE	Drosophila wing hinge phenotype
 FBbt:00004732PHENOTYPE	wing sclerite phenotype
 FBbt:00004733PHENOTYPE	Drosophila pleural wing sclerite phenotype
+FBbt:00004736PHENOTYPE	Drosophila unnamed wing hinge sclerite phenotype
 FBbt:00004737PHENOTYPE	axillary sclerite phenotype
+FBbt:00004738PHENOTYPE	1st axillary sclerite phenotype
+FBbt:00004739PHENOTYPE	Drosophila 2nd axillary sclerite phenotype
 FBbt:00004740PHENOTYPE	3rd axillary sclerite phenotype
 FBbt:00004743PHENOTYPE	yellow club phenotype
 FBbt:00004744PHENOTYPE	axillary cord phenotype
 FBbt:00004745PHENOTYPE	Drosophila axillary pouch phenotype
 FBbt:00004747PHENOTYPE	alula phenotype
 FBbt:00004751PHENOTYPE	wing vein phenotype
+FBbt:00004754PHENOTYPE	Drosophila axillary vein phenotype
 FBbt:00004755PHENOTYPE	Drosophila costal vein phenotype
+FBbt:00004756PHENOTYPE	distal costal vein phenotype
 FBbt:00004757PHENOTYPE	medial costal vein phenotype
 FBbt:00004759PHENOTYPE	wing vein L1 phenotype
 FBbt:00004760PHENOTYPE	Drosophila wing vein L2 phenotype
@@ -1681,6 +1719,7 @@ FBbt:00004832PHENOTYPE	female gonopod phenotype
 FBbt:00004833PHENOTYPE	Drosophila epiproct phenotype
 FBbt:00004834PHENOTYPE	Drosophila hypoproct phenotype
 FBbt:00004835PHENOTYPE	Drosophila male terminalia phenotype
+FBbt:00004837PHENOTYPE	Drosophila male abdominal sternite 7 phenotype
 FBbt:00004839PHENOTYPE	Drosophila genital arch phenotype
 FBbt:00004841PHENOTYPE	posterior lobe phenotype
 FBbt:00004842PHENOTYPE	Drosophila lateral plate phenotype
@@ -1691,6 +1730,7 @@ FBbt:00004849PHENOTYPE	hypandrial process phenotype
 FBbt:00004852PHENOTYPE	penis phenotype
 FBbt:00004857PHENOTYPE	Drosophila reproductive system phenotype
 FBbt:00004858PHENOTYPE	Drosophila gonad phenotype
+FBbt:00004859PHENOTYPE	gonadal sheath phenotype
 FBbt:00004860PHENOTYPE	Drosophila germline cell phenotype
 FBbt:00004861PHENOTYPE	Drosophila germline stem cell phenotype
 FBbt:00004863PHENOTYPE	Drosophila polyfusome phenotype
@@ -1842,6 +1882,7 @@ FBbt:00005095PHENOTYPE	brain phenotype
 FBbt:00005096PHENOTYPE	Drosophila stomatogastric nervous system phenotype
 FBbt:00005097PHENOTYPE	Drosophila ventral nervous system phenotype
 FBbt:00005098PHENOTYPE	peripheral nervous system phenotype
+FBbt:00005100PHENOTYPE	tract phenotype
 FBbt:00005101PHENOTYPE	Drosophila fascicle phenotype
 FBbt:00005103PHENOTYPE	commissure phenotype
 FBbt:00005104PHENOTYPE	Drosophila connective phenotype
@@ -1917,6 +1958,8 @@ FBbt:00005221PHENOTYPE	scolopidial ligament cell phenotype
 FBbt:00005222PHENOTYPE	scolopidial neuron phenotype
 FBbt:00005236PHENOTYPE	Drosophila photoreceptor cell pigment granule phenotype
 FBbt:00005246PHENOTYPE	Drosophila midgut primordium phenotype
+FBbt:00005254PHENOTYPE	embryonic/larval heart anchoring cell phenotype
+FBbt:00005255PHENOTYPE	Drosophila embryonic heart anchoring cell primordium phenotype
 FBbt:00005257PHENOTYPE	cardiac outflow muscle phenotype
 FBbt:00005258PHENOTYPE	spermatocyte cyst phenotype
 FBbt:00005259PHENOTYPE	germinal proliferation center phenotype
@@ -1969,6 +2012,7 @@ FBbt:00005350PHENOTYPE	Drosophila stage P5 pupa phenotype
 FBbt:00005365PHENOTYPE	Drosophila stage P14 pharate adult phenotype
 FBbt:00005370PHENOTYPE	stage A1 adult phenotype
 FBbt:00005378PHENOTYPE	wing margin phenotype
+FBbt:00005380PHENOTYPE	pharynx phenotype
 FBbt:00005382PHENOTYPE	Drosophila salivary gland phenotype
 FBbt:00005383PHENOTYPE	Drosophila midgut phenotype
 FBbt:00005384PHENOTYPE	hindgut phenotype
@@ -1999,6 +2043,7 @@ FBbt:00005500PHENOTYPE	Drosophila foregut visceral muscle primordium phenotype
 FBbt:00005501PHENOTYPE	Drosophila Malpighian tubule main body primordium phenotype
 FBbt:00005509PHENOTYPE	Drosophila embryonic dorsal pouch primordium phenotype
 FBbt:00005510PHENOTYPE	antennal primordium phenotype
+FBbt:00005513PHENOTYPE	embryonic primordium of adult hindgut precursor phenotype
 FBbt:00005518PHENOTYPE	somatic muscle primordium phenotype
 FBbt:00005519PHENOTYPE	Drosophila visceral muscle primordium phenotype
 FBbt:00005520PHENOTYPE	Drosophila fat body/gonad primordium phenotype
@@ -2014,6 +2059,7 @@ FBbt:00005565PHENOTYPE	Drosophila ventral midline neuroblast phenotype
 FBbt:00005566PHENOTYPE	ventral midline neuron phenotype
 FBbt:00005568PHENOTYPE	embryonic antennal sense organ phenotype
 FBbt:00005569PHENOTYPE	Drosophila presumptive embryonic/larval tracheal system phenotype
+FBbt:00005571PHENOTYPE	Drosophila embryonic tracheole phenotype
 FBbt:00005574PHENOTYPE	tracheal branch primordium phenotype
 FBbt:00005578PHENOTYPE	Drosophila lateral trunk primordium phenotype
 FBbt:00005580PHENOTYPE	Drosophila transverse connective primordium phenotype
@@ -2130,12 +2176,15 @@ FBbt:00006013PHENOTYPE	midgut longitudinal visceral muscle primordium phenotype
 FBbt:00006014PHENOTYPE	Drosophila embryonic/larval midgut longitudinal visceral muscle phenotype
 FBbt:00006015PHENOTYPE	Drosophila wing blade phenotype
 FBbt:00006017PHENOTYPE	embryonic/larval peritracheal cell phenotype
+FBbt:00006019PHENOTYPE	Tv neuron phenotype
 FBbt:00006020PHENOTYPE	Drosophila lch5 cap attachment cell phenotype
 FBbt:00006021PHENOTYPE	lch5 ligament attachment cell phenotype
 FBbt:00006022PHENOTYPE	Drosophila external sensory organ precursor cell IIIb phenotype
+FBbt:00006023PHENOTYPE	Drosophila eo glial cell phenotype
 FBbt:00006024PHENOTYPE	Drosophila dorsal multidendritic neuron ddaF phenotype
 FBbt:00006025PHENOTYPE	abdominal dorsal multidendritic neuron ddaF phenotype
 FBbt:00006026PHENOTYPE	abdominal 1 dorsal multidendritic neuron ddaF phenotype
+FBbt:00006028PHENOTYPE	Drosophila EH neurosecretory neuron phenotype
 FBbt:00006029PHENOTYPE	Drosophila wing pouch phenotype
 FBbt:00006033PHENOTYPE	Drosophila wing hinge primordium phenotype
 FBbt:00006041PHENOTYPE	Drosophila U4 neuron phenotype
@@ -2149,21 +2198,27 @@ FBbt:00007021PHENOTYPE	embryonic/larval oenocyte precursor phenotype
 FBbt:00007026PHENOTYPE	Drosophila adult midgut epithelium phenotype
 FBbt:00007035PHENOTYPE	Drosophila anterior adult hindgut phenotype
 FBbt:00007036PHENOTYPE	adult posterior midgut epithelium phenotype
+FBbt:00007037PHENOTYPE	enterocyte of posterior adult midgut epithelium phenotype
+FBbt:00007038PHENOTYPE	Drosophila enteroendocrine cell phenotype
 FBbt:00007039PHENOTYPE	intestinal stem cell phenotype
+FBbt:00007040PHENOTYPE	adult anterior midgut epithelium phenotype
 FBbt:00007042PHENOTYPE	Drosophila enterocyte phenotype
 FBbt:00007053PHENOTYPE	lateral horn phenotype
 FBbt:00007081PHENOTYPE	lateral medial fascicle phenotype
 FBbt:00007084PHENOTYPE	midline crossing tract phenotype
 FBbt:00007097PHENOTYPE	Drosophila antennal lobe glomerulus DP1m phenotype
 FBbt:00007098PHENOTYPE	antennal lobe glomerulus DP1l phenotype
+FBbt:00007101PHENOTYPE	Drosophila antennal lobe glomerulus VA1d phenotype
 FBbt:00007102PHENOTYPE	antennal lobe glomerulus VA7m phenotype
 FBbt:00007103PHENOTYPE	antennal lobe glomerulus VA7l phenotype
 FBbt:00007105PHENOTYPE	antennal lobe glomerulus VC3l phenotype
 FBbt:00007106PHENOTYPE	Drosophila antennal lobe glomerulus VL2a phenotype
 FBbt:00007107PHENOTYPE	Drosophila antennal lobe glomerulus VL2p phenotype
 FBbt:00007108PHENOTYPE	imaginal disc epithelial cell phenotype
+FBbt:00007109PHENOTYPE	imaginal disc anterior compartment phenotype
 FBbt:00007113PHENOTYPE	mushroom body neuroblast phenotype
 FBbt:00007115PHENOTYPE	embryonic/larval neuroblast phenotype
+FBbt:00007132PHENOTYPE	Drosophila dorsal air sac phenotype
 FBbt:00007135PHENOTYPE	dorsal air sac primordium phenotype
 FBbt:00007136PHENOTYPE	male germline cyst phenotype
 FBbt:00007137PHENOTYPE	female germline cyst phenotype
@@ -2183,6 +2238,7 @@ FBbt:00007272PHENOTYPE	class I dendritic arborizing neuron phenotype
 FBbt:00007273PHENOTYPE	Drosophila class II dendritic arborizing neuron phenotype
 FBbt:00007274PHENOTYPE	Drosophila class III dendritic arborizing neuron phenotype
 FBbt:00007275PHENOTYPE	Drosophila class IV dendritic arborizing neuron phenotype
+FBbt:00007295PHENOTYPE	Drosophila embryonic/larval thoracic/abdominal ventral sensory cluster phenotype
 FBbt:00007319PHENOTYPE	Drosophila cardial cell phenotype
 FBbt:00007320PHENOTYPE	embryonic/larval cardial cell phenotype
 FBbt:00007321PHENOTYPE	embryonic cardioblast phenotype
@@ -2201,6 +2257,7 @@ FBbt:00007361PHENOTYPE	Drosophila antennal lobe glomerulus DA4m phenotype
 FBbt:00007363PHENOTYPE	antennal lobe glomerulus VA1v phenotype
 FBbt:00007365PHENOTYPE	Drosophila antennal lobe glomerulus VM5v phenotype
 FBbt:00007366PHENOTYPE	Drosophila antennal lobe glomerulus VC4 phenotype
+FBbt:00007369PHENOTYPE	Drosophila inter-ommatidial precursor cell phenotype
 FBbt:00007371PHENOTYPE	retinal pigment cell phenotype
 FBbt:00007377PHENOTYPE	embryonic/larval tritocerebral commissure phenotype
 FBbt:00007379PHENOTYPE	frontal connective phenotype
@@ -2208,12 +2265,15 @@ FBbt:00007385PHENOTYPE	Drosophila calyx of adult mushroom body phenotype
 FBbt:00007386PHENOTYPE	Drosophila adult olfactory receptor neuron phenotype
 FBbt:00007388PHENOTYPE	embryonic/larval olfactory receptor neuron phenotype
 FBbt:00007390PHENOTYPE	local interneuron of adult antennal lobe phenotype
+FBbt:00007392PHENOTYPE	projection neuron phenotype
 FBbt:00007401PHENOTYPE	Drosophila adult antennal lobe phenotype
 FBbt:00007402PHENOTYPE	GABAergic local interneuron of the adult antennal lobe phenotype
+FBbt:00007405PHENOTYPE	CSD interneuron phenotype
 FBbt:00007406PHENOTYPE	Drosophila tergotrochanteral muscle motor neuron phenotype
 FBbt:00007410PHENOTYPE	tracheal lumen phenotype
 FBbt:00007411PHENOTYPE	Drosophila large labellar taste bristle phenotype
 FBbt:00007412PHENOTYPE	intermediate labellar taste bristle phenotype
+FBbt:00007422PHENOTYPE	Drosophila antennal lobe projection neuron phenotype
 FBbt:00007426PHENOTYPE	ipsilateral tract phenotype
 FBbt:00007428PHENOTYPE	Drosophila s-LNv neuron phenotype
 FBbt:00007430PHENOTYPE	Drosophila DN1p neuron phenotype
@@ -2225,6 +2285,8 @@ FBbt:00007449PHENOTYPE	Drosophila adult antennal lobe projection neuron VC2 lPN 
 FBbt:00007452PHENOTYPE	Drosophila adult antennal lobe projection neuron VM1 lPN phenotype
 FBbt:00007455PHENOTYPE	Drosophila rhabdomere of eye photoreceptor cell phenotype
 FBbt:00007456PHENOTYPE	Drosophila persistent antennal lobe projection neuron phenotype
+FBbt:00007457PHENOTYPE	prothoracic gland innervating neuron PG-LP phenotype
+FBbt:00007472PHENOTYPE	primary trachea phenotype
 FBbt:00007476PHENOTYPE	adult antennal lobe projection neuron VC1 lPN phenotype
 FBbt:00007484PHENOTYPE	mushroom body intrinsic neuron phenotype
 FBbt:00007512PHENOTYPE	embryonic/larval gut phenotype
@@ -2254,6 +2316,7 @@ FBbt:00015407PHENOTYPE	Drosophila vertical lobe of adult mushroom body phenotype
 FBbt:00015899PHENOTYPE	lateral longitudinal fascicle phenotype
 FBbt:00016005PHENOTYPE	Drosophila salivary gland common duct primordium phenotype
 FBbt:00016012PHENOTYPE	Drosophila denticle field phenotype
+FBbt:00016015PHENOTYPE	midline neuronal primordium phenotype
 FBbt:00016665PHENOTYPE	temporary eclosion muscle phenotype
 FBbt:00017003PHENOTYPE	visceral branch primordium phenotype
 FBbt:00017007PHENOTYPE	crystal cell primordium phenotype
@@ -2329,6 +2392,10 @@ FBbt:00100048PHENOTYPE	S-type sensilla S3 phenotype
 FBbt:00100050PHENOTYPE	Drosophila S-type sensilla S5 phenotype
 FBbt:00100051PHENOTYPE	S-type sensilla S6 phenotype
 FBbt:00100055PHENOTYPE	S-type sensilla S10 phenotype
+FBbt:00100063PHENOTYPE	Drosophila I-type sensilla I5 phenotype
+FBbt:00100066PHENOTYPE	I-type sensilla I8 phenotype
+FBbt:00100067PHENOTYPE	Drosophila I-type sensilla I9 phenotype
+FBbt:00100068PHENOTYPE	I-type sensilla I10 phenotype
 FBbt:00100070PHENOTYPE	Drosophila L-type sensilla L2 phenotype
 FBbt:00100072PHENOTYPE	L-type sensilla L4 phenotype
 FBbt:00100074PHENOTYPE	Drosophila L-type sensilla L6 phenotype
@@ -2347,6 +2414,7 @@ FBbt:00100218PHENOTYPE	dopaminergic PPM3 neuron phenotype
 FBbt:00100219PHENOTYPE	Drosophila dopaminergic PPL1 neuron phenotype
 FBbt:00100220PHENOTYPE	Drosophila dopaminergic PPL2ab neuron phenotype
 FBbt:00100221PHENOTYPE	dopaminergic PPL2c neuron phenotype
+FBbt:00100222PHENOTYPE	Drosophila mushroom body anterior paired lateral cell phenotype
 FBbt:00100247PHENOTYPE	Drosophila gamma Kenyon cell phenotype
 FBbt:00100248PHENOTYPE	Drosophila alpha/beta Kenyon cell phenotype
 FBbt:00100249PHENOTYPE	Drosophila alpha'/beta' Kenyon cell phenotype
@@ -2357,6 +2425,7 @@ FBbt:00100504PHENOTYPE	Drosophila ensheathing neuropil associated glial cell phe
 FBbt:00100505PHENOTYPE	reticular neuropil associated glial cell phenotype
 FBbt:00100513PHENOTYPE	adult epithelial glial cell phenotype
 FBbt:00100529PHENOTYPE	Drosophila embryonic/larval carpet glial cell phenotype
+FBbt:00100532PHENOTYPE	type I neuroblast phenotype
 FBbt:00100533PHENOTYPE	type II neuroblast phenotype
 FBbt:00100539PHENOTYPE	adult dMP2 ILP7 neuron phenotype
 FBbt:00100738PHENOTYPE	secondary neuroblast phenotype
@@ -2365,6 +2434,7 @@ FBbt:00110017PHENOTYPE	Drosophila adult olfactory receptor neuron Ir75d ac4 phen
 FBbt:00110035PHENOTYPE	larval dorsomedial neurosecretory cell phenotype
 FBbt:00110181PHENOTYPE	VUM motorneuron phenotype
 FBbt:00110194PHENOTYPE	pupal brain phenotype
+FBbt:00110205PHENOTYPE	enteroblast phenotype
 FBbt:00110206PHENOTYPE	Drosophila enteroblast of posterior adult midgut epithelium phenotype
 FBbt:00110208PHENOTYPE	Drosophila intestinal stem cell of posterior adult midgut epithelium phenotype
 FBbt:00110221PHENOTYPE	Drosophila dorsal acute muscle 1 phenotype
@@ -2388,6 +2458,7 @@ FBbt:01000597PHENOTYPE	Drosophila abdominal ventral acute muscle 3 founder cell 
 FBbt:01000615PHENOTYPE	abdominal lateral oblique muscle 1 founder cell phenotype
 FBbt:01000632PHENOTYPE	Drosophila abdominal ventral transverse muscle 1 founder cell phenotype
 FBbt:01004296PHENOTYPE	sex comb tooth phenotype
+FBbt:01004450PHENOTYPE	metathoracic tarsal bristle phenotype
 FBbt:01005220PHENOTYPE	Drosophila denticle row phenotype
 FBbt:02000001PHENOTYPE	Drosophila yellow ommatidium phenotype
 FBbt:02000002PHENOTYPE	pale ommatidium phenotype
@@ -2533,8 +2604,10 @@ FBcv:0000718	decreased cell growth
 FBcv:0000719	atrophy
 FBcv:0000720	jump response defective
 FBcv:0000721	mating behavior defective
+FBcv:0000723	neoplasia
 FBcv:0000724	hypoplasia
 FBcv:0000725	oxidative stress response defective
+FBcv:0000791	delayed aging
 FBcv:0000792	premature aging
 FBcv:0001324	endocytosis defective
 FBcv:0001347	phenotype
@@ -2601,6 +2674,7 @@ GO:0005730PHENOTYPE	nucleolus phenotype
 GO:0005739PHENOTYPE	mitochondrion phenotype
 GO:0005743PHENOTYPE	mitochondrial inner membrane phenotype
 GO:0005759PHENOTYPE	mitochondrial matrix phenotype
+GO:0005761PHENOTYPE	mitochondrial ribosome phenotype
 GO:0005764PHENOTYPE	lysosome phenotype
 GO:0005768PHENOTYPE	endosome phenotype
 GO:0005769PHENOTYPE	early endosome phenotype
@@ -2682,6 +2756,8 @@ GO:0035253PHENOTYPE	ciliary rootlet phenotype
 GO:0036056PHENOTYPE	filtration diaphragm phenotype
 GO:0036064PHENOTYPE	ciliary basal body phenotype
 GO:0036126PHENOTYPE	sperm flagellum phenotype
+GO:0036156PHENOTYPE	inner dynein arm phenotype
+GO:0036157PHENOTYPE	outer dynein arm phenotype
 GO:0036379PHENOTYPE	myofilament phenotype
 GO:0042383PHENOTYPE	sarcolemma phenotype
 GO:0042585PHENOTYPE	germinal vesicle phenotype
@@ -2719,3 +2795,1027 @@ GO:0072687PHENOTYPE	meiotic spindle phenotype
 GO:0097386PHENOTYPE	glial cell projection phenotype
 GO:0097447PHENOTYPE	dendritic tree phenotype
 GO:0097512PHENOTYPE	cardiac myofibril phenotype
+HP:0000003	Multicystic kidney dysplasia
+HP:0000010	Recurrent urinary tract infections
+HP:0000011	Neurogenic bladder
+HP:0000012	Urinary urgency
+HP:0000017	Nocturia
+HP:0000020	Urinary incontinence
+HP:0000021	Megacystis
+HP:0000023	Inguinal hernia
+HP:0000024	Prostatitis
+HP:0000028	Cryptorchidism
+HP:0000047	Hypospadias
+HP:0000054	Micropenis
+HP:0000072	Hydroureter
+HP:0000076	Vesicoureteral reflux
+HP:0000077	Abnormality of the kidney
+HP:0000083	Renal insufficiency
+HP:0000093	Proteinuria
+HP:0000097	Focal segmental glomerulosclerosis
+HP:0000098	Tall stature
+HP:0000099	Glomerulonephritis
+HP:0000100	Nephrotic syndrome
+HP:0000107	Renal cyst
+HP:0000110	Renal dysplasia
+HP:0000112	Nephropathy
+HP:0000123	Nephritis
+HP:0000124	Renal tubular dysfunction
+HP:0000126	Hydronephrosis
+HP:0000135	Hypogonadism
+HP:0000141	Amenorrhea
+HP:0000143	Rectovaginal fistula
+HP:0000154	Wide mouth
+HP:0000155	Oral ulcer
+HP:0000157	Abnormality of the tongue
+HP:0000175	Cleft palate
+HP:0000194	Open mouth
+HP:0000202	Oral cleft
+HP:0000204	Cleft upper lip
+HP:0000206	Glossitis
+HP:0000207	Triangular mouth
+HP:0000214	Lip telangiectasia
+HP:0000217	Xerostomia
+HP:0000218	High palate
+HP:0000219	Thin upper lip vermilion
+HP:0000221	Furrowed tongue
+HP:0000227	Tongue telangiectasia
+HP:0000230	Gingivitis
+HP:0000233	Thin vermilion border
+HP:0000235	Abnormality of the fontanelles or cranial sutures
+HP:0000238	Hydrocephalus
+HP:0000239	Large fontanelles
+HP:0000243	Trigonocephaly
+HP:0000248	Brachycephaly
+HP:0000252	Microcephaly
+HP:0000253	Progressive microcephaly
+HP:0000256	Macrocephaly
+HP:0000260	Wide anterior fontanel
+HP:0000268	Dolichocephaly
+HP:0000269	Prominent occiput
+HP:0000270	Delayed cranial suture closure
+HP:0000272	Malar flattening
+HP:0000278	Retrognathia
+HP:0000280	Coarse facial features
+HP:0000286	Epicanthus
+HP:0000293	Full cheeks
+HP:0000307	Pointed chin
+HP:0000308	Microretrognathia
+HP:0000311	Round face
+HP:0000316	Hypertelorism
+HP:0000319	Smooth philtrum
+HP:0000322	Short philtrum
+HP:0000337	Broad forehead
+HP:0000340	Sloping forehead
+HP:0000343	Long philtrum
+HP:0000347	Micrognathia
+HP:0000348	High forehead
+HP:0000358	Posteriorly rotated ears
+HP:0000360	Tinnitus
+HP:0000365	Hearing impairment
+HP:0000368	Low-set, posteriorly rotated ears
+HP:0000369	Low-set ears
+HP:0000377	Abnormality of the pinna
+HP:0000384	Preauricular skin tag
+HP:0000396	Overfolded helix
+HP:0000399	Prelingual sensorineural hearing impairment
+HP:0000405	Conductive hearing impairment
+HP:0000407	Sensorineural hearing impairment
+HP:0000408	Progressive sensorineural hearing impairment
+HP:0000421	Epistaxis
+HP:0000426	Prominent nasal bridge
+HP:0000431	Wide nasal bridge
+HP:0000434	Nasal mucosa telangiectasia
+HP:0000458	Anosmia
+HP:0000463	Anteverted nares
+HP:0000464	Abnormality of the neck
+HP:0000465	Webbed neck
+HP:0000470	Short neck
+HP:0000471	Gastrointestinal angiodysplasia
+HP:0000482	Microcornea
+HP:0000486	Strabismus
+HP:0000488	Retinopathy
+HP:0000490	Deeply set eye
+HP:0000494	Downslanted palpebral fissures
+HP:0000501	Glaucoma
+HP:0000505	Visual impairment
+HP:0000506	Telecanthus
+HP:0000508	Ptosis
+HP:0000510	Rod-cone dystrophy
+HP:0000512	Abnormal electroretinogram
+HP:0000518	Cataract
+HP:0000524	Conjunctival telangiectasia
+HP:0000545	Myopia
+HP:0000546	Retinal degeneration
+HP:0000547	Tapetoretinal degeneration
+HP:0000550	Undetectable electroretinogram
+HP:0000554	Uveitis
+HP:0000556	Retinal dystrophy
+HP:0000567	Chorioretinal coloboma
+HP:0000568	Microphthalmia
+HP:0000572	Visual loss
+HP:0000577	Exotropia
+HP:0000580	Pigmentary retinopathy
+HP:0000582	Upslanted palpebral fissure
+HP:0000585	Band keratopathy
+HP:0000588	Optic nerve coloboma
+HP:0000589	Coloboma
+HP:0000600	Abnormality of the pharynx
+HP:0000612	Iris coloboma
+HP:0000615	Abnormality of the pupil
+HP:0000616	Miosis
+HP:0000622	Blurred vision
+HP:0000637	Long palpebral fissure
+HP:0000639	Nystagmus
+HP:0000642	Red-green dyschromatopsia
+HP:0000643	Blepharospasm
+HP:0000648	Optic atrophy
+HP:0000649	Abnormality of visual evoked potentials
+HP:0000654	Decreased light- and dark-adapted electroretinogram amplitude
+HP:0000685	Hypoplasia of teeth
+HP:0000689	Dental malocclusion
+HP:0000704	Periodontitis
+HP:0000708	Behavioral abnormality
+HP:0000709	Psychosis
+HP:0000711	Restlessness
+HP:0000712	Emotional lability
+HP:0000717	Autism
+HP:0000718	Aggressive behavior
+HP:0000720	Mood swings
+HP:0000721	Lack of spontaneous play
+HP:0000722	Obsessive-compulsive behavior
+HP:0000723	Restrictive behavior
+HP:0000726	Dementia
+HP:0000728	Impaired ability to form peer relationships
+HP:0000732	Inflexible adherence to routines or rituals
+HP:0000733	Stereotypic behavior
+HP:0000734	Disinhibition
+HP:0000737	Irritability
+HP:0000738	Hallucinations
+HP:0000739	Anxiety
+HP:0000740	Anxiety (with pheochromocytoma)
+HP:0000741	Apathy
+HP:0000745	Diminished motivation
+HP:0000746	Delusions
+HP:0000750	Delayed speech and language development
+HP:0000751	Personality changes
+HP:0000752	Hyperactivity
+HP:0000756	Agoraphobia
+HP:0000758	Impaired use of nonverbal behaviors
+HP:0000762	Decreased nerve conduction velocity
+HP:0000763	Sensory neuropathy
+HP:0000767	Pectus excavatum
+HP:0000774	Narrow chest
+HP:0000776	Congenital diaphragmatic hernia
+HP:0000787	Nephrolithiasis
+HP:0000789	Infertility
+HP:0000790	Hematuria
+HP:0000819	Diabetes mellitus
+HP:0000820	Abnormality of the thyroid gland
+HP:0000821	Hypothyroidism
+HP:0000822	Hypertension
+HP:0000823	Delayed puberty
+HP:0000829	Hypoparathyroidism
+HP:0000831	Insulin-resistant diabetes mellitus
+HP:0000833	Glucose intolerance
+HP:0000836	Hyperthyroidism
+HP:0000842	Hyperinsulinemia
+HP:0000843	Hyperparathyroidism
+HP:0000846	Adrenal insufficiency
+HP:0000848	Increased circulating renin level
+HP:0000855	Insulin resistance
+HP:0000859	Hyperaldosteronism
+HP:0000867	Secondary hyperparathyroidism
+HP:0000872	Hashimoto thyroiditis
+HP:0000876	Oligomenorrhea
+HP:0000882	Hypoplastic scapulae
+HP:0000889	Abnormality of the clavicle
+HP:0000912	Sprengel anomaly
+HP:0000934	Chondrocalcinosis
+HP:0000938	Osteopenia
+HP:0000939	Osteoporosis
+HP:0000951	Abnormality of the skin
+HP:0000952	Jaundice
+HP:0000953	Hyperpigmentation of the skin
+HP:0000961	Cyanosis
+HP:0000964	Eczema
+HP:0000965	Cutis marmorata
+HP:0000967	Petechiae
+HP:0000969	Edema
+HP:0000973	Cutis laxa
+HP:0000975	Hyperhidrosis
+HP:0000979	Purpura
+HP:0000980	Pallor
+HP:0000988	Skin rash
+HP:0000989	Pruritus
+HP:0000992	Cutaneous photosensitivity
+HP:0001000	Abnormality of skin pigmentation
+HP:0001009	Telangiectasia
+HP:0001022	Albinism
+HP:0001025	Urticaria
+HP:0001028	Hemangioma
+HP:0001048	Cavernous hemangioma
+HP:0001050	Plethora
+HP:0001061	Acne
+HP:0001067	Neurofibromas
+HP:0001072	Thickened skin
+HP:0001080	Biliary tract abnormality
+HP:0001081	Cholelithiasis
+HP:0001082	Cholecystitis
+HP:0001094	Iridocyclitis
+HP:0001100	Heterochromia iridis
+HP:0001101	Iritis
+HP:0001123	Visual field defect
+HP:0001138	Optic neuropathy
+HP:0001156	Brachydactyly syndrome
+HP:0001159	Syndactyly
+HP:0001161	Hand polydactyly
+HP:0001162	Postaxial hand polydactyly
+HP:0001166	Arachnodactyly
+HP:0001171	Split hand
+HP:0001177	Preaxial hand polydactyly
+HP:0001182	Tapered finger
+HP:0001199	Triphalangeal thumb
+HP:0001217	Clubbing
+HP:0001220	Interphalangeal joint contracture of finger
+HP:0001232	Nail bed telangiectasia
+HP:0001249	Intellectual disability
+HP:0001250	Seizures
+HP:0001251	Ataxia
+HP:0001252	Muscular hypotonia
+HP:0001254	Lethargy
+HP:0001256	Intellectual disability, mild
+HP:0001257	Spasticity
+HP:0001259	Coma
+HP:0001260	Dysarthria
+HP:0001263	Global developmental delay
+HP:0001265	Hyporeflexia
+HP:0001266	Choreoathetosis
+HP:0001268	Mental deterioration
+HP:0001269	Hemiparesis
+HP:0001270	Motor delay
+HP:0001271	Polyneuropathy
+HP:0001272	Cerebellar atrophy
+HP:0001274	Agenesis of corpus callosum
+HP:0001278	Orthostatic hypotension
+HP:0001279	Syncope
+HP:0001284	Areflexia
+HP:0001287	Meningitis
+HP:0001288	Gait disturbance
+HP:0001289	Confusion
+HP:0001290	Generalized hypotonia
+HP:0001297	Stroke
+HP:0001298	Encephalopathy
+HP:0001300	Parkinsonism
+HP:0001302	Pachygyria
+HP:0001305	Dandy-Walker malformation
+HP:0001315	Reduced tendon reflexes
+HP:0001319	Neonatal hypotonia
+HP:0001324	Muscle weakness
+HP:0001331	Absent septum pellucidum
+HP:0001332	Dystonia
+HP:0001336	Myoclonus
+HP:0001337	Tremor
+HP:0001338	Partial agenesis of the corpus callosum
+HP:0001339	Lissencephaly
+HP:0001342	Cerebral hemorrhage
+HP:0001343	Kernicterus
+HP:0001347	Hyperreflexia
+HP:0001360	Holoprosencephaly
+HP:0001369	Arthritis
+HP:0001370	Rheumatoid arthritis
+HP:0001371	Flexion contracture
+HP:0001373	Joint dislocation
+HP:0001376	Limitation of joint mobility
+HP:0001379	Degenerative joint disease
+HP:0001382	Joint hypermobility
+HP:0001385	Hip dysplasia
+HP:0001386	Joint swelling
+HP:0001387	Joint stiffness
+HP:0001392	Abnormality of the liver
+HP:0001394	Cirrhosis
+HP:0001395	Hepatic fibrosis
+HP:0001396	Cholestasis
+HP:0001397	Hepatic steatosis
+HP:0001399	Hepatic failure
+HP:0001402	Hepatocellular carcinoma
+HP:0001404	Hepatocellular necrosis
+HP:0001405	Periportal fibrosis
+HP:0001406	Intrahepatic cholestasis
+HP:0001407	Hepatic cysts
+HP:0001408	Bile duct proliferation
+HP:0001409	Portal hypertension
+HP:0001410	Decreased liver function
+HP:0001413	Micronodular cirrhosis
+HP:0001414	Microvesicular hepatic steatosis
+HP:0001433	Hepatosplenomegaly
+HP:0001508	Failure to thrive
+HP:0001510	Growth delay
+HP:0001511	Intrauterine growth retardation
+HP:0001513	Obesity
+HP:0001518	Small for gestational age
+HP:0001537	Umbilical hernia
+HP:0001539	Omphalocele
+HP:0001541	Ascites
+HP:0001548	Overgrowth
+HP:0001561	Polyhydramnios
+HP:0001562	Oligohydramnios
+HP:0001575	Mood changes
+HP:0001578	Hypercortisolism
+HP:0001596	Alopecia
+HP:0001601	Laryngomalacia
+HP:0001604	Vocal cord paresis
+HP:0001608	Abnormality of the voice
+HP:0001609	Hoarse voice
+HP:0001622	Premature birth
+HP:0001629	Ventricular septal defect
+HP:0001631	Atria septal defect
+HP:0001635	Congestive heart failure
+HP:0001638	Cardiomyopathy
+HP:0001642	Pulmonic stenosis
+HP:0001643	Patent ductus arteriosus
+HP:0001645	Sudden cardiac death
+HP:0001647	Bicuspid aortic valve
+HP:0001650	Aortic valve stenosis
+HP:0001651	Dextrocardia
+HP:0001658	Myocardial infarction
+HP:0001659	Aortic regurgitation
+HP:0001662	Bradycardia
+HP:0001663	Ventricular fibrillation
+HP:0001669	Transposition of the great arteries
+HP:0001671	Abnormality of the cardiac septa
+HP:0001673	Tachycardia (with pheochromocytoma)
+HP:0001674	Complete atrioventricular canal defect
+HP:0001677	Coronary artery disease
+HP:0001681	Angina pectoris
+HP:0001694	Right-to-left shunt
+HP:0001695	Cardiac arrest
+HP:0001696	Situs inversus totalis
+HP:0001698	Pericardial effusion
+HP:0001700	Myocardial necrosis
+HP:0001701	Pericarditis
+HP:0001722	High-output congestive heart failure
+HP:0001733	Pancreatitis
+HP:0001743	Abnormality of the spleen
+HP:0001744	Splenomegaly
+HP:0001746	Asplenia
+HP:0001747	Accessory spleen
+HP:0001760	Abnormality of the foot
+HP:0001761	Pes cavus
+HP:0001762	Talipes equinovarus
+HP:0001765	Hammertoe
+HP:0001770	Toe syndactyly
+HP:0001788	Premature rupture of membranes
+HP:0001791	Fetal ascites
+HP:0001798	Anonychia
+HP:0001802	Absent toenail
+HP:0001824	Weight loss
+HP:0001830	Postaxial foot polydactyly
+HP:0001841	Preaxial foot polydactyly
+HP:0001873	Thrombocytopenia
+HP:0001875	Neutropenia
+HP:0001876	Pancytopenia
+HP:0001878	Hemolytic anemia
+HP:0001880	Eosinophilia
+HP:0001882	Leukopenia
+HP:0001888	Lymphopenia
+HP:0001890	Autoimmune hemolytic anemia
+HP:0001891	Iron deficiency anemia
+HP:0001892	Abnormal bleeding
+HP:0001894	Thrombocytosis
+HP:0001900	Increased hemoglobin
+HP:0001901	Polycythemia
+HP:0001903	Anemia
+HP:0001907	Thromboembolism
+HP:0001909	Leukemia
+HP:0001915	Aplastic anemia
+HP:0001917	Renal amyloidosis
+HP:0001919	Acute kidney injury
+HP:0001920	Renal artery stenosis
+HP:0001928	Abnormality of coagulation
+HP:0001935	Microcytic anemia
+HP:0001939	Abnormality of metabolism/homeostasis
+HP:0001941	Acidosis
+HP:0001942	Metabolic acidosis
+HP:0001943	Hypoglycemia
+HP:0001944	Dehydration
+HP:0001945	Fever
+HP:0001947	Renal tubular acidosis
+HP:0001954	Episodic fever
+HP:0001962	Palpitations
+HP:0001963	Abnormal speech discrimination
+HP:0001970	Tubulointerstitial nephritis
+HP:0001971	Hypersplenism
+HP:0001973	Autoimmune thrombocytopenia
+HP:0001974	Leukocytosis
+HP:0001987	Hyperammonemia
+HP:0001997	Gout
+HP:0001999	Abnormal facial shape
+HP:0002007	Frontal bossing
+HP:0002011	Morphological abnormality of the central nervous system
+HP:0002013	Vomiting
+HP:0002014	Diarrhea
+HP:0002015	Dysphagia
+HP:0002017	Nausea and vomiting
+HP:0002018	Nausea
+HP:0002019	Constipation
+HP:0002023	Anal atresia
+HP:0002027	Abdominal pain
+HP:0002035	Rectal prolapse
+HP:0002037	Inflammation of the large intestine
+HP:0002039	Anorexia
+HP:0002040	Esophageal varix
+HP:0002045	Hypothermia
+HP:0002059	Cerebral atrophy
+HP:0002063	Rigidity
+HP:0002067	Bradykinesia
+HP:0002071	Abnormality of extrapyramidal motor function
+HP:0002072	Chorea
+HP:0002076	Migraine
+HP:0002079	Hypoplasia of the corpus callosum
+HP:0002086	Abnormality of the respiratory system
+HP:0002088	Abnormality of the lung
+HP:0002090	Pneumonia
+HP:0002092	Pulmonary hypertension
+HP:0002093	Respiratory insufficiency
+HP:0002094	Dyspnea
+HP:0002097	Emphysema
+HP:0002099	Asthma
+HP:0002101	Abnormal lung lobation
+HP:0002102	Pleuritis
+HP:0002105	Hemoptysis
+HP:0002113	Pulmonary infiltrates
+HP:0002119	Ventriculomegaly
+HP:0002120	Cerebral cortical atrophy
+HP:0002126	Polymicrogyria
+HP:0002133	Status epilepticus
+HP:0002135	Basal ganglia calcification
+HP:0002138	Subarachnoid hemorrhage
+HP:0002140	Ischemic stroke
+HP:0002145	Frontotemporal dementia
+HP:0002150	Hypercalciuria
+HP:0002151	Increased serum lactate
+HP:0002155	Hypertriglyceridemia
+HP:0002162	Low posterior hairline
+HP:0002167	Neurological speech impairment
+HP:0002169	Clonus
+HP:0002170	Intracranial hemorrhage
+HP:0002171	Gliosis
+HP:0002172	Postural instability
+HP:0002174	Postural tremor
+HP:0002180	Neurodegeneration
+HP:0002181	Cerebral edema
+HP:0002185	Neurofibrillary tangles
+HP:0002186	Apraxia
+HP:0002188	Delayed CNS myelination
+HP:0002197	Generalized seizures
+HP:0002202	Pleural effusion
+HP:0002204	Pulmonary embolism
+HP:0002205	Recurrent respiratory infections
+HP:0002206	Pulmonary fibrosis
+HP:0002239	Gastrointestinal hemorrhage
+HP:0002240	Hepatomegaly
+HP:0002242	Abnormality of the intestine
+HP:0002244	Abnormality of the small intestine
+HP:0002248	Hematemesis
+HP:0002249	Melena
+HP:0002251	Aganglionic megacolon
+HP:0002267	Exaggerated startle response
+HP:0002269	Abnormality of neuronal migration
+HP:0002275	Poor motor coordination
+HP:0002301	Hemiplegia
+HP:0002304	Akinesia
+HP:0002305	Athetosis
+HP:0002307	Drooling
+HP:0002311	Incoordination
+HP:0002315	Headache
+HP:0002321	Vertigo
+HP:0002322	Resting tremor
+HP:0002326	Transient ischemic attack
+HP:0002329	Drowsiness
+HP:0002331	Headache (with pheochromocytoma)
+HP:0002342	Intellectual disability, moderate
+HP:0002344	Progressive neurologic deterioration
+HP:0002353	EEG abnormality
+HP:0002354	Memory impairment
+HP:0002355	Difficulty walking
+HP:0002356	Writer's cramp
+HP:0002359	Frequent falls
+HP:0002360	Sleep disturbance
+HP:0002363	Abnormality of brainstem morphology
+HP:0002367	Visual hallucinations
+HP:0002371	Loss of speech
+HP:0002373	Febrile seizures
+HP:0002376	Developmental regression
+HP:0002378	Hand tremor
+HP:0002381	Aphasia
+HP:0002383	Encephalitis
+HP:0002385	Paraparesis
+HP:0002390	Spinal arteriovenous malformation
+HP:0002401	Stroke-like episodes
+HP:0002408	Cerebral arteriovenous malformation
+HP:0002414	Spina bifida
+HP:0002415	Leukodystrophy
+HP:0002423	Long-tract signs
+HP:0002427	Motor aphasia
+HP:0002435	Meningocele
+HP:0002460	Distal muscle weakness
+HP:0002463	Language impairment
+HP:0002465	Poor speech
+HP:0002480	Hepatic encephalopathy
+HP:0002487	Hyperkinesis
+HP:0002488	Acute leukemia
+HP:0002511	Alzheimer disease
+HP:0002527	Falls
+HP:0002529	Neuronal loss in central nervous system
+HP:0002533	Abnormal posturing
+HP:0002539	Cortical dysplasia
+HP:0002553	Highly arched eyebrow
+HP:0002566	Intestinal malrotation
+HP:0002571	Achalasia
+HP:0002573	Hematochezia
+HP:0002576	Intussusception
+HP:0002579	Gastrointestinal dysmotility
+HP:0002580	Volvulus
+HP:0002584	Intestinal bleeding
+HP:0002586	Peritonitis
+HP:0002592	Gastric ulcer
+HP:0002597	Abnormality of the vasculature
+HP:0002604	Gastrointestinal telangiectasia
+HP:0002605	Hepatic necrosis
+HP:0002608	Celiac disease
+HP:0002611	Cholestatic liver disease
+HP:0002612	Congenital hepatic fibrosis
+HP:0002613	Biliary cirrhosis
+HP:0002615	Hypotension
+HP:0002617	Aneurysm
+HP:0002619	Varicose veins
+HP:0002621	Atherosclerosis
+HP:0002625	Deep venous thrombosis
+HP:0002626	Venous varicosities of celiac and mesenteric vessels
+HP:0002629	Gastrointestinal arteriovenous malformation
+HP:0002633	Vasculitis
+HP:0002637	Cerebral ischemia
+HP:0002639	Budd-Chiari syndrome
+HP:0002642	Arteriovenous fistulas of celiac and mesenteric vessels
+HP:0002648	Abnormality of calvarial morphology
+HP:0002650	Scoliosis
+HP:0002652	Skeletal dysplasia
+HP:0002653	Bone pain
+HP:0002659	Increased susceptibility to fractures
+HP:0002665	Lymphoma
+HP:0002669	Osteosarcoma
+HP:0002672	Gastrointestinal carcinoma
+HP:0002707	Palate telangiectasia
+HP:0002716	Lymphadenopathy
+HP:0002719	Recurrent infections
+HP:0002720	IgA deficiency
+HP:0002721	Immunodeficiency
+HP:0002725	Systemic lupus erythematosus
+HP:0002733	Abnormality of the lymph nodes
+HP:0002745	Oral leukoplakia
+HP:0002749	Osteomalacia
+HP:0002750	Delayed skeletal maturation
+HP:0002751	Kyphoscoliosis
+HP:0002756	Pathologic fracture
+HP:0002757	Recurrent fractures
+HP:0002758	Osteoarthritis
+HP:0002788	Recurrent upper respiratory tract infections
+HP:0002789	Tachypnea
+HP:0002797	Osteolysis
+HP:0002808	Kyphosis
+HP:0002827	Hip dislocation
+HP:0002829	Arthralgia
+HP:0002832	Calcific stippling
+HP:0002835	Aspiration
+HP:0002860	Squamous cell carcinoma
+HP:0002861	Melanoma
+HP:0002862	Bladder carcinoma
+HP:0002863	Myelodysplasia
+HP:0002883	Hyperventilation
+HP:0002884	Hepatoblastoma
+HP:0002894	Neoplasm of the pancreas
+HP:0002900	Hypokalemia
+HP:0002902	Hyponatremia
+HP:0002904	Hyperbilirubinemia
+HP:0002908	Conjugated hyperbilirubinemia
+HP:0002910	Elevated hepatic transaminases
+HP:0002923	Rheumatoid factor positive
+HP:0002936	Distal sensory impairment
+HP:0002938	Lumbar hyperlordosis
+HP:0002942	Thoracic kyphosis
+HP:0002953	Vertebral compression fractures
+HP:0002958	Immune dysregulation
+HP:0002960	Autoimmunity
+HP:0002983	Micromelia
+HP:0003002	Breast carcinoma
+HP:0003003	Colon cancer
+HP:0003006	Neuroblastoma
+HP:0003010	Prolonged bleeding time
+HP:0003040	Arthropathy
+HP:0003073	Hypoalbuminemia
+HP:0003074	Hyperglycemia
+HP:0003076	Glycosuria
+HP:0003077	Hyperlipidemia
+HP:0003095	Septic arthritis
+HP:0003108	Hyperglycinuria
+HP:0003109	Hyperphosphaturia
+HP:0003115	Abnormal EKG
+HP:0003124	Hypercholesterolemia
+HP:0003128	Lactic acidosis
+HP:0003131	Cystinuria
+HP:0003144	Increased serum serotonin
+HP:0003153	Cystathioninuria
+HP:0003155	Elevated alkaline phosphatase
+HP:0003186	Inverted nipples
+HP:0003196	Short nose
+HP:0003198	Myopathy
+HP:0003199	Decreased muscle mass
+HP:0003201	Rhabdomyolysis
+HP:0003202	Skeletal muscle atrophy
+HP:0003207	Arterial calcification
+HP:0003231	Hypertyrosinemia
+HP:0003234	Decreased plasma carnitine
+HP:0003237	Increased IgG level
+HP:0003256	Abnormality of the coagulation cascade
+HP:0003259	Elevated serum creatinine
+HP:0003265	Neonatal hyperbilirubinemia
+HP:0003270	Abdominal distention
+HP:0003272	Abnormality of the hip bone
+HP:0003282	Low alkaline phosphatase
+HP:0003323	Progressive muscle weakness
+HP:0003326	Myalgia
+HP:0003348	Hyperalaninemia
+HP:0003355	Aminoaciduria
+HP:0003365	Arthralgia of the hip
+HP:0003380	Decreased number of peripheral myelinated nerve fibers
+HP:0003383	Onion bulb formation
+HP:0003394	Muscle cramps
+HP:0003414	Atlantoaxial dislocation
+HP:0003418	Back pain
+HP:0003419	Low back pain
+HP:0003429	CNS hypomyelination
+HP:0003431	Decreased motor nerve conduction velocity
+HP:0003447	Axonal loss
+HP:0003453	Antineutrophil antibody positivity
+HP:0003457	EMG abnormality
+HP:0003470	Paralysis
+HP:0003474	Sensory impairment
+HP:0003477	Peripheral axonal neuropathy
+HP:0003487	Babinski sign
+HP:0003493	Antinuclear antibody positivity
+HP:0003510	Severe short stature
+HP:0003541	Urinary glycosaminoglycan excretion
+HP:0003542	Increased serum pyruvate
+HP:0003560	Muscular dystrophy
+HP:0003565	Elevated erythrocyte sedimentation rate
+HP:0003573	Increased total bilirubin
+HP:0003613	Antiphospholipid antibody positivity
+HP:0003690	Limb muscle weakness
+HP:0003693	Distal amyotrophy
+HP:0003697	Scapuloperoneal amyotrophy
+HP:0003700	Generalized amyotrophy
+HP:0003701	Proximal muscle weakness
+HP:0003765	Psoriasis
+HP:0003774	Stage 5 chronic kidney disease
+HP:0003819	Death in childhood
+HP:0003881	Humeral sclerosis
+HP:0003940	Osteoarthritis of the elbow
+HP:0003978	Fractured radius
+HP:0004209	Clinodactyly of the 5th finger
+HP:0004305	Involuntary movements
+HP:0004322	Short stature
+HP:0004324	Increased body weight
+HP:0004325	Decreased body weight
+HP:0004336	Myelin outfoldings
+HP:0004374	Hemiplegia/hemiparesis
+HP:0004377	Hematological neoplasm
+HP:0004388	Microcolon
+HP:0004394	Multiple gastric polyps
+HP:0004395	Malnutrition
+HP:0004398	Peptic ulcer
+HP:0004406	Spontaneous, recurrent epistaxis
+HP:0004409	Hyposmia
+HP:0004418	Thrombophlebitis
+HP:0004420	Arterial thrombosis
+HP:0004430	Severe combined immunodeficiency
+HP:0004448	Fulminant hepatic failure
+HP:0004463	Absent brainstem auditory responses
+HP:0004469	Chronic bronchitis
+HP:0004568	Beaking of vertebral bodies
+HP:0004787	Fulminant hepatitis
+HP:0004798	Recurrent infection of the gastrointestinal tract
+HP:0004808	Acute myeloid leukemia
+HP:0004836	Acute promyelocytic leukemia
+HP:0004848	Ph-positive acute lymphoblastic leukemia
+HP:0004929	Coronary atherosclerosis
+HP:0004933	Ascending aortic dissection
+HP:0004934	Vascular calcification
+HP:0004935	Pulmonary artery atresia
+HP:0004936	Venous thrombosis
+HP:0004941	Extrahepatic portal hypertension
+HP:0004942	Aortic aneurysm
+HP:0004944	Cerebral aneurysm
+HP:0004947	Arteriovenous fistula
+HP:0004950	Peripheral arterial disease
+HP:0004952	Pulmonary arteriovenous fistulas
+HP:0004963	Calcification of the aorta
+HP:0005059	Arthralgia/arthritis
+HP:0005086	Knee osteoarthritis
+HP:0005101	High-frequency hearing impairment
+HP:0005105	Abnormal nasal morphology
+HP:0005110	Atrial fibrillation
+HP:0005111	Dilatation of the ascending aorta
+HP:0005148	Pulmonary valve defects
+HP:0005181	Premature coronary artery disease
+HP:0005186	Synovial hypertrophy
+HP:0005187	Progressive joint destruction
+HP:0005202	Helicobacter pylori infection
+HP:0005230	Biliary tract obstruction
+HP:0005257	Thoracic hypoplasia
+HP:0005261	Joint hemorrhage
+HP:0005266	Intestinal polyp
+HP:0005280	Depressed nasal bridge
+HP:0005294	Arterial dissection
+HP:0005305	Cerebral venous thrombosis
+HP:0005315	Peripheral artery occlusive disease
+HP:0005344	Abnormality of the carotid arteries
+HP:0005484	Postnatal microcephaly
+HP:0005487	Prominent metopic ridge
+HP:0005506	Chronic myelogenous leukemia
+HP:0005508	Waldenstrom macroglobulinemia
+HP:0005513	Increased megakaryocyte count
+HP:0005521	Disseminated intravascular coagulation
+HP:0005523	Lymphoproliferative disorder
+HP:0005526	Lymphoid leukemia
+HP:0005528	Bone marrow hypocellularity
+HP:0005531	Biphenotypic acute leukaemia
+HP:0005547	Myeloproliferative disorder
+HP:0005550	Chronic lymphatic leukemia
+HP:0005558	Chronic leukemia
+HP:0005560	Imbalanced hemoglobin synthesis
+HP:0005681	Juvenile rheumatoid arthritis
+HP:0005743	Avascular necrosis of the capital femoral epiphysis
+HP:0005764	Polyarticular arthritis
+HP:0005897	Severe generalized osteoporosis
+HP:0005912	Biliary atresia
+HP:0005949	Apneic episodes in infancy
+HP:0005954	Pulmonary capillary hemangiomatosis
+HP:0005968	Temperature instability
+HP:0005973	Fructose intolerance
+HP:0006101	Finger syndactyly
+HP:0006107	Fingerpad telangiectases
+HP:0006254	Elevated alpha-fetoprotein
+HP:0006380	Knee flexion contracture
+HP:0006480	Premature loss of teeth
+HP:0006510	Chronic obstructive pulmonary disease
+HP:0006515	Interstitial pneumonitis
+HP:0006528	Chronic lung disease
+HP:0006530	Interstitial pulmonary disease
+HP:0006536	Obstructive lung disease
+HP:0006554	Acute hepatic failure
+HP:0006555	Diffuse hepatic steatosis
+HP:0006562	Viral hepatitis
+HP:0006574	Hepatic arteriovenous malformation
+HP:0006576	Hepatic vascular malformations
+HP:0006580	Portal fibrosis
+HP:0006695	Atrioventricular canal defect
+HP:0006698	Ventricular aneurysm
+HP:0006702	Spontaneous coronary artery dissection
+HP:0006704	Abnormality of the coronary arteries
+HP:0006707	Abnormality of the hepatic vasculature
+HP:0006721	Acute lymphoblastic leukemia
+HP:0006733	Acute megakaryocytic leukemia
+HP:0006771	Duodenal adenocarcinoma
+HP:0006772	Renal angiomyolipoma
+HP:0006775	Multiple myeloma
+HP:0006846	Acute encephalopathy
+HP:0006872	Cerebral hypoplasia
+HP:0006887	Intellectual disability, progressive
+HP:0006888	Meningoencephalocele
+HP:0006970	Periventricular leukomalacia
+HP:0006979	Sleep-wake cycle disturbance
+HP:0007002	Motor axonal neuropathy
+HP:0007018	Attention deficit hyperactivity disorder
+HP:0007024	Pseudobulbar paralysis
+HP:0007058	Generalized cerebral atrophy/hypoplasia
+HP:0007108	Demyelinating peripheral neuropathy
+HP:0007111	Chronic hepatic encephalopathy
+HP:0007133	Progressive peripheral neuropathy
+HP:0007141	Sensorimotor neuropathy
+HP:0007178	Motor polyneuropathy
+HP:0007266	Cerebral dysmyelination
+HP:0007269	Spinal muscular atrophy
+HP:0007302	Bipolar affective disorder
+HP:0007305	CNS demyelination
+HP:0007325	Generalized dystonia
+HP:0007327	Mixed demyelinating and axonal polyneuropathy
+HP:0007328	Impaired pain sensation
+HP:0007335	Recurrent encephalopathy
+HP:0007354	Amyotrophic lateral sclerosis
+HP:0007359	Focal seizures
+HP:0007360	Aplasia/Hypoplasia of the cerebellum
+HP:0007370	Aplasia/Hypoplasia of the corpus callosum
+HP:0007371	Corpus callosum atrophy
+HP:0007420	Spontaneous hematomas
+HP:0007489	Diffuse telangiectasia
+HP:0007495	Prematurely aged appearance
+HP:0007537	Severe photosensitivity
+HP:0007748	Irido-fundal coloboma
+HP:0007866	Retinal infarction
+HP:0007868	Age-related macular degeneration
+HP:0007894	Hypopigmentation of the fundus
+HP:0007930	Prominent epicanthal folds
+HP:0008046	Abnormality of the retinal vasculature
+HP:0008151	Prolonged prothrombin time
+HP:0008200	Primary hyperparathyroidism
+HP:0008207	Primary adrenal insufficiency
+HP:0008281	Acute hyperammonemia
+HP:0008309	Medium chain dicarboxylic aciduria
+HP:0008341	Distal renal tubular acidosis
+HP:0008422	Vertebral wedging
+HP:0008443	Spinal deformities
+HP:0008619	Bilateral sensorineural hearing impairment
+HP:0008677	Congenital nephrotic syndrome
+HP:0008682	Acute tubular necrosis
+HP:0008763	No social interaction
+HP:0008796	Externally rotated hips
+HP:0008843	Hip osteoarthritis
+HP:0008872	Feeding difficulties in infancy
+HP:0008947	Infantile muscular hypotonia
+HP:0009023	Abdominal wall muscle weakness
+HP:0009027	Foot dorsiflexor weakness
+HP:0009049	Peroneal muscle atrophy
+HP:0009113	Diaphragmatic weakness
+HP:0009588	Vestibular Schwannoma
+HP:0009589	Bilateral vestibular Schwannoma
+HP:0009590	Unilateral vestibular Schwannoma
+HP:0009611	Bifid distal phalanx of the thumb
+HP:0009725	Bladder neoplasm
+HP:0009726	Renal neoplasm
+HP:0009734	Optic glioma
+HP:0009771	Osteolytic defects of the phalanges of the hand
+HP:0009824	Upper limb undergrowth
+HP:0009830	Peripheral neuropathy
+HP:0009919	Retinoblastoma
+HP:0009942	Duplication of thumb phalanx
+HP:0010066	Duplication of phalanx of hallux
+HP:0010280	Stomatitis
+HP:0010318	Aplasia/Hypoplasia of the abdominal wall musculature
+HP:0010442	Polydactyly
+HP:0010452	Ectopia of the spleen
+HP:0010524	Agnosia
+HP:0010576	Intracranial cystic lesion
+HP:0010628	Facial palsy
+HP:0010650	Hypoplasia of the premaxilla
+HP:0010772	Anomalous pulmonary venous return
+HP:0010783	Erythema
+HP:0010784	Uterine neoplasm
+HP:0010795	Cerebellar glioma
+HP:0010807	Open bite
+HP:0010837	Decreased serum ceruloplasmin
+HP:0010838	High nonceruloplasmin-bound serum copper
+HP:0010839	Increased urinary copper concentration
+HP:0010864	Intellectual disability, severe
+HP:0010865	Oppositional defiant disorder
+HP:0010885	Aseptic necrosis
+HP:0010935	Abnormality of the upper urinary tract
+HP:0010956	Fetal megacystis
+HP:0010978	Abnormality of immune system physiology
+HP:0011001	Increased bone mineral density
+HP:0011018	Abnormality of the cell cycle
+HP:0011034	Amyloidosis
+HP:0011096	Peripheral demyelination
+HP:0011100	Intestinal atresia
+HP:0011106	Hypovolemia
+HP:0011145	Symptomatic seizures
+HP:0011220	Prominent forehead
+HP:0011227	Elevated C-reactive protein level
+HP:0011342	Mild global developmental delay
+HP:0011344	Severe global developmental delay
+HP:0011375	Cochlear aplasia
+HP:0011400	Abnormal CNS myelination
+HP:0011459	Esophageal carcinoma
+HP:0011484	Posterior synechiae of the anterior chamber
+HP:0011499	Mydriasis
+HP:0011505	Cystoid macular edema
+HP:0011536	Right atrial isomerism
+HP:0011565	Common atrium
+HP:0011665	Takotsubo cardiomyopathy
+HP:0011713	Left bundle branch block
+HP:0011834	Moyamoya phenomenon
+HP:0011854	Hemoperitoneum
+HP:0011874	Heparin-induced thrombocytopenia
+HP:0011880	Acute disseminated intravascular coagulation
+HP:0011887	Choroid hemorrhage
+HP:0011892	Vitamin K deficiency
+HP:0011934	Mesenteric artery aneurysm
+HP:0011945	Bronchiolitis obliterans organizing pneumonia
+HP:0011946	Bronchiolitis obliterans
+HP:0011947	Respiratory tract infection
+HP:0011951	Aspiration pneumonia
+HP:0011954	Nodular regenerative hyperplasia of liver
+HP:0011967	Hypocupremia
+HP:0011968	Feeding difficulties
+HP:0011974	Myelofibrosis
+HP:0012020	Right aortic arch
+HP:0012028	Hepatocellular adenoma
+HP:0012115	Hepatitis
+HP:0012211	Abnormal renal physiology
+HP:0012727	Thoracic aortic aneurysm
+HP:0030049	Brain abscess
+HP:0030078	Lung adenocarcinoma
+HP:0030491	Choriocapillaris atrophy
+HP:0030528	Paracentral scotoma
+HP:0100021	Cerebral palsy
+HP:0100022	Abnormality of movement
+HP:0100033	Tics
+HP:0100242	Sarcoma
+HP:0100247	Recurrent singultus
+HP:0100315	Lewy bodies
+HP:0100324	Scleroderma
+HP:0100495	Mastocytosis
+HP:0100512	Vitamin D deficiency
+HP:0100513	Vitamin E deficiency
+HP:0100523	Liver abscess
+HP:0100526	Neoplasm of the lung
+HP:0100540	Palpebral edema
+HP:0100543	Cognitive impairment
+HP:0100544	Neoplasm of the heart
+HP:0100545	Arterial stenosis
+HP:0100546	Carotid artery stenosis
+HP:0100570	Carcinoid tumor
+HP:0100579	Mucosal telangiectasiae
+HP:0100580	Barrett esophagus
+HP:0100585	Telangiectasia of the skin
+HP:0100595	Camptocormia
+HP:0100598	Pulmonary edema
+HP:0100608	Metrorrhagia
+HP:0100626	Chronic hepatic failure
+HP:0100627	Displacement of the external urethral meatus
+HP:0100633	Esophagitis
+HP:0100634	Neuroendocrine neoplasm
+HP:0100646	Thyroiditis
+HP:0100647	Graves disease
+HP:0100651	Type I diabetes mellitus
+HP:0100653	Optic neuritis
+HP:0100659	Abnormality of the cerebral vasculature
+HP:0100660	Dyskinesia
+HP:0100686	Enthesitis
+HP:0100699	Scarring
+HP:0100704	Cortical visual impairment
+HP:0100710	Impulsivity
+HP:0100716	Self-injurious behavior
+HP:0100721	Mediastinal lymphadenopathy
+HP:0100723	Gastrointestinal stroma tumor
+HP:0100724	Hypercoagulability
+HP:0100749	Chest pain
+HP:0100750	Atelectasis
+HP:0100751	Esophageal neoplasm
+HP:0100753	Schizophrenia
+HP:0100754	Mania
+HP:0100758	Gangrene
+HP:0100760	Clubbing of toes
+HP:0100761	Visceral angiomatosis
+HP:0100762	Hemobilia
+HP:0100769	Synovitis
+HP:0100770	Hyperperistalsis
+HP:0100771	Hypoperistalsis
+HP:0100773	Cartilage destruction
+HP:0100774	Hyperostosis
+HP:0100778	Cryoglobulinemia
+HP:0100784	Peripheral arteriovenous fistula
+HP:0100785	Insomnia
+HP:0100786	Hypersomnia
+HP:0100787	Prostate neoplasm
+HP:0100806	Sepsis
+HP:0100817	Renovascular hypertension
+HP:0100827	Lymphocytosis
+HP:0100852	Abnormal fear/anxiety-related behavior
+HP:0100858	Celiac artery aneurysm
+HP:0100867	Duodenal stenosis
+HP:0200032	Kayser-Fleischer ring
+HP:0200119	Acute hepatitis
+HP:0200122	Atypical or prolonged hepatitis
+HP:0200123	Chronic hepatitis
+MP:0000219	increased neutrophil cell number
+MP:0000321	increased bone marrow cell number
+MP:0000709	enlarged thymus
+MP:0002023	increased B cell derived lymphoma incidence
+MP:0002123	abnormal definitive hematopoiesis
+MP:0002356	abnormal spleen red pulp morphology
+MP:0002397	abnormal bone marrow morphology
+MP:0002401	abnormal lymphopoiesis
+MP:0002414	abnormal myeloblast morphology/development
+MP:0003702	abnormal chromosome morphology
+MP:0004809	increased hematopoietic stem cell number
+MP:0004952	increased spleen weight
+MP:0006042	increased apoptosis
+MP:0006262	increased testis tumor incidence
+MP:0006410	abnormal common myeloid progenitor cell morphology
+MP:0008476	increased spleen red pulp amount
+MP:0008826	abnormal splenic cell ratio
+MP:0010264	increased hepatoma incidence
+MP:0010336	increased acute lymphoblastic leukemia incidence
+MP:0011090	partial perinatal lethality
+MP:0012431	increased lymphoma incidence
