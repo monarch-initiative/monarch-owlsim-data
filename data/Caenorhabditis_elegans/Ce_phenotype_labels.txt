@@ -1,0 +1,17 @@
+FBbt:00001251PHENOTYPE	Drosophila embryonic/larval glial cell phenotype
+FBbt:00001684PHENOTYPE	Drosophila embryonic/larval hemocyte phenotype
+FBbt:00001722PHENOTYPE	ring gland phenotype
+FBbt:00001724PHENOTYPE	prothoracic gland phenotype
+FBbt:00001778PHENOTYPE	Drosophila wing disc phenotype
+FBbt:00001911PHENOTYPE	embryonic/larval nervous system phenotype
+FBbt:00004230PHENOTYPE	Drosophila pigment cell phenotype
+FBbt:00004508PHENOTYPE	eye phenotype
+FBbt:00006009PHENOTYPE	eye photoreceptor cell phenotype
+FBcv:0000354	visible
+FBcv:0000424	cell death defective
+FBcv:0001347	phenotype
+FBcv:0002002	lethal - all die before end of larval stage
+FBcv:0002007	lethal - all die during larval stage
+FBcv:0002023	some die during larval stage
+FBcv:0002027	lethal - all die before end of pupal stage
+FBcv:0002039	some die during pupal stage

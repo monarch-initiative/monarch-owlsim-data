@@ -1,0 +1,21 @@
+:_fbgenotypekey181778	Cele\ced-3<up>Scer\UAS.cSa</up> Scer\GAL4<up>389</up>
+:_fbgenotypekey181779	Cele\ced-3<up>Scer\UAS.cSa</up> Scer\GAL4<up>11H-1</up>
+:_fbgenotypekey19252	Cele\F11C7.4<up>IntraCE.Scer\UAS.T:Rnor\CD2</up>
+:_fbgenotypekey19262	Cele\ced-3<up>Scer\UAS.cSa</up>
+:_fbgenotypekey19263	Cele\ced-3<up>T:Ecol\lacZ</up> xenounspecified<up>unknown</up>
+:_fbgenotypekey19266	Cele\ced-4<up>GMR.PK</up>
+:_fbgenotypekey19270	Cele\ced-4<up>K165R.GMR</up>
+:_fbgenotypekey19271	Cele\ced-4<up>K165R.hs</up>
+:_fbgenotypekey19272	Cele\ced-4<up>hs.PK</up> xenounspecified<up>unknown</up>
+:_fbgenotypekey19273	Cele\ced-4<up>hs.PK</up>
+:_fbgenotypekey19274	Cele\ced-9<up>hs.PH</up>
+:_fbgenotypekey19280	Cele\mag-1<up>mago.PN</up> xenounspecified<up>unknown</up>
+:_fbgenotypekey201295	Cele\ced-3<up>Scer\UAS.cSa</up> Scer\GAL4<up>rQ286.11</up>
+:_fbgenotypekey308135	Cele\daf-36<up>Scer\UAS.T:Ivir\HA1</up>
+:_fbgenotypekey340974	Cele\rrf-1<up>Scer\UAS.cDa</up>
+:_fbgenotypekey340975	Cele\ego-1<up>Scer\UAS.cDa</up>
+:_fbgenotypekey350370	Cele\ced-3<up>Scer\UAS.cSa</up> Scer\GAL4<up>Hml.PG</up>
+:_fbgenotypekey350371	Cele\ced-3<up>Scer\UAS.cSa</up> Scer\GAL4<up>Pxn.PS</up>
+:_fbgenotypekey350372	Cele\ced-3<up>Scer\UAS.cSa</up> Scer\GAL4<up>srp.D.cCa</up>
+:_fbgenotypekey350445	Cele\ego-1<up>Scer\UAS.P\T</up>
+:_fbgenotypekey366932	Cele\hlh-13<up>Scer\UAS.cDa</up>

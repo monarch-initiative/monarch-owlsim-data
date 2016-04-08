@@ -18,8 +18,12 @@ DR_G2L = $(DR)/Dr-gene-labels.txt
 
 # TODO: genes
 DM = $(DATA)/Drosophila_melanogaster
-DM_G2P = $(DM)/Dm-genotype-phenotype-NOFILTER.txt
-DM_G2L = $(DM)/Dm-genotype-labels.txt
+DM_G2P = $(DM)/Dm_phenotype_labels.txt
+DM_G2L = $(DM)/Dm_genotype_labels.txt
+
+CE = $(DATA)/Caenorhabditis_elegans
+CE_G2P = $(CE)/Ce_phenotype_labels.txt
+CE_G2L = $(CE)/Ce_genotype_labels.txt
 
 HS = $(DATA)/Homo_sapiens
 HS_D2P = $(HS)/Hs-disease-to-phenotype-O.txt
@@ -28,10 +32,10 @@ HS_D2L = $(HS)/Hs-disease-labels.txt
 #ROOT = $(UPHENO)/metazoa.owl
 ROOT = $(UPHENO)/vertebrate.owl
 
-USECAT = --catalog-xml $(ONT)/catalog-v001.xml 
+USECAT = --catalog-xml $(ONT)/catalog-v001.xml
 
 OWLTOOLS_MEMORY ?= 14G
- 
+
 OWLTOOLS = OWLTOOLS_MEMORY=$(OWLTOOLS_MEMORY) owltools
 
 all: caches
@@ -39,13 +43,13 @@ caches: owlsim.cache ic-cache.owl
 
 all-%: %-owlsim.cache %-ic-cache.owl
 
-$(CATALOG): 
+$(CATALOG):
 	owltools $(ROOT) --slurp-import-closure -d $(MIRROR) -c $@ --merge-imports-closure -o $(CACHEDIR)/merged.owl
 
 
 # TODO: trigger rebuild
-all.owl:  additional-associations.txt additional-labels.txt $(DR_G2P) $(MM_G2P) $(HS_D2P) $(DM_D2P)
-	$(OWLTOOLS)  $(ROOT) --merge-imports-closure --load-instances additional-associations.txt --load-labels additional-labels.txt --load-instances $(MM_G2P) --load-labels $(MM_G2L) --load-instances $(DR_G2P) --load-labels $(DR_G2L) --load-instances $(HS_D2P) --load-labels $(HS_D2L) --load-instances $(DM_G2P) --load-labels $(DM_G2L) --merge-support-ontologies --remove-axioms -t ObjectPropertyDomain --remove-axioms -t ObjectPropertyRange --remove-axioms -t DisjointClasses -o $@
+all.owl:  additional-associations.txt additional-labels.txt $(DR_G2P) $(MM_G2P) $(HS_D2P) $(DM_D2P) $(CE_G2P)
+	$(OWLTOOLS)  $(ROOT) --merge-imports-closure --load-instances additional-associations.txt --load-labels additional-labels.txt --load-instances $(MM_G2P) --load-labels $(MM_G2L) --load-instances $(DR_G2P) --load-labels $(DR_G2L) --load-instances $(HS_D2P) --load-labels $(HS_D2L) --load-instances $(DM_G2P) --load-labels $(DM_G2L) --load-instances $(CE_G2P) --load-labels $(CE_G2L) --merge-support-ontologies --remove-axioms -t ObjectPropertyDomain --remove-axioms -t ObjectPropertyRange --remove-axioms -t DisjointClasses -o $@
 
 
 owlsim.cache: all.owl
@@ -53,5 +57,3 @@ owlsim.cache: all.owl
 
 ic-cache.owl: all.owl
 	$(OWLTOOLS) $< --no-debug --sim-save-ic-cache $@
-
-
