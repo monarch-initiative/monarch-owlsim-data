@@ -21,6 +21,3 @@ FlyBase:FBgn0263421	Cele\daf-36
 FlyBase:FBgn0265410	Cele\rrf-1
 FlyBase:FBgn0265411	Cele\ego-1
 FlyBase:FBgn0267980	Cele\hlh-13
-NCBIGene:171608	bli-3
-NCBIGene:173411	cat-2
-NCBIGene:176304	dat-1
