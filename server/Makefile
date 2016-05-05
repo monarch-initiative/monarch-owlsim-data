@@ -6,15 +6,13 @@ MIRROR= mirror
 
 MM = $(DATA)/Mus_musculus
 ##MM_G2P = $(MM)/Mm-gene-to-phenotype-BF.txt
-MM_G2P = $(MM)/Mm-gene-to-phenotype-NOFILTER.txt
-MM_G2L = $(MM)/Mm-gene-labels.txt
-
-MM_G2G = $(MM)/Mm-gene-to-go.txt
+MM_G2P = $(MM)/Mm_gene_phenotype.txt
+MM_G2L = $(MM)/Mm_gene_labels.txt
 
 DR = $(DATA)/Danio_rerio
 ##DR_G2P = $(DR)/Dr-gene-to-phenotype-BF.txt
-DR_G2P = $(DR)/Dr-gene-to-phenotype-NOFILTER.txt
-DR_G2L = $(DR)/Dr-gene-labels.txt
+DR_G2P = $(DR)/Dr_gene_phenotype.txt
+DR_G2L = $(DR)/Dr_gene_labels.txt
 
 # TODO: genes
 DM = $(DATA)/Drosophila_melanogaster
@@ -26,8 +24,8 @@ CE_G2P = $(CE)/Ce_gene_phenotype.txt
 CE_G2L = $(CE)/Ce_gene_labels.txt
 
 HS = $(DATA)/Homo_sapiens
-HS_D2P = $(HS)/Hs-disease-to-phenotype-O.txt
-HS_D2L = $(HS)/Hs-disease-labels.txt
+HS_D2P = $(HS)/Hs_disease_phenotype.txt
+HS_D2L = $(HS)/Hs_disease_labels.txt
 
 #ROOT = $(UPHENO)/metazoa.owl
 #ROOT = $(UPHENO)/vertebrate.owl
