@@ -2843,6 +2843,7 @@ GO:0005635PHENOTYPE	nuclear envelope phenotype
 GO:0005643PHENOTYPE	nuclear pore phenotype
 GO:0005730PHENOTYPE	nucleolus phenotype
 GO:0005739PHENOTYPE	mitochondrion phenotype
+GO:0005741PHENOTYPE	mitochondrial outer membrane phenotype
 GO:0005743PHENOTYPE	mitochondrial inner membrane phenotype
 GO:0005759PHENOTYPE	mitochondrial matrix phenotype
 GO:0005761PHENOTYPE	mitochondrial ribosome phenotype
@@ -2887,6 +2888,7 @@ GO:0005930PHENOTYPE	axoneme phenotype
 GO:0007049PHENOTYPE	cell cycle phenotype
 GO:0007067PHENOTYPE	mitotic nuclear division phenotype
 GO:0007127PHENOTYPE	meiosis I phenotype
+GO:0007128PHENOTYPE	meiotic prophase I phenotype
 GO:0007133PHENOTYPE	meiotic anaphase I phenotype
 GO:0007135PHENOTYPE	meiosis II phenotype
 GO:0008021PHENOTYPE	synaptic vesicle phenotype
@@ -2905,6 +2907,7 @@ GO:0030027PHENOTYPE	lamellipodium phenotype
 GO:0030054PHENOTYPE	cell junction phenotype
 GO:0030061PHENOTYPE	mitochondrial crista phenotype
 GO:0030135PHENOTYPE	coated vesicle phenotype
+GO:0030139PHENOTYPE	endocytic vesicle phenotype
 GO:0030141PHENOTYPE	secretory granule phenotype
 GO:0030175PHENOTYPE	filopodium phenotype
 GO:0030315PHENOTYPE	T-tubule phenotype
@@ -2954,7 +2957,9 @@ GO:0044297PHENOTYPE	cell body phenotype
 GO:0044456PHENOTYPE	synapse part phenotype
 GO:0044754PHENOTYPE	autolysosome phenotype
 GO:0045120PHENOTYPE	pronucleus phenotype
+GO:0045171PHENOTYPE	intercellular bridge phenotype
 GO:0045202PHENOTYPE	synapse phenotype
+GO:0045335PHENOTYPE	phagocytic vesicle phenotype
 GO:0045495PHENOTYPE	pole plasm phenotype
 GO:0048471PHENOTYPE	perinuclear region of cytoplasm phenotype
 GO:0048770PHENOTYPE	pigment granule phenotype
@@ -2970,6 +2975,7 @@ GO:0051329PHENOTYPE	mitotic interphase phenotype
 GO:0055037PHENOTYPE	recycling endosome phenotype
 GO:0060170PHENOTYPE	ciliary membrane phenotype
 GO:0060417PHENOTYPE	yolk phenotype
+GO:0070825PHENOTYPE	micropyle phenotype
 GO:0072686PHENOTYPE	mitotic spindle phenotype
 GO:0072687PHENOTYPE	meiotic spindle phenotype
 GO:0097386PHENOTYPE	glial cell projection phenotype

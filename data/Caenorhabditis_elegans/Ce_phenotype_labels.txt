@@ -486,6 +486,7 @@ WBPhenotype:0000601	excretory secretory system morphology variant
 WBPhenotype:0000603	muscle system morphology variant
 WBPhenotype:0000604	nervous system morphology variant
 WBPhenotype:0000611	muscle system physiology variant
+WBPhenotype:0000612	nervous system physiology variant
 WBPhenotype:0000615	cilia morphology variant
 WBPhenotype:0000616	synapse morphology variant
 WBPhenotype:0000617	alimentary system development variant
@@ -503,6 +504,7 @@ WBPhenotype:0000631	drug response variant
 WBPhenotype:0000632	axon fasciculation variant
 WBPhenotype:0000633	axon branching variant
 WBPhenotype:0000634	pharyngeal pumping variant
+WBPhenotype:0000636	neuron degeneration variant
 WBPhenotype:0000637	dauer formation variant
 WBPhenotype:0000638	molt defect
 WBPhenotype:0000639	temperature induced dauer formation variant
@@ -603,8 +605,10 @@ WBPhenotype:0000755	L1 L2 molt defect
 WBPhenotype:0000758	L4 adult molt defect
 WBPhenotype:0000759	spindle defective early emb
 WBPhenotype:0000760	spindle orientation defective early emb
+WBPhenotype:0000761	spindle position orientation defective early emb
 WBPhenotype:0000762	spindle position defective early emb
 WBPhenotype:0000764	embryonic cell organization biogenesis variant
+WBPhenotype:0000765	spindle elongation integrity defective early emb
 WBPhenotype:0000770	embryonic cell morphology variant
 WBPhenotype:0000773	chromosome segregation variant
 WBPhenotype:0000774	gametogenesis variant
@@ -703,6 +707,7 @@ WBPhenotype:0000935	D lineage variant
 WBPhenotype:0000938	male V lineages variant
 WBPhenotype:0000939	male T lineages variant
 WBPhenotype:0000942	accessory cell development variant
+WBPhenotype:0000944	neurite development variant
 WBPhenotype:0000948	cuticle morphology variant
 WBPhenotype:0000961	pattern of transgene expression variant
 WBPhenotype:0000962	level of transgene expression variant
@@ -743,6 +748,7 @@ WBPhenotype:0001022	hermaphrodite sexual development variant
 WBPhenotype:0001024	male morphology variant
 WBPhenotype:0001025	hermaphrodite morphology variant
 WBPhenotype:0001026	nuclear morphology variation early emb
+WBPhenotype:0001028	nuclear appearance variant
 WBPhenotype:0001030	pronuclear envelope defective early emb
 WBPhenotype:0001033	proximal germ cell proliferation variant
 WBPhenotype:0001036	sterile F1
@@ -997,8 +1003,8 @@ WBPhenotype:0001413	bacterially unswollen
 WBPhenotype:0001414	male mating defective
 WBPhenotype:0001415	pathogen adherence variant
 WBPhenotype:0001416	pathogen adherence defect
-WBPhenotype:0001417	organism desication response variant
-WBPhenotype:0001418	organism hypersensitive desication
+WBPhenotype:0001417	organism desiccation response variant
+WBPhenotype:0001418	organism hypersensitive desiccation
 WBPhenotype:0001419	emetine hypersensitive
 WBPhenotype:0001420	biofilm absent head
 WBPhenotype:0001421	endocytic transport variant
@@ -1019,6 +1025,7 @@ WBPhenotype:0001437	octanol chemotaxis hypersensitive
 WBPhenotype:0001438	odorant positive chemotaxis defective
 WBPhenotype:0001441	aqueous positive chemotaxis defective
 WBPhenotype:0001442	sodium acetate chemotaxis defective
+WBPhenotype:0001443	aqueous chemosensory response variant
 WBPhenotype:0001444	aqueous adaptation defective
 WBPhenotype:0001445	sodium acetate adaptation defective
 WBPhenotype:0001446	sodium chloride adaptation defective
@@ -1059,6 +1066,7 @@ WBPhenotype:0001510	neuronal cell fate specification variant
 WBPhenotype:0001511	linker cell migration variant
 WBPhenotype:0001512	loss of left right asymmetry
 WBPhenotype:0001513	dense core vesicle exocytosis variant
+WBPhenotype:0001514	synaptic vesicle endocytosis variant
 WBPhenotype:0001515	struts variant
 WBPhenotype:0001516	helical cuticle
 WBPhenotype:0001517	annulae morphology variant
@@ -1089,15 +1097,21 @@ WBPhenotype:0001569	body wall muscle myosin organization defective
 WBPhenotype:0001570	body wall muscle actin organization defective
 WBPhenotype:0001571	body wall muscle cell polarization variant
 WBPhenotype:0001572	masculinized
+WBPhenotype:0001573	nicotine response variant
 WBPhenotype:0001574	ATP levels variant
+WBPhenotype:0001575	ATP levels reduced
+WBPhenotype:0001577	mitochondria alignment variant
 WBPhenotype:0001578	cholinergic agonist resistant
+WBPhenotype:0001580	nuclear envelope breakdown variant
 WBPhenotype:0001581	X linked gene expression enhanced
 WBPhenotype:0001582	X linked gene expression reduced
 WBPhenotype:0001583	XXX progeny
+WBPhenotype:0001584	chromosome alignment variant
 WBPhenotype:0001585	asymmetric cell division variant
 WBPhenotype:0001586	multiple anchor cells
 WBPhenotype:0001587	actin organization biogenesis variant
 WBPhenotype:0001588	microtubule organization biogenesis variant
+WBPhenotype:0001590	microtubule depolymerization variant
 WBPhenotype:0001592	fainter
 WBPhenotype:0001594	germline transgene silencing variant
 WBPhenotype:0001595	somatic transgene silencing variant
@@ -1157,6 +1171,7 @@ WBPhenotype:0001667	methyl methanesulfonate hypersensitive
 WBPhenotype:0001668	oocyte accumulation
 WBPhenotype:0001669	presynaptic vesicle number variant
 WBPhenotype:0001670	presynaptic vesicle number reduced
+WBPhenotype:0001671	vesicle organization variant
 WBPhenotype:0001672	commisure growth variant
 WBPhenotype:0001673	telomere homeostasis variant
 WBPhenotype:0001675	male gonad development variant
@@ -1177,6 +1192,7 @@ WBPhenotype:0001693	male posterior alae
 WBPhenotype:0001694	spermatogenesis to oogenesis switch defective
 WBPhenotype:0001697	chondroitin biosynthesis variant
 WBPhenotype:0001698	heparan sulfate biosynthesis variant
+WBPhenotype:0001699	localized movement variant
 WBPhenotype:0001700	swimming variant
 WBPhenotype:0001701	spastic locomotion
 WBPhenotype:0001702	directionality variant
@@ -1186,6 +1202,7 @@ WBPhenotype:0001710	rhythmic tolerance to osmotic stress variant
 WBPhenotype:0001711	rhythmic behavior variant
 WBPhenotype:0001712	circadian rhythm behavior variant
 WBPhenotype:0001715	pirouette frequency variant
+WBPhenotype:0001716	forward point velocity variant
 WBPhenotype:0001717	centroid velocity variant
 WBPhenotype:0001719	unfolded protein response variant
 WBPhenotype:0001720	spermatozoa retro location defective
@@ -1314,12 +1331,15 @@ WBPhenotype:0001865	protein ubiquitination variant
 WBPhenotype:0001871	drug induced life span variant
 WBPhenotype:0001872	drug induced locomotion variant
 WBPhenotype:0001876	centriole biogenesis variant
+WBPhenotype:0001879	hydroxyurea hypersensitive
 WBPhenotype:0001882	aneuploidy
 WBPhenotype:0001886	cleavage furrow termination defective early emb
 WBPhenotype:0001887	excess seam cells
 WBPhenotype:0001888	fat associated bodies increased
 WBPhenotype:0001889	body wall muscle sarcomere morphology variant
+WBPhenotype:0001890	body wall muscle dense body variant
 WBPhenotype:0001891	M line variant
+WBPhenotype:0001892	glycogen levels variant
 WBPhenotype:0001896	gamma ray induced apoptosis decreased
 WBPhenotype:0001897	light response variant
 WBPhenotype:0001902	fat associated body size increased
@@ -1362,6 +1382,8 @@ WBPhenotype:0001966	cell endomembrane physiology variant
 WBPhenotype:0001967	meiotic chromatin reorganization variant
 WBPhenotype:0001968	somatic gonad precursor symmetrical sisters
 WBPhenotype:0001972	germ cell compartment multinucleate
+WBPhenotype:0001973	germ cell compartment size variant
+WBPhenotype:0001980	germ cell compartment expansion variant
 WBPhenotype:0001982	cell membrane organization biogenesis variant
 WBPhenotype:0001983	lawn leaving behavior variant
 WBPhenotype:0001984	long range axon migration variant
@@ -1378,8 +1400,10 @@ WBPhenotype:0002001	synapse density variant
 WBPhenotype:0002004	actomyosin contractility defective
 WBPhenotype:0002006	anaphase I progression variant early embryo
 WBPhenotype:0002007	cortical blebs present
+WBPhenotype:0002009	proteasome core activity variant
 WBPhenotype:0002010	protein turnover variant
 WBPhenotype:0002011	bivulva
+WBPhenotype:0002012	meiotic chromosome organization variant
 WBPhenotype:0002013	univalent meiotic chromosomes
 WBPhenotype:0002014	current measurement variant
 WBPhenotype:0002018	retarded seam cell fusion
@@ -1418,17 +1442,24 @@ WBPhenotype:0002073	cation homeostasis variant
 WBPhenotype:0002076	cortical granule exocytosis variant
 WBPhenotype:0002077	dopamine resistant
 WBPhenotype:0002078	histone methylation variant
+WBPhenotype:0002079	delayed reproductive maturity
+WBPhenotype:0002086	crossover distribution variant
 WBPhenotype:0002087	hydrogen sulfide hypersensitive
 WBPhenotype:0002088	hypersensitive to dauer pheromone
 WBPhenotype:0002089	cell component morphology variant
 WBPhenotype:0002090	endosome morphology variant
 WBPhenotype:0002091	late endosome morphology variant
+WBPhenotype:0002092	early endosome morphology variant
 WBPhenotype:0002096	golgi apparatus morphology variant
+WBPhenotype:0002097	lysosome morphology variant
+WBPhenotype:0002100	endosome localization variant
+WBPhenotype:0002106	early endosome localization variant
 WBPhenotype:0002113	synapsis formation variant
 WBPhenotype:0002114	swimming induced paralysis
 WBPhenotype:0002115	suicidal
 WBPhenotype:0002116	subviable
 WBPhenotype:0002117	occurences of decapitation
+WBPhenotype:0002118	population fitness variant
 WBPhenotype:0002119	alternative splicing defective
 WBPhenotype:0002122	persistence of paternal mitochondria
 WBPhenotype:0002124	circumferential actin bundles disorganized
@@ -1466,6 +1497,8 @@ WBPhenotype:0002164	innate immune response variant
 WBPhenotype:0002166	muscle membrane potential variant
 WBPhenotype:0002167	transgenerational accumulation of histone methylation
 WBPhenotype:0002168	transgenerational loss of fertility
+WBPhenotype:0002171	alkaline pH chemotaxis variant
+WBPhenotype:0002172	pathogen release variant
 WBPhenotype:0002174	cell number decreased
 WBPhenotype:0002183	oxidative DNA damage variant
 WBPhenotype:0002185	ectopic endoderm
@@ -1485,6 +1518,7 @@ WBPhenotype:0002207	missing gonad arms
 WBPhenotype:0002209	hook development variant
 WBPhenotype:0002210	extra rays
 WBPhenotype:0002211	phasmid dye filling defect
+WBPhenotype:0002212	amphid dye filling defect
 WBPhenotype:0002213	kinase activity reduced
 WBPhenotype:0002214	extra pharyngeal muscle cells
 WBPhenotype:0002215	fewer body wall muscles
@@ -1502,6 +1536,7 @@ WBPhenotype:0002234	increased acidified compartments
 WBPhenotype:0002235	growth defective on low phosphate media
 WBPhenotype:0002236	endo lysosomal degradation pathway defective
 WBPhenotype:0002237	endocytic recycling compartment organization and biogenesis defective
+WBPhenotype:0002238	increased levels of reactive oxygen species
 WBPhenotype:0002239	reduced levels of reactive oxygen species
 WBPhenotype:0002241	feeding reduced
 WBPhenotype:0002242	hypersensitive to iron deficiency
@@ -1527,15 +1562,93 @@ WBPhenotype:0002269	oxygen consumption increased
 WBPhenotype:0002272	protein carbonylation variant
 WBPhenotype:0002273	dietary sugar response variant
 WBPhenotype:0002276	dauer lifespan shortened
+WBPhenotype:0002277	dauer lifespan extended
 WBPhenotype:0002278	acute functional tolerance to alcohol defective
 WBPhenotype:0002280	organism osmostic stress resistant
 WBPhenotype:0002281	organism osmostic stress hypersensitive
+WBPhenotype:0002283	autophagy reduced
+WBPhenotype:0002284	head bend angle variant
+WBPhenotype:0002285	head bend angle decreased
+WBPhenotype:0002286	head bend angle increased
+WBPhenotype:0002287	tail movement variant
+WBPhenotype:0002288	tail bend angle variant
+WBPhenotype:0002289	tail bend angle increased
+WBPhenotype:0002290	tail bend angle decreased
+WBPhenotype:0002291	body posture amplitude variant
+WBPhenotype:0002292	body posture amplitude decreased
+WBPhenotype:0002293	body posture amplitude increased
+WBPhenotype:0002294	body posture wavelength variant
+WBPhenotype:0002295	body posture wavelength decreased
+WBPhenotype:0002296	body posture wavelength increased
+WBPhenotype:0002298	coiling frequency
+WBPhenotype:0002299	coiling frequency decreased
+WBPhenotype:0002300	coiling frequency increased
+WBPhenotype:0002301	nose movement variant
+WBPhenotype:0002302	nose movement decreased
+WBPhenotype:0002303	nose movement increased
+WBPhenotype:0002308	pausing variant
+WBPhenotype:0002309	Pausing decreased
+WBPhenotype:0002310	Pausing increased
+WBPhenotype:0002312	turning frequency variant
+WBPhenotype:0002313	turning frequency increased
+WBPhenotype:0002314	turning frequency reduced
+WBPhenotype:0002318	dwelling reduced
+WBPhenotype:0002319	roaming increased
+WBPhenotype:0002321	forward point velocity decreased
+WBPhenotype:0002322	forward point velocity increased
+WBPhenotype:0002323	backward point velocity variant
+WBPhenotype:0002324	backward point velocity decreased
+WBPhenotype:0002325	backward point velocity increased
+WBPhenotype:0002328	amplitude of sinusoidal movement increased
+WBPhenotype:0002332	track length variant
+WBPhenotype:0002335	path curvature variant
+WBPhenotype:0002336	path curvature increased
+WBPhenotype:0002337	path curvature decreased
+WBPhenotype:0002338	body proportion variant
+WBPhenotype:0002341	bent posture variant
+WBPhenotype:0002343	bent posture decreased
+WBPhenotype:0002344	backing decreased
+WBPhenotype:0002345	forward locomotion variant
+WBPhenotype:0002346	forward locomotion increased
+WBPhenotype:0002347	forward locomotion decreased
+WBPhenotype:0002348	frequency of body bends increased
+WBPhenotype:0002349	phosphatidylinositol 3-phosphate levels reduced
+WBPhenotype:0002350	hydrogen peroxide levels increased
+WBPhenotype:0002354	increased susceptibility to fungal infection
+WBPhenotype:0002357	metabolite content increased
+WBPhenotype:0002358	transdifferentiation defective
+WBPhenotype:0002359	protein carbonylation increased
+WBPhenotype:0002360	cold hypersensitive
+WBPhenotype:0002361	membrane fluidity increased
+WBPhenotype:0002363	cholesterol depletion resistant
+WBPhenotype:0002364	axonal degeneration
+WBPhenotype:0002365	regenerative axonal fusion defective
+WBPhenotype:0002366	touch-induced suppression of head movement defective
+WBPhenotype:0002367	non-living barrier escape defective
+WBPhenotype:0002368	lysosomal refractile body accumulation
+WBPhenotype:0002370	noxious heat avoidance defective
+WBPhenotype:0002371	vesicle maturation defective
+WBPhenotype:0002372	presynaptic vesicle morphology altered
+WBPhenotype:0002373	conditional attraction to bacterial lawn
+WBPhenotype:0002374	RNAi transport defective
+WBPhenotype:0002375	reversion of swimming paralysis
+WBPhenotype:0002378	pathogen avoidance variant
+WBPhenotype:0002379	mitochondria localization variant
+WBPhenotype:0002380	neuron degeneration enhanced
+WBPhenotype:0002381	pheromone production variant
+WBPhenotype:0002382	resistant to bioactive compound
+WBPhenotype:0002385	high pH avoidance defective
+WBPhenotype:0002386	fibrous body-membranous organelle (FB-MO) assembly variant
+WBPhenotype:0002387	supernumerary asters
+WBPhenotype:0002388	metaphase variant
+WBPhenotype:0002389	anaphase variant
 WBPhenotype:0004001	hermaphrodite mating variant
 WBPhenotype:0004004	male response to contact defective
 WBPhenotype:0004006	post hermaphrodite contact variant
 WBPhenotype:0004014	post male contact variant
 WBPhenotype:0004018	sinusoidal movement variant
 WBPhenotype:0004022	amplitude of sinusoidal movement variant
+WBPhenotype:0004023	frequency of body bend variant
 WBPhenotype:0004025	velocity of movement variant
 WBPhenotype:0004026	nose touch variant
 WBPhenotype:0004027	plate tap reflex variant

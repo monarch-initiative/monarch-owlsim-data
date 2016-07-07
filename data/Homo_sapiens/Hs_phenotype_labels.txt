@@ -245,6 +245,7 @@ HP:0000303	Mandibular prognathia
 HP:0000307	Pointed chin
 HP:0000308	Microretrognathia
 HP:0000311	Round face
+HP:0000315	Abnormality of the orbital region
 HP:0000316	Hypertelorism
 HP:0000317	Facial myokymia
 HP:0000319	Smooth philtrum
@@ -6381,6 +6382,7 @@ HP:0012028	Hepatocellular adenoma
 HP:0012031	Lipomatous tumor
 HP:0012032	Lipoma
 HP:0012033	Sacral lipoma
+HP:0012034	Liposarcoma
 HP:0012035	Steatocystoma multiplex
 HP:0012036	Sternocleidomastoid amyotrophy
 HP:0012037	Pectoralis amyotrophy
@@ -6432,6 +6434,7 @@ HP:0012120	Methylmalonic aciduria
 HP:0012121	Panuveitis
 HP:0012122	Anterior uveitis
 HP:0012123	Posterior uveitis
+HP:0012124	Intermediate uveitis
 HP:0012125	Prostate cancer
 HP:0012126	Stomach cancer
 HP:0012132	Erythroid hyperplasia
@@ -6561,6 +6564,7 @@ HP:0012327	Celiac artery compression
 HP:0012328	Cementoma
 HP:0012329	Tufted angioma
 HP:0012330	Pyelonephritis
+HP:0012334	Extrahepatic cholestasis
 HP:0012340	Decreased resting energy expenditure
 HP:0012343	Decreased serum ferritin
 HP:0012344	Morphea
@@ -6574,9 +6578,11 @@ HP:0012379	Abnormal enzyme/coenzyme activity
 HP:0012384	Rhinitis
 HP:0012385	Camptodactyly
 HP:0012386	Absent hallux
+HP:0012388	Acute bronchitis
 HP:0012390	Anal fissure
 HP:0012391	Hyporeflexia of upper limbs
 HP:0012393	Allergy
+HP:0012396	Biliary dyskinesia
 HP:0012397	Aortic atherosclerosis
 HP:0012399	Pressure ulcer
 HP:0012405	Hypocitraturia
@@ -6589,6 +6595,7 @@ HP:0012424	Chorioretinitis
 HP:0012426	Optic disc drusen
 HP:0012428	Prominent calcaneus
 HP:0012432	Chronic fatigue
+HP:0012441	Sphincter of Oddi dyskinesia
 HP:0012443	Abnormality of brain morphology
 HP:0012444	Brain atrophy
 HP:0012447	Abnormal myelination
@@ -6605,6 +6612,7 @@ HP:0012472	Eclabion
 HP:0012473	Tongue atrophy
 HP:0012474	Carotid artery occlusion
 HP:0012478	Temporomandibular joint ankylosis
+HP:0012486	Myelitis
 HP:0012490	Panniculitis
 HP:0012506	Small pituitary gland
 HP:0012507	Weakness of orbicularis oculi muscle
@@ -6635,6 +6643,7 @@ HP:0012570	Synovial sarcoma
 HP:0012571	Ureter fissus
 HP:0012577	Thin glomerular basement membrane
 HP:0012578	Membranous nephropathy
+HP:0012579	Minimal change glomerulonephritis
 HP:0012588	Steroid-resistant nephrotic syndrome
 HP:0012590	Abnormal urine output
 HP:0012592	Albuminuria
@@ -6650,11 +6659,14 @@ HP:0012633	Asymmetry of intraocular pressure
 HP:0012636	Retinal vein occlusion
 HP:0012637	Renal calcium wasting
 HP:0012638	Abnormality of nervous system physiology
+HP:0012641	Decreased intracranial pressure
 HP:0012642	Cerebellar agenesis
 HP:0012645	Enlarged peripheral nerve
 HP:0012649	Increased inflammatory response
 HP:0012650	Perisylvian polymicrogyria
 HP:0012651	Abasia
+HP:0012652	Exercise-induced asthma
+HP:0012653	Status Asthmaticus
 HP:0012672	Akinetic mutism
 HP:0012687	Agenesis of pineal gland
 HP:0012702	Tenesmus
@@ -6675,8 +6687,10 @@ HP:0012745	Short palpebral fissure
 HP:0012746	Thin toenail
 HP:0012757	Abnormal neuron morphology
 HP:0012762	Cerebral white matter atrophy
+HP:0012768	Neonatal asphyxia
 HP:0012771	Increased arm span
 HP:0012774	Increased upper to lower segment ratio
+HP:0012784	Perinephritis
 HP:0012788	Reticulate pigmentation of oral mucosa
 HP:0012789	Hypoplasia of the calcaneus
 HP:0012792	Absent ossification of thoracic vertebral bodies
@@ -6690,6 +6704,7 @@ HP:0012810	Wide nasal base
 HP:0012811	Wide nasal ridge
 HP:0012813	Unilateral breast hypoplasia
 HP:0012817	Noncompaction cardiomyopathy
+HP:0012819	Myocarditis
 HP:0012841	Retinal vascular tortuosity
 HP:0012843	Hair follicle neoplasm
 HP:0012844	Trichilemmoma
@@ -6728,10 +6743,14 @@ HP:0030056	Uncombable hair
 HP:0030057	Autoimmune antibody positivity
 HP:0030062	Craniopharyngioma
 HP:0030066	Ependymoblastoma
+HP:0030068	Olfactory esthesioneuroblastoma
 HP:0030069	Primary central nervous system lymphoma
+HP:0030071	Medulloepithelioma
+HP:0030072	Paranasal sinus neoplasm
 HP:0030074	Chemodectoma
 HP:0030075	Ductal carcinoma in situ
 HP:0030076	Lobular carcinoma in situ
+HP:0030077	Bronchial neoplasm
 HP:0030078	Lung adenocarcinoma
 HP:0030079	Cervix cancer
 HP:0030080	Burkitt lymphoma
@@ -6747,6 +6766,7 @@ HP:0030151	Cholangitis
 HP:0030153	Cholangiocarcinoma
 HP:0030157	Flank pain
 HP:0030159	Cervical polyp
+HP:0030160	Cervicitis
 HP:0030205	Increased jitter at single fibre EMG
 HP:0030211	Slow pupillary light response
 HP:0030213	Emotional blunting
@@ -6757,6 +6777,7 @@ HP:0030230	Central core regions in muscle fibers
 HP:0030237	Hand muscle weakness
 HP:0030241	Hypoplasia of deltoid muscle
 HP:0030242	Portal vein thrombosis
+HP:0030243	Hepatic vein thrombosis
 HP:0030253	Defective T cell proliferation
 HP:0030268	Hyperplastic callus formation
 HP:0030269	Increased serum insulin-like growth factor 1
@@ -6780,19 +6801,26 @@ HP:0030341	Decreased circulating follicle stimulating hormone level
 HP:0030344	Decreased circulating luteinizing hormone level
 HP:0030348	Increased circulating androgen level
 HP:0030353	Decreased serum insulin-like growth factor 1
+HP:0030358	Non-small cell lung carcinoma
 HP:0030360	Large cell lung carcinoma
 HP:0030362	Reduced muscle carnitine level
 HP:0030392	Choroid plexus carcinoma
+HP:0030394	Fallopian tube carcinoma
 HP:0030403	Spontaneous platelet aggregation
 HP:0030404	Glucagonoma
 HP:0030406	Primary peritoneal carcinoma
+HP:0030408	Pineoblastoma
 HP:0030410	Sebaceous gland carcinoma
 HP:0030411	Jejunal adenocarcinoma
+HP:0030416	Vulvar neoplasm
 HP:0030418	Vulvar melanoma
 HP:0030419	Bartholin gland carcinoma
 HP:0030421	Epididymal neoplasm
 HP:0030424	Epididymal cyst
+HP:0030426	Ossifying fibroma
+HP:0030430	Neuroma
 HP:0030431	Osteochondroma
+HP:0030432	Chondroblastoma
 HP:0030433	Osteoid osteoma
 HP:0030434	Pilomatrixoma
 HP:0030436	Fibrofolliculoma
@@ -6812,6 +6840,8 @@ HP:0030528	Paracentral scotoma
 HP:0030629	Perifoveal ring of hyperautofluorescence
 HP:0030636	Occult macular dystrophy
 HP:0030642	Fundus albipunctatus
+HP:0030682	Left ventricular noncompaction
+HP:0030683	Vaginitis
 HP:0040009	Hyperparakeratosis
 HP:0040016	Prominent coccyx
 HP:0040049	Macular edema
@@ -6837,6 +6867,7 @@ HP:0040154	Acne inversa
 HP:0040160	Generalized osteoporosis
 HP:0040162	Orthokeratosis
 HP:0040164	Lipomas of upper eyelids
+HP:0040165	Periostitis
 HP:0040168	Focal seizures, afebril
 HP:0040169	Loose anagen hair
 HP:0040170	Abnormality of hair growth
@@ -6851,6 +6882,7 @@ HP:0040187	Neonatal sepsis
 HP:0040189	Scaling skin
 HP:0040190	White scaling skin
 HP:0040196	Mild microcephaly
+HP:0040197	Encephalomalacia
 HP:0040198	Non-medullary thyroid carcinoma
 HP:0040218	Reduced natural killer cell number
 HP:0045016	Elevated serum long-chain fatty acids
@@ -6869,6 +6901,7 @@ HP:0045054	Brachial plexus neuropathy
 HP:0045055	Tiger tail banding
 HP:0045057	Decreased levels of alpha-fetoprotein
 HP:0045059	Hyperkeratotic papule
+HP:0045061	Decreased carnitine level in liver
 HP:0100001	Malignant mesothelioma
 HP:0100002	Pleural mesothelioma
 HP:0100003	Peritoneal mesothelioma
@@ -7313,6 +7346,7 @@ HP:0200054	Monodactyly (feet)
 HP:0200055	Small hand
 HP:0200056	Macular scarring
 HP:0200057	Marcus Gunn pupil
+HP:0200058	Angiosarcoma
 HP:0200059	Metastatic angiosarcoma
 HP:0200063	Colorectal polyposis
 HP:0200064	Asymmetry of iris pigmentation
