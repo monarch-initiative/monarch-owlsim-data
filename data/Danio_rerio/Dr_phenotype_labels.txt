@@ -13,20 +13,27 @@ FBcv:0000354	visible
 FBcv:0000435	neuroanatomy defective
 FBcv:0001347	phenotype
 GO:0000028PHENOTYPE	ribosomal small subunit assembly phenotype
+GO:0000050PHENOTYPE	urea cycle phenotype
 GO:0000070PHENOTYPE	mitotic sister chromatid segregation phenotype
 GO:0000077PHENOTYPE	DNA damage checkpoint phenotype
+GO:0000082PHENOTYPE	G1/S transition of mitotic cell cycle phenotype
 GO:0000122PHENOTYPE	negative regulation of transcription from RNA polymerase II promoter phenotype
 GO:0000132PHENOTYPE	establishment of mitotic spindle orientation phenotype
+GO:0000184PHENOTYPE	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay phenotype
 GO:0000226PHENOTYPE	microtubule cytoskeleton organization phenotype
 GO:0000244PHENOTYPE	spliceosomal tri-snRNP complex assembly phenotype
 GO:0000245PHENOTYPE	spliceosomal complex assembly phenotype
+GO:0000266PHENOTYPE	mitochondrial fission phenotype
 GO:0000278PHENOTYPE	mitotic cell cycle phenotype
 GO:0000280PHENOTYPE	nuclear division phenotype
 GO:0000281PHENOTYPE	mitotic cytokinesis phenotype
 GO:0000381PHENOTYPE	regulation of alternative mRNA splicing, via spliceosome phenotype
+GO:0000387PHENOTYPE	spliceosomal snRNP assembly phenotype
 GO:0000398PHENOTYPE	mRNA splicing, via spliceosome phenotype
 GO:0000448PHENOTYPE	cleavage in ITS2 between 5.8S rRNA and LSU-rRNA of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA) phenotype
 GO:0000467PHENOTYPE	exonucleolytic trimming to generate mature 3'-end of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA) phenotype
+GO:0000578PHENOTYPE	embryonic axis specification phenotype
+GO:0000724PHENOTYPE	double-strand break repair via homologous recombination phenotype
 GO:0000902PHENOTYPE	cell morphogenesis phenotype
 GO:0001501PHENOTYPE	skeletal system development phenotype
 GO:0001502PHENOTYPE	cartilage condensation phenotype
@@ -39,6 +46,7 @@ GO:0001569PHENOTYPE	patterning of blood vessels phenotype
 GO:0001570PHENOTYPE	vasculogenesis phenotype
 GO:0001649PHENOTYPE	osteoblast differentiation phenotype
 GO:0001654PHENOTYPE	eye development phenotype
+GO:0001666PHENOTYPE	response to hypoxia phenotype
 GO:0001667PHENOTYPE	ameboidal-type cell migration phenotype
 GO:0001702PHENOTYPE	gastrulation with mouth forming second phenotype
 GO:0001706PHENOTYPE	endoderm formation phenotype
@@ -55,13 +63,18 @@ GO:0001756PHENOTYPE	somitogenesis phenotype
 GO:0001757PHENOTYPE	somite specification phenotype
 GO:0001763PHENOTYPE	morphogenesis of a branching structure phenotype
 GO:0001764PHENOTYPE	neuron migration phenotype
+GO:0001774PHENOTYPE	microglial cell activation phenotype
 GO:0001780PHENOTYPE	neutrophil homeostasis phenotype
 GO:0001822PHENOTYPE	kidney development phenotype
 GO:0001837PHENOTYPE	epithelial to mesenchymal transition phenotype
 GO:0001839PHENOTYPE	neural plate morphogenesis phenotype
+GO:0001840PHENOTYPE	neural plate development phenotype
 GO:0001841PHENOTYPE	neural tube formation phenotype
+GO:0001843PHENOTYPE	neural tube closure phenotype
+GO:0001845PHENOTYPE	phagolysosome assembly phenotype
 GO:0001885PHENOTYPE	endothelial cell development phenotype
 GO:0001889PHENOTYPE	liver development phenotype
+GO:0001894PHENOTYPE	tissue homeostasis phenotype
 GO:0001895PHENOTYPE	retina homeostasis phenotype
 GO:0001935PHENOTYPE	endothelial cell proliferation phenotype
 GO:0001944PHENOTYPE	vasculature development phenotype
@@ -75,42 +88,77 @@ GO:0001974PHENOTYPE	blood vessel remodeling phenotype
 GO:0001975PHENOTYPE	response to amphetamine phenotype
 GO:0002009PHENOTYPE	morphogenesis of an epithelium phenotype
 GO:0002011PHENOTYPE	morphogenesis of an epithelial sheet phenotype
+GO:0002027PHENOTYPE	regulation of heart rate phenotype
 GO:0002040PHENOTYPE	sprouting angiogenesis phenotype
 GO:0002042PHENOTYPE	cell migration involved in sprouting angiogenesis phenotype
+GO:0002043PHENOTYPE	blood vessel endothelial cell proliferation involved in sprouting angiogenesis phenotype
 GO:0002062PHENOTYPE	chondrocyte differentiation phenotype
 GO:0002063PHENOTYPE	chondrocyte development phenotype
 GO:0002064PHENOTYPE	epithelial cell development phenotype
+GO:0002072PHENOTYPE	optic cup morphogenesis involved in camera-type eye development phenotype
 GO:0002088PHENOTYPE	lens development in camera-type eye phenotype
 GO:0002089PHENOTYPE	lens morphogenesis in camera-type eye phenotype
+GO:0002159PHENOTYPE	desmosome assembly phenotype
 GO:0002218PHENOTYPE	activation of innate immune response phenotype
+GO:0002232PHENOTYPE	leukocyte chemotaxis involved in inflammatory response phenotype
+GO:0002233PHENOTYPE	leukocyte chemotaxis involved in immune response phenotype
 GO:0002244PHENOTYPE	hematopoietic progenitor cell differentiation phenotype
+GO:0002253PHENOTYPE	activation of immune response phenotype
+GO:0002283PHENOTYPE	neutrophil activation involved in immune response phenotype
 GO:0002446PHENOTYPE	neutrophil mediated immunity phenotype
+GO:0002521PHENOTYPE	leukocyte differentiation phenotype
+GO:0002522PHENOTYPE	leukocyte migration involved in immune response phenotype
+GO:0002523PHENOTYPE	leukocyte migration involved in inflammatory response phenotype
+GO:0002573PHENOTYPE	myeloid leukocyte differentiation phenotype
+GO:0002574PHENOTYPE	thrombocyte differentiation phenotype
+GO:0002679PHENOTYPE	respiratory burst involved in defense response phenotype
 GO:0002761PHENOTYPE	regulation of myeloid leukocyte differentiation phenotype
+GO:0002934PHENOTYPE	desmosome organization phenotype
 GO:0003007PHENOTYPE	heart morphogenesis phenotype
 GO:0003009PHENOTYPE	skeletal muscle contraction phenotype
 GO:0003014PHENOTYPE	renal system process phenotype
+GO:0003094PHENOTYPE	glomerular filtration phenotype
+GO:0003128PHENOTYPE	heart field specification phenotype
 GO:0003140PHENOTYPE	determination of left/right asymmetry in lateral mesoderm phenotype
 GO:0003143PHENOTYPE	embryonic heart tube morphogenesis phenotype
 GO:0003144PHENOTYPE	embryonic heart tube formation phenotype
 GO:0003146PHENOTYPE	heart jogging phenotype
+GO:0003147PHENOTYPE	neural crest cell migration involved in heart formation phenotype
+GO:0003151PHENOTYPE	outflow tract morphogenesis phenotype
 GO:0003157PHENOTYPE	endocardium development phenotype
 GO:0003160PHENOTYPE	endocardium morphogenesis phenotype
 GO:0003161PHENOTYPE	cardiac conduction system development phenotype
 GO:0003170PHENOTYPE	heart valve development phenotype
+GO:0003171PHENOTYPE	atrioventricular valve development phenotype
+GO:0003179PHENOTYPE	heart valve morphogenesis phenotype
+GO:0003181PHENOTYPE	atrioventricular valve morphogenesis phenotype
+GO:0003188PHENOTYPE	heart valve formation phenotype
 GO:0003190PHENOTYPE	atrioventricular valve formation phenotype
 GO:0003197PHENOTYPE	endocardial cushion development phenotype
 GO:0003203PHENOTYPE	endocardial cushion morphogenesis phenotype
 GO:0003205PHENOTYPE	cardiac chamber development phenotype
+GO:0003206PHENOTYPE	cardiac chamber morphogenesis phenotype
 GO:0003208PHENOTYPE	cardiac ventricle morphogenesis phenotype
+GO:0003209PHENOTYPE	cardiac atrium morphogenesis phenotype
+GO:0003228PHENOTYPE	atrial cardiac muscle tissue development phenotype
+GO:0003229PHENOTYPE	ventricular cardiac muscle tissue development phenotype
 GO:0003230PHENOTYPE	cardiac atrium development phenotype
 GO:0003231PHENOTYPE	cardiac ventricle development phenotype
+GO:0003232PHENOTYPE	bulbus arteriosus development phenotype
+GO:0003234PHENOTYPE	bulbus arteriosus formation phenotype
+GO:0003261PHENOTYPE	cardiac muscle progenitor cell migration to the midline involved in heart field formation phenotype
+GO:0003262PHENOTYPE	endocardial progenitor cell migration to the midline involved in heart field formation phenotype
 GO:0003272PHENOTYPE	endocardial cushion formation phenotype
 GO:0003294PHENOTYPE	atrial ventricular junction remodeling phenotype
+GO:0003301PHENOTYPE	physiological cardiac muscle hypertrophy phenotype
 GO:0003303PHENOTYPE	BMP signaling pathway involved in heart jogging phenotype
+GO:0003305PHENOTYPE	cell migration involved in heart jogging phenotype
 GO:0003306PHENOTYPE	Wnt signaling pathway involved in heart development phenotype
 GO:0003309PHENOTYPE	type B pancreatic cell differentiation phenotype
 GO:0003310PHENOTYPE	pancreatic A cell differentiation phenotype
 GO:0003311PHENOTYPE	pancreatic D cell differentiation phenotype
+GO:0003313PHENOTYPE	heart rudiment development phenotype
+GO:0003314PHENOTYPE	heart rudiment morphogenesis phenotype
 GO:0003315PHENOTYPE	heart rudiment formation phenotype
 GO:0003318PHENOTYPE	cell migration to the midline involved in heart development phenotype
 GO:0003319PHENOTYPE	cardioblast migration to the midline involved in heart rudiment formation phenotype
@@ -118,69 +166,126 @@ GO:0003323PHENOTYPE	type B pancreatic cell development phenotype
 GO:0003330PHENOTYPE	regulation of extracellular matrix constituent secretion phenotype
 GO:0003341PHENOTYPE	cilium movement phenotype
 GO:0003351PHENOTYPE	epithelial cilium movement phenotype
+GO:0003352PHENOTYPE	regulation of cilium movement phenotype
 GO:0003358PHENOTYPE	noradrenergic neuron development phenotype
+GO:0003370PHENOTYPE	cell-cell adhesion involved in mesendodermal cell migration phenotype
 GO:0003379PHENOTYPE	establishment of cell polarity involved in gastrulation cell migration phenotype
+GO:0003381PHENOTYPE	epithelial cell morphogenesis involved in gastrulation phenotype
+GO:0003401PHENOTYPE	axis elongation phenotype
+GO:0003403PHENOTYPE	optic vesicle formation phenotype
 GO:0003404PHENOTYPE	optic vesicle morphogenesis phenotype
 GO:0003406PHENOTYPE	retinal pigment epithelium development phenotype
 GO:0003407PHENOTYPE	neural retina development phenotype
+GO:0003419PHENOTYPE	growth plate cartilage chondrocyte proliferation phenotype
 GO:0003428PHENOTYPE	chondrocyte intercalation involved in growth plate cartilage morphogenesis phenotype
 GO:0003720PHENOTYPE	telomerase activity phenotype
 GO:0003990PHENOTYPE	acetylcholinesterase activity phenotype
+GO:0004089PHENOTYPE	carbonate dehydratase activity phenotype
 GO:0004097PHENOTYPE	catechol oxidase activity phenotype
+GO:0004129PHENOTYPE	cytochrome-c oxidase activity phenotype
 GO:0004439PHENOTYPE	phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity phenotype
+GO:0004683PHENOTYPE	calmodulin-dependent protein kinase activity phenotype
+GO:0004693PHENOTYPE	cyclin-dependent protein serine/threonine kinase activity phenotype
+GO:0004707PHENOTYPE	MAP kinase activity phenotype
+GO:0004708PHENOTYPE	MAP kinase kinase activity phenotype
+GO:0004984PHENOTYPE	olfactory receptor activity phenotype
+GO:0005096PHENOTYPE	GTPase activator activity phenotype
 GO:0005219PHENOTYPE	ryanodine-sensitive calcium-release channel activity phenotype
 GO:0005245PHENOTYPE	voltage-gated calcium channel activity phenotype
+GO:0005248PHENOTYPE	voltage-gated sodium channel activity phenotype
 GO:0005262PHENOTYPE	calcium channel activity phenotype
 GO:0005614PHENOTYPE	interstitial matrix phenotype
+GO:0005622PHENOTYPE	intracellular phenotype
 GO:0005737PHENOTYPE	cytoplasm phenotype
+GO:0005746PHENOTYPE	mitochondrial respiratory chain phenotype
+GO:0005840PHENOTYPE	ribosome phenotype
 GO:0005861PHENOTYPE	troponin complex phenotype
 GO:0005892PHENOTYPE	acetylcholine-gated channel complex phenotype
+GO:0005911PHENOTYPE	cell-cell junction phenotype
 GO:0005923PHENOTYPE	bicellular tight junction phenotype
 GO:0006024PHENOTYPE	glycosaminoglycan biosynthetic process phenotype
 GO:0006090PHENOTYPE	pyruvate metabolic process phenotype
+GO:0006120PHENOTYPE	mitochondrial electron transport, NADH to ubiquinone phenotype
+GO:0006183PHENOTYPE	GTP biosynthetic process phenotype
 GO:0006260PHENOTYPE	DNA replication phenotype
+GO:0006303PHENOTYPE	double-strand break repair via nonhomologous end joining phenotype
+GO:0006306PHENOTYPE	DNA methylation phenotype
+GO:0006351PHENOTYPE	transcription, DNA-templated phenotype
+GO:0006355PHENOTYPE	regulation of transcription, DNA-templated phenotype
 GO:0006357PHENOTYPE	regulation of transcription from RNA polymerase II promoter phenotype
 GO:0006364PHENOTYPE	rRNA processing phenotype
+GO:0006366PHENOTYPE	transcription from RNA polymerase II promoter phenotype
 GO:0006378PHENOTYPE	mRNA polyadenylation phenotype
+GO:0006397PHENOTYPE	mRNA processing phenotype
 GO:0006406PHENOTYPE	mRNA export from nucleus phenotype
+GO:0006412PHENOTYPE	translation phenotype
+GO:0006417PHENOTYPE	regulation of translation phenotype
 GO:0006461PHENOTYPE	protein complex assembly phenotype
+GO:0006468PHENOTYPE	protein phosphorylation phenotype
+GO:0006486PHENOTYPE	protein glycosylation phenotype
+GO:0006487PHENOTYPE	protein N-linked glycosylation phenotype
+GO:0006497PHENOTYPE	protein lipidation phenotype
 GO:0006582PHENOTYPE	melanin metabolic process phenotype
 GO:0006585PHENOTYPE	dopamine biosynthetic process from tyrosine phenotype
 GO:0006629PHENOTYPE	lipid metabolic process phenotype
+GO:0006684PHENOTYPE	sphingomyelin metabolic process phenotype
+GO:0006687PHENOTYPE	glycosphingolipid metabolic process phenotype
+GO:0006688PHENOTYPE	glycosphingolipid biosynthetic process phenotype
 GO:0006694PHENOTYPE	steroid biosynthetic process phenotype
 GO:0006754PHENOTYPE	ATP biosynthetic process phenotype
 GO:0006783PHENOTYPE	heme biosynthetic process phenotype
+GO:0006809PHENOTYPE	nitric oxide biosynthetic process phenotype
+GO:0006812PHENOTYPE	cation transport phenotype
+GO:0006814PHENOTYPE	sodium ion transport phenotype
 GO:0006816PHENOTYPE	calcium ion transport phenotype
+GO:0006821PHENOTYPE	chloride transport phenotype
 GO:0006826PHENOTYPE	iron ion transport phenotype
 GO:0006874PHENOTYPE	cellular calcium ion homeostasis phenotype
 GO:0006879PHENOTYPE	cellular iron ion homeostasis phenotype
+GO:0006883PHENOTYPE	cellular sodium ion homeostasis phenotype
+GO:0006885PHENOTYPE	regulation of pH phenotype
 GO:0006897PHENOTYPE	endocytosis phenotype
 GO:0006898PHENOTYPE	receptor-mediated endocytosis phenotype
+GO:0006909PHENOTYPE	phagocytosis phenotype
+GO:0006911PHENOTYPE	phagocytosis, engulfment phenotype
+GO:0006914PHENOTYPE	autophagy phenotype
+GO:0006915PHENOTYPE	apoptotic process phenotype
 GO:0006935PHENOTYPE	chemotaxis phenotype
 GO:0006936PHENOTYPE	muscle contraction phenotype
 GO:0006937PHENOTYPE	regulation of muscle contraction phenotype
 GO:0006941PHENOTYPE	striated muscle contraction phenotype
 GO:0006954PHENOTYPE	inflammatory response phenotype
+GO:0006955PHENOTYPE	immune response phenotype
 GO:0006974PHENOTYPE	cellular response to DNA damage stimulus phenotype
 GO:0006979PHENOTYPE	response to oxidative stress phenotype
 GO:0007004PHENOTYPE	telomere maintenance via telomerase phenotype
 GO:0007005PHENOTYPE	mitochondrion organization phenotype
 GO:0007010PHENOTYPE	cytoskeleton organization phenotype
 GO:0007015PHENOTYPE	actin filament organization phenotype
+GO:0007018PHENOTYPE	microtubule-based movement phenotype
 GO:0007030PHENOTYPE	Golgi organization phenotype
 GO:0007033PHENOTYPE	vacuole organization phenotype
+GO:0007043PHENOTYPE	cell-cell junction assembly phenotype
 GO:0007052PHENOTYPE	mitotic spindle organization phenotype
 GO:0007059PHENOTYPE	chromosome segregation phenotype
 GO:0007060PHENOTYPE	male meiosis chromosome segregation phenotype
 GO:0007062PHENOTYPE	sister chromatid cohesion phenotype
 GO:0007064PHENOTYPE	mitotic sister chromatid cohesion phenotype
+GO:0007067PHENOTYPE	mitotic nuclear division phenotype
 GO:0007080PHENOTYPE	mitotic metaphase plate congression phenotype
+GO:0007088PHENOTYPE	regulation of mitotic nuclear division phenotype
 GO:0007093PHENOTYPE	mitotic cell cycle checkpoint phenotype
 GO:0007095PHENOTYPE	mitotic G2 DNA damage checkpoint phenotype
 GO:0007097PHENOTYPE	nuclear migration phenotype
 GO:0007141PHENOTYPE	male meiosis I phenotype
+GO:0007155PHENOTYPE	cell adhesion phenotype
+GO:0007158PHENOTYPE	neuron cell-cell adhesion phenotype
+GO:0007163PHENOTYPE	establishment or maintenance of cell polarity phenotype
+GO:0007179PHENOTYPE	transforming growth factor beta receptor signaling pathway phenotype
 GO:0007219PHENOTYPE	Notch signaling pathway phenotype
+GO:0007223PHENOTYPE	Wnt signaling pathway, calcium modulating pathway phenotype
 GO:0007224PHENOTYPE	smoothened signaling pathway phenotype
+GO:0007254PHENOTYPE	JNK cascade phenotype
 GO:0007259PHENOTYPE	JAK-STAT cascade phenotype
 GO:0007268PHENOTYPE	synaptic transmission phenotype
 GO:0007274PHENOTYPE	neuromuscular synaptic transmission phenotype
@@ -193,8 +298,10 @@ GO:0007343PHENOTYPE	egg activation phenotype
 GO:0007344PHENOTYPE	pronuclear fusion phenotype
 GO:0007346PHENOTYPE	regulation of mitotic cell cycle phenotype
 GO:0007368PHENOTYPE	determination of left/right symmetry phenotype
+GO:0007369PHENOTYPE	gastrulation phenotype
 GO:0007398PHENOTYPE	ectoderm development phenotype
 GO:0007399PHENOTYPE	nervous system development phenotype
+GO:0007405PHENOTYPE	neuroblast proliferation phenotype
 GO:0007409PHENOTYPE	axonogenesis phenotype
 GO:0007411PHENOTYPE	axon guidance phenotype
 GO:0007412PHENOTYPE	axon target recognition phenotype
@@ -217,13 +324,17 @@ GO:0007525PHENOTYPE	somatic muscle development phenotype
 GO:0007528PHENOTYPE	neuromuscular junction development phenotype
 GO:0007530PHENOTYPE	sex determination phenotype
 GO:0007589PHENOTYPE	body fluid secretion phenotype
+GO:0007596PHENOTYPE	blood coagulation phenotype
+GO:0007599PHENOTYPE	hemostasis phenotype
 GO:0007601PHENOTYPE	visual perception phenotype
+GO:0007603PHENOTYPE	phototransduction, visible light phenotype
 GO:0007605PHENOTYPE	sensory perception of sound phenotype
 GO:0007613PHENOTYPE	memory phenotype
 GO:0007623PHENOTYPE	circadian rhythm phenotype
 GO:0007626PHENOTYPE	locomotory behavior phenotype
 GO:0007632PHENOTYPE	visual behavior phenotype
 GO:0007634PHENOTYPE	optokinetic behavior phenotype
+GO:0007635PHENOTYPE	chemosensory behavior phenotype
 GO:0007638PHENOTYPE	mechanosensory behavior phenotype
 GO:0008015PHENOTYPE	blood circulation phenotype
 GO:0008016PHENOTYPE	regulation of heart contraction phenotype
@@ -233,6 +344,8 @@ GO:0008057PHENOTYPE	eye pigment granule organization phenotype
 GO:0008078PHENOTYPE	mesodermal cell migration phenotype
 GO:0008090PHENOTYPE	retrograde axon cargo transport phenotype
 GO:0008104PHENOTYPE	protein localization phenotype
+GO:0008233PHENOTYPE	peptidase activity phenotype
+GO:0008237PHENOTYPE	metallopeptidase activity phenotype
 GO:0008283PHENOTYPE	cell proliferation phenotype
 GO:0008285PHENOTYPE	negative regulation of cell proliferation phenotype
 GO:0008298PHENOTYPE	intracellular mRNA localization phenotype
@@ -240,8 +353,10 @@ GO:0008331PHENOTYPE	high voltage-gated calcium channel activity phenotype
 GO:0008345PHENOTYPE	larval locomotory behavior phenotype
 GO:0008347PHENOTYPE	glial cell migration phenotype
 GO:0008354PHENOTYPE	germ cell migration phenotype
+GO:0008356PHENOTYPE	asymmetric cell division phenotype
 GO:0008361PHENOTYPE	regulation of cell size phenotype
 GO:0008417PHENOTYPE	fucosyltransferase activity phenotype
+GO:0008543PHENOTYPE	fibroblast growth factor receptor signaling pathway phenotype
 GO:0008544PHENOTYPE	epidermis development phenotype
 GO:0008584PHENOTYPE	male gonad development phenotype
 GO:0008585PHENOTYPE	female gonad development phenotype
@@ -250,31 +365,49 @@ GO:0008593PHENOTYPE	regulation of Notch signaling pathway phenotype
 GO:0008595PHENOTYPE	anterior/posterior axis specification, embryo phenotype
 GO:0008610PHENOTYPE	lipid biosynthetic process phenotype
 GO:0009081PHENOTYPE	branched-chain amino acid metabolic process phenotype
+GO:0009303PHENOTYPE	rRNA transcription phenotype
 GO:0009304PHENOTYPE	tRNA transcription phenotype
+GO:0009408PHENOTYPE	response to heat phenotype
+GO:0009410PHENOTYPE	response to xenobiotic stimulus phenotype
+GO:0009411PHENOTYPE	response to UV phenotype
 GO:0009416PHENOTYPE	response to light stimulus phenotype
 GO:0009583PHENOTYPE	detection of light stimulus phenotype
 GO:0009584PHENOTYPE	detection of visible light phenotype
 GO:0009611PHENOTYPE	response to wounding phenotype
 GO:0009612PHENOTYPE	response to mechanical stimulus phenotype
+GO:0009617PHENOTYPE	response to bacterium phenotype
+GO:0009636PHENOTYPE	response to toxic substance phenotype
+GO:0009652PHENOTYPE	thigmotropism phenotype
+GO:0009749PHENOTYPE	response to glucose phenotype
+GO:0009792PHENOTYPE	embryo development ending in birth or egg hatching phenotype
 GO:0009798PHENOTYPE	axis specification phenotype
 GO:0009826PHENOTYPE	unidimensional cell growth phenotype
 GO:0009880PHENOTYPE	embryonic pattern specification phenotype
 GO:0009887PHENOTYPE	organ morphogenesis phenotype
+GO:0009913PHENOTYPE	epidermal cell differentiation phenotype
 GO:0009948PHENOTYPE	anterior/posterior axis specification phenotype
 GO:0009950PHENOTYPE	dorsal/ventral axis specification phenotype
 GO:0009952PHENOTYPE	anterior/posterior pattern specification phenotype
 GO:0009953PHENOTYPE	dorsal/ventral pattern formation phenotype
 GO:0009954PHENOTYPE	proximal/distal pattern formation phenotype
+GO:0009957PHENOTYPE	epidermal cell fate specification phenotype
+GO:0009968PHENOTYPE	negative regulation of signal transduction phenotype
 GO:0010001PHENOTYPE	glial cell differentiation phenotype
 GO:0010002PHENOTYPE	cardioblast differentiation phenotype
+GO:0010155PHENOTYPE	regulation of proton transport phenotype
 GO:0010165PHENOTYPE	response to X-ray phenotype
 GO:0010171PHENOTYPE	body morphogenesis phenotype
 GO:0010172PHENOTYPE	embryonic body morphogenesis phenotype
 GO:0010212PHENOTYPE	response to ionizing radiation phenotype
 GO:0010310PHENOTYPE	regulation of hydrogen peroxide metabolic process phenotype
 GO:0010389PHENOTYPE	regulation of G2/M transition of mitotic cell cycle phenotype
+GO:0010424PHENOTYPE	DNA methylation on cytosine within a CG sequence phenotype
+GO:0010452PHENOTYPE	histone H3-K36 methylation phenotype
+GO:0010459PHENOTYPE	negative regulation of heart rate phenotype
 GO:0010468PHENOTYPE	regulation of gene expression phenotype
+GO:0010470PHENOTYPE	regulation of gastrulation phenotype
 GO:0010564PHENOTYPE	regulation of cell cycle process phenotype
+GO:0010628PHENOTYPE	positive regulation of gene expression phenotype
 GO:0010629PHENOTYPE	negative regulation of gene expression phenotype
 GO:0010644PHENOTYPE	cell communication by electrical coupling phenotype
 GO:0010669PHENOTYPE	epithelial structure maintenance phenotype
@@ -282,87 +415,152 @@ GO:0010719PHENOTYPE	negative regulation of epithelial to mesenchymal transition 
 GO:0010842PHENOTYPE	retina layer formation phenotype
 GO:0010882PHENOTYPE	regulation of cardiac muscle contraction by calcium ion signaling phenotype
 GO:0010906PHENOTYPE	regulation of glucose metabolic process phenotype
+GO:0010960PHENOTYPE	magnesium ion homeostasis phenotype
+GO:0010975PHENOTYPE	regulation of neuron projection development phenotype
+GO:0010996PHENOTYPE	response to auditory stimulus phenotype
 GO:0014003PHENOTYPE	oligodendrocyte development phenotype
 GO:0014004PHENOTYPE	microglia differentiation phenotype
 GO:0014005PHENOTYPE	microglia development phenotype
+GO:0014010PHENOTYPE	Schwann cell proliferation phenotype
+GO:0014013PHENOTYPE	regulation of gliogenesis phenotype
 GO:0014021PHENOTYPE	secondary neural tube formation phenotype
 GO:0014025PHENOTYPE	neural keel formation phenotype
 GO:0014028PHENOTYPE	notochord formation phenotype
+GO:0014029PHENOTYPE	neural crest formation phenotype
 GO:0014032PHENOTYPE	neural crest cell development phenotype
 GO:0014033PHENOTYPE	neural crest cell differentiation phenotype
 GO:0014036PHENOTYPE	neural crest cell fate specification phenotype
 GO:0014037PHENOTYPE	Schwann cell differentiation phenotype
 GO:0014044PHENOTYPE	Schwann cell development phenotype
+GO:0014045PHENOTYPE	establishment of endothelial blood-brain barrier phenotype
+GO:0014065PHENOTYPE	phosphatidylinositol 3-kinase signaling phenotype
 GO:0014066PHENOTYPE	regulation of phosphatidylinositol 3-kinase signaling phenotype
+GO:0014704PHENOTYPE	intercalated disc phenotype
+GO:0014706PHENOTYPE	striated muscle tissue development phenotype
 GO:0014707PHENOTYPE	branchiomeric skeletal muscle development phenotype
+GO:0014743PHENOTYPE	regulation of muscle hypertrophy phenotype
 GO:0014812PHENOTYPE	muscle cell migration phenotype
 GO:0014831PHENOTYPE	gastro-intestinal system smooth muscle contraction phenotype
 GO:0014866PHENOTYPE	skeletal myofibril assembly phenotype
+GO:0014881PHENOTYPE	regulation of myofibril size phenotype
 GO:0015012PHENOTYPE	heparan sulfate proteoglycan biosynthetic process phenotype
+GO:0015078PHENOTYPE	hydrogen ion transmembrane transporter activity phenotype
+GO:0015562PHENOTYPE	efflux transmembrane transporter activity phenotype
+GO:0015696PHENOTYPE	ammonium transport phenotype
+GO:0015698PHENOTYPE	inorganic anion transport phenotype
 GO:0015721PHENOTYPE	bile acid and bile salt transport phenotype
+GO:0015840PHENOTYPE	urea transport phenotype
+GO:0015992PHENOTYPE	proton transport phenotype
 GO:0016055PHENOTYPE	Wnt signaling pathway phenotype
 GO:0016075PHENOTYPE	rRNA catabolic process phenotype
 GO:0016192PHENOTYPE	vesicle-mediated transport phenotype
 GO:0016198PHENOTYPE	axon choice point recognition phenotype
 GO:0016199PHENOTYPE	axon midline choice point recognition phenotype
 GO:0016203PHENOTYPE	muscle attachment phenotype
+GO:0016308PHENOTYPE	1-phosphatidylinositol-4-phosphate 5-kinase activity phenotype
 GO:0016321PHENOTYPE	female meiosis chromosome segregation phenotype
+GO:0016322PHENOTYPE	neuron remodeling phenotype
 GO:0016331PHENOTYPE	morphogenesis of embryonic epithelium phenotype
 GO:0016337PHENOTYPE	single organismal cell-cell adhesion phenotype
+GO:0016338PHENOTYPE	calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules phenotype
+GO:0016339PHENOTYPE	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules phenotype
 GO:0016358PHENOTYPE	dendrite development phenotype
 GO:0016477PHENOTYPE	cell migration phenotype
+GO:0016525PHENOTYPE	negative regulation of angiogenesis phenotype
+GO:0016791PHENOTYPE	phosphatase activity phenotype
 GO:0016925PHENOTYPE	protein sumoylation phenotype
+GO:0016973PHENOTYPE	poly(A)+ mRNA export from nucleus phenotype
 GO:0019216PHENOTYPE	regulation of lipid metabolic process phenotype
+GO:0019222PHENOTYPE	regulation of metabolic process phenotype
 GO:0019228PHENOTYPE	neuronal action potential phenotype
+GO:0019722PHENOTYPE	calcium-mediated signaling phenotype
 GO:0019827PHENOTYPE	stem cell population maintenance phenotype
 GO:0019896PHENOTYPE	axon transport of mitochondrion phenotype
+GO:0019915PHENOTYPE	lipid storage phenotype
+GO:0020027PHENOTYPE	hemoglobin metabolic process phenotype
 GO:0021501PHENOTYPE	prechordal plate formation phenotype
 GO:0021508PHENOTYPE	floor plate formation phenotype
+GO:0021509PHENOTYPE	roof plate formation phenotype
 GO:0021510PHENOTYPE	spinal cord development phenotype
 GO:0021511PHENOTYPE	spinal cord patterning phenotype
+GO:0021512PHENOTYPE	spinal cord anterior/posterior patterning phenotype
+GO:0021513PHENOTYPE	spinal cord dorsal/ventral patterning phenotype
 GO:0021514PHENOTYPE	ventral spinal cord interneuron differentiation phenotype
+GO:0021517PHENOTYPE	ventral spinal cord development phenotype
 GO:0021520PHENOTYPE	spinal cord motor neuron cell fate specification phenotype
 GO:0021521PHENOTYPE	ventral spinal cord interneuron specification phenotype
 GO:0021522PHENOTYPE	spinal cord motor neuron differentiation phenotype
 GO:0021529PHENOTYPE	spinal cord oligodendrocyte cell differentiation phenotype
+GO:0021530PHENOTYPE	spinal cord oligodendrocyte cell fate specification phenotype
 GO:0021532PHENOTYPE	neural tube patterning phenotype
+GO:0021534PHENOTYPE	cell proliferation in hindbrain phenotype
 GO:0021535PHENOTYPE	cell migration in hindbrain phenotype
 GO:0021536PHENOTYPE	diencephalon development phenotype
 GO:0021537PHENOTYPE	telencephalon development phenotype
 GO:0021538PHENOTYPE	epithalamus development phenotype
+GO:0021544PHENOTYPE	subpallium development phenotype
+GO:0021545PHENOTYPE	cranial nerve development phenotype
 GO:0021546PHENOTYPE	rhombomere development phenotype
+GO:0021549PHENOTYPE	cerebellum development phenotype
+GO:0021551PHENOTYPE	central nervous system morphogenesis phenotype
+GO:0021552PHENOTYPE	midbrain-hindbrain boundary structural organization phenotype
 GO:0021554PHENOTYPE	optic nerve development phenotype
+GO:0021555PHENOTYPE	midbrain-hindbrain boundary morphogenesis phenotype
+GO:0021557PHENOTYPE	oculomotor nerve development phenotype
+GO:0021561PHENOTYPE	facial nerve development phenotype
+GO:0021570PHENOTYPE	rhombomere 4 development phenotype
 GO:0021571PHENOTYPE	rhombomere 5 development phenotype
 GO:0021572PHENOTYPE	rhombomere 6 development phenotype
 GO:0021575PHENOTYPE	hindbrain morphogenesis phenotype
+GO:0021576PHENOTYPE	hindbrain formation phenotype
 GO:0021577PHENOTYPE	hindbrain structural organization phenotype
 GO:0021587PHENOTYPE	cerebellum morphogenesis phenotype
 GO:0021588PHENOTYPE	cerebellum formation phenotype
 GO:0021591PHENOTYPE	ventricular system development phenotype
 GO:0021592PHENOTYPE	fourth ventricle development phenotype
 GO:0021593PHENOTYPE	rhombomere morphogenesis phenotype
+GO:0021594PHENOTYPE	rhombomere formation phenotype
+GO:0021602PHENOTYPE	cranial nerve morphogenesis phenotype
+GO:0021623PHENOTYPE	oculomotor nerve formation phenotype
+GO:0021628PHENOTYPE	olfactory nerve formation phenotype
 GO:0021634PHENOTYPE	optic nerve formation phenotype
 GO:0021636PHENOTYPE	trigeminal nerve morphogenesis phenotype
 GO:0021654PHENOTYPE	rhombomere boundary formation phenotype
 GO:0021661PHENOTYPE	rhombomere 4 morphogenesis phenotype
+GO:0021680PHENOTYPE	cerebellar Purkinje cell layer development phenotype
+GO:0021702PHENOTYPE	cerebellar Purkinje cell differentiation phenotype
 GO:0021703PHENOTYPE	locus ceruleus development phenotype
+GO:0021707PHENOTYPE	cerebellar granule cell differentiation phenotype
+GO:0021742PHENOTYPE	abducens nucleus development phenotype
 GO:0021744PHENOTYPE	dorsal motor nucleus of vagus nerve development phenotype
+GO:0021755PHENOTYPE	eurydendroid cell differentiation phenotype
 GO:0021772PHENOTYPE	olfactory bulb development phenotype
+GO:0021778PHENOTYPE	oligodendrocyte cell fate specification phenotype
 GO:0021779PHENOTYPE	oligodendrocyte cell fate commitment phenotype
 GO:0021782PHENOTYPE	glial cell development phenotype
 GO:0021785PHENOTYPE	branchiomotor neuron axon guidance phenotype
+GO:0021794PHENOTYPE	thalamus development phenotype
 GO:0021797PHENOTYPE	forebrain anterior/posterior pattern specification phenotype
 GO:0021798PHENOTYPE	forebrain dorsal/ventral pattern formation phenotype
+GO:0021846PHENOTYPE	cell proliferation in forebrain phenotype
 GO:0021854PHENOTYPE	hypothalamus development phenotype
 GO:0021865PHENOTYPE	symmetric radial glial cell division in forebrain phenotype
 GO:0021879PHENOTYPE	forebrain neuron differentiation phenotype
 GO:0021881PHENOTYPE	Wnt-activated signaling pathway involved in forebrain neuron fate commitment phenotype
 GO:0021884PHENOTYPE	forebrain neuron development phenotype
+GO:0021885PHENOTYPE	forebrain cell migration phenotype
 GO:0021903PHENOTYPE	rostrocaudal neural tube patterning phenotype
+GO:0021906PHENOTYPE	hindbrain-spinal cord boundary formation phenotype
+GO:0021910PHENOTYPE	smoothened signaling pathway involved in ventral spinal cord patterning phenotype
 GO:0021915PHENOTYPE	neural tube development phenotype
+GO:0021923PHENOTYPE	cell proliferation in hindbrain ventricular zone phenotype
+GO:0021934PHENOTYPE	hindbrain tangential cell migration phenotype
 GO:0021952PHENOTYPE	central nervous system projection neuron axonogenesis phenotype
 GO:0021953PHENOTYPE	central nervous system neuron differentiation phenotype
 GO:0021954PHENOTYPE	central nervous system neuron development phenotype
+GO:0021955PHENOTYPE	central nervous system neuron axonogenesis phenotype
+GO:0021960PHENOTYPE	anterior commissure morphogenesis phenotype
+GO:0021961PHENOTYPE	posterior commissure morphogenesis phenotype
 GO:0021979PHENOTYPE	hypothalamus cell differentiation phenotype
 GO:0021982PHENOTYPE	pineal gland development phenotype
 GO:0021984PHENOTYPE	adenohypophysis development phenotype
@@ -372,19 +570,32 @@ GO:0021999PHENOTYPE	neural plate anterior/posterior regionalization phenotype
 GO:0022008PHENOTYPE	neurogenesis phenotype
 GO:0022010PHENOTYPE	central nervous system myelination phenotype
 GO:0022011PHENOTYPE	myelination in peripheral nervous system phenotype
+GO:0022027PHENOTYPE	interkinetic nuclear migration phenotype
+GO:0022408PHENOTYPE	negative regulation of cell-cell adhesion phenotype
+GO:0022604PHENOTYPE	regulation of cell morphogenesis phenotype
 GO:0022904PHENOTYPE	respiratory electron transport chain phenotype
 GO:0030030PHENOTYPE	cell projection organization phenotype
+GO:0030041PHENOTYPE	actin filament polymerization phenotype
 GO:0030097PHENOTYPE	hemopoiesis phenotype
 GO:0030098PHENOTYPE	lymphocyte differentiation phenotype
 GO:0030099PHENOTYPE	myeloid cell differentiation phenotype
+GO:0030104PHENOTYPE	water homeostasis phenotype
+GO:0030154PHENOTYPE	cell differentiation phenotype
+GO:0030155PHENOTYPE	regulation of cell adhesion phenotype
 GO:0030166PHENOTYPE	proteoglycan biosynthetic process phenotype
+GO:0030168PHENOTYPE	platelet activation phenotype
+GO:0030177PHENOTYPE	positive regulation of Wnt signaling pathway phenotype
 GO:0030178PHENOTYPE	negative regulation of Wnt signaling pathway phenotype
 GO:0030182PHENOTYPE	neuron differentiation phenotype
 GO:0030183PHENOTYPE	B cell differentiation phenotype
 GO:0030186PHENOTYPE	melatonin metabolic process phenotype
 GO:0030193PHENOTYPE	regulation of blood coagulation phenotype
 GO:0030198PHENOTYPE	extracellular matrix organization phenotype
+GO:0030199PHENOTYPE	collagen fibril organization phenotype
+GO:0030206PHENOTYPE	chondroitin sulfate biosynthetic process phenotype
+GO:0030217PHENOTYPE	T cell differentiation phenotype
 GO:0030218PHENOTYPE	erythrocyte differentiation phenotype
+GO:0030220PHENOTYPE	platelet formation phenotype
 GO:0030223PHENOTYPE	neutrophil differentiation phenotype
 GO:0030224PHENOTYPE	monocyte differentiation phenotype
 GO:0030225PHENOTYPE	macrophage differentiation phenotype
@@ -393,17 +604,24 @@ GO:0030240PHENOTYPE	skeletal muscle thin filament assembly phenotype
 GO:0030241PHENOTYPE	skeletal muscle myosin thick filament assembly phenotype
 GO:0030278PHENOTYPE	regulation of ossification phenotype
 GO:0030282PHENOTYPE	bone mineralization phenotype
+GO:0030299PHENOTYPE	intestinal cholesterol absorption phenotype
 GO:0030318PHENOTYPE	melanocyte differentiation phenotype
 GO:0030325PHENOTYPE	adrenal gland development phenotype
+GO:0030334PHENOTYPE	regulation of cell migration phenotype
 GO:0030336PHENOTYPE	negative regulation of cell migration phenotype
+GO:0030432PHENOTYPE	peristalsis phenotype
 GO:0030500PHENOTYPE	regulation of bone mineralization phenotype
 GO:0030509PHENOTYPE	BMP signaling pathway phenotype
 GO:0030510PHENOTYPE	regulation of BMP signaling pathway phenotype
+GO:0030576PHENOTYPE	Cajal body organization phenotype
 GO:0030593PHENOTYPE	neutrophil chemotaxis phenotype
 GO:0030595PHENOTYPE	leukocyte chemotaxis phenotype
+GO:0030641PHENOTYPE	regulation of cellular pH phenotype
 GO:0030728PHENOTYPE	ovulation phenotype
 GO:0030851PHENOTYPE	granulocyte differentiation phenotype
+GO:0030855PHENOTYPE	epithelial cell differentiation phenotype
 GO:0030859PHENOTYPE	polarized epithelial cell differentiation phenotype
+GO:0030866PHENOTYPE	cortical actin cytoskeleton organization phenotype
 GO:0030878PHENOTYPE	thyroid gland development phenotype
 GO:0030900PHENOTYPE	forebrain development phenotype
 GO:0030901PHENOTYPE	midbrain development phenotype
@@ -423,24 +641,44 @@ GO:0031076PHENOTYPE	embryonic camera-type eye development phenotype
 GO:0031099PHENOTYPE	regeneration phenotype
 GO:0031100PHENOTYPE	organ regeneration phenotype
 GO:0031101PHENOTYPE	fin regeneration phenotype
+GO:0031102PHENOTYPE	neuron projection regeneration phenotype
 GO:0031103PHENOTYPE	axon regeneration phenotype
+GO:0031114PHENOTYPE	regulation of microtubule depolymerization phenotype
+GO:0031122PHENOTYPE	cytoplasmic microtubule organization phenotype
+GO:0031146PHENOTYPE	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process phenotype
+GO:0031175PHENOTYPE	neuron projection development phenotype
 GO:0031290PHENOTYPE	retinal ganglion cell axon guidance phenotype
 GO:0031413PHENOTYPE	regulation of buoyancy phenotype
 GO:0031443PHENOTYPE	fast-twitch skeletal muscle fiber contraction phenotype
 GO:0031444PHENOTYPE	slow-twitch skeletal muscle fiber contraction phenotype
+GO:0031513PHENOTYPE	nonmotile primary cilium phenotype
+GO:0031573PHENOTYPE	intra-S DNA damage checkpoint phenotype
+GO:0031580PHENOTYPE	membrane raft distribution phenotype
+GO:0031647PHENOTYPE	regulation of protein stability phenotype
 GO:0031998PHENOTYPE	regulation of fatty acid beta-oxidation phenotype
 GO:0032006PHENOTYPE	regulation of TOR signaling phenotype
 GO:0032007PHENOTYPE	negative regulation of TOR signaling phenotype
+GO:0032060PHENOTYPE	bleb assembly phenotype
+GO:0032077PHENOTYPE	positive regulation of deoxyribonuclease activity phenotype
 GO:0032289PHENOTYPE	central nervous system myelin formation phenotype
 GO:0032290PHENOTYPE	peripheral nervous system myelin formation phenotype
 GO:0032330PHENOTYPE	regulation of chondrocyte differentiation phenotype
 GO:0032400PHENOTYPE	melanosome localization phenotype
+GO:0032402PHENOTYPE	melanosome transport phenotype
 GO:0032438PHENOTYPE	melanosome organization phenotype
 GO:0032474PHENOTYPE	otolith morphogenesis phenotype
 GO:0032475PHENOTYPE	otolith formation phenotype
 GO:0032525PHENOTYPE	somite rostral/caudal axis specification phenotype
+GO:0032526PHENOTYPE	response to retinoic acid phenotype
+GO:0032776PHENOTYPE	DNA methylation on cytosine phenotype
 GO:0032835PHENOTYPE	glomerulus development phenotype
+GO:0032868PHENOTYPE	response to insulin phenotype
+GO:0032880PHENOTYPE	regulation of protein localization phenotype
+GO:0032922PHENOTYPE	circadian regulation of gene expression phenotype
+GO:0032956PHENOTYPE	regulation of actin cytoskeleton organization phenotype
+GO:0032965PHENOTYPE	regulation of collagen biosynthetic process phenotype
 GO:0033077PHENOTYPE	T cell differentiation in thymus phenotype
+GO:0033278PHENOTYPE	cell proliferation in midbrain phenotype
 GO:0033292PHENOTYPE	T-tubule organization phenotype
 GO:0033333PHENOTYPE	fin development phenotype
 GO:0033334PHENOTYPE	fin morphogenesis phenotype
@@ -450,11 +688,15 @@ GO:0033339PHENOTYPE	pectoral fin development phenotype
 GO:0033340PHENOTYPE	pelvic fin development phenotype
 GO:0033504PHENOTYPE	floor plate development phenotype
 GO:0033564PHENOTYPE	anterior/posterior axon guidance phenotype
+GO:0034101PHENOTYPE	erythrocyte homeostasis phenotype
 GO:0034332PHENOTYPE	adherens junction organization phenotype
 GO:0034334PHENOTYPE	adherens junction maintenance phenotype
 GO:0034394PHENOTYPE	protein localization to cell surface phenotype
+GO:0034505PHENOTYPE	tooth mineralization phenotype
 GO:0034613PHENOTYPE	cellular protein localization phenotype
 GO:0034629PHENOTYPE	cellular protein complex localization phenotype
+GO:0034644PHENOTYPE	cellular response to UV phenotype
+GO:0034650PHENOTYPE	cortisol metabolic process phenotype
 GO:0034651PHENOTYPE	cortisol biosynthetic process phenotype
 GO:0034976PHENOTYPE	response to endoplasmic reticulum stress phenotype
 GO:0035046PHENOTYPE	pronuclear migration phenotype
@@ -469,6 +711,7 @@ GO:0035141PHENOTYPE	medial fin morphogenesis phenotype
 GO:0035143PHENOTYPE	caudal fin morphogenesis phenotype
 GO:0035148PHENOTYPE	tube formation phenotype
 GO:0035162PHENOTYPE	embryonic hemopoiesis phenotype
+GO:0035188PHENOTYPE	hatching phenotype
 GO:0035195PHENOTYPE	gene silencing by miRNA phenotype
 GO:0035196PHENOTYPE	production of miRNAs involved in gene silencing by miRNA phenotype
 GO:0035265PHENOTYPE	organ growth phenotype
@@ -476,42 +719,70 @@ GO:0035270PHENOTYPE	endocrine system development phenotype
 GO:0035282PHENOTYPE	segmentation phenotype
 GO:0035284PHENOTYPE	brain segmentation phenotype
 GO:0035315PHENOTYPE	hair cell differentiation phenotype
+GO:0035418PHENOTYPE	protein localization to synapse phenotype
 GO:0035462PHENOTYPE	determination of left/right asymmetry in diencephalon phenotype
 GO:0035469PHENOTYPE	determination of pancreatic left/right asymmetry phenotype
+GO:0035474PHENOTYPE	selective angioblast sprouting phenotype
+GO:0035475PHENOTYPE	angioblast cell migration involved in selective angioblast sprouting phenotype
 GO:0035476PHENOTYPE	angioblast cell migration phenotype
 GO:0035479PHENOTYPE	angioblast cell migration from lateral mesoderm to midline phenotype
 GO:0035622PHENOTYPE	intrahepatic bile duct development phenotype
 GO:0035633PHENOTYPE	maintenance of blood-brain barrier phenotype
+GO:0035675PHENOTYPE	neuromast hair cell development phenotype
+GO:0035676PHENOTYPE	anterior lateral line neuromast hair cell development phenotype
+GO:0035677PHENOTYPE	posterior lateral line neuromast hair cell development phenotype
 GO:0035701PHENOTYPE	hematopoietic stem cell migration phenotype
+GO:0035736PHENOTYPE	cell proliferation involved in compound eye morphogenesis phenotype
 GO:0035775PHENOTYPE	pronephric glomerulus morphogenesis phenotype
+GO:0035776PHENOTYPE	pronephric proximal tubule development phenotype
+GO:0035777PHENOTYPE	pronephric distal tubule development phenotype
+GO:0035778PHENOTYPE	pronephric nephron tubule epithelial cell differentiation phenotype
 GO:0035779PHENOTYPE	angioblast cell differentiation phenotype
 GO:0035844PHENOTYPE	cloaca development phenotype
 GO:0035845PHENOTYPE	photoreceptor cell outer segment organization phenotype
+GO:0035881PHENOTYPE	amacrine cell differentiation phenotype
 GO:0035907PHENOTYPE	dorsal aorta development phenotype
 GO:0035912PHENOTYPE	dorsal aorta morphogenesis phenotype
+GO:0035914PHENOTYPE	skeletal muscle cell differentiation phenotype
 GO:0035987PHENOTYPE	endodermal cell differentiation phenotype
 GO:0036060PHENOTYPE	slit diaphragm assembly phenotype
 GO:0036099PHENOTYPE	female germ-line stem cell population maintenance phenotype
 GO:0036135PHENOTYPE	Schwann cell migration phenotype
 GO:0036158PHENOTYPE	outer dynein arm assembly phenotype
+GO:0036159PHENOTYPE	inner dynein arm assembly phenotype
 GO:0036268PHENOTYPE	swimming phenotype
 GO:0036269PHENOTYPE	swimming behavior phenotype
 GO:0036302PHENOTYPE	atrioventricular canal development phenotype
 GO:0036342PHENOTYPE	post-anal tail morphogenesis phenotype
 GO:0036367PHENOTYPE	light adaption phenotype
+GO:0036368PHENOTYPE	cone photoresponse recovery phenotype
+GO:0036372PHENOTYPE	opsin transport phenotype
+GO:0036466PHENOTYPE	synaptic vesicle recycling via endosome phenotype
+GO:0038092PHENOTYPE	nodal signaling pathway phenotype
+GO:0039021PHENOTYPE	pronephric glomerulus development phenotype
 GO:0039022PHENOTYPE	pronephric duct development phenotype
 GO:0039023PHENOTYPE	pronephric duct morphogenesis phenotype
+GO:0040001PHENOTYPE	establishment of mitotic spindle localization phenotype
+GO:0040007PHENOTYPE	growth phenotype
+GO:0040011PHENOTYPE	locomotion phenotype
 GO:0040016PHENOTYPE	embryonic cleavage phenotype
 GO:0040023PHENOTYPE	establishment of nucleus localization phenotype
 GO:0040036PHENOTYPE	regulation of fibroblast growth factor receptor signaling pathway phenotype
+GO:0040040PHENOTYPE	thermosensory behavior phenotype
+GO:0042044PHENOTYPE	fluid transport phenotype
+GO:0042060PHENOTYPE	wound healing phenotype
 GO:0042063PHENOTYPE	gliogenesis phenotype
 GO:0042073PHENOTYPE	intraciliary transport phenotype
 GO:0042074PHENOTYPE	cell migration involved in gastrulation phenotype
+GO:0042119PHENOTYPE	neutrophil activation phenotype
 GO:0042127PHENOTYPE	regulation of cell proliferation phenotype
 GO:0042166PHENOTYPE	acetylcholine binding phenotype
+GO:0042168PHENOTYPE	heme metabolic process phenotype
 GO:0042246PHENOTYPE	tissue regeneration phenotype
 GO:0042254PHENOTYPE	ribosome biogenesis phenotype
 GO:0042384PHENOTYPE	cilium assembly phenotype
+GO:0042416PHENOTYPE	dopamine biosynthetic process phenotype
+GO:0042427PHENOTYPE	serotonin biosynthetic process phenotype
 GO:0042438PHENOTYPE	melanin biosynthetic process phenotype
 GO:0042461PHENOTYPE	photoreceptor cell development phenotype
 GO:0042462PHENOTYPE	eye photoreceptor cell development phenotype
@@ -521,16 +792,24 @@ GO:0042476PHENOTYPE	odontogenesis phenotype
 GO:0042491PHENOTYPE	auditory receptor cell differentiation phenotype
 GO:0042541PHENOTYPE	hemoglobin biosynthetic process phenotype
 GO:0042552PHENOTYPE	myelination phenotype
+GO:0042572PHENOTYPE	retinol metabolic process phenotype
 GO:0042573PHENOTYPE	retinoic acid metabolic process phenotype
+GO:0042577PHENOTYPE	lipid phosphatase activity phenotype
 GO:0042592PHENOTYPE	homeostatic process phenotype
 GO:0042593PHENOTYPE	glucose homeostasis phenotype
+GO:0042663PHENOTYPE	regulation of endodermal cell fate specification phenotype
 GO:0042670PHENOTYPE	retinal cone cell differentiation phenotype
+GO:0042692PHENOTYPE	muscle cell differentiation phenotype
 GO:0042693PHENOTYPE	muscle cell fate commitment phenotype
 GO:0042694PHENOTYPE	muscle cell fate specification phenotype
+GO:0042742PHENOTYPE	defense response to bacterium phenotype
 GO:0042746PHENOTYPE	circadian sleep/wake cycle, wakefulness phenotype
 GO:0042752PHENOTYPE	regulation of circadian rhythm phenotype
+GO:0042769PHENOTYPE	DNA damage response, detection of DNA damage phenotype
 GO:0042771PHENOTYPE	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator phenotype
 GO:0042895PHENOTYPE	antibiotic transporter activity phenotype
+GO:0042981PHENOTYPE	regulation of apoptotic process phenotype
+GO:0043005PHENOTYPE	neuron projection phenotype
 GO:0043009PHENOTYPE	chordate embryonic development phenotype
 GO:0043010PHENOTYPE	camera-type eye development phenotype
 GO:0043049PHENOTYPE	otic placode formation phenotype
@@ -538,25 +817,41 @@ GO:0043060PHENOTYPE	meiotic metaphase I plate congression phenotype
 GO:0043065PHENOTYPE	positive regulation of apoptotic process phenotype
 GO:0043066PHENOTYPE	negative regulation of apoptotic process phenotype
 GO:0043113PHENOTYPE	receptor clustering phenotype
+GO:0043153PHENOTYPE	entrainment of circadian clock by photoperiod phenotype
 GO:0043161PHENOTYPE	proteasome-mediated ubiquitin-dependent protein catabolic process phenotype
+GO:0043206PHENOTYPE	extracellular fibril organization phenotype
 GO:0043249PHENOTYPE	erythrocyte maturation phenotype
 GO:0043280PHENOTYPE	positive regulation of cysteine-type endopeptidase activity involved in apoptotic process phenotype
+GO:0043281PHENOTYPE	regulation of cysteine-type endopeptidase activity involved in apoptotic process phenotype
+GO:0043282PHENOTYPE	pharyngeal muscle development phenotype
+GO:0043296PHENOTYPE	apical junction complex phenotype
 GO:0043362PHENOTYPE	nucleate erythrocyte maturation phenotype
 GO:0043363PHENOTYPE	nucleate erythrocyte differentiation phenotype
 GO:0043473PHENOTYPE	pigmentation phenotype
 GO:0043484PHENOTYPE	regulation of RNA splicing phenotype
 GO:0043487PHENOTYPE	regulation of RNA stability phenotype
+GO:0043523PHENOTYPE	regulation of neuron apoptotic process phenotype
+GO:0043534PHENOTYPE	blood vessel endothelial cell migration phenotype
+GO:0043535PHENOTYPE	regulation of blood vessel endothelial cell migration phenotype
 GO:0043570PHENOTYPE	maintenance of DNA repeat elements phenotype
 GO:0043576PHENOTYPE	regulation of respiratory gaseous exchange phenotype
 GO:0043583PHENOTYPE	ear development phenotype
 GO:0043584PHENOTYPE	nose development phenotype
 GO:0043589PHENOTYPE	skin morphogenesis phenotype
+GO:0043697PHENOTYPE	cell dedifferentiation phenotype
+GO:0043985PHENOTYPE	histone H4-R3 methylation phenotype
 GO:0044030PHENOTYPE	regulation of DNA methylation phenotype
 GO:0044241PHENOTYPE	lipid digestion phenotype
 GO:0044255PHENOTYPE	cellular lipid metabolic process phenotype
 GO:0044333PHENOTYPE	Wnt signaling pathway involved in digestive tract morphogenesis phenotype
+GO:0044342PHENOTYPE	type B pancreatic cell proliferation phenotype
+GO:0044381PHENOTYPE	glucose import in response to insulin stimulus phenotype
 GO:0044458PHENOTYPE	motile cilium assembly phenotype
 GO:0044767PHENOTYPE	single-organism developmental process phenotype
+GO:0044782PHENOTYPE	cilium organization phenotype
+GO:0045002PHENOTYPE	double-strand break repair via single-strand annealing phenotype
+GO:0045087PHENOTYPE	innate immune response phenotype
+GO:0045088PHENOTYPE	regulation of innate immune response phenotype
 GO:0045111PHENOTYPE	intermediate filament cytoskeleton phenotype
 GO:0045132PHENOTYPE	meiotic chromosome segregation phenotype
 GO:0045165PHENOTYPE	cell fate commitment phenotype
@@ -565,35 +860,56 @@ GO:0045187PHENOTYPE	regulation of circadian sleep/wake cycle, sleep phenotype
 GO:0045197PHENOTYPE	establishment or maintenance of epithelial cell apical/basal polarity phenotype
 GO:0045198PHENOTYPE	establishment of epithelial cell apical/basal polarity phenotype
 GO:0045199PHENOTYPE	maintenance of epithelial cell apical/basal polarity phenotype
+GO:0045202PHENOTYPE	synapse phenotype
 GO:0045214PHENOTYPE	sarcomere organization phenotype
+GO:0045217PHENOTYPE	cell-cell junction maintenance phenotype
 GO:0045299PHENOTYPE	otolith mineralization phenotype
+GO:0045333PHENOTYPE	cellular respiration phenotype
+GO:0045445PHENOTYPE	myoblast differentiation phenotype
 GO:0045471PHENOTYPE	response to ethanol phenotype
+GO:0045475PHENOTYPE	locomotor rhythm phenotype
 GO:0045494PHENOTYPE	photoreceptor cell maintenance phenotype
+GO:0045620PHENOTYPE	negative regulation of lymphocyte differentiation phenotype
 GO:0045637PHENOTYPE	regulation of myeloid cell differentiation phenotype
 GO:0045664PHENOTYPE	regulation of neuron differentiation phenotype
 GO:0045682PHENOTYPE	regulation of epidermis development phenotype
+GO:0045730PHENOTYPE	respiratory burst phenotype
 GO:0045746PHENOTYPE	negative regulation of Notch signaling pathway phenotype
 GO:0045765PHENOTYPE	regulation of angiogenesis phenotype
+GO:0045766PHENOTYPE	positive regulation of angiogenesis phenotype
 GO:0045786PHENOTYPE	negative regulation of cell cycle phenotype
 GO:0045787PHENOTYPE	positive regulation of cell cycle phenotype
 GO:0045839PHENOTYPE	negative regulation of mitotic nuclear division phenotype
+GO:0045859PHENOTYPE	regulation of protein kinase activity phenotype
 GO:0045879PHENOTYPE	negative regulation of smoothened signaling pathway phenotype
+GO:0045892PHENOTYPE	negative regulation of transcription, DNA-templated phenotype
 GO:0045893PHENOTYPE	positive regulation of transcription, DNA-templated phenotype
+GO:0045930PHENOTYPE	negative regulation of mitotic cell cycle phenotype
 GO:0045932PHENOTYPE	negative regulation of muscle contraction phenotype
+GO:0046154PHENOTYPE	rhodopsin metabolic process phenotype
+GO:0046323PHENOTYPE	glucose import phenotype
 GO:0046328PHENOTYPE	regulation of JNK cascade phenotype
 GO:0046530PHENOTYPE	photoreceptor cell differentiation phenotype
 GO:0046548PHENOTYPE	retinal rod cell development phenotype
 GO:0046549PHENOTYPE	retinal cone cell development phenotype
 GO:0046619PHENOTYPE	optic placode formation involved in camera-type eye formation phenotype
 GO:0046716PHENOTYPE	muscle cell cellular homeostasis phenotype
+GO:0046777PHENOTYPE	protein autophosphorylation phenotype
+GO:0046847PHENOTYPE	filopodium assembly phenotype
 GO:0046850PHENOTYPE	regulation of bone remodeling phenotype
 GO:0046856PHENOTYPE	phosphatidylinositol dephosphorylation phenotype
+GO:0046907PHENOTYPE	intracellular transport phenotype
+GO:0046921PHENOTYPE	alpha-(1->6)-fucosyltransferase activity phenotype
 GO:0046959PHENOTYPE	habituation phenotype
+GO:0046974PHENOTYPE	histone methyltransferase activity (H3-K9 specific) phenotype
+GO:0047173PHENOTYPE	phosphatidylcholine-retinol O-acyltransferase activity phenotype
 GO:0048048PHENOTYPE	embryonic eye morphogenesis phenotype
 GO:0048066PHENOTYPE	developmental pigmentation phenotype
 GO:0048069PHENOTYPE	eye pigmentation phenotype
 GO:0048168PHENOTYPE	regulation of neuronal synaptic plasticity phenotype
+GO:0048193PHENOTYPE	Golgi vesicle transport phenotype
 GO:0048246PHENOTYPE	macrophage chemotaxis phenotype
+GO:0048255PHENOTYPE	mRNA stabilization phenotype
 GO:0048264PHENOTYPE	determination of ventral identity phenotype
 GO:0048318PHENOTYPE	axial mesoderm development phenotype
 GO:0048319PHENOTYPE	axial mesoderm morphogenesis phenotype
@@ -602,7 +918,11 @@ GO:0048327PHENOTYPE	axial mesodermal cell fate specification phenotype
 GO:0048331PHENOTYPE	axial mesoderm structural organization phenotype
 GO:0048332PHENOTYPE	mesoderm morphogenesis phenotype
 GO:0048339PHENOTYPE	paraxial mesoderm development phenotype
+GO:0048342PHENOTYPE	paraxial mesodermal cell differentiation phenotype
+GO:0048348PHENOTYPE	paraxial mesodermal cell fate specification phenotype
+GO:0048368PHENOTYPE	lateral mesoderm development phenotype
 GO:0048382PHENOTYPE	mesendoderm development phenotype
+GO:0048384PHENOTYPE	retinoic acid receptor signaling pathway phenotype
 GO:0048389PHENOTYPE	intermediate mesoderm development phenotype
 GO:0048484PHENOTYPE	enteric nervous system development phenotype
 GO:0048485PHENOTYPE	sympathetic nervous system development phenotype
@@ -612,18 +932,25 @@ GO:0048534PHENOTYPE	hematopoietic or lymphoid organ development phenotype
 GO:0048538PHENOTYPE	thymus development phenotype
 GO:0048546PHENOTYPE	digestive tract morphogenesis phenotype
 GO:0048557PHENOTYPE	embryonic digestive tract morphogenesis phenotype
+GO:0048562PHENOTYPE	embryonic organ morphogenesis phenotype
 GO:0048565PHENOTYPE	digestive tract development phenotype
 GO:0048566PHENOTYPE	embryonic digestive tract development phenotype
 GO:0048568PHENOTYPE	embryonic organ development phenotype
 GO:0048570PHENOTYPE	notochord morphogenesis phenotype
+GO:0048589PHENOTYPE	developmental growth phenotype
 GO:0048592PHENOTYPE	eye morphogenesis phenotype
 GO:0048593PHENOTYPE	camera-type eye morphogenesis phenotype
 GO:0048596PHENOTYPE	embryonic camera-type eye morphogenesis phenotype
+GO:0048598PHENOTYPE	embryonic morphogenesis phenotype
 GO:0048599PHENOTYPE	oocyte development phenotype
+GO:0048644PHENOTYPE	muscle organ morphogenesis phenotype
 GO:0048663PHENOTYPE	neuron fate commitment phenotype
 GO:0048665PHENOTYPE	neuron fate specification phenotype
 GO:0048666PHENOTYPE	neuron development phenotype
+GO:0048668PHENOTYPE	collateral sprouting phenotype
+GO:0048670PHENOTYPE	regulation of collateral sprouting phenotype
 GO:0048675PHENOTYPE	axon extension phenotype
+GO:0048677PHENOTYPE	axon extension involved in regeneration phenotype
 GO:0048696PHENOTYPE	regulation of collateral sprouting in absence of injury phenotype
 GO:0048699PHENOTYPE	generation of neurons phenotype
 GO:0048701PHENOTYPE	embryonic cranial skeleton morphogenesis phenotype
@@ -638,9 +965,12 @@ GO:0048738PHENOTYPE	cardiac muscle tissue development phenotype
 GO:0048741PHENOTYPE	skeletal muscle fiber development phenotype
 GO:0048745PHENOTYPE	smooth muscle tissue development phenotype
 GO:0048747PHENOTYPE	muscle fiber development phenotype
+GO:0048749PHENOTYPE	compound eye development phenotype
 GO:0048752PHENOTYPE	semicircular canal morphogenesis phenotype
+GO:0048755PHENOTYPE	branching morphogenesis of a nerve phenotype
 GO:0048757PHENOTYPE	pigment granule maturation phenotype
 GO:0048769PHENOTYPE	sarcomerogenesis phenotype
+GO:0048785PHENOTYPE	hatching gland development phenotype
 GO:0048793PHENOTYPE	pronephros development phenotype
 GO:0048794PHENOTYPE	swim bladder development phenotype
 GO:0048795PHENOTYPE	swim bladder morphogenesis phenotype
@@ -649,43 +979,66 @@ GO:0048812PHENOTYPE	neuron projection morphogenesis phenotype
 GO:0048813PHENOTYPE	dendrite morphogenesis phenotype
 GO:0048814PHENOTYPE	regulation of dendrite morphogenesis phenotype
 GO:0048821PHENOTYPE	erythrocyte development phenotype
+GO:0048823PHENOTYPE	nucleate erythrocyte development phenotype
 GO:0048839PHENOTYPE	inner ear development phenotype
 GO:0048840PHENOTYPE	otolith development phenotype
 GO:0048844PHENOTYPE	artery morphogenesis phenotype
 GO:0048845PHENOTYPE	venous blood vessel morphogenesis phenotype
 GO:0048846PHENOTYPE	axon extension involved in axon guidance phenotype
+GO:0048853PHENOTYPE	forebrain morphogenesis phenotype
 GO:0048854PHENOTYPE	brain morphogenesis phenotype
 GO:0048855PHENOTYPE	adenohypophysis morphogenesis phenotype
 GO:0048859PHENOTYPE	formation of anatomical boundary phenotype
 GO:0048865PHENOTYPE	stem cell fate commitment phenotype
+GO:0048870PHENOTYPE	cell motility phenotype
+GO:0048871PHENOTYPE	multicellular organismal homeostasis phenotype
+GO:0048873PHENOTYPE	homeostasis of number of cells within a tissue phenotype
 GO:0048881PHENOTYPE	mechanosensory lateral line system development phenotype
 GO:0048882PHENOTYPE	lateral line development phenotype
+GO:0048883PHENOTYPE	neuromast primordium migration phenotype
 GO:0048884PHENOTYPE	neuromast development phenotype
+GO:0048885PHENOTYPE	neuromast deposition phenotype
+GO:0048886PHENOTYPE	neuromast hair cell differentiation phenotype
 GO:0048892PHENOTYPE	lateral line nerve development phenotype
 GO:0048899PHENOTYPE	anterior lateral line development phenotype
+GO:0048901PHENOTYPE	anterior lateral line neuromast development phenotype
+GO:0048909PHENOTYPE	anterior lateral line nerve development phenotype
 GO:0048914PHENOTYPE	myelination of anterior lateral line nerve axons phenotype
+GO:0048915PHENOTYPE	posterior lateral line system development phenotype
 GO:0048916PHENOTYPE	posterior lateral line development phenotype
 GO:0048918PHENOTYPE	posterior lateral line nerve development phenotype
 GO:0048919PHENOTYPE	posterior lateral line neuromast development phenotype
 GO:0048920PHENOTYPE	posterior lateral line neuromast primordium migration phenotype
 GO:0048922PHENOTYPE	posterior lateral line neuromast deposition phenotype
+GO:0048923PHENOTYPE	posterior lateral line neuromast hair cell differentiation phenotype
+GO:0048925PHENOTYPE	lateral line system development phenotype
 GO:0048929PHENOTYPE	efferent axon development in posterior lateral line nerve phenotype
 GO:0048932PHENOTYPE	myelination of posterior lateral line nerve axons phenotype
 GO:0048933PHENOTYPE	afferent axon development in posterior lateral line nerve phenotype
 GO:0048935PHENOTYPE	peripheral nervous system neuron development phenotype
 GO:0048936PHENOTYPE	peripheral nervous system neuron axonogenesis phenotype
+GO:0048937PHENOTYPE	lateral line nerve glial cell development phenotype
 GO:0050650PHENOTYPE	chondroitin sulfate proteoglycan biosynthetic process phenotype
+GO:0050665PHENOTYPE	hydrogen peroxide biosynthetic process phenotype
 GO:0050670PHENOTYPE	regulation of lymphocyte proliferation phenotype
+GO:0050673PHENOTYPE	epithelial cell proliferation phenotype
+GO:0050678PHENOTYPE	regulation of epithelial cell proliferation phenotype
 GO:0050680PHENOTYPE	negative regulation of epithelial cell proliferation phenotype
+GO:0050688PHENOTYPE	regulation of defense response to virus phenotype
+GO:0050727PHENOTYPE	regulation of inflammatory response phenotype
 GO:0050728PHENOTYPE	negative regulation of inflammatory response phenotype
 GO:0050767PHENOTYPE	regulation of neurogenesis phenotype
 GO:0050768PHENOTYPE	negative regulation of neurogenesis phenotype
+GO:0050801PHENOTYPE	ion homeostasis phenotype
 GO:0050803PHENOTYPE	regulation of synapse structure or activity phenotype
 GO:0050808PHENOTYPE	synapse organization phenotype
+GO:0050832PHENOTYPE	defense response to fungus phenotype
+GO:0050848PHENOTYPE	regulation of calcium-mediated signaling phenotype
 GO:0050880PHENOTYPE	regulation of blood vessel size phenotype
 GO:0050881PHENOTYPE	musculoskeletal movement phenotype
 GO:0050885PHENOTYPE	neuromuscular process controlling balance phenotype
 GO:0050890PHENOTYPE	cognition phenotype
+GO:0050900PHENOTYPE	leukocyte migration phenotype
 GO:0050908PHENOTYPE	detection of light stimulus involved in visual perception phenotype
 GO:0050910PHENOTYPE	detection of mechanical stimulus involved in sensory perception of sound phenotype
 GO:0050931PHENOTYPE	pigment cell differentiation phenotype
@@ -699,20 +1052,30 @@ GO:0050996PHENOTYPE	positive regulation of lipid catabolic process phenotype
 GO:0051026PHENOTYPE	chiasma assembly phenotype
 GO:0051124PHENOTYPE	synaptic growth at neuromuscular junction phenotype
 GO:0051146PHENOTYPE	striated muscle cell differentiation phenotype
+GO:0051209PHENOTYPE	release of sequestered calcium ion into cytosol phenotype
 GO:0051216PHENOTYPE	cartilage development phenotype
 GO:0051225PHENOTYPE	spindle assembly phenotype
 GO:0051236PHENOTYPE	establishment of RNA localization phenotype
 GO:0051276PHENOTYPE	chromosome organization phenotype
 GO:0051298PHENOTYPE	centrosome duplication phenotype
 GO:0051301PHENOTYPE	cell division phenotype
+GO:0051302PHENOTYPE	regulation of cell division phenotype
 GO:0051311PHENOTYPE	meiotic metaphase plate congression phenotype
+GO:0051402PHENOTYPE	neuron apoptotic process phenotype
+GO:0051480PHENOTYPE	cytosolic calcium ion homeostasis phenotype
+GO:0051567PHENOTYPE	histone H3-K9 methylation phenotype
+GO:0051597PHENOTYPE	response to methylmercury phenotype
+GO:0051607PHENOTYPE	defense response to virus phenotype
 GO:0051648PHENOTYPE	vesicle localization phenotype
 GO:0051726PHENOTYPE	regulation of cell cycle phenotype
 GO:0051782PHENOTYPE	negative regulation of cell division phenotype
 GO:0051875PHENOTYPE	pigment granule localization phenotype
 GO:0051876PHENOTYPE	pigment granule dispersal phenotype
 GO:0051877PHENOTYPE	pigment granule aggregation in cell center phenotype
+GO:0051923PHENOTYPE	sulfation phenotype
+GO:0051960PHENOTYPE	regulation of nervous system development phenotype
 GO:0051966PHENOTYPE	regulation of synaptic transmission, glutamatergic phenotype
+GO:0051969PHENOTYPE	regulation of transmission of nerve impulse phenotype
 GO:0055001PHENOTYPE	muscle cell development phenotype
 GO:0055002PHENOTYPE	striated muscle cell development phenotype
 GO:0055003PHENOTYPE	cardiac myofibril assembly phenotype
@@ -721,11 +1084,17 @@ GO:0055007PHENOTYPE	cardiac muscle cell differentiation phenotype
 GO:0055008PHENOTYPE	cardiac muscle tissue morphogenesis phenotype
 GO:0055010PHENOTYPE	ventricular cardiac muscle tissue morphogenesis phenotype
 GO:0055011PHENOTYPE	atrial cardiac muscle cell differentiation phenotype
+GO:0055012PHENOTYPE	ventricular cardiac muscle cell differentiation phenotype
 GO:0055013PHENOTYPE	cardiac muscle cell development phenotype
+GO:0055015PHENOTYPE	ventricular cardiac muscle cell development phenotype
 GO:0055016PHENOTYPE	hypochord development phenotype
 GO:0055062PHENOTYPE	phosphate ion homeostasis phenotype
+GO:0055064PHENOTYPE	chloride ion homeostasis phenotype
+GO:0055069PHENOTYPE	zinc ion homeostasis phenotype
+GO:0055072PHENOTYPE	iron ion homeostasis phenotype
 GO:0055074PHENOTYPE	calcium ion homeostasis phenotype
 GO:0055077PHENOTYPE	gap junction hemi-channel activity phenotype
+GO:0055078PHENOTYPE	sodium ion homeostasis phenotype
 GO:0055088PHENOTYPE	lipid homeostasis phenotype
 GO:0055109PHENOTYPE	invagination involved in gastrulation with mouth forming second phenotype
 GO:0055113PHENOTYPE	epiboly involved in gastrulation with mouth forming second phenotype
@@ -748,6 +1117,7 @@ GO:0060047PHENOTYPE	heart contraction phenotype
 GO:0060048PHENOTYPE	cardiac muscle contraction phenotype
 GO:0060059PHENOTYPE	embryonic retina morphogenesis in camera-type eye phenotype
 GO:0060070PHENOTYPE	canonical Wnt signaling pathway phenotype
+GO:0060074PHENOTYPE	synapse maturation phenotype
 GO:0060080PHENOTYPE	inhibitory postsynaptic potential phenotype
 GO:0060092PHENOTYPE	regulation of synaptic transmission, glycinergic phenotype
 GO:0060113PHENOTYPE	inner ear receptor cell differentiation phenotype
@@ -755,71 +1125,113 @@ GO:0060117PHENOTYPE	auditory receptor cell development phenotype
 GO:0060118PHENOTYPE	vestibular receptor cell development phenotype
 GO:0060119PHENOTYPE	inner ear receptor cell development phenotype
 GO:0060122PHENOTYPE	inner ear receptor stereocilium organization phenotype
+GO:0060128PHENOTYPE	corticotropin hormone secreting cell differentiation phenotype
 GO:0060215PHENOTYPE	primitive hemopoiesis phenotype
 GO:0060216PHENOTYPE	definitive hemopoiesis phenotype
+GO:0060217PHENOTYPE	hemangioblast cell differentiation phenotype
 GO:0060218PHENOTYPE	hematopoietic stem cell differentiation phenotype
 GO:0060219PHENOTYPE	camera-type eye photoreceptor cell differentiation phenotype
+GO:0060221PHENOTYPE	retinal rod cell differentiation phenotype
 GO:0060242PHENOTYPE	contact inhibition phenotype
 GO:0060249PHENOTYPE	anatomical structure homeostasis phenotype
 GO:0060271PHENOTYPE	cilium morphogenesis phenotype
+GO:0060272PHENOTYPE	embryonic skeletal joint morphogenesis phenotype
+GO:0060285PHENOTYPE	cilium-dependent cell motility phenotype
 GO:0060287PHENOTYPE	epithelial cilium movement involved in determination of left/right asymmetry phenotype
 GO:0060294PHENOTYPE	cilium movement involved in cell motility phenotype
 GO:0060307PHENOTYPE	regulation of ventricular cardiac muscle cell membrane repolarization phenotype
+GO:0060312PHENOTYPE	regulation of blood vessel remodeling phenotype
+GO:0060319PHENOTYPE	primitive erythrocyte differentiation phenotype
 GO:0060322PHENOTYPE	head development phenotype
 GO:0060323PHENOTYPE	head morphogenesis phenotype
+GO:0060324PHENOTYPE	face development phenotype
 GO:0060325PHENOTYPE	face morphogenesis phenotype
 GO:0060347PHENOTYPE	heart trabecula formation phenotype
 GO:0060348PHENOTYPE	bone development phenotype
 GO:0060349PHENOTYPE	bone morphogenesis phenotype
 GO:0060351PHENOTYPE	cartilage development involved in endochondral bone morphogenesis phenotype
 GO:0060363PHENOTYPE	cranial suture morphogenesis phenotype
+GO:0060385PHENOTYPE	axonogenesis involved in innervation phenotype
+GO:0060386PHENOTYPE	synapse assembly involved in innervation phenotype
+GO:0060415PHENOTYPE	muscle tissue morphogenesis phenotype
+GO:0060429PHENOTYPE	epithelium development phenotype
 GO:0060471PHENOTYPE	cortical granule exocytosis phenotype
+GO:0060491PHENOTYPE	regulation of cell projection assembly phenotype
 GO:0060536PHENOTYPE	cartilage morphogenesis phenotype
 GO:0060538PHENOTYPE	skeletal muscle organ development phenotype
+GO:0060541PHENOTYPE	respiratory system development phenotype
+GO:0060548PHENOTYPE	negative regulation of cell death phenotype
 GO:0060575PHENOTYPE	intestinal epithelial cell differentiation phenotype
 GO:0060612PHENOTYPE	adipose tissue development phenotype
 GO:0060729PHENOTYPE	intestinal epithelial structure maintenance phenotype
 GO:0060784PHENOTYPE	regulation of cell proliferation involved in tissue homeostasis phenotype
 GO:0060785PHENOTYPE	regulation of apoptosis involved in tissue homeostasis phenotype
 GO:0060788PHENOTYPE	ectodermal placode formation phenotype
+GO:0060803PHENOTYPE	BMP signaling pathway involved in mesodermal cell fate specification phenotype
+GO:0060809PHENOTYPE	mesodermal to mesenchymal transition involved in gastrulation phenotype
 GO:0060823PHENOTYPE	canonical Wnt signaling pathway involved in neural plate anterior/posterior pattern formation phenotype
 GO:0060828PHENOTYPE	regulation of canonical Wnt signaling pathway phenotype
+GO:0060831PHENOTYPE	smoothened signaling pathway involved in dorsal/ventral neural tube patterning phenotype
 GO:0060832PHENOTYPE	oocyte animal/vegetal axis specification phenotype
+GO:0060837PHENOTYPE	blood vessel endothelial cell differentiation phenotype
 GO:0060840PHENOTYPE	artery development phenotype
 GO:0060841PHENOTYPE	venous blood vessel development phenotype
+GO:0060847PHENOTYPE	endothelial cell fate specification phenotype
+GO:0060852PHENOTYPE	regulation of transcription involved in venous endothelial cell fate commitment phenotype
+GO:0060854PHENOTYPE	patterning of lymph vessels phenotype
 GO:0060855PHENOTYPE	venous endothelial cell migration involved in lymph vessel development phenotype
 GO:0060872PHENOTYPE	semicircular canal development phenotype
+GO:0060875PHENOTYPE	lateral semicircular canal development phenotype
 GO:0060876PHENOTYPE	semicircular canal formation phenotype
 GO:0060879PHENOTYPE	semicircular canal fusion phenotype
 GO:0060896PHENOTYPE	neural plate pattern specification phenotype
 GO:0060898PHENOTYPE	eye field cell fate commitment involved in camera-type eye formation phenotype
 GO:0060914PHENOTYPE	heart formation phenotype
 GO:0060956PHENOTYPE	endocardial cell differentiation phenotype
+GO:0060964PHENOTYPE	regulation of gene silencing by miRNA phenotype
 GO:0060971PHENOTYPE	embryonic heart tube left/right pattern formation phenotype
 GO:0060972PHENOTYPE	left/right pattern formation phenotype
 GO:0060973PHENOTYPE	cell migration involved in heart development phenotype
 GO:0060974PHENOTYPE	cell migration involved in heart formation phenotype
 GO:0060975PHENOTYPE	cardioblast migration to the midline involved in heart field formation phenotype
+GO:0061007PHENOTYPE	hepaticobiliary system process phenotype
 GO:0061008PHENOTYPE	hepaticobiliary system development phenotype
 GO:0061009PHENOTYPE	common bile duct development phenotype
 GO:0061010PHENOTYPE	gall bladder development phenotype
 GO:0061011PHENOTYPE	hepatic duct development phenotype
 GO:0061026PHENOTYPE	cardiac muscle tissue regeneration phenotype
+GO:0061028PHENOTYPE	establishment of endothelial barrier phenotype
 GO:0061031PHENOTYPE	endodermal digestive tract morphogenesis phenotype
 GO:0061035PHENOTYPE	regulation of cartilage development phenotype
 GO:0061053PHENOTYPE	somite development phenotype
+GO:0061055PHENOTYPE	myotome development phenotype
+GO:0061056PHENOTYPE	sclerotome development phenotype
+GO:0061061PHENOTYPE	muscle structure development phenotype
+GO:0061074PHENOTYPE	regulation of neural retina development phenotype
 GO:0061195PHENOTYPE	taste bud formation phenotype
+GO:0061298PHENOTYPE	retina vasculature development in camera-type eye phenotype
 GO:0061299PHENOTYPE	retina vasculature morphogenesis in camera-type eye phenotype
+GO:0061300PHENOTYPE	cerebellum vasculature development phenotype
 GO:0061303PHENOTYPE	cornea development in camera-type eye phenotype
 GO:0061304PHENOTYPE	retinal blood vessel morphogenesis phenotype
+GO:0061312PHENOTYPE	BMP signaling pathway involved in heart development phenotype
+GO:0061326PHENOTYPE	renal tubule development phenotype
+GO:0061337PHENOTYPE	cardiac conduction phenotype
+GO:0061351PHENOTYPE	neural precursor cell proliferation phenotype
+GO:0061355PHENOTYPE	Wnt protein secretion phenotype
 GO:0061371PHENOTYPE	determination of heart left/right asymmetry phenotype
+GO:0061386PHENOTYPE	closure of optic fissure phenotype
 GO:0061472PHENOTYPE	karyomere membrane fusion phenotype
 GO:0061484PHENOTYPE	hematopoietic stem cell homeostasis phenotype
 GO:0061515PHENOTYPE	myeloid cell development phenotype
+GO:0061549PHENOTYPE	sympathetic ganglion development phenotype
 GO:0061550PHENOTYPE	cranial ganglion development phenotype
 GO:0061564PHENOTYPE	axon development phenotype
+GO:0061626PHENOTYPE	pharyngeal arch artery morphogenesis phenotype
 GO:0070050PHENOTYPE	neuron cellular homeostasis phenotype
 GO:0070054PHENOTYPE	mRNA splicing, via endonucleolytic cleavage and ligation phenotype
+GO:0070059PHENOTYPE	intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress phenotype
+GO:0070073PHENOTYPE	clustering of voltage-gated calcium channels phenotype
 GO:0070121PHENOTYPE	Kupffer's vesicle development phenotype
 GO:0070278PHENOTYPE	extracellular matrix constituent secretion phenotype
 GO:0070285PHENOTYPE	pigment cell development phenotype
@@ -828,14 +1240,26 @@ GO:0070293PHENOTYPE	renal absorption phenotype
 GO:0070306PHENOTYPE	lens fiber cell differentiation phenotype
 GO:0070309PHENOTYPE	lens fiber cell morphogenesis phenotype
 GO:0070365PHENOTYPE	hepatocyte differentiation phenotype
+GO:0070374PHENOTYPE	positive regulation of ERK1 and ERK2 cascade phenotype
 GO:0070444PHENOTYPE	oligodendrocyte progenitor proliferation phenotype
 GO:0070445PHENOTYPE	regulation of oligodendrocyte progenitor proliferation phenotype
+GO:0070509PHENOTYPE	calcium ion import phenotype
+GO:0070527PHENOTYPE	platelet aggregation phenotype
+GO:0070586PHENOTYPE	cell-cell adhesion involved in gastrulation phenotype
+GO:0070650PHENOTYPE	actin filament bundle distribution phenotype
 GO:0070654PHENOTYPE	sensory epithelium regeneration phenotype
 GO:0070658PHENOTYPE	neuromast hair cell differentiation involved in neuromast regeneration phenotype
 GO:0070738PHENOTYPE	tubulin-glycine ligase activity phenotype
+GO:0070740PHENOTYPE	tubulin-glutamic acid ligase activity phenotype
 GO:0070831PHENOTYPE	basement membrane assembly phenotype
+GO:0070983PHENOTYPE	dendrite guidance phenotype
+GO:0070986PHENOTYPE	left/right axis specification phenotype
+GO:0070989PHENOTYPE	oxidative demethylation phenotype
 GO:0071340PHENOTYPE	skeletal muscle acetylcholine-gated channel clustering phenotype
+GO:0071407PHENOTYPE	cellular response to organic cyclic compound phenotype
+GO:0071479PHENOTYPE	cellular response to ionizing radiation phenotype
 GO:0071482PHENOTYPE	cellular response to light stimulus phenotype
+GO:0071539PHENOTYPE	protein localization to centrosome phenotype
 GO:0071542PHENOTYPE	dopaminergic neuron differentiation phenotype
 GO:0071599PHENOTYPE	otic vesicle development phenotype
 GO:0071600PHENOTYPE	otic vesicle morphogenesis phenotype
@@ -844,17 +1268,30 @@ GO:0071678PHENOTYPE	olfactory bulb axon guidance phenotype
 GO:0071679PHENOTYPE	commissural neuron axon guidance phenotype
 GO:0071688PHENOTYPE	striated muscle myosin thick filament assembly phenotype
 GO:0071690PHENOTYPE	cardiac muscle myosin thick filament assembly phenotype
+GO:0071696PHENOTYPE	ectodermal placode development phenotype
 GO:0071698PHENOTYPE	olfactory placode development phenotype
+GO:0071699PHENOTYPE	olfactory placode morphogenesis phenotype
 GO:0071711PHENOTYPE	basement membrane organization phenotype
+GO:0071733PHENOTYPE	transcriptional activation by promoter-enhancer looping phenotype
+GO:0071871PHENOTYPE	response to epinephrine phenotype
+GO:0071896PHENOTYPE	protein localization to adherens junction phenotype
 GO:0071907PHENOTYPE	determination of digestive tract left/right asymmetry phenotype
 GO:0071908PHENOTYPE	determination of intestine left/right asymmetry phenotype
 GO:0071910PHENOTYPE	determination of liver left/right asymmetry phenotype
+GO:0071911PHENOTYPE	synchronous neurotransmitter secretion phenotype
+GO:0071929PHENOTYPE	alpha-tubulin acetylation phenotype
+GO:0072001PHENOTYPE	renal system development phenotype
 GO:0072015PHENOTYPE	glomerular visceral epithelial cell development phenotype
+GO:0072019PHENOTYPE	proximal convoluted tubule development phenotype
 GO:0072045PHENOTYPE	convergent extension involved in nephron morphogenesis phenotype
+GO:0072046PHENOTYPE	establishment of planar polarity involved in nephron morphogenesis phenotype
+GO:0072078PHENOTYPE	nephron tubule morphogenesis phenotype
 GO:0072091PHENOTYPE	regulation of stem cell proliferation phenotype
 GO:0072104PHENOTYPE	glomerular capillary formation phenotype
+GO:0072112PHENOTYPE	glomerular visceral epithelial cell differentiation phenotype
 GO:0072114PHENOTYPE	pronephros morphogenesis phenotype
 GO:0072175PHENOTYPE	epithelial tube formation phenotype
+GO:0072196PHENOTYPE	proximal/distal pattern formation involved in pronephric nephron development phenotype
 GO:0072332PHENOTYPE	intrinsic apoptotic signaling pathway by p53 class mediator phenotype
 GO:0072358PHENOTYPE	cardiovascular system development phenotype
 GO:0072378PHENOTYPE	blood coagulation, fibrin clot formation phenotype
@@ -865,31 +1302,73 @@ GO:0072574PHENOTYPE	hepatocyte proliferation phenotype
 GO:0072576PHENOTYPE	liver morphogenesis phenotype
 GO:0072593PHENOTYPE	reactive oxygen species metabolic process phenotype
 GO:0072659PHENOTYPE	protein localization to plasma membrane phenotype
+GO:0072679PHENOTYPE	thymocyte migration phenotype
 GO:0085029PHENOTYPE	extracellular matrix assembly phenotype
+GO:0086004PHENOTYPE	regulation of cardiac muscle cell contraction phenotype
 GO:0086009PHENOTYPE	membrane repolarization phenotype
+GO:0086013PHENOTYPE	membrane repolarization during cardiac muscle cell action potential phenotype
+GO:0090017PHENOTYPE	anterior neural plate formation phenotype
 GO:0090090PHENOTYPE	negative regulation of canonical Wnt signaling pathway phenotype
 GO:0090104PHENOTYPE	pancreatic epsilon cell differentiation phenotype
+GO:0090134PHENOTYPE	cell migration involved in mesendoderm migration phenotype
+GO:0090150PHENOTYPE	establishment of protein localization to membrane phenotype
+GO:0090171PHENOTYPE	chondrocyte morphogenesis phenotype
+GO:0090242PHENOTYPE	retinoic acid receptor signaling pathway involved in somitogenesis phenotype
+GO:0090243PHENOTYPE	fibroblast growth factor receptor signaling pathway involved in somitogenesis phenotype
+GO:0090245PHENOTYPE	axis elongation involved in somitogenesis phenotype
 GO:0090248PHENOTYPE	cell migration involved in somitogenic axis elongation phenotype
 GO:0090307PHENOTYPE	mitotic spindle assembly phenotype
+GO:0090398PHENOTYPE	cellular senescence phenotype
 GO:0090504PHENOTYPE	epiboly phenotype
 GO:0090594PHENOTYPE	inflammatory response to wounding phenotype
 GO:0097009PHENOTYPE	energy homeostasis phenotype
+GO:0097095PHENOTYPE	frontonasal suture morphogenesis phenotype
 GO:0097150PHENOTYPE	neuronal stem cell population maintenance phenotype
+GO:0097154PHENOTYPE	GABAergic neuron differentiation phenotype
+GO:0097155PHENOTYPE	fasciculation of sensory neuron axon phenotype
+GO:0097193PHENOTYPE	intrinsic apoptotic signaling pathway phenotype
+GO:0097205PHENOTYPE	renal filtration phenotype
+GO:0097272PHENOTYPE	ammonia homeostasis phenotype
 GO:0097324PHENOTYPE	melanocyte migration phenotype
+GO:0097325PHENOTYPE	melanocyte proliferation phenotype
 GO:0097352PHENOTYPE	autophagosome maturation phenotype
+GO:0097369PHENOTYPE	sodium ion import phenotype
 GO:0097374PHENOTYPE	sensory neuron axon guidance phenotype
 GO:0097475PHENOTYPE	motor neuron migration phenotype
 GO:0097535PHENOTYPE	lymphoid lineage cell migration into thymus phenotype
+GO:0098508PHENOTYPE	endothelial to hematopoietic transition phenotype
 GO:0098609PHENOTYPE	cell-cell adhesion phenotype
+GO:0098727PHENOTYPE	maintenance of cell number phenotype
+GO:0098749PHENOTYPE	cerebellar neuron development phenotype
+GO:0098754PHENOTYPE	detoxification phenotype
 GO:0098773PHENOTYPE	skin epidermis development phenotype
+GO:0098793PHENOTYPE	presynapse phenotype
+GO:0098900PHENOTYPE	regulation of action potential phenotype
+GO:1900107PHENOTYPE	regulation of nodal signaling pathway phenotype
+GO:1900746PHENOTYPE	regulation of vascular endothelial growth factor signaling pathway phenotype
+GO:1900748PHENOTYPE	positive regulation of vascular endothelial growth factor signaling pathway phenotype
+GO:1901166PHENOTYPE	neural crest cell migration involved in autonomic nervous system development phenotype
+GO:1901214PHENOTYPE	regulation of neuron death phenotype
+GO:1901342PHENOTYPE	regulation of vasculature development phenotype
+GO:1901343PHENOTYPE	negative regulation of vasculature development phenotype
+GO:1902176PHENOTYPE	negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway phenotype
 GO:1902354PHENOTYPE	blood vessel endothelial cell delamination involved in blood vessel lumen ensheathment phenotype
 GO:1902355PHENOTYPE	endothelial tube lumen extension involved in blood vessel lumen ensheathment phenotype
 GO:1902362PHENOTYPE	melanocyte apoptotic process phenotype
 GO:1903041PHENOTYPE	regulation of chondrocyte hypertrophy phenotype
 GO:1903045PHENOTYPE	neural crest cell migration involved in sympathetic nervous system development phenotype
+GO:1903224PHENOTYPE	regulation of endodermal cell differentiation phenotype
+GO:1903426PHENOTYPE	regulation of reactive oxygen species biosynthetic process phenotype
 GO:1903706PHENOTYPE	regulation of hemopoiesis phenotype
+GO:1903707PHENOTYPE	negative regulation of hemopoiesis phenotype
+GO:1990126PHENOTYPE	retrograde transport, endosome to plasma membrane phenotype
+GO:1990266PHENOTYPE	neutrophil migration phenotype
+GO:1990523PHENOTYPE	bone regeneration phenotype
 GO:2000021PHENOTYPE	regulation of ion homeostasis phenotype
+GO:2000145PHENOTYPE	regulation of cell motility phenotype
+GO:2000252PHENOTYPE	negative regulation of feeding behavior phenotype
 GO:2000310PHENOTYPE	regulation of N-methyl-D-aspartate selective glutamate receptor activity phenotype
+GO:2000377PHENOTYPE	regulation of reactive oxygen species metabolic process phenotype
 HP:0000504	Abnormality of vision
 HP:0000505	Visual impairment
 HP:0000618	Blindness
@@ -898,9 +1377,9 @@ HP:0001508	Failure to thrive
 HP:0001510	Growth delay
 HP:0001511	Intrauterine growth retardation
 HP:0002067	Bradykinesia
-HP:0003115	Abnormal EKG
 HP:0010831	Impaired proprioception
 HP:0011028	Abnormality of blood circulation
+HP:0011675	Arrhythmia
 MP:0000060	delayed bone ossification
 MP:0000118	arrest of tooth development
 MP:0001155	arrest of spermatogenesis
@@ -1732,7 +2211,7 @@ ZP:0000869	abnormal(ly) shortened whole organism anterior-posterior axis
 ZP:0000870	abnormal(ly) disrupted ossification
 ZP:0000871	abnormal(ly) disrupted embryonic viscerocranium morphogenesis
 ZP:0000872	abnormal(ly) disrupted cartilage morphogenesis
-ZP:0000873	abnormal(ly) present in fewer numbers in organism otic lateral line neuromast
+ZP:0000873	abnormal(ly) decreased amount otic lateral line neuromast
 ZP:0000874	abnormal(ly) decreased length cleithrum
 ZP:0000875	abnormal(ly) malformed cleithrum
 ZP:0000876	abnormal(ly) malformed dentary
@@ -1883,7 +2362,7 @@ ZP:0001033	abnormal(ly) amplitude larval locomotory behavior
 ZP:0001034	abnormal(ly) increased frequency larval locomotory behavior
 ZP:0001035	abnormal(ly) increased occurrence collateral sprouting
 ZP:0001036	abnormal(ly) increased speed whole organism
-ZP:0001037	abnormal(ly) decreased amount motor neuron
+ZP:0001037	abnormal(ly) present in fewer numbers in organism motor neuron
 ZP:0001038	abnormal(ly) present in greater numbers in organism motor neuron axon collateral
 ZP:0001039	abnormal(ly) disrupted cartilage development
 ZP:0001040	abnormal(ly) decreased size dentary
@@ -1961,7 +2440,7 @@ ZP:0001111	abnormal(ly) present in fewer numbers in organism iridophore
 ZP:0001112	abnormal(ly) physical object quality hypothalamus
 ZP:0001113	abnormal(ly) has fewer parts of type hypothalamus towards neurosecretory neuron
 ZP:0001114	abnormal(ly) has fewer parts of type hypothalamus towards dopaminergic neuron
-ZP:0001115	abnormal(ly) decreased amount diencephalon dopaminergic neuron
+ZP:0001115	abnormal(ly) present in fewer numbers in organism diencephalon dopaminergic neuron
 ZP:0001116	abnormal(ly) decreased amount forebrain dopaminergic neuron
 ZP:0001117	abnormal(ly) decreased amount forebrain serotonergic neuron
 ZP:0001119	abnormal(ly) physical object quality preoptic area
@@ -2113,7 +2592,7 @@ ZP:0001277	abnormal(ly) circular photoreceptor cell
 ZP:0001278	abnormal(ly) apoptotic photoreceptor cell
 ZP:0001279	abnormal(ly) deformed photoreceptor cell photoreceptor outer segment
 ZP:0001280	abnormal(ly) present in fewer numbers in organism Muller cell
-ZP:0001281	abnormal(ly) present in fewer numbers in organism retinal bipolar neuron
+ZP:0001281	abnormal(ly) decreased amount retinal bipolar neuron
 ZP:0001282	abnormal(ly) decreased process quality microtubule cytoskeleton organization
 ZP:0001283	abnormal(ly) process quality endodermal cell fate specification
 ZP:0001284	abnormal(ly) delayed invagination involved in gastrulation with mouth forming second
@@ -2232,6 +2711,7 @@ ZP:0001411	abnormal(ly) morphology endocardium
 ZP:0001412	abnormal(ly) decreased size endocardium
 ZP:0001414	abnormal(ly) increased size interrenal primordium
 ZP:0001415	abnormal(ly) morphology pronephric tubule
+ZP:0001416	abnormal(ly) absent pronephric tubule
 ZP:0001417	abnormal(ly) decreased amount pronephric podocyte
 ZP:0001420	abnormal(ly) morphology hyaloid vessel
 ZP:0001423	abnormal(ly) branchiness hyaloid vessel
@@ -2483,7 +2963,7 @@ ZP:0001685	abnormal(ly) decreased size motor neuron axon
 ZP:0001686	abnormal(ly) decreased thickness motor neuron axon
 ZP:0001687	abnormal(ly) decreased size muscle cell acetylcholine-gated channel complex
 ZP:0001688	abnormal(ly) decreased amount muscle cell acetylcholine-gated channel complex
-ZP:0001689	abnormal(ly) decreased amount slow muscle cell myosin filament
+ZP:0001689	abnormal(ly) present in fewer numbers in organism slow muscle cell myosin filament
 ZP:0001690	abnormal(ly) decreased length Rohon-Beard neuron dendrite
 ZP:0001691	abnormal(ly) present in fewer numbers in organism Rohon-Beard neuron dendrite
 ZP:0001692	abnormal(ly) disrupted pectoral fin development
@@ -2719,7 +3199,7 @@ ZP:0001933	abnormal(ly) present in fewer numbers in organism melanoblast
 ZP:0001934	abnormal(ly) arrested hatching
 ZP:0001935	abnormal(ly) arrested hatching gland development
 ZP:0001936	abnormal(ly) decreased size hatching gland cell secretory granule
-ZP:0001937	abnormal(ly) decreased amount hatching gland cell secretory granule
+ZP:0001937	abnormal(ly) present in fewer numbers in organism hatching gland cell secretory granule
 ZP:0001938	abnormal(ly) disrupted peripheral nervous system development
 ZP:0001939	abnormal(ly) disrupted melanocyte differentiation
 ZP:0001941	abnormal(ly) disrupted autonomic nervous system development
@@ -3031,7 +3511,7 @@ ZP:0002270	abnormal(ly) translucent melanocyte
 ZP:0002271	abnormal(ly) decreased size eye photoreceptor cell photoreceptor outer segment
 ZP:0002272	abnormal(ly) necrotic brain
 ZP:0002273	abnormal(ly) non-functional yolk
-ZP:0002274	abnormal(ly) count peripheral nervous system chromosome
+ZP:0002274	abnormal(ly) amount peripheral nervous system chromosome
 ZP:0002275	abnormal(ly) necrotic trunk
 ZP:0002276	abnormal(ly) increased thickness mandibular arch skeleton
 ZP:0002277	abnormal(ly) decreased magnitude cell aging
@@ -3101,7 +3581,7 @@ ZP:0002341	abnormal(ly) perforate retina
 ZP:0002342	abnormal(ly) increased occurrence retina intrinsic apoptotic signaling pathway by p53 class mediator
 ZP:0002343	abnormal(ly) apoptotic retina cell
 ZP:0002344	abnormal(ly) morphology facial nerve motor nucleus
-ZP:0002345	abnormal(ly) decreased amount statoacoustic (VIII) ganglion neuron
+ZP:0002345	abnormal(ly) present in fewer numbers in organism statoacoustic (VIII) ganglion neuron
 ZP:0002346	abnormal(ly) absent thymus primordium common lymphoid progenitor
 ZP:0002347	abnormal(ly) curved trunk
 ZP:0002348	abnormal(ly) degenerate trunk
@@ -3205,7 +3685,7 @@ ZP:0002446	abnormal(ly) malformed retinal pigmented epithelium melanosome
 ZP:0002447	abnormal(ly) broken retinal pigmented epithelium melanosome
 ZP:0002448	abnormal(ly) disorganized retinal outer nuclear layer
 ZP:0002449	abnormal(ly) distended intrahepatic bile duct
-ZP:0002450	abnormal(ly) present in fewer numbers in organism intrahepatic bile duct
+ZP:0002450	abnormal(ly) decreased amount intrahepatic bile duct
 ZP:0002451	abnormal(ly) degree of pigmentation melanocyte
 ZP:0002452	abnormal(ly) malformed eye photoreceptor cell
 ZP:0002453	abnormal(ly) malformed eye photoreceptor cell photoreceptor outer segment
@@ -3566,7 +4046,6 @@ ZP:0002821	abnormal(ly) ossified basihyal bone
 ZP:0002822	abnormal(ly) condensed caudal vertebra
 ZP:0002823	abnormal(ly) composition hypural
 ZP:0002824	abnormal(ly) decreased pigmentation integument
-ZP:0002825	abnormal(ly) present in normal numbers in organism pretectum serotonergic neuron
 ZP:0002826	abnormal(ly) quality skeletal system
 ZP:0002827	abnormal(ly) composition frontal bone
 ZP:0002828	abnormal(ly) composition hemal arch
@@ -3670,7 +4149,7 @@ ZP:0002925	abnormal(ly) bilateral symmetry heart
 ZP:0002926	abnormal(ly) bilateral symmetry lateral plate mesoderm
 ZP:0002927	abnormal(ly) increased diameter pronephric duct
 ZP:0002928	abnormal(ly) decreased length pronephric duct cilium
-ZP:0002929	abnormal(ly) present in fewer numbers in organism pronephric duct cilium
+ZP:0002929	abnormal(ly) decreased amount pronephric duct cilium
 ZP:0002930	abnormal(ly) increased width trunk
 ZP:0002931	abnormal(ly) cystic pronephric tubule
 ZP:0002932	abnormal(ly) decreased length pharyngeal arch 3-7
@@ -3764,7 +4243,7 @@ ZP:0003019	abnormal(ly) morphology cranial nerve II
 ZP:0003020	abnormal(ly) decreased thickness myotome
 ZP:0003021	abnormal(ly) U-shaped myotome
 ZP:0003022	abnormal(ly) shortened post-vent region
-ZP:0003023	abnormal(ly) present in fewer numbers in organism neural tube laminin complex
+ZP:0003023	abnormal(ly) decreased amount neural tube laminin complex
 ZP:0003024	abnormal(ly) increased width forebrain midbrain boundary
 ZP:0003025	abnormal(ly) bilateral symmetry intestinal bulb primordium
 ZP:0003026	abnormal(ly) disorganized fast muscle cell myosin filament
@@ -4627,11 +5106,11 @@ ZP:0003923	abnormal(ly) present in greater numbers in organism slow muscle cell
 ZP:0003924	abnormal(ly) decreased rate urea transport
 ZP:0003925	abnormal(ly) increased occurrence oligodendrocyte progenitor proliferation
 ZP:0003926	abnormal(ly) decreased functionality atrioventricular valve
-ZP:0003927	abnormal(ly) increased amount oligodendrocyte
+ZP:0003927	abnormal(ly) present in greater numbers in organism oligodendrocyte
 ZP:0003931	abnormal(ly) disrupted lipid localization
 ZP:0003932	abnormal(ly) disrupted chondrocyte morphogenesis
 ZP:0003933	abnormal(ly) circular liver
-ZP:0003934	abnormal(ly) aggregated cartilage element collagen type II
+ZP:0003934	abnormal(ly) aggregated cartilage element collagen type II trimer
 ZP:0003935	abnormal(ly) increased size pharyngeal arch 3-7
 ZP:0003936	abnormal(ly) disorganized pharyngeal arch 3-7 chondrocyte
 ZP:0003937	abnormal(ly) decreased size midbrain hindbrain boundary
@@ -4735,7 +5214,7 @@ ZP:0004038	abnormal(ly) lacks parts or has fewer parts of type whole organism to
 ZP:0004039	abnormal(ly) quality endocardial cushion
 ZP:0004040	abnormal(ly) distended hindbrain
 ZP:0004041	abnormal(ly) malformed whole organism
-ZP:0004042	abnormal(ly) occurrence positive regulation of cytosolic calcium ion concentration
+ZP:0004042	abnormal(ly) occurrence quality positive regulation of cytosolic calcium ion concentration
 ZP:0004043	abnormal(ly) constricted yolk
 ZP:0004044	abnormal(ly) aggregated I-YSL nucleus
 ZP:0004045	abnormal(ly) immature head
@@ -4821,7 +5300,7 @@ ZP:0004125	abnormal(ly) unbranched intrahepatic bile duct
 ZP:0004126	abnormal(ly) absent intrahepatic bile duct
 ZP:0004127	abnormal(ly) apoptotic intrahepatic bile duct
 ZP:0004128	abnormal(ly) degenerate intrahepatic bile duct
-ZP:0004129	abnormal(ly) present in fewer numbers in organism intrahepatic bile duct epithelial cell
+ZP:0004129	abnormal(ly) decreased amount intrahepatic bile duct epithelial cell
 ZP:0004130	abnormal(ly) shape endoderm
 ZP:0004131	abnormal(ly) structure endoderm
 ZP:0004133	abnormal(ly) decreased process quality glomerular filtration
@@ -4886,7 +5365,7 @@ ZP:0004199	abnormal(ly) disrupted chondrocyte differentiation
 ZP:0004200	abnormal(ly) disrupted optic cup morphogenesis involved in camera-type eye development
 ZP:0004201	abnormal(ly) obtuse angle to somite towards somite
 ZP:0004202	abnormal(ly) present in greater numbers in organism myotome muscle pioneer
-ZP:0004203	abnormal(ly) increased amount myotome fast muscle cell
+ZP:0004203	abnormal(ly) present in greater numbers in organism myotome fast muscle cell
 ZP:0004204	abnormal(ly) absent muscle pioneer
 ZP:0004205	abnormal(ly) mislocalised muscle pioneer
 ZP:0004206	abnormal(ly) folded pectoral fin
@@ -5504,7 +5983,7 @@ ZP:0004850	abnormal(ly) undifferentiated retinal neural layer
 ZP:0004851	abnormal(ly) distended pericardium
 ZP:0004852	abnormal(ly) increased size polster
 ZP:0004853	abnormal(ly) increased length somite 5
-ZP:0004854	abnormal(ly) present in fewer numbers in organism spinal cord glial cell
+ZP:0004854	abnormal(ly) decreased amount spinal cord glial cell
 ZP:0004855	abnormal(ly) present in fewer numbers in organism spinal cord CNS interneuron
 ZP:0004856	abnormal(ly) present in greater numbers in organism spinal cord primary motor neuron
 ZP:0004857	abnormal(ly) decreased amount spinal cord GABAergic neuron
@@ -6036,7 +6515,7 @@ ZP:0005407	abnormal(ly) has extra parts of type pars superior ear towards anteri
 ZP:0005408	abnormal(ly) disorganized primary motor neuron axon
 ZP:0005409	abnormal(ly) present in fewer numbers in organism primary motor neuron axon
 ZP:0005410	abnormal(ly) absent secondary motor neuron axon
-ZP:0005411	abnormal(ly) decreased amount secondary motor neuron cell body
+ZP:0005411	abnormal(ly) present in fewer numbers in organism secondary motor neuron cell body
 ZP:0005412	abnormal(ly) disorganized retinal ganglion cell axon
 ZP:0005413	abnormal(ly) displaced to retinal ganglion cell axon towards eye
 ZP:0005414	abnormal(ly) disrupted regulation of BMP signaling pathway
@@ -6142,7 +6621,7 @@ ZP:0005525	abnormal(ly) has extra parts of type liver towards hepatocyte
 ZP:0005526	abnormal(ly) increased size liver primordium
 ZP:0005527	abnormal(ly) aplastic liver primordium
 ZP:0005528	abnormal(ly) has extra parts of type neuromast towards neuromast hair cell
-ZP:0005529	abnormal(ly) increased rate neuromast mitotic nuclear division
+ZP:0005529	abnormal(ly) increased rate neuromast mitosis
 ZP:0005530	abnormal(ly) morphology caudal commissure
 ZP:0005531	abnormal(ly) disrupted neutrophil aggregation
 ZP:0005532	abnormal(ly) flattened optic tectum
@@ -6191,7 +6670,7 @@ ZP:0005578	abnormal(ly) structure intersegmental artery
 ZP:0005579	abnormal(ly) present in greater numbers in organism intersegmental artery blood vessel endothelial cell
 ZP:0005582	abnormal(ly) mislocalised intersegmental vessel
 ZP:0005584	abnormal(ly) present in greater numbers in organism angiogenic sprout
-ZP:0005585	abnormal(ly) increased amount blood vessel endothelial cell
+ZP:0005585	abnormal(ly) present in greater numbers in organism blood vessel endothelial cell
 ZP:0005587	abnormal(ly) present in greater numbers in organism Rohon-Beard neuron
 ZP:0005588	abnormal(ly) decreased process quality definitive hemopoiesis
 ZP:0005589	abnormal(ly) increased process quality signal transduction by p53 class mediator
@@ -6246,7 +6725,7 @@ ZP:0005637	abnormal(ly) disrupted epidermal cell differentiation
 ZP:0005638	abnormal(ly) disrupted water homeostasis
 ZP:0005639	abnormal(ly) absent epidermis pore complex
 ZP:0005640	abnormal(ly) absent integument integument ionocyte
-ZP:0005641	abnormal(ly) decreased amount epidermis pore complex
+ZP:0005641	abnormal(ly) present in fewer numbers in organism epidermis pore complex
 ZP:0005644	abnormal(ly) curled notochord
 ZP:0005645	abnormal(ly) hyperplastic epithelium
 ZP:0005646	abnormal(ly) malformed caudal fin actinotrichium
@@ -6409,7 +6888,7 @@ ZP:0005826	abnormal(ly) attached to intersegmental artery towards intersegmental
 ZP:0005827	abnormal(ly) edematous eye
 ZP:0005828	abnormal(ly) increased accumulation orbital region towards blood
 ZP:0005829	abnormal(ly) present in fewer numbers in organism whole organism mitochondrial chromosome
-ZP:0005830	abnormal(ly) decreased length head dorsal/ventral axis
+ZP:0005830	abnormal(ly) decreased length head dorsal-ventral axis
 ZP:0005831	abnormal(ly) hemorrhagic cerebellar central artery
 ZP:0005832	abnormal(ly) degenerate cerebellum
 ZP:0005833	abnormal(ly) decreased size basihyal bone
@@ -6417,7 +6896,7 @@ ZP:0005834	abnormal(ly) degenerate optic tectum
 ZP:0005835	abnormal(ly) occurrence left/right pattern formation
 ZP:0005836	abnormal(ly) decreased length Kupffer's vesicle motile cilium
 ZP:0005837	abnormal(ly) present in fewer numbers in organism Kupffer's vesicle motile cilium
-ZP:0005838	abnormal(ly) present in fewer numbers in organism Kupffer's vesicle cell
+ZP:0005838	abnormal(ly) decreased amount Kupffer's vesicle cell
 ZP:0005839	abnormal(ly) decreased length pronephric duct motile cilium
 ZP:0005840	abnormal(ly) length posterior macula primary cilium
 ZP:0005841	abnormal(ly) paralysed olfactory placode cilium
@@ -6688,7 +7167,7 @@ ZP:0006129	abnormal(ly) size primordial germ cell P granule
 ZP:0006130	abnormal(ly) decreased diameter muscle myofibril
 ZP:0006131	abnormal(ly) disrupted alpha-tubulin acetylation
 ZP:0006132	abnormal(ly) decreased occurrence granuloma formation
-ZP:0006133	abnormal(ly) present in fewer numbers in organism retinal ganglion cell layer cell
+ZP:0006133	abnormal(ly) decreased amount retinal ganglion cell layer cell
 ZP:0006134	abnormal(ly) decreased amount retinal inner nuclear layer cell
 ZP:0006140	abnormal(ly) poorly differentiated midbrain hindbrain boundary
 ZP:0006141	abnormal(ly) disrupted epidermis development
@@ -6759,7 +7238,7 @@ ZP:0006206	abnormal(ly) colorless eye
 ZP:0006207	abnormal(ly) deformed pharyngeal arch cartilage
 ZP:0006208	abnormal(ly) present in fewer numbers in organism muscle cell myofibril
 ZP:0006209	abnormal(ly) decreased length primary motor neuron axon
-ZP:0006210	abnormal(ly) present in fewer numbers in organism primary motor neuron neuron projection
+ZP:0006210	abnormal(ly) decreased amount primary motor neuron neuron projection
 ZP:0006211	abnormal(ly) process quality patterning of blood vessels
 ZP:0006212	abnormal(ly) occurrence quality central nervous system myelination
 ZP:0006213	abnormal(ly) disrupted oligodendrocyte progenitor proliferation
@@ -6946,7 +7425,7 @@ ZP:0006402	abnormal(ly) decreased length neurocranial trabecula
 ZP:0006403	abnormal(ly) morphology parachordal cartilage
 ZP:0006404	abnormal(ly) decreased size cranial cartilage
 ZP:0006405	abnormal(ly) decreased size cranial ganglion
-ZP:0006406	abnormal(ly) present in fewer numbers in organism rhombomere 6 cranial neural crest cell
+ZP:0006406	abnormal(ly) decreased amount rhombomere 6 cranial neural crest cell
 ZP:0006407	abnormal(ly) edematous fourth ventricle
 ZP:0006408	abnormal(ly) decreased size olfactory pit
 ZP:0006409	abnormal(ly) malformed mouth
@@ -6984,7 +7463,7 @@ ZP:0006452	abnormal(ly) swollen liver endoplasmic reticulum
 ZP:0006453	abnormal(ly) curved lateral whole organism
 ZP:0006454	abnormal(ly) malformed trunk
 ZP:0006455	abnormal(ly) aplastic endoderm
-ZP:0006456	abnormal(ly) increased amount Kupffer's vesicle cilium
+ZP:0006456	abnormal(ly) present in greater numbers in organism Kupffer's vesicle cilium
 ZP:0006457	abnormal(ly) decreased length macula saccule cilium
 ZP:0006458	abnormal(ly) decreased amount macula saccule cilium
 ZP:0006459	abnormal(ly) decreased amount macula saccule cell
@@ -7018,7 +7497,7 @@ ZP:0006487	abnormal(ly) mislocalised dorsally posterior cardinal vein
 ZP:0006488	abnormal(ly) structure posterior cardinal vein blood vessel endothelial cell
 ZP:0006489	abnormal(ly) decreased area axial vasculature
 ZP:0006490	abnormal(ly) deformed ventral wall of dorsal aorta
-ZP:0006491	abnormal(ly) present in greater numbers in organism blood vessel endothelial cell tight junction
+ZP:0006491	abnormal(ly) increased amount blood vessel endothelial cell bicellular tight junction
 ZP:0006492	abnormal(ly) mislocalised blood vessel endothelial cell bicellular tight junction
 ZP:0006493	abnormal(ly) process quality detection of mechanical stimulus involved in sensory perception of sound
 ZP:0006494	abnormal(ly) absent vestibular reflex
@@ -7034,7 +7513,7 @@ ZP:0006503	abnormal(ly) morphology brain cell
 ZP:0006504	abnormal(ly) patchy floor plate
 ZP:0006505	abnormal(ly) has fewer parts of type floor plate towards floor plate motile primary cilium
 ZP:0006506	abnormal(ly) decreased amount floor plate motile cilium
-ZP:0006507	abnormal(ly) present in greater numbers in organism lens
+ZP:0006507	abnormal(ly) increased amount lens
 ZP:0006508	abnormal(ly) absent otic vesicle motile cilium
 ZP:0006509	abnormal(ly) hemorrhagic somite
 ZP:0006510	abnormal(ly) physical object quality ventral mesenchyme
@@ -7169,7 +7648,7 @@ ZP:0006651	abnormal(ly) cellular motility mesoderm
 ZP:0006652	abnormal(ly) increased width hypophyseal fenestra
 ZP:0006653	abnormal(ly) decreased length anterior neural plate
 ZP:0006654	abnormal(ly) disrupted mRNA polyadenylation
-ZP:0006655	abnormal(ly) decreased amount post-vent region iridophore
+ZP:0006655	abnormal(ly) present in fewer numbers in organism post-vent region iridophore
 ZP:0006656	abnormal(ly) shape ventral mandibular arch
 ZP:0006657	abnormal(ly) apoptotic hematopoietic stem cell
 ZP:0006658	abnormal(ly) decreased magnitude heart contraction
@@ -7541,13 +8020,13 @@ ZP:0007048	abnormal(ly) decreased process quality cytochrome-c oxidase activity
 ZP:0007049	abnormal(ly) present in fewer numbers in organism heart nucleate erythrocyte
 ZP:0007050	abnormal(ly) disrupted myelination of lateral line nerve axons
 ZP:0007051	abnormal(ly) dilated melanocyte
-ZP:0007052	abnormal(ly) decreased amount myelinating Schwann cell
+ZP:0007052	abnormal(ly) present in fewer numbers in organism myelinating Schwann cell
 ZP:0007053	abnormal(ly) decreased length neural rod
 ZP:0007054	abnormal(ly) increased distance otic placode towards otic placode
 ZP:0007055	abnormal(ly) apical-basal polarity neuroepithelial cell
 ZP:0007056	abnormal(ly) morphology neuroepithelial cell apical surface
 ZP:0007057	abnormal(ly) increased process quality cytoskeletal anchoring at plasma membrane
-ZP:0007058	abnormal(ly) present in fewer numbers in organism anterior axial hypoblast lamellipodium
+ZP:0007058	abnormal(ly) decreased amount anterior axial hypoblast lamellipodium
 ZP:0007059	abnormal(ly) decreased amount anterior axial hypoblast filopodium
 ZP:0007060	abnormal(ly) disorganized gut endodermal cell
 ZP:0007061	abnormal(ly) morphology lateral plate mesoderm
@@ -7588,12 +8067,12 @@ ZP:0007098	abnormal(ly) disrupted patterning of lymph vessels
 ZP:0007099	abnormal(ly) disrupted venous endothelial cell migration involved in lymph vessel development
 ZP:0007100	abnormal(ly) increased occurrence cellular response to growth factor stimulus
 ZP:0007101	abnormal(ly) has extra parts of type dorsal aorta towards endothelial tip cell
-ZP:0007102	abnormal(ly) increased amount gut blood vasculature
+ZP:0007102	abnormal(ly) present in greater numbers in organism gut blood vasculature
 ZP:0007103	abnormal(ly) lacks parts or has fewer parts of type posterior cardinal vein towards endothelial tip cell
 ZP:0007104	abnormal(ly) absent intersegmental artery
 ZP:0007106	abnormal(ly) present in greater numbers in organism pectoral fin blood vasculature
 ZP:0007109	abnormal(ly) hypotrophic thoracic duct
-ZP:0007110	abnormal(ly) decreased amount lymphangiogenic sprout
+ZP:0007110	abnormal(ly) present in fewer numbers in organism lymphangiogenic sprout
 ZP:0007111	abnormal(ly) hypoplastic median fin fold
 ZP:0007112	abnormal(ly) hypoplastic caudal fin ventral region
 ZP:0007113	abnormal(ly) hypoplastic ventral fin fold
@@ -7974,7 +8453,7 @@ ZP:0007523	abnormal(ly) mislocalised dorsal root ganglion neuron
 ZP:0007526	abnormal(ly) present in fewer numbers in organism somite contractile fiber
 ZP:0007527	abnormal(ly) delayed blood circulation
 ZP:0007528	abnormal(ly) present in fewer numbers in organism trunk muscle pioneer
-ZP:0007530	abnormal(ly) decreased amount trunk fast muscle cell
+ZP:0007530	abnormal(ly) present in fewer numbers in organism trunk fast muscle cell
 ZP:0007532	abnormal(ly) patchy post-vent region contractile fiber
 ZP:0007533	abnormal(ly) decreased amount post-vent region slow muscle cell
 ZP:0007534	abnormal(ly) decreased process quality axon regeneration
@@ -8170,7 +8649,7 @@ ZP:0007756	abnormal(ly) present in fewer numbers in organism Meckel's cartilage 
 ZP:0007757	abnormal(ly) decreased length palatoquadrate arch bony projection
 ZP:0007758	abnormal(ly) notched ventral mandibular arch
 ZP:0007759	abnormal(ly) morphology pharyngeal arch mesenchyme
-ZP:0007760	abnormal(ly) present in greater numbers in organism pharyngeal arch joint
+ZP:0007760	abnormal(ly) increased amount pharyngeal arch joint
 ZP:0007761	abnormal(ly) notched hyosymplectic cartilage
 ZP:0007762	abnormal(ly) disorganized pharyngeal arch cartilage chondroblast
 ZP:0007763	abnormal(ly) mislocalised joint
@@ -8200,7 +8679,7 @@ ZP:0007789	abnormal(ly) decreased size blastodisc
 ZP:0007790	abnormal(ly) increased circumference mid intestine intestinal villus
 ZP:0007791	abnormal(ly) degenerate mid intestine muscle
 ZP:0007792	abnormal(ly) increased circumference intestinal bulb epithelium intestinal villus
-ZP:0007793	abnormal(ly) present in fewer numbers in organism intestinal bulb epithelium goblet cell
+ZP:0007793	abnormal(ly) decreased amount intestinal bulb epithelium goblet cell
 ZP:0007794	abnormal(ly) decreased amount mid intestine epithelium goblet cell
 ZP:0007795	abnormal(ly) increased process quality startle response
 ZP:0007796	abnormal(ly) decreased process quality visual behavior
@@ -9099,7 +9578,7 @@ ZP:0008747	abnormal(ly) disoriented skeletal muscle cell myofibril
 ZP:0008748	abnormal(ly) undulate skeletal muscle cell myofibril
 ZP:0008749	abnormal(ly) increased variability of size skeletal muscle cell myofibril
 ZP:0008750	abnormal(ly) apoptotic muscle cell
-ZP:0008751	abnormal(ly) spatial pattern skeletal muscle cell collagen trimer
+ZP:0008751	abnormal(ly) spatial pattern skeletal muscle cell collagen
 ZP:0008752	abnormal(ly) increased amount skeletal muscle cell mitochondrion
 ZP:0008753	abnormal(ly) swollen skeletal muscle cell mitochondrion
 ZP:0008754	abnormal(ly) dilated skeletal muscle cell endoplasmic reticulum
@@ -9741,7 +10220,7 @@ ZP:0009442	abnormal(ly) decreased occurrence neuron apoptotic process
 ZP:0009443	abnormal(ly) alive Rohon-Beard neuron
 ZP:0009444	abnormal(ly) increased age Rohon-Beard neuron
 ZP:0009446	abnormal(ly) circular Meckel's cartilage chondrocyte
-ZP:0009447	abnormal(ly) disrupted mitosis
+ZP:0009447	abnormal(ly) disrupted mitotic nuclear division
 ZP:0009448	abnormal(ly) decreased functionality neural plate mitotic spindle
 ZP:0009449	abnormal(ly) decreased amount medial longitudinal fasciculus neuron
 ZP:0009450	abnormal(ly) present in fewer numbers in organism rhombomere neuron
@@ -9751,7 +10230,7 @@ ZP:0009453	abnormal(ly) present in fewer numbers in organism neural tube cell
 ZP:0009454	abnormal(ly) decreased branchiness Rohon-Beard neuron
 ZP:0009455	abnormal(ly) disrupted platelet formation
 ZP:0009456	abnormal(ly) disrupted cranial nerve development
-ZP:0009457	abnormal(ly) present in fewer numbers in organism hindbrain glial cell
+ZP:0009457	abnormal(ly) decreased amount hindbrain glial cell
 ZP:0009458	abnormal(ly) disrupted adherens junction assembly
 ZP:0009459	abnormal(ly) increased permeability caudal vein
 ZP:0009460	abnormal(ly) broken caudal vein plexus
@@ -10248,7 +10727,7 @@ ZP:0010019	abnormal(ly) decreased size mid cerebral vein
 ZP:0010020	abnormal(ly) circular ectodermal cell
 ZP:0010021	abnormal(ly) deviation ectodermal cell cell projection
 ZP:0010022	abnormal(ly) process quality muscle cell differentiation
-ZP:0010023	abnormal(ly) decreased amount heart primordium mesodermal cell
+ZP:0010023	abnormal(ly) present in fewer numbers in organism heart primordium mesodermal cell
 ZP:0010024	abnormal(ly) present in fewer numbers in organism heart primordium cardiac muscle myoblast
 ZP:0010025	abnormal(ly) malformed proctodeum
 ZP:0010026	abnormal(ly) disorganized swim bladder
@@ -10261,7 +10740,7 @@ ZP:0010032	abnormal(ly) fused with macula towards macula
 ZP:0010033	abnormal(ly) decreased size tela chorioidea
 ZP:0010034	abnormal(ly) hypoplastic tela chorioidea
 ZP:0010035	abnormal(ly) fragility tela chorioidea cell
-ZP:0010036	abnormal(ly) present in fewer numbers in organism tela chorioidea cell
+ZP:0010036	abnormal(ly) decreased amount tela chorioidea cell
 ZP:0010037	abnormal(ly) decreased size lapillus
 ZP:0010038	abnormal(ly) mislocalised caudal fin melanocyte
 ZP:0010039	abnormal(ly) decreased length roof plate spinal cord region cell projection
@@ -10318,7 +10797,7 @@ ZP:0010093	abnormal(ly) misaligned with trunk larval melanophore stripe towards 
 ZP:0010094	abnormal(ly) disorganized trunk melanocyte
 ZP:0010095	abnormal(ly) shape neural tube
 ZP:0010096	abnormal(ly) curved caudal ceratohyal cartilage
-ZP:0010097	abnormal(ly) present in fewer numbers in organism lateral line neuromast
+ZP:0010097	abnormal(ly) decreased amount lateral line neuromast
 ZP:0010098	abnormal(ly) disoriented pharyngeal arch 2
 ZP:0010099	abnormal(ly) mislocalised ventrally pharyngeal arch 2
 ZP:0010100	abnormal(ly) disoriented pharyngeal arch 1
@@ -10394,6 +10873,7 @@ ZP:0010174	abnormal(ly) disrupted camera-type eye morphogenesis
 ZP:0010175	abnormal(ly) decreased size brain medial region
 ZP:0010176	abnormal(ly) hypoplastic prechordal plate
 ZP:0010177	abnormal(ly) aplastic shield
+ZP:0010178	abnormal(ly) present in fewer numbers in organism shield
 ZP:0010179	abnormal(ly) decreased distance eye anterior region towards eye anterior region
 ZP:0010180	abnormal(ly) constricted forebrain ventral region
 ZP:0010181	abnormal(ly) malformed immature eye
@@ -10826,7 +11306,7 @@ ZP:0010669	abnormal(ly) aplastic pectoral girdle
 ZP:0010670	abnormal(ly) curled trunk
 ZP:0010671	abnormal(ly) curved dorsal pectoral fin
 ZP:0010672	abnormal(ly) disorganized myocardium
-ZP:0010673	abnormal(ly) decreased amount pectoral fin lepidotrichium
+ZP:0010673	abnormal(ly) present in fewer numbers in organism pectoral fin lepidotrichium
 ZP:0010674	abnormal(ly) structure atrioventricular valve
 ZP:0010675	abnormal(ly) present in greater numbers in organism cardiac muscle cell mitochondrion
 ZP:0010676	abnormal(ly) swollen cardiac muscle cell mitochondrion
@@ -12907,6 +13387,7 @@ ZP:0013954	abnormal(ly) degree of pigmentation whole organism
 ZP:0013955	abnormal(ly) disorganized pronephric duct microtubule
 ZP:0013959	abnormal(ly) mislocalised vertical myoseptum fibroblast
 ZP:0013961	abnormal(ly) arrested endodermal cell differentiation
+ZP:0013963	abnormal(ly) decreased occurrence nodal signaling pathway
 ZP:0013965	abnormal(ly) lacks all parts of type hypoblast towards endodermal cell
 ZP:0013971	abnormal(ly) disrupted caudal fin morphogenesis
 ZP:0013972	abnormal(ly) decreased size fin fold actinotrichium
@@ -13029,6 +13510,7 @@ ZP:0014440	abnormal(ly) decreased functionality embryo development
 ZP:0014454	abnormal(ly) decreased process quality response to hypoxia
 ZP:0014462	abnormal(ly) granular notochord
 ZP:0014463	abnormal(ly) decreased size notochord inner cell vesicle
+ZP:0014464	abnormal(ly) decreased amount migratory slow muscle precursor cell
 ZP:0014466	abnormal(ly) decreased amount retina dopaminergic neuron
 ZP:0014493	abnormal(ly) increased process quality sodium ion export
 ZP:0014494	abnormal(ly) increased process quality sodium ion import
@@ -13334,6 +13816,7 @@ ZP:0015899	abnormal(ly) absent lapillus
 ZP:0015901	abnormal(ly) absent vascular associated smooth muscle cell
 ZP:0015912	abnormal(ly) amorphous head central region
 ZP:0015938	abnormal(ly) has extra parts of type afferent neuron towards afferent neuron dendritic branch
+ZP:0015950	abnormal(ly) mislocalised notochord
 ZP:0015978	abnormal(ly) absent central artery
 ZP:0016013	abnormal(ly) arrested leptotene
 ZP:0016014	abnormal(ly) increased duration meiotic prophase I
@@ -13538,8 +14021,10 @@ ZP:0016864	abnormal(ly) process quality slow muscle cell skeletal myofibril asse
 ZP:0016866	abnormal(ly) irregular spatial pattern skeletal muscle cell myofibril
 ZP:0016879	abnormal(ly) absent splanchnocranium
 ZP:0016907	abnormal(ly) decreased occurrence visual behavior
+ZP:0016910	abnormal(ly) decreased occurrence locomotion involved in locomotory behavior
 ZP:0016921	abnormal(ly) decreased process quality microvillous olfactory receptor neuron olfactory receptor activity
 ZP:0016922	abnormal(ly) decreased process quality olfactory bulb olfactory receptor activity
+ZP:0016958	abnormal(ly) increased branchiness intersegmental vein
 ZP:0017007	abnormal(ly) condensed precaudal vertebra
 ZP:0017011	abnormal(ly) delayed swim bladder development
 ZP:0017012	abnormal(ly) decreased amount centrum
@@ -13594,6 +14079,7 @@ ZP:0017253	abnormal(ly) morphology lateral crista primordium
 ZP:0017254	abnormal(ly) morphology posterior crista primordium
 ZP:0017255	abnormal(ly) morphology anterior crista primordium
 ZP:0017256	abnormal(ly) semi-fertile whole organism
+ZP:0017263	abnormal(ly) absent endocardium
 ZP:0017266	abnormal(ly) absent whole organism xanthophore
 ZP:0017267	abnormal(ly) morphology pharyngeal arch cartilage chondrocyte
 ZP:0017268	abnormal(ly) kinked pharyngeal arch cartilage
@@ -13687,6 +14173,7 @@ ZP:0017434	abnormal(ly) decreased amount pronephric duct endocytic vesicle
 ZP:0017435	abnormal(ly) decreased process quality pronephros endocytosis
 ZP:0017436	abnormal(ly) process quality pronephros endocytic recycling
 ZP:0017441	abnormal(ly) disrupted macrophage activation involved in immune response
+ZP:0017445	abnormal(ly) morphology macrophage
 ZP:0017447	abnormal(ly) decreased cellular motility trunk macrophage
 ZP:0017448	abnormal(ly) decreased size statoacoustic (VIII) ganglion anatomical region
 ZP:0017449	abnormal(ly) decreased process quality photoreceptor cell morphogenesis
