@@ -677,4 +677,3 @@ HP:0200055	Small hand
 HP:0200097	Oral mucosal blisters
 HP:0200134	Epileptic encephalopathy
 HP:0200136	Oral-pharyngeal dysphagia
-OMIM:175100	Familial adenomatous polyposis 1
