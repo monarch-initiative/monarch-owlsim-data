@@ -127,6 +127,7 @@ WBPhenotype:0000125	enzyme activity increased
 WBPhenotype:0000126	general pace of development defective early emb
 WBPhenotype:0000127	dauer recovery variant
 WBPhenotype:0000129	temperature induced dauer formation defective
+WBPhenotype:0000130	pheromone induced dauer formation enhanced
 WBPhenotype:0000133	expression lipogenic enzyme reduced
 WBPhenotype:0000134	gene expression level reduced
 WBPhenotype:0000135	gene expression level high
@@ -319,19 +320,23 @@ WBPhenotype:0000510	vulval invagination variant L4
 WBPhenotype:0000511	nuclear positioning variant
 WBPhenotype:0000515	ventral nerve cord development variant
 WBPhenotype:0000516	ventral cord disorganized
+WBPhenotype:0000517	behavior variant
 WBPhenotype:0000518	development variant
 WBPhenotype:0000519	physiology variant
 WBPhenotype:0000520	morphology variant
 WBPhenotype:0000523	chemical response variant
 WBPhenotype:0000527	organism pigmentation variant
+WBPhenotype:0000529	cell development variant
 WBPhenotype:0000531	organism development variant
 WBPhenotype:0000533	cell morphology variant
 WBPhenotype:0000539	dorsal nerve cord development variant
+WBPhenotype:0000540	muscle arm development variant
 WBPhenotype:0000541	cord commissures fail to reach target
 WBPhenotype:0000545	egg retention
 WBPhenotype:0000546	early eggs laid
 WBPhenotype:0000547	starved
 WBPhenotype:0000548	muscle dystrophy
+WBPhenotype:0000549	head muscle dystrophy
 WBPhenotype:0000550	body muscle dystrophy
 WBPhenotype:0000553	muscle birefringence variant
 WBPhenotype:0000554	hypoosmotic shock hypersensitive
@@ -344,6 +349,7 @@ WBPhenotype:0000585	cell homeostasis metabolism variant
 WBPhenotype:0000586	bleach hypersensitive
 WBPhenotype:0000590	cell corpse number variant
 WBPhenotype:0000591	metal response variant
+WBPhenotype:0000593	copper hypersensitive
 WBPhenotype:0000594	cell migration variant
 WBPhenotype:0000595	head behavior variant
 WBPhenotype:0000600	epithelial system morphology variant
@@ -773,6 +779,7 @@ WBPhenotype:0001435	ammonium chloride chemotaxis defective
 WBPhenotype:0001452	octanol chemotaxis variant
 WBPhenotype:0001454	quinine chemotaxis variant
 WBPhenotype:0001461	sodium acetate chemotaxis variant
+WBPhenotype:0001468	benzaldehyde chemotaxis variant
 WBPhenotype:0001476	anterior body contraction variant
 WBPhenotype:0001477	anterograde transport variant
 WBPhenotype:0001478	body elongation variant
@@ -936,6 +943,7 @@ WBPhenotype:0001840	response to injury variant
 WBPhenotype:0001846	phagosome maturation defective
 WBPhenotype:0001850	radiation induced germ cell apoptosis resistant
 WBPhenotype:0001857	pathogen induced gene expression variant
+WBPhenotype:0001859	Dosage compensation complex assembly variant
 WBPhenotype:0001861	environmental stimuli induced gene expression variant
 WBPhenotype:0001864	protein transport variant
 WBPhenotype:0001865	protein ubiquitination variant
@@ -944,6 +952,7 @@ WBPhenotype:0001867	mitotic spindle asters defective early emb
 WBPhenotype:0001868	meiotic spindle defective
 WBPhenotype:0001869	meiotic spindle positioning defective
 WBPhenotype:0001870	meiotic spindle rotation defective
+WBPhenotype:0001871	drug induced life span variant
 WBPhenotype:0001873	meiotic spindle assembly defective
 WBPhenotype:0001874	protein neddylation variant
 WBPhenotype:0001875	anaphase bridging
@@ -966,6 +975,7 @@ WBPhenotype:0001894	nuclear number variant
 WBPhenotype:0001895	parental chromosome mixing defective
 WBPhenotype:0001896	gamma ray induced apoptosis decreased
 WBPhenotype:0001898	meiotic sister chromatid segregation variant
+WBPhenotype:0001899	glutathione levels variant
 WBPhenotype:0001900	reduced levels of reduced glutathione
 WBPhenotype:0001902	fat associated body size increased
 WBPhenotype:0001903	centrosome biogenesis variant
@@ -1157,6 +1167,10 @@ WBPhenotype:0002376	mRNA poly-A tail length decreased
 WBPhenotype:0002377	mRNA poly-A tail length increased
 WBPhenotype:0002382	resistant to bioactive compound
 WBPhenotype:0002390	variable cell division timing
+WBPhenotype:0002391	cytokinesis failure
+WBPhenotype:0002394	phagosome sealing defective
+WBPhenotype:0002396	tumor prolapse frequency decreased
+WBPhenotype:0002397	tumor prolapse frequency increased
 WBPhenotype:0004004	male response to contact defective
 WBPhenotype:0004007	periodic spicule prodding defective
 WBPhenotype:0004018	sinusoidal movement variant
@@ -1166,6 +1180,7 @@ WBPhenotype:0004025	velocity of movement variant
 WBPhenotype:0004026	nose touch variant
 WBPhenotype:0006001	squashed vulva
 WBPhenotype:0008001	embryonic cell fate specification variant
+WBPhenotype:0010001	cell growth variant
 WBPhenotype:0010003	cell corpse appearance delayed
 WBPhenotype:0010004	cell corpse degradation variant
 ZP:0000303	abnormal(ly) arrested cell cycle

@@ -1,38 +1,57 @@
-MONARCH:c000001	c000001
-MONARCH:c000002	c000002
-MONARCH:c000003	c000003
-MONARCH:c000004	c000004
-MONARCH:c000005	c000005
-MONARCH:c000006	c000006
-MONARCH:c000007	c000007
-MONARCH:c000008	c000008
-MONARCH:c000009	c000009
-MONARCH:c000010	c000010
-MONARCH:c000011	c000011
-MONARCH:c000012	c000012
-MONARCH:c000013	c000013
-MONARCH:c000014	c000014
-MONARCH:c000015	c000015
-MONARCH:c000016	c000016
-MONARCH:c000017	c000017
-MONARCH:c000018	c000018
-MONARCH:c000019	c000019
-MONARCH:c000020	c000020
-MONARCH:c000021	c000021
-MONARCH:c000022	c000022
-MONARCH:c000023	c000023
-MONARCH:c000024	c000024
-MONARCH:c000025	c000025
-MONARCH:c000026	c000026
-MONARCH:c000027	c000027
-MONARCH:c000028	c000028
-MONARCH:c000029	c000029
-MONARCH:c000030	c000030
-MONARCH:c000031	c000031
-MONARCH:c000032	c000032
-MONARCH:c000033	c000033
-MONARCH:c000034	c000034
-MONARCH:c000035	c000035
-MONARCH:c000036	c000036
-MONARCH:c000037	c000037
-MONARCH:c000038	c000038
+:.well-known/genid/person-1398-1	affected male proband with Adenomatous polyposis of the colon
+:.well-known/genid/person-479-1	affected female proband with Adenomatous polyposis of the colon
+:.well-known/genid/person-522-1	affected female proband with Adenomatous polyposis of the colon
+:.well-known/genid/person-525-1	affected female proband with Adenomatous polyposis of the colon
+:.well-known/genid/person-582-1	affected female proband with Adenomatous polyposis of the colon
+:.well-known/genid/person-603-1	affected male son of proband with Adenomatous polyposis of the colon
+:.well-known/genid/person-603-10	affected male son of proband with Adenomatous polyposis of the colon
+:.well-known/genid/person-603-2	affected female proband with Adenomatous polyposis of the colon
+:.well-known/genid/person-603-4	affected female sister of proband with Adenomatous polyposis of the colon
+:.well-known/genid/person-603-6	affected female daughter of proband with Adenomatous polyposis of the colon
+:.well-known/genid/person-603-7	affected female daughter of proband with Adenomatous polyposis of the colon
+:.well-known/genid/person-967-1	affected male proband with Adenomatous polyposis of the colon
+:.well-known/genid/person-967-10	affected female maternal cousin of proband with Adenomatous polyposis of the colon
+:.well-known/genid/person-967-12	affected female maternal cousin of proband with Adenomatous polyposis of the colon
+:.well-known/genid/person-967-13	affected female maternal cousin of proband with Adenomatous polyposis of the colon
+:.well-known/genid/person-967-5	affected female sister of proband with Adenomatous polyposis of the colon
+:.well-known/genid/person-967-6	affected female mother of proband with Adenomatous polyposis of the colon
+:.well-known/genid/person-967-8	affected female maternal cousin of proband with Adenomatous polyposis of the colon
+:.well-known/genid/person-967-9	affected male maternal uncle of proband with Adenomatous polyposis of the colon
+:MONARCH:c000001	MONARCH:c000001
+:MONARCH:c000002	MONARCH:c000002
+:MONARCH:c000003	MONARCH:c000003
+:MONARCH:c000004	MONARCH:c000004
+:MONARCH:c000005	MONARCH:c000005
+:MONARCH:c000006	MONARCH:c000006
+:MONARCH:c000007	MONARCH:c000007
+:MONARCH:c000008	MONARCH:c000008
+:MONARCH:c000009	MONARCH:c000009
+:MONARCH:c000010	MONARCH:c000010
+:MONARCH:c000011	MONARCH:c000011
+:MONARCH:c000012	MONARCH:c000012
+:MONARCH:c000013	MONARCH:c000013
+:MONARCH:c000014	MONARCH:c000014
+:MONARCH:c000015	MONARCH:c000015
+:MONARCH:c000016	MONARCH:c000016
+:MONARCH:c000017	MONARCH:c000017
+:MONARCH:c000018	MONARCH:c000018
+:MONARCH:c000019	MONARCH:c000019
+:MONARCH:c000020	MONARCH:c000020
+:MONARCH:c000021	MONARCH:c000021
+:MONARCH:c000022	MONARCH:c000022
+:MONARCH:c000023	MONARCH:c000023
+:MONARCH:c000024	MONARCH:c000024
+:MONARCH:c000025	MONARCH:c000025
+:MONARCH:c000026	MONARCH:c000026
+:MONARCH:c000027	MONARCH:c000027
+:MONARCH:c000028	MONARCH:c000028
+:MONARCH:c000029	MONARCH:c000029
+:MONARCH:c000030	MONARCH:c000030
+:MONARCH:c000031	MONARCH:c000031
+:MONARCH:c000032	MONARCH:c000032
+:MONARCH:c000033	MONARCH:c000033
+:MONARCH:c000034	MONARCH:c000034
+:MONARCH:c000035	MONARCH:c000035
+:MONARCH:c000036	MONARCH:c000036
+:MONARCH:c000037	MONARCH:c000037
+:MONARCH:c000038	MONARCH:c000038

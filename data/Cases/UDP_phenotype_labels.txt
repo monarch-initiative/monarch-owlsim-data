@@ -204,7 +204,7 @@ HP:0001618	Dysphonia
 HP:0001622	Premature birth
 HP:0001623	Breech presentation
 HP:0001629	Ventricular septal defect
-HP:0001631	Atria septal defect
+HP:0001631	Atrial septal defect
 HP:0001633	Abnormality of the mitral valve
 HP:0001634	Mitral valve prolapse
 HP:0001638	Cardiomyopathy
@@ -268,7 +268,7 @@ HP:0002076	Migraine
 HP:0002079	Hypoplasia of the corpus callosum
 HP:0002088	Abnormality of lung morphology
 HP:0002090	Pneumonia
-HP:0002092	Pulmonary hypertension
+HP:0002092	Pulmonary arterial hypertension
 HP:0002093	Respiratory insufficiency
 HP:0002099	Asthma
 HP:0002119	Ventriculomegaly
@@ -359,13 +359,12 @@ HP:0002808	Kyphosis
 HP:0002829	Arthralgia
 HP:0002835	Aspiration
 HP:0002870	Obstructive sleep apnea
-HP:0002880	Respiratory difficulties
 HP:0002888	Ependymoma
 HP:0002901	Hypocalcemia
 HP:0002902	Hyponatremia
 HP:0002909	Generalized aminoaciduria
 HP:0002917	Hypomagnesemia
-HP:0002924	Decreased circulating aldosterone level
+HP:0002924	obsolete Decreased circulating aldosterone level
 HP:0002936	Distal sensory impairment
 HP:0002938	Lumbar hyperlordosis
 HP:0002944	Thoracolumbar scoliosis
@@ -445,8 +444,7 @@ HP:0006311	Generalized microdontia
 HP:0006313	Widely spaced primary teeth
 HP:0006462	Generalized bone demineralization
 HP:0006482	Abnormality of dental morphology
-HP:0006515	Interstitial pneumonitis
-HP:0006530	Interstitial pulmonary disease
+HP:0006530	Interstitial pulmonary abnormality
 HP:0006532	Recurrent pneumonia
 HP:0006543	Cardiorespiratory arrest
 HP:0006568	Increased hepatic glycogen content
@@ -672,10 +670,11 @@ HP:0100750	Atelectasis
 HP:0100767	Abnormality of the placenta
 HP:0100806	Sepsis
 HP:0100814	Blue nevus
-HP:0100828	Increase in T cell number
+HP:0100828	Increase in T cell count
 HP:0100874	Thick hair
 HP:0100960	Asymmetric ventricles
 HP:0200055	Small hand
 HP:0200097	Oral mucosal blisters
 HP:0200134	Epileptic encephalopathy
 HP:0200136	Oral-pharyngeal dysphagia
+OMIM:175100	Familial adenomatous polyposis 1

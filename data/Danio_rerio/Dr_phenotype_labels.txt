@@ -12,6 +12,7 @@ FBcv:0000351	lethal
 FBcv:0000354	visible
 FBcv:0000435	neuroanatomy defective
 FBcv:0001347	phenotype
+GO:0000003PHENOTYPE	reproduction phenotype
 GO:0000028PHENOTYPE	ribosomal small subunit assembly phenotype
 GO:0000050PHENOTYPE	urea cycle phenotype
 GO:0000070PHENOTYPE	mitotic sister chromatid segregation phenotype
@@ -98,6 +99,7 @@ GO:0002064PHENOTYPE	epithelial cell development phenotype
 GO:0002072PHENOTYPE	optic cup morphogenesis involved in camera-type eye development phenotype
 GO:0002088PHENOTYPE	lens development in camera-type eye phenotype
 GO:0002089PHENOTYPE	lens morphogenesis in camera-type eye phenotype
+GO:0002138PHENOTYPE	retinoic acid biosynthetic process phenotype
 GO:0002159PHENOTYPE	desmosome assembly phenotype
 GO:0002218PHENOTYPE	activation of innate immune response phenotype
 GO:0002232PHENOTYPE	leukocyte chemotaxis involved in inflammatory response phenotype
@@ -105,6 +107,7 @@ GO:0002233PHENOTYPE	leukocyte chemotaxis involved in immune response phenotype
 GO:0002244PHENOTYPE	hematopoietic progenitor cell differentiation phenotype
 GO:0002253PHENOTYPE	activation of immune response phenotype
 GO:0002283PHENOTYPE	neutrophil activation involved in immune response phenotype
+GO:0002320PHENOTYPE	lymphoid progenitor cell differentiation phenotype
 GO:0002446PHENOTYPE	neutrophil mediated immunity phenotype
 GO:0002521PHENOTYPE	leukocyte differentiation phenotype
 GO:0002522PHENOTYPE	leukocyte migration involved in immune response phenotype
@@ -117,6 +120,8 @@ GO:0002934PHENOTYPE	desmosome organization phenotype
 GO:0003007PHENOTYPE	heart morphogenesis phenotype
 GO:0003009PHENOTYPE	skeletal muscle contraction phenotype
 GO:0003014PHENOTYPE	renal system process phenotype
+GO:0003015PHENOTYPE	heart process phenotype
+GO:0003073PHENOTYPE	regulation of systemic arterial blood pressure phenotype
 GO:0003094PHENOTYPE	glomerular filtration phenotype
 GO:0003128PHENOTYPE	heart field specification phenotype
 GO:0003140PHENOTYPE	determination of left/right asymmetry in lateral mesoderm phenotype
@@ -176,6 +181,7 @@ GO:0003403PHENOTYPE	optic vesicle formation phenotype
 GO:0003404PHENOTYPE	optic vesicle morphogenesis phenotype
 GO:0003406PHENOTYPE	retinal pigment epithelium development phenotype
 GO:0003407PHENOTYPE	neural retina development phenotype
+GO:0003412PHENOTYPE	establishment of epithelial cell apical/basal polarity involved in camera-type eye morphogenesis phenotype
 GO:0003419PHENOTYPE	growth plate cartilage chondrocyte proliferation phenotype
 GO:0003428PHENOTYPE	chondrocyte intercalation involved in growth plate cartilage morphogenesis phenotype
 GO:0003720PHENOTYPE	telomerase activity phenotype
@@ -196,6 +202,7 @@ GO:0005248PHENOTYPE	voltage-gated sodium channel activity phenotype
 GO:0005262PHENOTYPE	calcium channel activity phenotype
 GO:0005614PHENOTYPE	interstitial matrix phenotype
 GO:0005622PHENOTYPE	intracellular phenotype
+GO:0005634PHENOTYPE	nucleus phenotype
 GO:0005737PHENOTYPE	cytoplasm phenotype
 GO:0005746PHENOTYPE	mitochondrial respiratory chain phenotype
 GO:0005840PHENOTYPE	ribosome phenotype
@@ -203,6 +210,7 @@ GO:0005861PHENOTYPE	troponin complex phenotype
 GO:0005892PHENOTYPE	acetylcholine-gated channel complex phenotype
 GO:0005911PHENOTYPE	cell-cell junction phenotype
 GO:0005923PHENOTYPE	bicellular tight junction phenotype
+GO:0005929PHENOTYPE	cilium phenotype
 GO:0006024PHENOTYPE	glycosaminoglycan biosynthetic process phenotype
 GO:0006090PHENOTYPE	pyruvate metabolic process phenotype
 GO:0006120PHENOTYPE	mitochondrial electron transport, NADH to ubiquinone phenotype
@@ -260,6 +268,7 @@ GO:0006974PHENOTYPE	cellular response to DNA damage stimulus phenotype
 GO:0006979PHENOTYPE	response to oxidative stress phenotype
 GO:0007004PHENOTYPE	telomere maintenance via telomerase phenotype
 GO:0007005PHENOTYPE	mitochondrion organization phenotype
+GO:0007006PHENOTYPE	mitochondrial membrane organization phenotype
 GO:0007010PHENOTYPE	cytoskeleton organization phenotype
 GO:0007015PHENOTYPE	actin filament organization phenotype
 GO:0007018PHENOTYPE	microtubule-based movement phenotype
@@ -323,6 +332,7 @@ GO:0007520PHENOTYPE	myoblast fusion phenotype
 GO:0007525PHENOTYPE	somatic muscle development phenotype
 GO:0007528PHENOTYPE	neuromuscular junction development phenotype
 GO:0007530PHENOTYPE	sex determination phenotype
+GO:0007568PHENOTYPE	aging phenotype
 GO:0007589PHENOTYPE	body fluid secretion phenotype
 GO:0007596PHENOTYPE	blood coagulation phenotype
 GO:0007599PHENOTYPE	hemostasis phenotype
@@ -367,6 +377,7 @@ GO:0008610PHENOTYPE	lipid biosynthetic process phenotype
 GO:0009081PHENOTYPE	branched-chain amino acid metabolic process phenotype
 GO:0009303PHENOTYPE	rRNA transcription phenotype
 GO:0009304PHENOTYPE	tRNA transcription phenotype
+GO:0009306PHENOTYPE	protein secretion phenotype
 GO:0009408PHENOTYPE	response to heat phenotype
 GO:0009410PHENOTYPE	response to xenobiotic stimulus phenotype
 GO:0009411PHENOTYPE	response to UV phenotype
@@ -380,6 +391,7 @@ GO:0009636PHENOTYPE	response to toxic substance phenotype
 GO:0009652PHENOTYPE	thigmotropism phenotype
 GO:0009749PHENOTYPE	response to glucose phenotype
 GO:0009792PHENOTYPE	embryo development ending in birth or egg hatching phenotype
+GO:0009794PHENOTYPE	regulation of mitotic cell cycle, embryonic phenotype
 GO:0009798PHENOTYPE	axis specification phenotype
 GO:0009826PHENOTYPE	unidimensional cell growth phenotype
 GO:0009880PHENOTYPE	embryonic pattern specification phenotype
@@ -651,7 +663,6 @@ GO:0031290PHENOTYPE	retinal ganglion cell axon guidance phenotype
 GO:0031413PHENOTYPE	regulation of buoyancy phenotype
 GO:0031443PHENOTYPE	fast-twitch skeletal muscle fiber contraction phenotype
 GO:0031444PHENOTYPE	slow-twitch skeletal muscle fiber contraction phenotype
-GO:0031513PHENOTYPE	nonmotile primary cilium phenotype
 GO:0031573PHENOTYPE	intra-S DNA damage checkpoint phenotype
 GO:0031580PHENOTYPE	membrane raft distribution phenotype
 GO:0031647PHENOTYPE	regulation of protein stability phenotype
@@ -698,6 +709,7 @@ GO:0034629PHENOTYPE	cellular protein complex localization phenotype
 GO:0034644PHENOTYPE	cellular response to UV phenotype
 GO:0034650PHENOTYPE	cortisol metabolic process phenotype
 GO:0034651PHENOTYPE	cortisol biosynthetic process phenotype
+GO:0034672PHENOTYPE	anterior/posterior pattern specification involved in pronephros development phenotype
 GO:0034976PHENOTYPE	response to endoplasmic reticulum stress phenotype
 GO:0035046PHENOTYPE	pronuclear migration phenotype
 GO:0035050PHENOTYPE	embryonic heart tube development phenotype
@@ -741,6 +753,7 @@ GO:0035779PHENOTYPE	angioblast cell differentiation phenotype
 GO:0035844PHENOTYPE	cloaca development phenotype
 GO:0035845PHENOTYPE	photoreceptor cell outer segment organization phenotype
 GO:0035881PHENOTYPE	amacrine cell differentiation phenotype
+GO:0035904PHENOTYPE	aorta development phenotype
 GO:0035907PHENOTYPE	dorsal aorta development phenotype
 GO:0035912PHENOTYPE	dorsal aorta morphogenesis phenotype
 GO:0035914PHENOTYPE	skeletal muscle cell differentiation phenotype
@@ -780,7 +793,6 @@ GO:0042166PHENOTYPE	acetylcholine binding phenotype
 GO:0042168PHENOTYPE	heme metabolic process phenotype
 GO:0042246PHENOTYPE	tissue regeneration phenotype
 GO:0042254PHENOTYPE	ribosome biogenesis phenotype
-GO:0042384PHENOTYPE	cilium assembly phenotype
 GO:0042416PHENOTYPE	dopamine biosynthetic process phenotype
 GO:0042427PHENOTYPE	serotonin biosynthetic process phenotype
 GO:0042438PHENOTYPE	melanin biosynthetic process phenotype
@@ -819,7 +831,6 @@ GO:0043066PHENOTYPE	negative regulation of apoptotic process phenotype
 GO:0043113PHENOTYPE	receptor clustering phenotype
 GO:0043153PHENOTYPE	entrainment of circadian clock by photoperiod phenotype
 GO:0043161PHENOTYPE	proteasome-mediated ubiquitin-dependent protein catabolic process phenotype
-GO:0043206PHENOTYPE	extracellular fibril organization phenotype
 GO:0043249PHENOTYPE	erythrocyte maturation phenotype
 GO:0043280PHENOTYPE	positive regulation of cysteine-type endopeptidase activity involved in apoptotic process phenotype
 GO:0043281PHENOTYPE	regulation of cysteine-type endopeptidase activity involved in apoptotic process phenotype
@@ -838,6 +849,7 @@ GO:0043576PHENOTYPE	regulation of respiratory gaseous exchange phenotype
 GO:0043583PHENOTYPE	ear development phenotype
 GO:0043584PHENOTYPE	nose development phenotype
 GO:0043589PHENOTYPE	skin morphogenesis phenotype
+GO:0043695PHENOTYPE	detection of pheromone phenotype
 GO:0043697PHENOTYPE	cell dedifferentiation phenotype
 GO:0043985PHENOTYPE	histone H4-R3 methylation phenotype
 GO:0044030PHENOTYPE	regulation of DNA methylation phenotype
@@ -860,7 +872,6 @@ GO:0045187PHENOTYPE	regulation of circadian sleep/wake cycle, sleep phenotype
 GO:0045197PHENOTYPE	establishment or maintenance of epithelial cell apical/basal polarity phenotype
 GO:0045198PHENOTYPE	establishment of epithelial cell apical/basal polarity phenotype
 GO:0045199PHENOTYPE	maintenance of epithelial cell apical/basal polarity phenotype
-GO:0045202PHENOTYPE	synapse phenotype
 GO:0045214PHENOTYPE	sarcomere organization phenotype
 GO:0045217PHENOTYPE	cell-cell junction maintenance phenotype
 GO:0045299PHENOTYPE	otolith mineralization phenotype
@@ -893,6 +904,7 @@ GO:0046530PHENOTYPE	photoreceptor cell differentiation phenotype
 GO:0046548PHENOTYPE	retinal rod cell development phenotype
 GO:0046549PHENOTYPE	retinal cone cell development phenotype
 GO:0046619PHENOTYPE	optic placode formation involved in camera-type eye formation phenotype
+GO:0046660PHENOTYPE	female sex differentiation phenotype
 GO:0046716PHENOTYPE	muscle cell cellular homeostasis phenotype
 GO:0046777PHENOTYPE	protein autophosphorylation phenotype
 GO:0046847PHENOTYPE	filopodium assembly phenotype
@@ -927,6 +939,7 @@ GO:0048389PHENOTYPE	intermediate mesoderm development phenotype
 GO:0048484PHENOTYPE	enteric nervous system development phenotype
 GO:0048485PHENOTYPE	sympathetic nervous system development phenotype
 GO:0048512PHENOTYPE	circadian behavior phenotype
+GO:0048513PHENOTYPE	organ development phenotype
 GO:0048514PHENOTYPE	blood vessel morphogenesis phenotype
 GO:0048534PHENOTYPE	hematopoietic or lymphoid organ development phenotype
 GO:0048538PHENOTYPE	thymus development phenotype
@@ -1002,6 +1015,7 @@ GO:0048886PHENOTYPE	neuromast hair cell differentiation phenotype
 GO:0048892PHENOTYPE	lateral line nerve development phenotype
 GO:0048899PHENOTYPE	anterior lateral line development phenotype
 GO:0048901PHENOTYPE	anterior lateral line neuromast development phenotype
+GO:0048903PHENOTYPE	anterior lateral line neuromast hair cell differentiation phenotype
 GO:0048909PHENOTYPE	anterior lateral line nerve development phenotype
 GO:0048914PHENOTYPE	myelination of anterior lateral line nerve axons phenotype
 GO:0048915PHENOTYPE	posterior lateral line system development phenotype
@@ -1098,6 +1112,7 @@ GO:0055078PHENOTYPE	sodium ion homeostasis phenotype
 GO:0055088PHENOTYPE	lipid homeostasis phenotype
 GO:0055109PHENOTYPE	invagination involved in gastrulation with mouth forming second phenotype
 GO:0055113PHENOTYPE	epiboly involved in gastrulation with mouth forming second phenotype
+GO:0055117PHENOTYPE	regulation of cardiac muscle contraction phenotype
 GO:0055123PHENOTYPE	digestive system development phenotype
 GO:0060005PHENOTYPE	vestibular reflex phenotype
 GO:0060021PHENOTYPE	palate development phenotype
@@ -1158,6 +1173,7 @@ GO:0060429PHENOTYPE	epithelium development phenotype
 GO:0060471PHENOTYPE	cortical granule exocytosis phenotype
 GO:0060491PHENOTYPE	regulation of cell projection assembly phenotype
 GO:0060536PHENOTYPE	cartilage morphogenesis phenotype
+GO:0060537PHENOTYPE	muscle tissue development phenotype
 GO:0060538PHENOTYPE	skeletal muscle organ development phenotype
 GO:0060541PHENOTYPE	respiratory system development phenotype
 GO:0060548PHENOTYPE	negative regulation of cell death phenotype
@@ -1199,6 +1215,7 @@ GO:0061008PHENOTYPE	hepaticobiliary system development phenotype
 GO:0061009PHENOTYPE	common bile duct development phenotype
 GO:0061010PHENOTYPE	gall bladder development phenotype
 GO:0061011PHENOTYPE	hepatic duct development phenotype
+GO:0061017PHENOTYPE	hepatoblast differentiation phenotype
 GO:0061026PHENOTYPE	cardiac muscle tissue regeneration phenotype
 GO:0061028PHENOTYPE	establishment of endothelial barrier phenotype
 GO:0061031PHENOTYPE	endodermal digestive tract morphogenesis phenotype
@@ -1334,6 +1351,7 @@ GO:0097325PHENOTYPE	melanocyte proliferation phenotype
 GO:0097352PHENOTYPE	autophagosome maturation phenotype
 GO:0097369PHENOTYPE	sodium ion import phenotype
 GO:0097374PHENOTYPE	sensory neuron axon guidance phenotype
+GO:0097435PHENOTYPE	fibril organization phenotype
 GO:0097475PHENOTYPE	motor neuron migration phenotype
 GO:0097535PHENOTYPE	lymphoid lineage cell migration into thymus phenotype
 GO:0098508PHENOTYPE	endothelial to hematopoietic transition phenotype
@@ -1343,6 +1361,7 @@ GO:0098749PHENOTYPE	cerebellar neuron development phenotype
 GO:0098754PHENOTYPE	detoxification phenotype
 GO:0098773PHENOTYPE	skin epidermis development phenotype
 GO:0098793PHENOTYPE	presynapse phenotype
+GO:0098856PHENOTYPE	intestinal lipid absorption phenotype
 GO:0098900PHENOTYPE	regulation of action potential phenotype
 GO:1900107PHENOTYPE	regulation of nodal signaling pathway phenotype
 GO:1900746PHENOTYPE	regulation of vascular endothelial growth factor signaling pathway phenotype
@@ -1357,6 +1376,7 @@ GO:1902355PHENOTYPE	endothelial tube lumen extension involved in blood vessel lu
 GO:1902362PHENOTYPE	melanocyte apoptotic process phenotype
 GO:1903041PHENOTYPE	regulation of chondrocyte hypertrophy phenotype
 GO:1903045PHENOTYPE	neural crest cell migration involved in sympathetic nervous system development phenotype
+GO:1903047PHENOTYPE	mitotic cell cycle process phenotype
 GO:1903224PHENOTYPE	regulation of endodermal cell differentiation phenotype
 GO:1903426PHENOTYPE	regulation of reactive oxygen species biosynthetic process phenotype
 GO:1903706PHENOTYPE	regulation of hemopoiesis phenotype
@@ -2294,7 +2314,6 @@ ZP:0000953	abnormal(ly) composition nucleate erythrocyte hemoglobin complex
 ZP:0000954	abnormal(ly) disrupted determination of pancreatic left/right asymmetry
 ZP:0000955	abnormal(ly) disrupted determination of heart left/right asymmetry
 ZP:0000956	abnormal(ly) disrupted determination of liver left/right asymmetry
-ZP:0000957	abnormal(ly) decreased length Kupffer's vesicle motile primary cilium
 ZP:0000958	abnormal(ly) mislocalised heart
 ZP:0000959	abnormal(ly) mislocalised liver
 ZP:0000960	abnormal(ly) mislocalised pancreas
@@ -2327,6 +2346,7 @@ ZP:0000989	abnormal(ly) displaced to retinal ganglion cell axon towards eye cont
 ZP:0000990	abnormal(ly) disrupted vestibular reflex
 ZP:0000992	abnormal(ly) fused with anterior macula towards posterior macula
 ZP:0000993	abnormal(ly) decreased size inner ear
+ZP:0000995	abnormal(ly) decreased size semicircular canal
 ZP:0000996	abnormal(ly) mislocalised lapillus
 ZP:0000998	abnormal(ly) present in fewer numbers in organism hair cell anterior macula
 ZP:0000999	abnormal(ly) absent posterior lateral line neuromast
@@ -3107,7 +3127,6 @@ ZP:0001839	abnormal(ly) disorganized slow muscle cell
 ZP:0001841	abnormal(ly) quality visual behavior
 ZP:0001842	abnormal(ly) decreased process quality thyroid gland development
 ZP:0001843	abnormal(ly) has fewer parts of type endocrine system towards thyroid follicle
-ZP:0001844	abnormal(ly) increased occurrence cilium assembly
 ZP:0001845	abnormal(ly) mislocalised spinal cord motor neuron
 ZP:0001846	abnormal(ly) increased amount spinal cord GABAergic neuron
 ZP:0001847	abnormal(ly) mislocalised spinal cord GABAergic neuron
@@ -3758,7 +3777,6 @@ ZP:0002527	abnormal(ly) condensed brain ventral region
 ZP:0002528	abnormal(ly) degenerate central nervous system
 ZP:0002529	abnormal(ly) increased width floor plate
 ZP:0002530	abnormal(ly) distended floor plate
-ZP:0002531	abnormal(ly) disoriented floor plate motile primary cilium
 ZP:0002532	abnormal(ly) present in greater numbers in organism floor plate ciliated cell
 ZP:0002533	abnormal(ly) process quality hindbrain motor neuron migration
 ZP:0002534	abnormal(ly) lacks all parts of type rhombomere 6 towards branchiomotor neuron
@@ -4112,7 +4130,6 @@ ZP:0002888	abnormal(ly) decreased size liver primordium
 ZP:0002889	abnormal(ly) quality blastema
 ZP:0002890	abnormal(ly) process quality determination of left/right asymmetry in lateral mesoderm
 ZP:0002891	abnormal(ly) process quality regulation of fibroblast growth factor receptor signaling pathway
-ZP:0002892	abnormal(ly) disrupted extracellular fibril organization
 ZP:0002893	abnormal(ly) disrupted apical protein localization
 ZP:0002894	abnormal(ly) process quality epithelial cilium movement involved in determination of left/right asymmetry
 ZP:0002895	abnormal(ly) disrupted cell migration involved in heart development
@@ -4120,7 +4137,6 @@ ZP:0002896	abnormal(ly) process quality Kupffer's vesicle development
 ZP:0002897	abnormal(ly) disrupted basement membrane organization
 ZP:0002898	abnormal(ly) malformed Kupffer's vesicle
 ZP:0002899	abnormal(ly) physical object quality Kupffer's vesicle
-ZP:0002900	abnormal(ly) present in fewer numbers in organism Kupffer's vesicle motile primary cilium
 ZP:0002901	abnormal(ly) decreased size forerunner cell group
 ZP:0002902	abnormal(ly) physical object quality forerunner cell group
 ZP:0002903	abnormal(ly) morphology extension
@@ -4144,7 +4160,6 @@ ZP:0002920	abnormal(ly) hypoplastic intestine
 ZP:0002921	abnormal(ly) morphology gut epithelium
 ZP:0002922	abnormal(ly) decreased rate epithelial cilium movement
 ZP:0002923	abnormal(ly) process quality determination of left/right symmetry
-ZP:0002924	abnormal(ly) process quality cilium assembly
 ZP:0002925	abnormal(ly) bilateral symmetry heart
 ZP:0002926	abnormal(ly) bilateral symmetry lateral plate mesoderm
 ZP:0002927	abnormal(ly) increased diameter pronephric duct
@@ -4203,7 +4218,6 @@ ZP:0002979	abnormal(ly) decreased process quality determination of left/right as
 ZP:0002980	abnormal(ly) decreased rate optokinetic behavior
 ZP:0002981	abnormal(ly) disrupted protein localization
 ZP:0002982	abnormal(ly) decreased process quality determination of pancreatic left/right asymmetry
-ZP:0002983	abnormal(ly) decreased process quality cilium assembly
 ZP:0002984	abnormal(ly) decreased process quality lateral mesoderm morphogenesis
 ZP:0002985	abnormal(ly) arrested detection of light stimulus involved in visual perception
 ZP:0002986	abnormal(ly) decreased process quality notochord cell development
@@ -4213,7 +4227,6 @@ ZP:0002989	abnormal(ly) decreased process quality Kupffer's vesicle development
 ZP:0002990	abnormal(ly) decreased process quality basement membrane assembly
 ZP:0002991	abnormal(ly) decreased process quality determination of digestive tract left/right asymmetry
 ZP:0002992	abnormal(ly) decreased process quality determination of liver left/right asymmetry
-ZP:0002993	abnormal(ly) decreased functionality Kupffer's vesicle motile primary cilium
 ZP:0002994	abnormal(ly) dispersed retinal ganglion cell layer
 ZP:0002995	abnormal(ly) morphology hypochord
 ZP:0002996	abnormal(ly) mislocalised lens
@@ -4396,7 +4409,6 @@ ZP:0003177	abnormal(ly) decreased amount midbrain neuron
 ZP:0003178	abnormal(ly) disrupted pigment granule maturation
 ZP:0003179	abnormal(ly) has fewer parts of type Kupffer's vesicle towards epithelial cell cilium
 ZP:0003180	abnormal(ly) structure melanocyte
-ZP:0003181	abnormal(ly) absent neuromast hair cell nonmotile primary cilium
 ZP:0003182	abnormal(ly) disrupted sprouting angiogenesis
 ZP:0003183	abnormal(ly) disorganized intersegmental vessel
 ZP:0003184	abnormal(ly) aplastic dorsal longitudinal anastomotic vessel
@@ -4555,7 +4567,6 @@ ZP:0003337	abnormal(ly) has fewer parts of type retina towards eye photoreceptor
 ZP:0003338	abnormal(ly) decreased length eye photoreceptor cell photoreceptor outer segment
 ZP:0003339	abnormal(ly) disorganized eye photoreceptor cell photoreceptor outer segment
 ZP:0003340	abnormal(ly) decreased length eye photoreceptor cell axoneme
-ZP:0003341	abnormal(ly) mislocalised eye photoreceptor cell cytoplasmic membrane-bounded vesicle
 ZP:0003342	abnormal(ly) disorganized eye photoreceptor cell photoreceptor outer segment membrane
 ZP:0003343	abnormal(ly) decreased length retinal cone cell photoreceptor outer segment
 ZP:0003344	abnormal(ly) malformed retinal cone cell photoreceptor outer segment
@@ -5252,8 +5263,6 @@ ZP:0004076	abnormal(ly) bulbous hindbrain
 ZP:0004077	abnormal(ly) process quality mitotic cell cycle
 ZP:0004078	abnormal(ly) arrested cell migration
 ZP:0004079	abnormal(ly) disrupted intraciliary transport
-ZP:0004080	abnormal(ly) disrupted cilium assembly
-ZP:0004081	abnormal(ly) lacks all parts of type floor plate towards floor plate motile primary cilium
 ZP:0004082	abnormal(ly) has fewer parts of type hindbrain towards branchiomotor neuron
 ZP:0004083	abnormal(ly) decreased length otic vesicle cilium
 ZP:0004084	abnormal(ly) decreased amount otic vesicle cilium
@@ -5626,9 +5635,6 @@ ZP:0004473	abnormal(ly) decreased width blood vessel
 ZP:0004474	abnormal(ly) structure podocyte
 ZP:0004475	abnormal(ly) shape thrombocyte
 ZP:0004478	abnormal(ly) decreased occurrence chondrocyte proliferation
-ZP:0004479	abnormal(ly) decreased process quality extracellular fibril organization
-ZP:0004480	abnormal(ly) present in greater numbers in organism ceratobranchial cartilage fibril
-ZP:0004481	abnormal(ly) increased thickness ceratobranchial cartilage fibril
 ZP:0004482	abnormal(ly) decreased size ceratobranchial cartilage chondrocyte
 ZP:0004483	abnormal(ly) immature ceratobranchial cartilage chondrocyte
 ZP:0004484	abnormal(ly) decreased rate ammonium transport
@@ -6726,6 +6732,7 @@ ZP:0005638	abnormal(ly) disrupted water homeostasis
 ZP:0005639	abnormal(ly) absent epidermis pore complex
 ZP:0005640	abnormal(ly) absent integument integument ionocyte
 ZP:0005641	abnormal(ly) present in fewer numbers in organism epidermis pore complex
+ZP:0005642	abnormal(ly) process quality head development
 ZP:0005644	abnormal(ly) curled notochord
 ZP:0005645	abnormal(ly) hyperplastic epithelium
 ZP:0005646	abnormal(ly) malformed caudal fin actinotrichium
@@ -6898,13 +6905,11 @@ ZP:0005836	abnormal(ly) decreased length Kupffer's vesicle motile cilium
 ZP:0005837	abnormal(ly) present in fewer numbers in organism Kupffer's vesicle motile cilium
 ZP:0005838	abnormal(ly) decreased amount Kupffer's vesicle cell
 ZP:0005839	abnormal(ly) decreased length pronephric duct motile cilium
-ZP:0005840	abnormal(ly) length posterior macula primary cilium
 ZP:0005841	abnormal(ly) paralysed olfactory placode cilium
 ZP:0005842	abnormal(ly) partially paralysed pronephros cilium
 ZP:0005843	abnormal(ly) distended pronephric tubule
 ZP:0005844	abnormal(ly) decreased amount pronephric duct motile cilium
 ZP:0005845	abnormal(ly) swollen olfactory epithelium axoneme
-ZP:0005846	abnormal(ly) decreased length olfactory epithelium nonmotile primary cilium
 ZP:0005847	abnormal(ly) decreased length photoreceptor cell photoreceptor outer segment
 ZP:0005848	abnormal(ly) mislocalised photoreceptor cell intraciliary transport particle
 ZP:0005849	abnormal(ly) swollen photoreceptor cell photoreceptor connecting cilium
@@ -6955,6 +6960,7 @@ ZP:0005897	abnormal(ly) dilated cranial vasculature
 ZP:0005898	abnormal(ly) attachment quality cranial vasculature towards cranial vasculature
 ZP:0005900	abnormal(ly) increased width intersegmental vessel
 ZP:0005901	abnormal(ly) decreased thickness myocardium
+ZP:0005905	abnormal(ly) increased size primordial midbrain channel
 ZP:0005909	abnormal(ly) disorganized subintestinal vein
 ZP:0005911	abnormal(ly) dilated prosencephalic artery
 ZP:0005912	abnormal(ly) spatial pattern mesencephalic vein
@@ -7511,7 +7517,6 @@ ZP:0006501	abnormal(ly) process quality blood vessel morphogenesis
 ZP:0006502	abnormal(ly) disrupted cilium morphogenesis
 ZP:0006503	abnormal(ly) morphology brain cell
 ZP:0006504	abnormal(ly) patchy floor plate
-ZP:0006505	abnormal(ly) has fewer parts of type floor plate towards floor plate motile primary cilium
 ZP:0006506	abnormal(ly) decreased amount floor plate motile cilium
 ZP:0006507	abnormal(ly) increased amount lens
 ZP:0006508	abnormal(ly) absent otic vesicle motile cilium
@@ -7521,9 +7526,6 @@ ZP:0006511	abnormal(ly) decreased size central canal
 ZP:0006512	abnormal(ly) decreased diameter lateral dorsal aorta
 ZP:0006513	abnormal(ly) morphology myoseptum posterior region
 ZP:0006514	abnormal(ly) absent whole organism axoneme
-ZP:0006515	abnormal(ly) absent whole organism motile primary cilium
-ZP:0006516	abnormal(ly) absent whole organism primary cilium
-ZP:0006517	abnormal(ly) present in fewer numbers in organism whole organism primary cilium
 ZP:0006518	abnormal(ly) aplastic adenohypophysis
 ZP:0006519	abnormal(ly) morphology trabecula cranii
 ZP:0006520	abnormal(ly) deformed otolith
@@ -7570,7 +7572,6 @@ ZP:0006570	abnormal(ly) disrupted protein sumoylation
 ZP:0006571	abnormal(ly) process quality collagen fibril organization
 ZP:0006572	abnormal(ly) process quality embryonic camera-type eye morphogenesis
 ZP:0006573	abnormal(ly) distended eye
-ZP:0006574	abnormal(ly) increased diameter corneal stroma fibril
 ZP:0006575	abnormal(ly) decreased thickness sclera anterior region
 ZP:0006576	abnormal(ly) decreased thickness sclera posterior region
 ZP:0006577	abnormal(ly) decreased amount sclera fibroblast
@@ -8497,6 +8498,7 @@ ZP:0007571	abnormal(ly) dilated enterocyte Golgi stack
 ZP:0007572	abnormal(ly) malformed hair cell anterior macula stereocilium
 ZP:0007573	abnormal(ly) decreased amount hair cell anterior macula stereocilium
 ZP:0007574	abnormal(ly) decreased occurrence hatching
+ZP:0007576	abnormal(ly) absent skeletal muscle Z disc
 ZP:0007577	abnormal(ly) absent skeletal muscle T-tubule
 ZP:0007578	abnormal(ly) disorganized skeletal muscle T-tubule
 ZP:0007579	abnormal(ly) displaced to muscle cell nucleus towards muscle cell central region
@@ -9063,6 +9065,7 @@ ZP:0008192	abnormal(ly) displaced pronephros axonemal microtubule
 ZP:0008193	abnormal(ly) decreased length pronephric tubule cilium
 ZP:0008194	abnormal(ly) disrupted glomerular visceral epithelial cell development
 ZP:0008195	abnormal(ly) disorganized glomerular basement membrane
+ZP:0008196	abnormal(ly) edematous orbit
 ZP:0008197	abnormal(ly) disorganized podocyte cell projection
 ZP:0008200	abnormal(ly) arrested female sex determination
 ZP:0008201	abnormal(ly) absent ovary
@@ -10023,7 +10026,6 @@ ZP:0009232	abnormal(ly) disrupted protein lipidation
 ZP:0009233	abnormal(ly) disrupted Wnt protein secretion
 ZP:0009234	abnormal(ly) shortened neural tube
 ZP:0009235	abnormal(ly) increased occurrence TOR signaling
-ZP:0009236	abnormal(ly) increased length Kupffer's vesicle motile primary cilium
 ZP:0009237	abnormal(ly) bilateral symmetry diencephalon
 ZP:0009238	abnormal(ly) increased length pronephric duct motile cilium
 ZP:0009239	abnormal(ly) mislocalised pancreas primordium
@@ -10297,9 +10299,7 @@ ZP:0009526	abnormal(ly) decreased process quality determination of bilateral sym
 ZP:0009527	abnormal(ly) process quality pectoral fin development
 ZP:0009528	abnormal(ly) process quality skeletal muscle cell differentiation
 ZP:0009529	abnormal(ly) absent Kupffer's vesicle motile cilium
-ZP:0009530	abnormal(ly) absent otic vesicle primary cilium
 ZP:0009531	abnormal(ly) absent pronephric duct motile cilium
-ZP:0009532	abnormal(ly) absent neural tube primary cilium
 ZP:0009533	abnormal(ly) bilateral symmetry pectoral fin
 ZP:0009534	abnormal(ly) absent exocrine pancreas
 ZP:0009535	abnormal(ly) bilateral symmetry exocrine pancreas
@@ -10419,6 +10419,7 @@ ZP:0009664	abnormal(ly) mislocalised rhombomere 2 neuron
 ZP:0009665	abnormal(ly) mislocalised rhombomere 4 neuron
 ZP:0009666	abnormal(ly) morphology hypothalamus
 ZP:0009667	abnormal(ly) apoptotic cranial neural crest
+ZP:0009668	abnormal(ly) morphology palatoquadrate cartilage
 ZP:0009670	abnormal(ly) decreased amount ceratobranchial cartilage chondrocyte
 ZP:0009671	abnormal(ly) aplastic vertebral artery
 ZP:0009672	abnormal(ly) lacks parts or has fewer parts of type vasculature towards intersegmental vessel
@@ -10515,7 +10516,6 @@ ZP:0009788	abnormal(ly) decreased amount brain nucleus
 ZP:0009789	abnormal(ly) decreased amount spinal cord nucleus
 ZP:0009790	abnormal(ly) unlumenized central canal
 ZP:0009791	abnormal(ly) morphology neurogenic placode
-ZP:0009792	abnormal(ly) decreased width roof plate rhombomere region
 ZP:0009793	abnormal(ly) fused with heart tube towards heart tube
 ZP:0009794	abnormal(ly) disrupted iron ion transport
 ZP:0009796	abnormal(ly) decreased thickness habenular commissure
@@ -10850,7 +10850,6 @@ ZP:0010151	abnormal(ly) mislocalised Mauthner neuron
 ZP:0010152	abnormal(ly) displaced to Mauthner neuron towards rhombomere posterior region
 ZP:0010153	abnormal(ly) disrupted posterior lateral line development
 ZP:0010154	abnormal(ly) shape neuromast
-ZP:0010155	abnormal(ly) morphology choroid plexus fourth ventricle
 ZP:0010156	abnormal(ly) arrested neuron migration
 ZP:0010157	abnormal(ly) heterochronic axon extension
 ZP:0010158	abnormal(ly) delayed olfactory placode development
@@ -11584,7 +11583,6 @@ ZP:0010965	abnormal(ly) bent anterior macula stereocilium bundle
 ZP:0010966	abnormal(ly) splayed anterior macula stereocilium bundle
 ZP:0010968	abnormal(ly) has fewer parts of type Kupffer's vesicle towards Kupffer's vesicle cilium
 ZP:0010969	abnormal(ly) has fewer parts of type pronephric duct towards pronephric duct cilium
-ZP:0010970	abnormal(ly) process quality neural tube cilium assembly
 ZP:0010971	abnormal(ly) stratified intestinal epithelium
 ZP:0010972	abnormal(ly) mislocalised intestinal epithelium cytoskeletal part
 ZP:0010973	abnormal(ly) present intestinal epithelium invadopodium
@@ -12059,7 +12057,6 @@ ZP:0011482	abnormal(ly) process quality VeLD axon guidance
 ZP:0011483	abnormal(ly) process quality Kolmer-Agduhr neuron axon guidance
 ZP:0011484	abnormal(ly) has fewer parts of type radial glial cell towards radial glial cell aster
 ZP:0011485	abnormal(ly) increased distance Kupffer's vesicle nucleus towards Kupffer's vesicle apical plasma membrane
-ZP:0011486	abnormal(ly) movement quality Kupffer's vesicle motile primary cilium
 ZP:0011487	abnormal(ly) detached from Kupffer's vesicle ciliary basal body towards Kupffer's vesicle apical plasma membrane
 ZP:0011488	abnormal(ly) shape ectoderm cell
 ZP:0011489	abnormal(ly) orientation ectoderm cell towards ectoderm
@@ -12474,7 +12471,6 @@ ZP:0011914	abnormal(ly) increased process quality inner ear cell death
 ZP:0011915	abnormal(ly) increased process quality mandibular arch skeleton cell death
 ZP:0011916	abnormal(ly) increased size hepatocyte nucleus
 ZP:0011917	abnormal(ly) decreased process quality hepatocyte DNA methylation
-ZP:0011918	abnormal(ly) decreased process quality pronephros cilium assembly
 ZP:0011919	abnormal(ly) decreased process quality pronephric tubule ciliary basal body organization
 ZP:0011920	abnormal(ly) mislocalised pronephric tubule ciliary basal body
 ZP:0011921	abnormal(ly) separated from pronephric tubule ciliary basal body towards pronephric tubule apical plasma membrane
@@ -13223,7 +13219,6 @@ ZP:0012682	abnormal(ly) absent otic vesicle posterior crista
 ZP:0012683	abnormal(ly) apoptotic otic vesicle posterior crista
 ZP:0012684	abnormal(ly) absent otic vesicle anterior crista
 ZP:0012685	abnormal(ly) decreased process quality gut peristalsis
-ZP:0012686	abnormal(ly) decreased amount tract of the caudal commissure diencephalic nucleus
 ZP:0012687	abnormal(ly) disrupted glucose import
 ZP:0012688	abnormal(ly) increased occurrence hindbrain apoptotic process
 ZP:0012689	abnormal(ly) displaced telencephalon
@@ -13310,6 +13305,7 @@ ZP:0012770	abnormal(ly) decreased amount glycinergic neuron
 ZP:0012782	abnormal(ly) process quality pronephric duct morphogenesis
 ZP:0012852	abnormal(ly) morphology posterior lateral line
 ZP:0012943	abnormal(ly) morphology neural keel
+ZP:0012953	abnormal(ly) occurrence thigmotaxis
 ZP:0012955	abnormal(ly) process quality calcium ion homeostasis
 ZP:0013142	abnormal(ly) morphology pharyngeal endoderm
 ZP:0013148	abnormal(ly) symmetry habenula
@@ -13317,11 +13313,13 @@ ZP:0013230	abnormal(ly) process quality larval development
 ZP:0013286	abnormal(ly) morphology slow muscle cell myofibril
 ZP:0013360	abnormal(ly) process quality angioblast cell differentiation
 ZP:0013435	abnormal(ly) morphology pectoral fin bud
+ZP:0013456	abnormal(ly) morphology photoreceptor outer segment layer
 ZP:0013486	abnormal(ly) decreased process quality fucosylation
 ZP:0013590	abnormal(ly) shape notochord
 ZP:0013611	abnormal(ly) process quality erythrocyte maturation
 ZP:0013651	abnormal(ly) morphology renal glomerulus
 ZP:0013689	abnormal(ly) action potential motor neuron
+ZP:0013748	abnormal(ly) morphology posterior lateral line nerve
 ZP:0013753	abnormal(ly) process quality lens development in camera-type eye
 ZP:0013759	abnormal(ly) morphology trigeminal ganglion
 ZP:0013799	abnormal(ly) process quality ribosome biogenesis
@@ -13469,6 +13467,7 @@ ZP:0014293	abnormal(ly) physical object quality myotome muscle tendon junction
 ZP:0014294	abnormal(ly) increased length muscle cell
 ZP:0014303	abnormal(ly) absent pectoral fin fold
 ZP:0014309	abnormal(ly) decreased amount posterior pancreatic bud endocrine cell
+ZP:0014312	abnormal(ly) absent neural crest
 ZP:0014322	abnormal(ly) apoptotic trigeminal ganglion
 ZP:0014323	abnormal(ly) decreased amount head peripheral neuron
 ZP:0014324	abnormal(ly) process quality cardiac chamber formation
@@ -13489,6 +13488,7 @@ ZP:0014350	abnormal(ly) decreased magnitude musculoskeletal movement
 ZP:0014354	abnormal(ly) disrupted mesodermal to mesenchymal transition involved in gastrulation
 ZP:0014355	abnormal(ly) spatial pattern mesodermal cell
 ZP:0014356	abnormal(ly) increased amount hypoblast bleb
+ZP:0014364	abnormal(ly) lacks all parts of type retina towards retinal pigmented epithelium microvillus
 ZP:0014377	abnormal(ly) disrupted response to wounding
 ZP:0014382	abnormal(ly) dilated pronephric proximal convoluted tubule
 ZP:0014383	abnormal(ly) increased size pronephric capsular space
@@ -13557,6 +13557,7 @@ ZP:0014803	abnormal(ly) absent palatoquadrate arch
 ZP:0014806	abnormal(ly) process quality neuromuscular process controlling balance
 ZP:0014819	abnormal(ly) decreased process quality growth
 ZP:0014822	abnormal(ly) mislocalised posterior lateral line neuromast
+ZP:0014830	abnormal(ly) absent hypothalamus
 ZP:0014848	abnormal(ly) increased area trunk melanosome
 ZP:0014858	abnormal(ly) decreased process quality endodermal cell fate specification
 ZP:0014859	abnormal(ly) lacks all parts of type whole organism towards endoderm
@@ -13577,17 +13578,23 @@ ZP:0014924	abnormal(ly) decreased volume cardiac ventricle cardiac muscle cell
 ZP:0014927	abnormal(ly) quality mandibular arch skeleton
 ZP:0014931	abnormal(ly) agenesis endocardial cushion
 ZP:0014934	abnormal(ly) process quality atrioventricular valve development
+ZP:0014948	abnormal(ly) disrupted cardioblast cell midline fusion
 ZP:0014952	abnormal(ly) decreased volume midbrain
 ZP:0014956	abnormal(ly) quality hemopoiesis
 ZP:0014963	abnormal(ly) quality immune response
 ZP:0014965	abnormal(ly) spatial pattern granulocyte
+ZP:0014967	abnormal(ly) spatial pattern brain
 ZP:0014969	abnormal(ly) quality cell migration
 ZP:0014984	abnormal(ly) increased size fin
+ZP:0014985	abnormal(ly) spatial pattern diencephalon
 ZP:0014991	abnormal(ly) increased amount testis
 ZP:0015012	abnormal(ly) absent testis
 ZP:0015015	abnormal(ly) decreased width melanophore stripe
 ZP:0015031	abnormal(ly) decreased amount branchiostegal ray
 ZP:0015040	abnormal(ly) absent granulocyte
+ZP:0015041	abnormal(ly) decreased amount posterior lateral line nerve mitochondrion
+ZP:0015042	abnormal(ly) discolored posterior lateral line nerve axon
+ZP:0015043	abnormal(ly) mislocalised posterior lateral line nerve synaptic vesicle
 ZP:0015049	abnormal(ly) has fewer parts of type heart rudiment towards cardiac muscle cell
 ZP:0015050	abnormal(ly) lacks all parts of type cardiac ventricle towards trabecular layer of ventricle
 ZP:0015051	abnormal(ly) irregular spatial pattern cardiac ventricle cardiac muscle cell
@@ -13602,6 +13609,7 @@ ZP:0015122	abnormal(ly) spatial pattern melanophore stripe
 ZP:0015124	abnormal(ly) delayed intersegmental vessel sprouting angiogenesis
 ZP:0015154	abnormal(ly) increased size neuroectoderm
 ZP:0015155	abnormal(ly) decreased size non neural ectoderm
+ZP:0015172	abnormal(ly) spindle-shaped melanocyte
 ZP:0015184	abnormal(ly) accumulation nucleate erythrocyte towards head
 ZP:0015195	abnormal(ly) absent swim bladder smooth muscle
 ZP:0015196	abnormal(ly) disorganized swim bladder mesothelial cell
@@ -13647,6 +13655,7 @@ ZP:0015358	abnormal(ly) mislocalised medial floor plate cell
 ZP:0015359	abnormal(ly) has fewer parts of type whole organism posterior region towards muscle
 ZP:0015360	abnormal(ly) disorganized paraxial mesoderm
 ZP:0015361	abnormal(ly) increased amount pronephros cell
+ZP:0015363	abnormal(ly) increased accumulation keratin accumulating cell towards epidermis
 ZP:0015373	abnormal(ly) increased diameter caudal vein plexus
 ZP:0015374	abnormal(ly) unlumenized axial vasculature
 ZP:0015375	abnormal(ly) perforate axial vasculature
@@ -13656,6 +13665,7 @@ ZP:0015381	abnormal(ly) unfused from anterior cardinal vein towards posterior ca
 ZP:0015382	abnormal(ly) unfused from lateral dorsal aorta towards lateral dorsal aorta
 ZP:0015403	abnormal(ly) irregular spatial pattern ocular blood vessel
 ZP:0015404	abnormal(ly) degenerate ocular blood vessel
+ZP:0015412	abnormal(ly) behavioral quality of a process thigmotaxis
 ZP:0015426	abnormal(ly) irregular spatial pattern blastoderm
 ZP:0015438	abnormal(ly) disrupted keratinocyte differentiation
 ZP:0015439	abnormal(ly) increased duration cell proliferation
@@ -13734,6 +13744,8 @@ ZP:0015668	abnormal(ly) bent pectoral fin
 ZP:0015669	abnormal(ly) curved pectoral fin
 ZP:0015670	abnormal(ly) aplastic otic vesicle protrusion
 ZP:0015671	abnormal(ly) mislocalised posteriorly basihyal cartilage
+ZP:0015672	abnormal(ly) size melanocyte
+ZP:0015681	abnormal(ly) composition xanthophore pigment granule
 ZP:0015695	abnormal(ly) increased occurrence lymphocyte proliferation
 ZP:0015696	abnormal(ly) neoplastic fin
 ZP:0015697	abnormal(ly) neoplastic head kidney
@@ -13805,6 +13817,8 @@ ZP:0015824	abnormal(ly) structure cranium
 ZP:0015826	abnormal(ly) structure lens epithelium anterior region
 ZP:0015828	abnormal(ly) increased amount blood cell
 ZP:0015830	abnormal(ly) decreased width anterior lateral plate mesoderm
+ZP:0015831	abnormal(ly) aplastic forebrain dorsal region
+ZP:0015832	abnormal(ly) undifferentiated head cell
 ZP:0015848	abnormal(ly) distended retroarticular
 ZP:0015887	abnormal(ly) process quality intracellular mRNA localization
 ZP:0015888	abnormal(ly) decreased occurrence central nervous system myelination
@@ -13818,6 +13832,7 @@ ZP:0015912	abnormal(ly) amorphous head central region
 ZP:0015938	abnormal(ly) has extra parts of type afferent neuron towards afferent neuron dendritic branch
 ZP:0015950	abnormal(ly) mislocalised notochord
 ZP:0015978	abnormal(ly) absent central artery
+ZP:0015992	abnormal(ly) decreased functionality glomerular basement membrane
 ZP:0016013	abnormal(ly) arrested leptotene
 ZP:0016014	abnormal(ly) increased duration meiotic prophase I
 ZP:0016015	abnormal(ly) arrested male meiosis I
@@ -13855,16 +13870,37 @@ ZP:0016136	abnormal(ly) decreased angle to trunk towards whole organism anterior
 ZP:0016137	abnormal(ly) decreased contractility post-vent region
 ZP:0016138	abnormal(ly) arrested cell communication by electrical coupling
 ZP:0016139	abnormal(ly) electrical conductivity slow muscle cell
+ZP:0016141	abnormal(ly) disorganized ceratohyal cartilage
 ZP:0016142	abnormal(ly) amplitude slow-twitch skeletal muscle fiber contraction
 ZP:0016145	abnormal(ly) decreased process quality glucose import in response to insulin stimulus
 ZP:0016152	abnormal(ly) has fewer parts of type ventral wall of dorsal aorta towards nucleate erythrocyte
 ZP:0016159	abnormal(ly) process quality cardiac muscle progenitor cell migration to the midline involved in heart field formation
 ZP:0016176	abnormal(ly) loose pharyngeal arch cartilage
+ZP:0016177	abnormal(ly) apoptotic prechordal plate
+ZP:0016178	abnormal(ly) decreased size hatching gland cell
+ZP:0016179	abnormal(ly) apoptotic prechordal plate anterior region
 ZP:0016180	abnormal(ly) disrupted regulation of muscle contraction
+ZP:0016181	abnormal(ly) curved dorsal head
 ZP:0016182	abnormal(ly) decreased diameter hindbrain neural rod
 ZP:0016183	abnormal(ly) flat hindbrain
 ZP:0016184	abnormal(ly) flat hindbrain neural rod
 ZP:0016185	abnormal(ly) decreased thickness hindbrain neural rod
+ZP:0016187	abnormal(ly) decreased intensity blood circulation
+ZP:0016188	abnormal(ly) apoptotic neuroepithelial cell
+ZP:0016189	abnormal(ly) fasciculation medial longitudinal fasciculus
+ZP:0016190	abnormal(ly) decreased size hindbrain commissure
+ZP:0016191	abnormal(ly) broken brain chromosome
+ZP:0016192	abnormal(ly) broken spinal cord chromosome
+ZP:0016193	abnormal(ly) broken neuroectoderm chromosome
+ZP:0016194	abnormal(ly) apoptotic tail bud proliferative region
+ZP:0016195	abnormal(ly) mislocalised anteriorly telencephalon
+ZP:0016196	abnormal(ly) has fewer parts of type hindbrain towards grey matter
+ZP:0016197	abnormal(ly) decreased amount radial glial cell
+ZP:0016199	abnormal(ly) degenerate post-vent region
+ZP:0016200	abnormal(ly) degenerate hypothalamus
+ZP:0016201	abnormal(ly) degenerate thalamus
+ZP:0016202	abnormal(ly) degenerate immature eye
+ZP:0016207	abnormal(ly) hypoplastic olfactory epithelium
 ZP:0016211	abnormal(ly) distended inner ear
 ZP:0016212	abnormal(ly) delayed inner ear morphogenesis
 ZP:0016213	abnormal(ly) decreased process quality auditory behavior
@@ -13880,7 +13916,23 @@ ZP:0016251	abnormal(ly) desaturated yellow head xanthophore
 ZP:0016252	abnormal(ly) granular head xanthophore
 ZP:0016253	abnormal(ly) decreased size iris
 ZP:0016254	abnormal(ly) brown head xanthophore
+ZP:0016256	abnormal(ly) brown xanthophore
 ZP:0016259	abnormal(ly) shape xanthophore
+ZP:0016260	abnormal(ly) white iridophore
+ZP:0016261	abnormal(ly) composition xanthophore
+ZP:0016262	abnormal(ly) decreased amount melanocyte cell projection
+ZP:0016263	abnormal(ly) decreased pigmentation melanocyte central region
+ZP:0016264	abnormal(ly) star shaped melanocyte
+ZP:0016265	abnormal(ly) decreased width ventral larval melanophore stripe
+ZP:0016266	abnormal(ly) lacks all parts of type swim bladder dorsal region towards melanocyte
+ZP:0016267	abnormal(ly) lacks all parts of type ventral larval melanophore stripe dorsal region towards melanocyte
+ZP:0016268	abnormal(ly) patchy ventral larval melanophore stripe ventral region
+ZP:0016269	abnormal(ly) has fewer parts of type yolk larval melanophore stripe towards iridophore
+ZP:0016270	abnormal(ly) irregular spatial pattern yolk larval melanophore stripe iridophore
+ZP:0016271	abnormal(ly) increased accumulation trunk ventro-lateral region towards melanocyte
+ZP:0016272	abnormal(ly) increased accumulation trunk ventro-lateral region towards iridophore
+ZP:0016273	abnormal(ly) increased accumulation post-vent region ventro-lateral region towards melanocyte
+ZP:0016274	abnormal(ly) increased accumulation post-vent region ventro-lateral region towards iridophore
 ZP:0016275	abnormal(ly) decreased process quality melanocyte catechol oxidase activity
 ZP:0016280	abnormal(ly) absent peripheral olfactory organ cilium
 ZP:0016281	abnormal(ly) absent macula cilium
@@ -13890,6 +13942,8 @@ ZP:0016288	abnormal(ly) decreased size dorsal hyoid arch
 ZP:0016289	abnormal(ly) decreased size ventral hyoid arch
 ZP:0016290	abnormal(ly) fused with pharyngeal arch 3-7 towards pharyngeal arch 3-7
 ZP:0016302	abnormal(ly) bent trunk anterior region
+ZP:0016313	abnormal(ly) increased amount blood vessel
+ZP:0016321	abnormal(ly) increased accumulation head towards epidermal cell
 ZP:0016328	abnormal(ly) decreased process quality cranial ganglion maturation
 ZP:0016329	abnormal(ly) poorly differentiated glossopharyngeal ganglion
 ZP:0016330	abnormal(ly) poorly differentiated vagal ganglion 1
@@ -13924,6 +13978,8 @@ ZP:0016439	abnormal(ly) sinuous retina artery
 ZP:0016440	abnormal(ly) spotted retina
 ZP:0016441	abnormal(ly) detached from retinal pigmented epithelium towards pigmented epithelial cell
 ZP:0016442	abnormal(ly) located in pigmented epithelial cell towards retinal inner plexiform layer
+ZP:0016446	abnormal(ly) process quality response to oxidative stress
+ZP:0016459	abnormal(ly) smooth intestine
 ZP:0016466	abnormal(ly) disrupted pelvic fin development
 ZP:0016470	abnormal(ly) present mesoderm pelvic fin bud
 ZP:0016471	abnormal(ly) absent pelvic fin skeleton
@@ -14001,12 +14057,15 @@ ZP:0016773	abnormal(ly) absent cranial vasculature
 ZP:0016788	abnormal(ly) dysplastic vertebra
 ZP:0016789	abnormal(ly) delayed vertebra bone mineralization
 ZP:0016792	abnormal(ly) absent eye melanocyte
+ZP:0016794	abnormal(ly) abnormal photoreceptor cell
+ZP:0016795	abnormal(ly) absent retina photoreceptor cell
 ZP:0016836	abnormal(ly) physical object quality presumptive ectoderm ventral region
 ZP:0016837	abnormal(ly) physical object quality ectoderm ventral region
 ZP:0016849	abnormal(ly) decreased occurrence microglia development
 ZP:0016850	abnormal(ly) lacks all parts of type brain towards macrophage
 ZP:0016851	abnormal(ly) has extra parts of type brain towards neutrophil
 ZP:0016852	abnormal(ly) mislocalised brain neutrophil
+ZP:0016853	abnormal(ly) has fewer parts of type brain towards microglial cell
 ZP:0016854	abnormal(ly) increased process quality macrophage activation
 ZP:0016855	abnormal(ly) has fewer parts of type whole organism towards macrophage
 ZP:0016856	abnormal(ly) apoptotic ball macrophage
@@ -14020,6 +14079,7 @@ ZP:0016863	abnormal(ly) disorganized fast muscle cell T-tubule
 ZP:0016864	abnormal(ly) process quality slow muscle cell skeletal myofibril assembly
 ZP:0016866	abnormal(ly) irregular spatial pattern skeletal muscle cell myofibril
 ZP:0016879	abnormal(ly) absent splanchnocranium
+ZP:0016893	abnormal(ly) hypertrophic intestinal epithelium
 ZP:0016907	abnormal(ly) decreased occurrence visual behavior
 ZP:0016910	abnormal(ly) decreased occurrence locomotion involved in locomotory behavior
 ZP:0016921	abnormal(ly) decreased process quality microvillous olfactory receptor neuron olfactory receptor activity
@@ -14038,6 +14098,7 @@ ZP:0017046	abnormal(ly) has fewer parts of type caudal vein plexus towards endot
 ZP:0017055	abnormal(ly) accumulation nucleate erythrocyte towards trunk
 ZP:0017064	abnormal(ly) increased area pharyngeal arch 1 mesenchyme
 ZP:0017075	abnormal(ly) morphology spinal cord radial glial cell
+ZP:0017077	abnormal(ly) apoptotic pronephric podocyte
 ZP:0017087	abnormal(ly) circular posterior lateral line myelinating Schwann cell
 ZP:0017097	abnormal(ly) decreased process quality lymphangiogenesis
 ZP:0017108	abnormal(ly) process quality melanosome localization
@@ -14064,6 +14125,9 @@ ZP:0017192	abnormal(ly) decreased amount amacrine cell neuron projection
 ZP:0017193	abnormal(ly) disorganized rhombomere compartment boundary
 ZP:0017198	abnormal(ly) decreased size whole organism posterior region
 ZP:0017200	abnormal(ly) increased amount vH ionocyte
+ZP:0017215	abnormal(ly) disorganized somite actin filament
+ZP:0017235	abnormal(ly) low brightness whole organism cell
+ZP:0017236	abnormal(ly) spherical whole organism cell
 ZP:0017238	abnormal(ly) absent pharyngeal musculature
 ZP:0017239	abnormal(ly) undifferentiated levator arcus palatini
 ZP:0017240	abnormal(ly) undifferentiated dilator operculi
@@ -14079,6 +14143,9 @@ ZP:0017253	abnormal(ly) morphology lateral crista primordium
 ZP:0017254	abnormal(ly) morphology posterior crista primordium
 ZP:0017255	abnormal(ly) morphology anterior crista primordium
 ZP:0017256	abnormal(ly) semi-fertile whole organism
+ZP:0017258	abnormal(ly) hypotrophic ciliary marginal zone
+ZP:0017259	abnormal(ly) vacuolated ciliary marginal zone
+ZP:0017260	abnormal(ly) unpigmented xanthophore
 ZP:0017263	abnormal(ly) absent endocardium
 ZP:0017266	abnormal(ly) absent whole organism xanthophore
 ZP:0017267	abnormal(ly) morphology pharyngeal arch cartilage chondrocyte
@@ -14123,6 +14190,11 @@ ZP:0017333	abnormal(ly) texture head integument
 ZP:0017334	abnormal(ly) circular fin cell
 ZP:0017335	abnormal(ly) has fewer parts of type myotome towards skeletal muscle cell myofibril
 ZP:0017337	abnormal(ly) mislocalised laterally dorsal larval melanophore stripe melanocyte
+ZP:0017338	abnormal(ly) necrotic pharyngeal arch 3-7 skeleton
+ZP:0017339	abnormal(ly) necrotic mandibular arch skeleton
+ZP:0017340	abnormal(ly) necrotic pharyngeal arch 2 skeleton
+ZP:0017341	abnormal(ly) decreased thickness melanocyte
+ZP:0017342	abnormal(ly) elongated melanocyte
 ZP:0017344	abnormal(ly) striated muscle cell striated muscle thin filament
 ZP:0017345	abnormal(ly) aplastic/hypoplastic hyoid muscle
 ZP:0017346	abnormal(ly) dysplastic cranium
@@ -14136,6 +14208,7 @@ ZP:0017353	abnormal(ly) neoplastic Meckel's cartilage chondrocyte
 ZP:0017355	abnormal(ly) neoplastic pharyngeal arch cartilage chondrocyte
 ZP:0017356	abnormal(ly) neoplastic neurocranium chondrocyte
 ZP:0017358	abnormal(ly) aplastic cardiac ventricle
+ZP:0017359	abnormal(ly) has fewer parts of type post-vent region yolk larval melanophore stripe towards melanocyte
 ZP:0017360	abnormal(ly) aplastic caudal fin ventral side
 ZP:0017363	abnormal(ly) bilateral diencephalon
 ZP:0017364	abnormal(ly) process quality determination of ventral identity
@@ -14161,6 +14234,7 @@ ZP:0017395	abnormal(ly) immature atrioventricular ring
 ZP:0017401	abnormal(ly) disrupted gliogenesis
 ZP:0017402	abnormal(ly) edematous pleuroperitoneal cavity
 ZP:0017414	abnormal(ly) process quality pronephric proximal tubule morphogenesis
+ZP:0017418	abnormal(ly) increased occurrence pronephric proximal convoluted tubule apoptotic process
 ZP:0017424	abnormal(ly) decreased process quality pronephros renal absorption
 ZP:0017426	abnormal(ly) lacks parts or has fewer parts of type eye photoreceptor cell towards eye photoreceptor cell photoreceptor outer segment
 ZP:0017427	abnormal(ly) has fewer parts of type eye photoreceptor cell towards eye photoreceptor cell photoreceptor connecting cilium
@@ -14178,7 +14252,6 @@ ZP:0017447	abnormal(ly) decreased cellular motility trunk macrophage
 ZP:0017448	abnormal(ly) decreased size statoacoustic (VIII) ganglion anatomical region
 ZP:0017449	abnormal(ly) decreased process quality photoreceptor cell morphogenesis
 ZP:0017450	abnormal(ly) decreased occurrence camera-type eye photoreceptor cell differentiation
-ZP:0017451	abnormal(ly) has fewer parts of type Kupffer's vesicle towards Kupffer's vesicle motile primary cilium
 ZP:0017452	abnormal(ly) physical object quality photoreceptor cell photoreceptor inner segment
 ZP:0017454	abnormal(ly) decreased occurrence blood coagulation, fibrin clot formation
 ZP:0017455	abnormal(ly) cellular adhesivity thrombocyte
@@ -14209,6 +14282,7 @@ ZP:0017492	abnormal(ly) decreased occurrence hematopoietic stem cell differentia
 ZP:0017494	abnormal(ly) has fewer parts of type whole organism towards hematopoietic stem cell
 ZP:0017495	abnormal(ly) process quality optic tectum transmission of nerve impulse
 ZP:0017496	abnormal(ly) decreased duration sleep
+ZP:0017506	abnormal(ly) increased process quality locomotion involved in locomotory behavior
 ZP:0017507	abnormal(ly) process quality melanosome assembly
 ZP:0017508	abnormal(ly) morphology retinal pigmented epithelium melanosome
 ZP:0017509	abnormal(ly) morphology photoreceptor cell photoreceptor outer segment
@@ -14306,6 +14380,7 @@ ZP:0017650	abnormal(ly) arrested posterior lateral line myelination of posterior
 ZP:0017651	abnormal(ly) decreased occurrence posterior lateral line myelination of posterior lateral line nerve axons
 ZP:0017652	abnormal(ly) mislocalised posteriorly pronephric proximal straight tubule
 ZP:0017653	abnormal(ly) mislocalised posteriorly pronephric distal early tubule
+ZP:0017656	abnormal(ly) absent tooth 5V
 ZP:0017665	abnormal(ly) fatty heart blood plasma
 ZP:0017666	abnormal(ly) decreased process quality posterior lateral line peripheral nervous system myelin formation
 ZP:0017667	abnormal(ly) arrested posterior lateral line peripheral nervous system axon ensheathment
@@ -14365,12 +14440,19 @@ ZP:0017747	abnormal(ly) increased amount Meckel's cartilage chondrocyte
 ZP:0017748	abnormal(ly) decreased amount head polysome
 ZP:0017750	abnormal(ly) increased amount head cytosolic ribosome
 ZP:0017751	abnormal(ly) delayed intersegmental vessel vasculature development
+ZP:0017752	abnormal(ly) decreased process quality liver organ growth
+ZP:0017753	abnormal(ly) decreased process quality pancreas organ growth
+ZP:0017754	abnormal(ly) position optic tectum white matter
+ZP:0017755	abnormal(ly) decreased size optic tectum white matter
+ZP:0017756	abnormal(ly) position rhombic lip white matter
+ZP:0017757	abnormal(ly) decreased size rhombic lip white matter
 ZP:0017758	abnormal(ly) decreased area hindbrain
 ZP:0017759	abnormal(ly) decreased width optic tectum
 ZP:0017760	abnormal(ly) increased amount neuron autophagosome
 ZP:0017761	abnormal(ly) delayed cardioblast cell midline fusion
 ZP:0017762	abnormal(ly) absent head mesoderm
 ZP:0017763	abnormal(ly) absent trunk mesoderm
+ZP:0017783	abnormal(ly) increased occurrence whole organism neoplasm
 ZP:0017788	abnormal(ly) disorganized podocyte
 ZP:0017791	abnormal(ly) increased size barbel
 ZP:0017793	abnormal(ly) curled pronephros cilium
@@ -14706,6 +14788,8 @@ ZP:0018433	abnormal(ly) decreased diameter caudal vein plexus ventral region
 ZP:0018434	abnormal(ly) process quality hemangioblast cell differentiation
 ZP:0018435	abnormal(ly) absent photoreceptor cell photoreceptor inner segment
 ZP:0018436	abnormal(ly) apoptotic retinal inner nuclear layer
+ZP:0018437	abnormal(ly) decreased process quality female sex determination
+ZP:0018441	abnormal(ly) increased thickness retinal inner plexiform layer
 ZP:0018447	abnormal(ly) increased thickness glomerular basement membrane
 ZP:0018448	abnormal(ly) increased fluorescence nucleate erythrocyte
 ZP:0018449	abnormal(ly) malformed posterior cardinal vein
