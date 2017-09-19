@@ -34,7 +34,6 @@ FBbt:00000034PHENOTYPE	Drosophila egg phenotype
 FBbt:00000035PHENOTYPE	Drosophila yolk phenotype
 FBbt:00000039PHENOTYPE	Drosophila inner chorionic layer phenotype
 FBbt:00000040PHENOTYPE	Drosophila endochorion phenotype
-FBbt:00000041PHENOTYPE	Drosophila exochorion phenotype
 FBbt:00000042PHENOTYPE	vitelline membrane phenotype
 FBbt:00000043PHENOTYPE	Drosophila micropyle phenotype
 FBbt:00000044PHENOTYPE	collar phenotype
@@ -45,7 +44,6 @@ FBbt:00000051PHENOTYPE	Drosophila polar body nucleus phenotype
 FBbt:00000052PHENOTYPE	Drosophila embryo phenotype
 FBbt:00000053PHENOTYPE	Drosophila embryonic cortex phenotype
 FBbt:00000055PHENOTYPE	Drosophila cleavage nucleus phenotype
-FBbt:00000056PHENOTYPE	energid phenotype
 FBbt:00000057PHENOTYPE	Drosophila yolk nucleus phenotype
 FBbt:00000059PHENOTYPE	mitotic domain phenotype
 FBbt:00000060PHENOTYPE	Drosophila mitotic domain 1 phenotype
@@ -67,7 +65,6 @@ FBbt:00000104PHENOTYPE	mesoderm anlage phenotype
 FBbt:00000110PHENOTYPE	Drosophila germ layer phenotype
 FBbt:00000111PHENOTYPE	ectoderm phenotype
 FBbt:00000112PHENOTYPE	Drosophila dorsal ectoderm phenotype
-FBbt:00000116PHENOTYPE	Drosophila lateral ventral neurectoderm phenotype
 FBbt:00000117PHENOTYPE	medial ventral neurectoderm phenotype
 FBbt:00000118PHENOTYPE	Drosophila intermediate ventral neurectoderm phenotype
 FBbt:00000123PHENOTYPE	Drosophila amnioproctodeal invagination phenotype
@@ -132,7 +129,6 @@ FBbt:00000188PHENOTYPE	metathoracic tracheal primordium phenotype
 FBbt:00000190PHENOTYPE	Drosophila abdominal tracheal primordium 1 phenotype
 FBbt:00000191PHENOTYPE	Drosophila abdominal tracheal primordium 2 phenotype
 FBbt:00000197PHENOTYPE	posterior spiracle primordium phenotype
-FBbt:00000199PHENOTYPE	Drosophila mesothoracic tracheal pit phenotype
 FBbt:00000200PHENOTYPE	Drosophila metathoracic tracheal pit phenotype
 FBbt:00000202PHENOTYPE	abdominal tracheal pit 1 phenotype
 FBbt:00000203PHENOTYPE	abdominal tracheal pit 2 phenotype
@@ -174,9 +170,7 @@ FBbt:00000337PHENOTYPE	Drosophila ventral anastomosis 0 phenotype
 FBbt:00000338PHENOTYPE	ventral anastomosis 1 phenotype
 FBbt:00000339PHENOTYPE	Drosophila ventral anastomosis 2 phenotype
 FBbt:00000340PHENOTYPE	Drosophila embryonic/larval fat body branch phenotype
-FBbt:00000362PHENOTYPE	lateral F branch phenotype
 FBbt:00000372PHENOTYPE	lateral G branch phenotype
-FBbt:00000378PHENOTYPE	Drosophila lateral G branch 7 phenotype
 FBbt:00000382PHENOTYPE	lateral H branch phenotype
 FBbt:00000394PHENOTYPE	pharyngeal branch phenotype
 FBbt:00000395PHENOTYPE	cerebral branch phenotype
@@ -198,7 +192,6 @@ FBbt:00000443PHENOTYPE	embryonic primordium of adult salivary gland phenotype
 FBbt:00000444PHENOTYPE	anterior midgut primordium phenotype
 FBbt:00000449PHENOTYPE	Drosophila adult midgut precursor cell phenotype
 FBbt:00000453PHENOTYPE	Drosophila midgut chamber 1 phenotype
-FBbt:00000454PHENOTYPE	Drosophila midgut chamber 2 phenotype
 FBbt:00000455PHENOTYPE	midgut chamber 3 phenotype
 FBbt:00000457PHENOTYPE	midgut constriction phenotype
 FBbt:00000458PHENOTYPE	Drosophila midgut constriction 1 phenotype
@@ -225,19 +218,13 @@ FBbt:00000487PHENOTYPE	pharyngeal muscle phenotype
 FBbt:00000489PHENOTYPE	dorsal pharyngeal muscle phenotype
 FBbt:00000503PHENOTYPE	prothoracic dorsal oblique muscle 1 phenotype
 FBbt:00000504PHENOTYPE	Drosophila prothoracic dorsal oblique muscle 2 phenotype
-FBbt:00000505PHENOTYPE	Drosophila prothoracic dorsal oblique muscle 3 phenotype
-FBbt:00000506PHENOTYPE	prothoracic dorsal oblique muscle 4 phenotype
 FBbt:00000509PHENOTYPE	Drosophila prothoracic ventral transverse muscle 1 phenotype
-FBbt:00000515PHENOTYPE	Drosophila prothoracic ventral intersegmental muscle phenotype
 FBbt:00000523PHENOTYPE	Drosophila mesothoracic dorsal acute muscle 1 phenotype
 FBbt:00000525PHENOTYPE	Drosophila mesothoracic dorsal acute muscle 3 phenotype
 FBbt:00000526PHENOTYPE	mesothoracic dorsal acute muscle 4 phenotype
 FBbt:00000529PHENOTYPE	Drosophila mesothoracic dorsal oblique muscle 1 phenotype
 FBbt:00000530PHENOTYPE	mesothoracic dorsal oblique muscle 2 phenotype
-FBbt:00000531PHENOTYPE	mesothoracic dorsal oblique muscle 3 phenotype
-FBbt:00000532PHENOTYPE	Drosophila mesothoracic dorsal oblique muscle 4 phenotype
 FBbt:00000535PHENOTYPE	mesothoracic ventral oblique muscle phenotype
-FBbt:00000537PHENOTYPE	Drosophila mesothoracic ventral oblique muscle 2 phenotype
 FBbt:00000538PHENOTYPE	Drosophila mesothoracic segment border muscle phenotype
 FBbt:00000540PHENOTYPE	mesothoracic lateral transverse muscle phenotype
 FBbt:00000541PHENOTYPE	Drosophila mesothoracic lateral transverse muscle 1 phenotype
@@ -250,12 +237,9 @@ FBbt:00000549PHENOTYPE	mesothoracic ventral longitudinal muscle 1 phenotype
 FBbt:00000555PHENOTYPE	metathoracic dorsal acute muscle 1 phenotype
 FBbt:00000557PHENOTYPE	metathoracic dorsal acute muscle 3 phenotype
 FBbt:00000558PHENOTYPE	metathoracic dorsal acute muscle 4 phenotype
-FBbt:00000559PHENOTYPE	Drosophila metathoracic ventral acute muscle phenotype
 FBbt:00000560PHENOTYPE	metathoracic ventral acute muscle 1 phenotype
 FBbt:00000563PHENOTYPE	metathoracic dorsal oblique muscle 1 phenotype
 FBbt:00000564PHENOTYPE	Drosophila metathoracic dorsal oblique muscle 2 phenotype
-FBbt:00000565PHENOTYPE	Drosophila metathoracic dorsal oblique muscle 3 phenotype
-FBbt:00000566PHENOTYPE	Drosophila metathoracic dorsal oblique muscle 4 phenotype
 FBbt:00000569PHENOTYPE	Drosophila metathoracic ventral oblique muscle phenotype
 FBbt:00000570PHENOTYPE	Drosophila metathoracic ventral oblique muscle 1 phenotype
 FBbt:00000571PHENOTYPE	Drosophila metathoracic ventral oblique muscle 2 phenotype
@@ -266,14 +250,12 @@ FBbt:00000576PHENOTYPE	metathoracic lateral transverse muscle 1 phenotype
 FBbt:00000577PHENOTYPE	Drosophila metathoracic lateral transverse muscle 2 phenotype
 FBbt:00000578PHENOTYPE	metathoracic lateral transverse muscle 3 phenotype
 FBbt:00000579PHENOTYPE	Drosophila metathoracic lateral transverse muscle 4 phenotype
-FBbt:00000582PHENOTYPE	metathoracic lateral longitudinal muscle 1 phenotype
 FBbt:00000583PHENOTYPE	Drosophila metathoracic ventral longitudinal muscle phenotype
 FBbt:00000584PHENOTYPE	Drosophila metathoracic ventral longitudinal muscle 1 phenotype
 FBbt:00000590PHENOTYPE	A1-7 dorsal acute muscle phenotype
 FBbt:00000591PHENOTYPE	Drosophila A1-7 dorsal acute muscle 1 phenotype
 FBbt:00000592PHENOTYPE	A1-7 dorsal acute muscle 2 phenotype
 FBbt:00000593PHENOTYPE	Drosophila A1-7 dorsal acute muscle 3 phenotype
-FBbt:00000594PHENOTYPE	A1-7 ventral acute muscle phenotype
 FBbt:00000595PHENOTYPE	A1-7 ventral acute muscle 1 phenotype
 FBbt:00000596PHENOTYPE	Drosophila A1-7 ventral acute muscle 2 phenotype
 FBbt:00000597PHENOTYPE	Drosophila A1-7 ventral acute muscle 3 phenotype
@@ -316,7 +298,6 @@ FBbt:00000652PHENOTYPE	abdominal 1 ventral longitudinal muscle 2 phenotype
 FBbt:00000654PHENOTYPE	abdominal 1 ventral longitudinal muscle 4 phenotype
 FBbt:00000655PHENOTYPE	abdominal 1 segment border muscle phenotype
 FBbt:00000658PHENOTYPE	Drosophila abdominal 1 dorsal oblique muscle 1 phenotype
-FBbt:00000660PHENOTYPE	abdominal 1 dorsal oblique muscle 3 phenotype
 FBbt:00000661PHENOTYPE	Drosophila abdominal 1 dorsal oblique muscle 4 phenotype
 FBbt:00000662PHENOTYPE	abdominal 1 dorsal oblique muscle 5 phenotype
 FBbt:00000665PHENOTYPE	Drosophila abdominal 1 ventral oblique muscle phenotype
@@ -457,7 +438,6 @@ FBbt:00000849PHENOTYPE	Drosophila abdominal 5 ventral longitudinal muscle 3 phen
 FBbt:00000850PHENOTYPE	abdominal 5 ventral longitudinal muscle 4 phenotype
 FBbt:00000851PHENOTYPE	abdominal 5 segment border muscle phenotype
 FBbt:00000854PHENOTYPE	abdominal 5 dorsal transverse muscle 1 phenotype
-FBbt:00000855PHENOTYPE	abdominal 5 lateral transverse muscle phenotype
 FBbt:00000856PHENOTYPE	abdominal 5 lateral transverse muscle 1 phenotype
 FBbt:00000857PHENOTYPE	Drosophila abdominal 5 lateral transverse muscle 2 phenotype
 FBbt:00000858PHENOTYPE	Drosophila abdominal 5 lateral transverse muscle 3 phenotype
@@ -490,7 +470,6 @@ FBbt:00000894PHENOTYPE	Drosophila abdominal 6 ventral longitudinal muscle 3 phen
 FBbt:00000895PHENOTYPE	abdominal 6 ventral longitudinal muscle 4 phenotype
 FBbt:00000896PHENOTYPE	Drosophila abdominal 6 segment border muscle phenotype
 FBbt:00000899PHENOTYPE	abdominal 6 dorsal transverse muscle 1 phenotype
-FBbt:00000900PHENOTYPE	Drosophila abdominal 6 lateral transverse muscle phenotype
 FBbt:00000901PHENOTYPE	abdominal 6 lateral transverse muscle 1 phenotype
 FBbt:00000902PHENOTYPE	abdominal 6 lateral transverse muscle 2 phenotype
 FBbt:00000903PHENOTYPE	Drosophila abdominal 6 lateral transverse muscle 3 phenotype
@@ -523,7 +502,6 @@ FBbt:00000939PHENOTYPE	Drosophila abdominal 7 ventral longitudinal muscle 3 phen
 FBbt:00000940PHENOTYPE	abdominal 7 ventral longitudinal muscle 4 phenotype
 FBbt:00000941PHENOTYPE	abdominal 7 segment border muscle phenotype
 FBbt:00000944PHENOTYPE	Drosophila abdominal 7 dorsal transverse muscle 1 phenotype
-FBbt:00000945PHENOTYPE	Drosophila abdominal 7 lateral transverse muscle phenotype
 FBbt:00000946PHENOTYPE	abdominal 7 lateral transverse muscle 1 phenotype
 FBbt:00000947PHENOTYPE	Drosophila abdominal 7 lateral transverse muscle 2 phenotype
 FBbt:00000948PHENOTYPE	Drosophila abdominal 7 lateral transverse muscle 3 phenotype
@@ -531,7 +509,6 @@ FBbt:00000949PHENOTYPE	Drosophila abdominal 7 lateral transverse muscle 4 phenot
 FBbt:00000951PHENOTYPE	abdominal 7 ventral transverse muscle 1 phenotype
 FBbt:00000955PHENOTYPE	Drosophila abdominal 8 dorsal oblique muscle 1 phenotype
 FBbt:00000956PHENOTYPE	abdominal 8 ventral oblique muscle phenotype
-FBbt:00000962PHENOTYPE	Drosophila abdominal 8 dorsal transverse muscle 1 phenotype
 FBbt:00000969PHENOTYPE	Drosophila abdominal 8 ventral longitudinal muscle phenotype
 FBbt:00000974PHENOTYPE	hypodermal muscle of larval abdominal 9 phenotype
 FBbt:00001005PHENOTYPE	embryonic/larval apodeme phenotype
@@ -553,7 +530,6 @@ FBbt:00001066PHENOTYPE	Drosophila embryonic protocerebrum phenotype
 FBbt:00001067PHENOTYPE	Drosophila embryonic deuterocerebrum phenotype
 FBbt:00001068PHENOTYPE	embryonic tritocerebrum phenotype
 FBbt:00001069PHENOTYPE	embryonic stomatogastric nervous system phenotype
-FBbt:00001070PHENOTYPE	Drosophila precursor cell of the stomatogastric nervous system phenotype
 FBbt:00001082PHENOTYPE	Drosophila embryonic ventral nervous system phenotype
 FBbt:00001086PHENOTYPE	embryonic mandibular neuromere phenotype
 FBbt:00001087PHENOTYPE	embryonic ventral neuromere phenotype
@@ -599,7 +575,6 @@ FBbt:00001268PHENOTYPE	A-subperineurial glial cell of abdominal segment 1 phenot
 FBbt:00001276PHENOTYPE	B-subperineurial glial cell of abdomen phenotype
 FBbt:00001277PHENOTYPE	B-subperineurial glial cell of abdominal segment 1 phenotype
 FBbt:00001289PHENOTYPE	Drosophila lateral ventral subperineurial glial cell phenotype
-FBbt:00001297PHENOTYPE	Drosophila cortex associated CNS glial cell phenotype
 FBbt:00001298PHENOTYPE	Drosophila embryonic/larval cell body glial cell phenotype
 FBbt:00001299PHENOTYPE	Drosophila medial-most cell body glial cell phenotype
 FBbt:00001300PHENOTYPE	medial cell body glial cell phenotype
@@ -621,6 +596,7 @@ FBbt:00001330PHENOTYPE	Drosophila embryonic peripheral glial cell 10 phenotype
 FBbt:00001331PHENOTYPE	peripheral glial cell 4 of SNc phenotype
 FBbt:00001332PHENOTYPE	Drosophila embryonic neuroblast phenotype
 FBbt:00001334PHENOTYPE	Drosophila protocerebral neuroblast phenotype
+FBbt:00001343PHENOTYPE	Drosophila central protocerebral neuroblast phenotype
 FBbt:00001367PHENOTYPE	SP1 neuron phenotype
 FBbt:00001369PHENOTYPE	Drosophila neuroblast of ventral nerve cord primordium phenotype
 FBbt:00001370PHENOTYPE	stage 1 neuroblast phenotype
@@ -707,8 +683,8 @@ FBbt:00001606PHENOTYPE	supraesophageal embryonic fiber tract founder cluster phe
 FBbt:00001616PHENOTYPE	Drosophila P5m fiber tract founder cluster phenotype
 FBbt:00001617PHENOTYPE	deutero/tritocerebral embryonic fiber tract founder cluster phenotype
 FBbt:00001618PHENOTYPE	Drosophila subesophageal embryonic fiber tract founder cluster phenotype
+FBbt:00001626PHENOTYPE	Drosophila lateral cervical tract phenotype
 FBbt:00001641PHENOTYPE	thoracic-abdominal embryonic fiber tract phenotype
-FBbt:00001642PHENOTYPE	Drosophila thoracic-abdominal pioneer tract phenotype
 FBbt:00001643PHENOTYPE	vMP2 tract phenotype
 FBbt:00001644PHENOTYPE	Drosophila MP1 tract phenotype
 FBbt:00001647PHENOTYPE	Drosophila lateral tract phenotype
@@ -752,10 +728,8 @@ FBbt:00001726PHENOTYPE	embryonic/larval corpus cardiacum phenotype
 FBbt:00001727PHENOTYPE	larva phenotype
 FBbt:00001729PHENOTYPE	Drosophila larval segment phenotype
 FBbt:00001730PHENOTYPE	Drosophila larval head phenotype
-FBbt:00001732PHENOTYPE	larval head segment phenotype
 FBbt:00001740PHENOTYPE	larval labial segment phenotype
 FBbt:00001741PHENOTYPE	Drosophila larval thorax phenotype
-FBbt:00001742PHENOTYPE	Drosophila larval thoracic segment phenotype
 FBbt:00001743PHENOTYPE	Drosophila larval prothoracic segment phenotype
 FBbt:00001744PHENOTYPE	Drosophila larval mesothoracic segment phenotype
 FBbt:00001745PHENOTYPE	Drosophila larval metathoracic segment phenotype
@@ -782,7 +756,6 @@ FBbt:00001769PHENOTYPE	morphogenetic furrow phenotype
 FBbt:00001770PHENOTYPE	Drosophila ommatidial precursor cluster phenotype
 FBbt:00001771PHENOTYPE	five-cell ommatidial precursor cluster phenotype
 FBbt:00001773PHENOTYPE	mature eight-cell ommatidial precursor cluster phenotype
-FBbt:00001775PHENOTYPE	Drosophila four cone-cell ommatidial precursor cluster phenotype
 FBbt:00001776PHENOTYPE	dorsal thoracic disc phenotype
 FBbt:00001777PHENOTYPE	Drosophila humeral disc phenotype
 FBbt:00001778PHENOTYPE	Drosophila wing disc phenotype
@@ -793,7 +766,6 @@ FBbt:00001782PHENOTYPE	mesothoracic leg disc phenotype
 FBbt:00001783PHENOTYPE	Drosophila metathoracic leg disc phenotype
 FBbt:00001784PHENOTYPE	genital disc phenotype
 FBbt:00001785PHENOTYPE	Drosophila male genital disc phenotype
-FBbt:00001786PHENOTYPE	female repressed primordium phenotype
 FBbt:00001787PHENOTYPE	Drosophila female genital disc phenotype
 FBbt:00001788PHENOTYPE	male repressed primordium phenotype
 FBbt:00001789PHENOTYPE	histoblast phenotype
@@ -860,7 +832,6 @@ FBbt:00001883PHENOTYPE	anterior embryonic/larval midgut phenotype
 FBbt:00001884PHENOTYPE	mid embryonic/larval midgut phenotype
 FBbt:00001885PHENOTYPE	posterior embryonic/larval midgut phenotype
 FBbt:00001887PHENOTYPE	Drosophila embryonic/larval cuprophilic cell phenotype
-FBbt:00001890PHENOTYPE	embryonic/larval principal midgut epithelial cell phenotype
 FBbt:00001891PHENOTYPE	embryonic/larval hindgut phenotype
 FBbt:00001893PHENOTYPE	Drosophila embryonic/larval anus phenotype
 FBbt:00001894PHENOTYPE	Drosophila embryonic/larval anal pad phenotype
@@ -873,7 +844,6 @@ FBbt:00001906PHENOTYPE	Drosophila embryonic/larval Malpighian tubule Type I cell
 FBbt:00001907PHENOTYPE	Drosophila embryonic/larval Malpighian tubule Type II cell phenotype
 FBbt:00001909PHENOTYPE	Drosophila yellow body phenotype
 FBbt:00001911PHENOTYPE	embryonic/larval nervous system phenotype
-FBbt:00001912PHENOTYPE	larval neuromere phenotype
 FBbt:00001913PHENOTYPE	Drosophila larval LN period neuron phenotype
 FBbt:00001919PHENOTYPE	Drosophila embryonic/larval central nervous system phenotype
 FBbt:00001920PHENOTYPE	embryonic/larval brain phenotype
@@ -932,8 +902,6 @@ FBbt:00002055PHENOTYPE	Drosophila ventral multidendritic neuron vdaA phenotype
 FBbt:00002056PHENOTYPE	Drosophila ventral multidendritic neuron vdaB phenotype
 FBbt:00002057PHENOTYPE	ventral multidendritic neuron vdaC phenotype
 FBbt:00002058PHENOTYPE	Drosophila ventral multidendritic neuron vdaD phenotype
-FBbt:00002064PHENOTYPE	prothoracic intersegmental nerve phenotype
-FBbt:00002085PHENOTYPE	prothoracic segmental nerve phenotype
 FBbt:00002104PHENOTYPE	Drosophila mesothoracic intersegmental nerve phenotype
 FBbt:00002114PHENOTYPE	mesothoracic les3 neuron phenotype
 FBbt:00002125PHENOTYPE	mesothoracic segmental nerve phenotype
@@ -948,8 +916,6 @@ FBbt:00002181PHENOTYPE	Drosophila abdominal intersegmental bidendritic neuron is
 FBbt:00002197PHENOTYPE	Drosophila abdominal segmental nerve phenotype
 FBbt:00002198PHENOTYPE	Drosophila abdominal segment motor neuron phenotype
 FBbt:00002199PHENOTYPE	Drosophila A1-7 VO2 motor neuron phenotype
-FBbt:00002200PHENOTYPE	Drosophila abdominal 1 VO2 motor neuron phenotype
-FBbt:00002201PHENOTYPE	Drosophila abdominal 2 VO2 motor neuron phenotype
 FBbt:00002208PHENOTYPE	abdominal 1 dorsal motor neuron phenotype
 FBbt:00002209PHENOTYPE	abdominal 2 dorsal motor neuron phenotype
 FBbt:00002210PHENOTYPE	abdominal 3 dorsal motor neuron phenotype
@@ -958,8 +924,6 @@ FBbt:00002212PHENOTYPE	abdominal 5 dorsal motor neuron phenotype
 FBbt:00002213PHENOTYPE	Drosophila abdominal 6 dorsal motor neuron phenotype
 FBbt:00002214PHENOTYPE	abdominal 7 dorsal motor neuron phenotype
 FBbt:00002215PHENOTYPE	Drosophila A1-7 VL3/4 motor neuron phenotype
-FBbt:00002216PHENOTYPE	Drosophila abdominal 1 VL3/4 motor neuron phenotype
-FBbt:00002217PHENOTYPE	Drosophila abdominal 2 VL3/4 motor neuron phenotype
 FBbt:00002223PHENOTYPE	A1-7 VO1 motor neuron phenotype
 FBbt:00002231PHENOTYPE	Drosophila A1-7 ventral motor neuron phenotype
 FBbt:00002240PHENOTYPE	Drosophila abdominal 1 dorsal VUM motor neuron phenotype
@@ -994,13 +958,11 @@ FBbt:00002381PHENOTYPE	abdominal 4 lch5 neuron phenotype
 FBbt:00002382PHENOTYPE	Drosophila abdominal 5 lch5 neuron phenotype
 FBbt:00002383PHENOTYPE	abdominal 6 lch5 neuron phenotype
 FBbt:00002384PHENOTYPE	abdominal 7 lch5 neuron phenotype
-FBbt:00002385PHENOTYPE	Drosophila abdominal dorsal/lateral multidendritic neuron phenotype
 FBbt:00002386PHENOTYPE	abdominal dorsal multidendritic neuron ddaA phenotype
 FBbt:00002402PHENOTYPE	abdominal dorsal multidendritic neuron ddaC phenotype
 FBbt:00002403PHENOTYPE	abdominal 1 dorsal multidendritic neuron ddaC phenotype
 FBbt:00002410PHENOTYPE	Drosophila abdominal dorsal multidendritic neuron ddaD phenotype
 FBbt:00002418PHENOTYPE	abdominal dorsal multidendritic neuron ddaE phenotype
-FBbt:00002419PHENOTYPE	Drosophila abdominal 1 dorsal multidendritic neuron ddaE phenotype
 FBbt:00002442PHENOTYPE	Drosophila abdominal dorsal bipolar neuron dbp phenotype
 FBbt:00002443PHENOTYPE	abdominal 1 dorsal bipolar neuron dbp phenotype
 FBbt:00002444PHENOTYPE	Drosophila abdominal 2 dorsal bipolar neuron dbp phenotype
@@ -1030,10 +992,9 @@ FBbt:00002533PHENOTYPE	Drosophila abdominal ventral multidendritic neuron v'dap 
 FBbt:00002549PHENOTYPE	Drosophila abdominal ventral multidendritic neuron vdaB phenotype
 FBbt:00002589PHENOTYPE	abdominal ventral bipolar neuron vbp phenotype
 FBbt:00002628PHENOTYPE	Drosophila embryonic/larval stomatogastric nervous system phenotype
-FBbt:00002630PHENOTYPE	embryonic/larval frontal nerve phenotype
 FBbt:00002631PHENOTYPE	Drosophila embryonic/larval recurrent nerve phenotype
-FBbt:00002633PHENOTYPE	Drosophila esophageal ganglion 1 phenotype
-FBbt:00002634PHENOTYPE	Drosophila esophageal ganglion 2 phenotype
+FBbt:00002632PHENOTYPE	embryonic/larval hypocerebral ganglion phenotype
+FBbt:00002635PHENOTYPE	paraesophageal ganglion phenotype
 FBbt:00002638PHENOTYPE	Drosophila embryonic/larval ventricular ganglion phenotype
 FBbt:00002639PHENOTYPE	Drosophila embryonic/larval sense organ phenotype
 FBbt:00002640PHENOTYPE	Drosophila antenno-maxillary complex phenotype
@@ -1043,8 +1004,6 @@ FBbt:00002651PHENOTYPE	pharyngeal monoscolopidial chordotonal organ phenotype
 FBbt:00002652PHENOTYPE	Drosophila dorsopharyngeal organ phenotype
 FBbt:00002654PHENOTYPE	Drosophila embryonic/larval antennal segment sensillum phenotype
 FBbt:00002655PHENOTYPE	Drosophila dorsal organ phenotype
-FBbt:00002663PHENOTYPE	Drosophila monoscolopidial chordotonal organ phenotype
-FBbt:00002670PHENOTYPE	Drosophila dorsal group sensillum phenotype
 FBbt:00002679PHENOTYPE	dorsolateral papilla phenotype
 FBbt:00002683PHENOTYPE	cirri phenotype
 FBbt:00002684PHENOTYPE	Drosophila associated organ phenotype
@@ -1055,7 +1014,6 @@ FBbt:00002690PHENOTYPE	Drosophila terminal organ phenotype
 FBbt:00002701PHENOTYPE	pit sensillum T1 phenotype
 FBbt:00002702PHENOTYPE	pit sensillum T2 phenotype
 FBbt:00002707PHENOTYPE	ventral organ phenotype
-FBbt:00002716PHENOTYPE	Drosophila embryonic/larval maxillary chordotonal organ with two scolopidia phenotype
 FBbt:00002718PHENOTYPE	Drosophila embryonic/larval labial segment sensillum phenotype
 FBbt:00002719PHENOTYPE	hypophysis phenotype
 FBbt:00002720PHENOTYPE	embryonic/larval labial organ phenotype
@@ -1078,7 +1036,6 @@ FBbt:00002779PHENOTYPE	Drosophila metathoracic Keilin's organ phenotype
 FBbt:00002780PHENOTYPE	metathoracic dorsal trichome phenotype
 FBbt:00002781PHENOTYPE	metathoracic ventral denticle belt phenotype
 FBbt:00002783PHENOTYPE	Drosophila abdominal dorsal sensillum trichodeum dh1 phenotype
-FBbt:00002823PHENOTYPE	Drosophila abdominal lateral monoscolopidial chordotonal organ lch1 phenotype
 FBbt:00002824PHENOTYPE	Drosophila abdominal 1 lateral monoscolopidial chordotonal organ lch1 phenotype
 FBbt:00002825PHENOTYPE	Drosophila abdominal 2 lateral monoscolopidial chordotonal organ lch1 phenotype
 FBbt:00002826PHENOTYPE	Drosophila abdominal 3 lateral monoscolopidial chordotonal organ lch1 phenotype
@@ -1124,7 +1081,6 @@ FBbt:00002908PHENOTYPE	Drosophila abdominal 4 ventral monoscolopidial chordotona
 FBbt:00002909PHENOTYPE	abdominal 5 ventral monoscolopidial chordotonal organ vch1 phenotype
 FBbt:00002910PHENOTYPE	abdominal 6 ventral monoscolopidial chordotonal organ vch1 phenotype
 FBbt:00002911PHENOTYPE	abdominal 7 ventral monoscolopidial chordotonal organ vch1 phenotype
-FBbt:00002912PHENOTYPE	Drosophila abdominal dorsal trichome phenotype
 FBbt:00002920PHENOTYPE	Drosophila abdominal ventral denticle belt phenotype
 FBbt:00002921PHENOTYPE	Drosophila abdominal 1 ventral denticle belt phenotype
 FBbt:00002922PHENOTYPE	abdominal 2 ventral denticle belt phenotype
@@ -1139,7 +1095,6 @@ FBbt:00002951PHENOTYPE	Drosophila abdominal 11 anal tuft phenotype
 FBbt:00002952PHENOTYPE	prepupa phenotype
 FBbt:00002953PHENOTYPE	Drosophila pupa phenotype
 FBbt:00002954PHENOTYPE	Drosophila pupal tracheal system phenotype
-FBbt:00002955PHENOTYPE	coiled tracheole phenotype
 FBbt:00002981PHENOTYPE	pupal abdominal trachea phenotype
 FBbt:00002996PHENOTYPE	Drosophila pupal spiracle phenotype
 FBbt:00002997PHENOTYPE	anterior pupal spiracle phenotype
@@ -1166,11 +1121,9 @@ FBbt:00003031PHENOTYPE	Drosophila adult abdominal segment 7 phenotype
 FBbt:00003032PHENOTYPE	Drosophila adult abdominal segment 8 phenotype
 FBbt:00003033PHENOTYPE	Drosophila adult abdominal segment 9 phenotype
 FBbt:00003037PHENOTYPE	Drosophila adult tracheal system phenotype
-FBbt:00003038PHENOTYPE	Drosophila adult trachea phenotype
 FBbt:00003051PHENOTYPE	Drosophila dorsal branch phenotype
 FBbt:00003070PHENOTYPE	Drosophila visceral branch phenotype
 FBbt:00003083PHENOTYPE	dorsal superficial trachea phenotype
-FBbt:00003101PHENOTYPE	Drosophila tracheal air sac phenotype
 FBbt:00003120PHENOTYPE	adult spiracle phenotype
 FBbt:00003125PHENOTYPE	alimentary canal phenotype
 FBbt:00003127PHENOTYPE	Drosophila adult foregut phenotype
@@ -1186,17 +1139,14 @@ FBbt:00003152PHENOTYPE	adult dorsal vessel phenotype
 FBbt:00003154PHENOTYPE	Drosophila adult heart phenotype
 FBbt:00003156PHENOTYPE	Drosophila adult heart chamber phenotype
 FBbt:00003157PHENOTYPE	adult heart chamber 1 phenotype
-FBbt:00003158PHENOTYPE	adult heart chamber 2 phenotype
 FBbt:00003183PHENOTYPE	adult garland cell phenotype
 FBbt:00003184PHENOTYPE	adult pericardial cell phenotype
 FBbt:00003185PHENOTYPE	Drosophila adult oenocyte phenotype
 FBbt:00003208PHENOTYPE	adult adipose system phenotype
 FBbt:00003209PHENOTYPE	Drosophila adult fat body phenotype
-FBbt:00003213PHENOTYPE	Drosophila abdominal adult fat mass phenotype
 FBbt:00003215PHENOTYPE	Drosophila adult corpus allatum phenotype
 FBbt:00003217PHENOTYPE	Drosophila dorsal neurohemal organ phenotype
 FBbt:00003218PHENOTYPE	adult muscle system phenotype
-FBbt:00003225PHENOTYPE	adepithelial cell of wing disc phenotype
 FBbt:00003232PHENOTYPE	embryonic precursor cell of adult muscle phenotype
 FBbt:00003233PHENOTYPE	Drosophila thoracic adult muscle precursor cell phenotype
 FBbt:00003234PHENOTYPE	Drosophila abdominal adult muscle precursor cell phenotype
@@ -1225,16 +1175,13 @@ FBbt:00003256PHENOTYPE	Drosophila abdominal 5 ventral adult muscle precursor cel
 FBbt:00003257PHENOTYPE	Drosophila abdominal 6 ventral adult muscle precursor cell phenotype
 FBbt:00003258PHENOTYPE	abdominal 7 ventral adult muscle precursor cell phenotype
 FBbt:00003259PHENOTYPE	Drosophila adult somatic muscle phenotype
-FBbt:00003261PHENOTYPE	proboscis muscle phenotype
 FBbt:00003262PHENOTYPE	proboscis muscle 1 phenotype
 FBbt:00003284PHENOTYPE	Drosophila muscle 18a phenotype
 FBbt:00003285PHENOTYPE	Drosophila muscle 18b phenotype
 FBbt:00003305PHENOTYPE	Drosophila skeletal muscle of thorax phenotype
 FBbt:00003318PHENOTYPE	Drosophila skeletal muscle of leg phenotype
-FBbt:00003319PHENOTYPE	Drosophila depressor muscle phenotype
 FBbt:00003320PHENOTYPE	Drosophila extracoxal depressor muscle phenotype
 FBbt:00003329PHENOTYPE	Drosophila tibial levator muscle phenotype
-FBbt:00003330PHENOTYPE	tarsal levator muscle phenotype
 FBbt:00003339PHENOTYPE	Drosophila prothoracic sternal muscle phenotype
 FBbt:00003360PHENOTYPE	Drosophila flight muscle phenotype
 FBbt:00003361PHENOTYPE	indirect flight muscle phenotype
@@ -1256,8 +1203,6 @@ FBbt:00003376PHENOTYPE	Drosophila coxal tergal remotor muscle phenotype
 FBbt:00003377PHENOTYPE	Drosophila coxal tergal remotor muscle 48a phenotype
 FBbt:00003378PHENOTYPE	coxal tergal remotor muscle 48b phenotype
 FBbt:00003379PHENOTYPE	direct flight muscle phenotype
-FBbt:00003380PHENOTYPE	Drosophila direct flight muscle 49 phenotype
-FBbt:00003381PHENOTYPE	direct flight muscle 50 phenotype
 FBbt:00003385PHENOTYPE	basalar muscle 51 phenotype
 FBbt:00003386PHENOTYPE	basalar muscle 52 phenotype
 FBbt:00003388PHENOTYPE	Drosophila muscle of first axillary 53 phenotype
@@ -1266,7 +1211,6 @@ FBbt:00003404PHENOTYPE	mesothoracic extracoxal depressor muscle 66 phenotype
 FBbt:00003447PHENOTYPE	Drosophila skeletal muscle of abdomen phenotype
 FBbt:00003448PHENOTYPE	Drosophila abdominal 1 dorsal longitudinal muscle phenotype
 FBbt:00003462PHENOTYPE	Drosophila abdominal dorsal muscle phenotype
-FBbt:00003479PHENOTYPE	Drosophila abdominal ventral muscle phenotype
 FBbt:00003506PHENOTYPE	Drosophila male abdominal 5 muscle phenotype
 FBbt:00003524PHENOTYPE	basal apodeme of penis phenotype
 FBbt:00003543PHENOTYPE	Drosophila adult heart muscle phenotype
@@ -1298,6 +1242,7 @@ FBbt:00003629PHENOTYPE	DN1 neuron phenotype
 FBbt:00003632PHENOTYPE	Drosophila adult central complex phenotype
 FBbt:00003649PHENOTYPE	Drosophila ring neuron phenotype
 FBbt:00003653PHENOTYPE	ring neuron R4 phenotype
+FBbt:00003657PHENOTYPE	Drosophila fan-shaped neuron phenotype
 FBbt:00003664PHENOTYPE	intrinsic neuron phenotype
 FBbt:00003668PHENOTYPE	protocerebral bridge phenotype
 FBbt:00003669PHENOTYPE	Drosophila protocerebral bridge slice phenotype
@@ -1311,9 +1256,7 @@ FBbt:00003686PHENOTYPE	Drosophila Kenyon cell phenotype
 FBbt:00003687PHENOTYPE	Drosophila mushroom body pedunculus phenotype
 FBbt:00003688PHENOTYPE	lobe system of mushroom body phenotype
 FBbt:00003690PHENOTYPE	mushroom body alpha-lobe phenotype
-FBbt:00003691PHENOTYPE	Drosophila mushroom body alpha'-lobe phenotype
 FBbt:00003693PHENOTYPE	mushroom body beta-lobe phenotype
-FBbt:00003694PHENOTYPE	Drosophila mushroom body beta'-lobe phenotype
 FBbt:00003695PHENOTYPE	mushroom body gamma-lobe phenotype
 FBbt:00003698PHENOTYPE	optic glomerulus phenotype
 FBbt:00003699PHENOTYPE	ocellar nerve phenotype
@@ -1364,7 +1307,6 @@ FBbt:00003932PHENOTYPE	antennal lobe glomerulus DA1 phenotype
 FBbt:00003934PHENOTYPE	Drosophila antennal lobe glomerulus DA3 phenotype
 FBbt:00003936PHENOTYPE	Drosophila antennal lobe glomerulus VA1 phenotype
 FBbt:00003937PHENOTYPE	Drosophila antennal lobe glomerulus VA5 phenotype
-FBbt:00003938PHENOTYPE	Drosophila antennal lobe glomerulus VA6 phenotype
 FBbt:00003940PHENOTYPE	antennal lobe glomerulus DM5 phenotype
 FBbt:00003941PHENOTYPE	Drosophila antennal lobe glomerulus DM6 phenotype
 FBbt:00003942PHENOTYPE	Drosophila antennal lobe glomerulus VA2 phenotype
@@ -1394,7 +1336,6 @@ FBbt:00003975PHENOTYPE	antennal lobe glomerulus DM1 phenotype
 FBbt:00003976PHENOTYPE	Drosophila antennal lobe glomerulus DM4 phenotype
 FBbt:00003979PHENOTYPE	antennal commissure phenotype
 FBbt:00003980PHENOTYPE	Drosophila adult antennal nerve phenotype
-FBbt:00003997PHENOTYPE	Drosophila circumesophageal tract phenotype
 FBbt:00003999PHENOTYPE	Drosophila tritocerebrum phenotype
 FBbt:00004001PHENOTYPE	tritocerebral commissure phenotype
 FBbt:00004011PHENOTYPE	Drosophila dorsomedial neurosecretory cell phenotype
@@ -1414,9 +1355,6 @@ FBbt:00004079PHENOTYPE	Drosophila indirect flight muscle motor neuron MN5 phenot
 FBbt:00004080PHENOTYPE	Drosophila wing nerve phenotype
 FBbt:00004083PHENOTYPE	giant sensillum of the dorsal radius phenotype
 FBbt:00004086PHENOTYPE	Drosophila campaniform sensillum of anterior crossvein phenotype
-FBbt:00004087PHENOTYPE	campaniform sensillum L3-1 of wing vein L3 phenotype
-FBbt:00004088PHENOTYPE	campaniform sensillum L3-2 of wing vein L3 phenotype
-FBbt:00004089PHENOTYPE	campaniform sensillum L3-3 of wing vein L3 phenotype
 FBbt:00004092PHENOTYPE	metathoracic neuromere phenotype
 FBbt:00004097PHENOTYPE	Drosophila abdominal neuromere phenotype
 FBbt:00004101PHENOTYPE	Drosophila peptidergic neuron phenotype
@@ -1456,15 +1394,10 @@ FBbt:00004184PHENOTYPE	Drosophila basiconic sensillum of sacculus phenotype
 FBbt:00004186PHENOTYPE	Drosophila neuron of aristal sensillum phenotype
 FBbt:00004191PHENOTYPE	Drosophila cornea phenotype
 FBbt:00004193PHENOTYPE	cone cell phenotype
-FBbt:00004194PHENOTYPE	Drosophila posterior cone cell phenotype
-FBbt:00004195PHENOTYPE	anterior cone cell phenotype
-FBbt:00004196PHENOTYPE	polar cone cell phenotype
-FBbt:00004197PHENOTYPE	equatorial cone cell phenotype
 FBbt:00004198PHENOTYPE	Drosophila pseudocone phenotype
 FBbt:00004199PHENOTYPE	Drosophila lens phenotype
 FBbt:00004200PHENOTYPE	retina phenotype
 FBbt:00004207PHENOTYPE	Drosophila dorsal margin photoreceptor phenotype
-FBbt:00004209PHENOTYPE	dorsal margin photoreceptor cell R8 phenotype
 FBbt:00004210PHENOTYPE	subretinal glial cell phenotype
 FBbt:00004211PHENOTYPE	Drosophila photoreceptor cell phenotype
 FBbt:00004213PHENOTYPE	Drosophila photoreceptor cell R1 phenotype
@@ -1515,7 +1448,6 @@ FBbt:00004283PHENOTYPE	Drosophila prothoracic tarsal bristle phenotype
 FBbt:00004285PHENOTYPE	Drosophila prothoracic tarsal segment 1 transverse row bristle phenotype
 FBbt:00004286PHENOTYPE	Drosophila prothoracic tarsal bristle longitudinal row phenotype
 FBbt:00004296PHENOTYPE	Drosophila sex comb phenotype
-FBbt:00004297PHENOTYPE	Drosophila adult mesothoracic sensillum phenotype
 FBbt:00004298PHENOTYPE	mesothoracic bristle phenotype
 FBbt:00004299PHENOTYPE	Drosophila presutural bristle phenotype
 FBbt:00004300PHENOTYPE	notopleural bristle phenotype
@@ -1535,13 +1467,9 @@ FBbt:00004313PHENOTYPE	Drosophila anterior scutellar bristle phenotype
 FBbt:00004314PHENOTYPE	Drosophila posterior scutellar bristle phenotype
 FBbt:00004315PHENOTYPE	sternopleural bristle phenotype
 FBbt:00004316PHENOTYPE	Drosophila anterior sternopleural bristle phenotype
-FBbt:00004317PHENOTYPE	Drosophila middle sternopleural bristle phenotype
-FBbt:00004318PHENOTYPE	posterior sternopleural bristle phenotype
-FBbt:00004319PHENOTYPE	ventral sternopleural bristle phenotype
 FBbt:00004320PHENOTYPE	acrostichal bristle phenotype
 FBbt:00004322PHENOTYPE	notal microchaeta phenotype
 FBbt:00004323PHENOTYPE	Drosophila wing sensillum phenotype
-FBbt:00004324PHENOTYPE	chordotonal organ of wing phenotype
 FBbt:00004326PHENOTYPE	wing margin bristle phenotype
 FBbt:00004327PHENOTYPE	triple row phenotype
 FBbt:00004328PHENOTYPE	Drosophila double row phenotype
@@ -1562,7 +1490,6 @@ FBbt:00004343PHENOTYPE	sensillum campaniformium of proximal dorsal radius phenot
 FBbt:00004344PHENOTYPE	sensillum campaniformium of dorsal radius Sc4d phenotype
 FBbt:00004345PHENOTYPE	Drosophila sensillum campaniformium of dorsal radius Sc25 phenotype
 FBbt:00004346PHENOTYPE	sensillum campaniformium of dorsal radius Sc12 phenotype
-FBbt:00004348PHENOTYPE	Drosophila sensillum campaniformium of proximal ventral radius phenotype
 FBbt:00004351PHENOTYPE	Drosophila sensillum campaniformium of ventral radius Sc5 phenotype
 FBbt:00004352PHENOTYPE	sensillum campaniformium of dorsal radius phenotype
 FBbt:00004362PHENOTYPE	mesothoracic leg sensillum phenotype
@@ -1572,7 +1499,6 @@ FBbt:00004368PHENOTYPE	mesothoracic coxal bristle on hairy island phenotype
 FBbt:00004379PHENOTYPE	Drosophila mesothoracic femoral bract phenotype
 FBbt:00004387PHENOTYPE	mesothoracic tibial bract phenotype
 FBbt:00004389PHENOTYPE	mesothoracic tibial spur bristle phenotype
-FBbt:00004391PHENOTYPE	Drosophila mesothoracic tibial preapical bristle phenotype
 FBbt:00004392PHENOTYPE	Drosophila mesothoracic tibial apical bristle phenotype
 FBbt:00004393PHENOTYPE	mesothoracic tarsal bristle phenotype
 FBbt:00004394PHENOTYPE	mesothoracic tarsal bristle longitudinal row phenotype
@@ -1599,8 +1525,6 @@ FBbt:00004437PHENOTYPE	metathoracic femoral bract phenotype
 FBbt:00004445PHENOTYPE	metathoracic tibial bract phenotype
 FBbt:00004446PHENOTYPE	metathoracic tibial transverse bristle row phenotype
 FBbt:00004448PHENOTYPE	metathoracic tibial preapical bristle phenotype
-FBbt:00004449PHENOTYPE	dorsal margin photoreceptor cell R7 phenotype
-FBbt:00004451PHENOTYPE	metathoracic tarsal bristle transverse row phenotype
 FBbt:00004452PHENOTYPE	Drosophila metathoracic tarsal bristle longitudinal row phenotype
 FBbt:00004461PHENOTYPE	Drosophila adult abdominal sensillum phenotype
 FBbt:00004462PHENOTYPE	abdominal tergite marginal bristle phenotype
@@ -1619,9 +1543,7 @@ FBbt:00004477PHENOTYPE	Drosophila sternite phenotype
 FBbt:00004481PHENOTYPE	adult external head phenotype
 FBbt:00004482PHENOTYPE	head capsule phenotype
 FBbt:00004483PHENOTYPE	Drosophila ptilinum phenotype
-FBbt:00004484PHENOTYPE	Drosophila ptilinal suture phenotype
 FBbt:00004485PHENOTYPE	fronto-orbital plate phenotype
-FBbt:00004487PHENOTYPE	Drosophila antennal foramen phenotype
 FBbt:00004488PHENOTYPE	frons phenotype
 FBbt:00004491PHENOTYPE	Drosophila gena phenotype
 FBbt:00004492PHENOTYPE	occiput phenotype
@@ -1654,7 +1576,6 @@ FBbt:00004542PHENOTYPE	Drosophila distiproboscis phenotype
 FBbt:00004546PHENOTYPE	Drosophila maxillary palpus phenotype
 FBbt:00004550PHENOTYPE	neck phenotype
 FBbt:00004551PHENOTYPE	Drosophila adult external thorax phenotype
-FBbt:00004552PHENOTYPE	Drosophila tergum phenotype
 FBbt:00004553PHENOTYPE	Drosophila pleurum phenotype
 FBbt:00004558PHENOTYPE	Drosophila adult external prothorax phenotype
 FBbt:00004559PHENOTYPE	dorsal prothorax phenotype
@@ -1687,7 +1608,6 @@ FBbt:00004622PHENOTYPE	Drosophila metathoracic tergum phenotype
 FBbt:00004623PHENOTYPE	Drosophila metathoracic laterotergite phenotype
 FBbt:00004624PHENOTYPE	ventral metathorax phenotype
 FBbt:00004625PHENOTYPE	Drosophila metathoracic pleurum phenotype
-FBbt:00004630PHENOTYPE	Drosophila haltere foramen phenotype
 FBbt:00004640PHENOTYPE	leg phenotype
 FBbt:00004641PHENOTYPE	coxa phenotype
 FBbt:00004642PHENOTYPE	Drosophila tibia phenotype
@@ -1753,7 +1673,6 @@ FBbt:00004744PHENOTYPE	axillary cord phenotype
 FBbt:00004745PHENOTYPE	Drosophila axillary pouch phenotype
 FBbt:00004747PHENOTYPE	alula phenotype
 FBbt:00004751PHENOTYPE	wing vein phenotype
-FBbt:00004754PHENOTYPE	Drosophila axillary vein phenotype
 FBbt:00004755PHENOTYPE	Drosophila costal vein phenotype
 FBbt:00004756PHENOTYPE	distal costal vein phenotype
 FBbt:00004757PHENOTYPE	medial costal vein phenotype
@@ -1775,7 +1694,6 @@ FBbt:00004773PHENOTYPE	Drosophila posterior cell phenotype
 FBbt:00004774PHENOTYPE	Drosophila 1st posterior cell phenotype
 FBbt:00004775PHENOTYPE	Drosophila 2nd posterior cell phenotype
 FBbt:00004776PHENOTYPE	3rd posterior cell phenotype
-FBbt:00004778PHENOTYPE	Drosophila axillary cell phenotype
 FBbt:00004779PHENOTYPE	discal cell phenotype
 FBbt:00004781PHENOTYPE	Drosophila wing basal cell 1 phenotype
 FBbt:00004782PHENOTYPE	Drosophila wing basal cell 2 phenotype
@@ -1824,7 +1742,6 @@ FBbt:00004849PHENOTYPE	hypandrial process phenotype
 FBbt:00004852PHENOTYPE	penis phenotype
 FBbt:00004857PHENOTYPE	Drosophila reproductive system phenotype
 FBbt:00004858PHENOTYPE	Drosophila gonad phenotype
-FBbt:00004859PHENOTYPE	gonadal sheath phenotype
 FBbt:00004860PHENOTYPE	Drosophila germline cell phenotype
 FBbt:00004861PHENOTYPE	Drosophila germline stem cell phenotype
 FBbt:00004863PHENOTYPE	Drosophila polyfusome phenotype
@@ -1904,7 +1821,6 @@ FBbt:00004959PHENOTYPE	male accessory gland phenotype
 FBbt:00004960PHENOTYPE	male accessory gland main cell phenotype
 FBbt:00004961PHENOTYPE	Drosophila male accessory gland secondary cell phenotype
 FBbt:00004962PHENOTYPE	Drosophila ejaculatory bulb phenotype
-FBbt:00004963PHENOTYPE	ejaculatory bulb apodeme phenotype
 FBbt:00004965PHENOTYPE	ejaculatory duct phenotype
 FBbt:00004966PHENOTYPE	Drosophila posterior ejaculatory duct phenotype
 FBbt:00004967PHENOTYPE	Drosophila anterior ejaculatory duct phenotype
@@ -1914,6 +1830,8 @@ FBbt:00004972PHENOTYPE	epicuticle phenotype
 FBbt:00004973PHENOTYPE	exocuticle phenotype
 FBbt:00004974PHENOTYPE	endocuticle phenotype
 FBbt:00004975PHENOTYPE	Drosophila procuticle phenotype
+FBbt:00004976PHENOTYPE	Drosophila assembly zone phenotype
+FBbt:00004977PHENOTYPE	Drosophila cuticular pore phenotype
 FBbt:00004979PHENOTYPE	Drosophila trichome phenotype
 FBbt:00004980PHENOTYPE	dorsal hair phenotype
 FBbt:00004981PHENOTYPE	dorsal thick hair phenotype
@@ -1955,7 +1873,6 @@ FBbt:00005045PHENOTYPE	Drosophila taenidium phenotype
 FBbt:00005046PHENOTYPE	taenidial fold phenotype
 FBbt:00005047PHENOTYPE	tracheole phenotype
 FBbt:00005048PHENOTYPE	tracheolar cell phenotype
-FBbt:00005051PHENOTYPE	Drosophila tracheal tip cell phenotype
 FBbt:00005052PHENOTYPE	Drosophila tracheal fusion cell phenotype
 FBbt:00005053PHENOTYPE	Drosophila terminal tracheal cell phenotype
 FBbt:00005054PHENOTYPE	spiracle phenotype
@@ -1968,7 +1885,6 @@ FBbt:00005063PHENOTYPE	Drosophila hemocyte phenotype
 FBbt:00005064PHENOTYPE	Drosophila melanotic mass phenotype
 FBbt:00005066PHENOTYPE	fat body phenotype
 FBbt:00005069PHENOTYPE	Drosophila muscle system phenotype
-FBbt:00005070PHENOTYPE	Drosophila visceral muscle phenotype
 FBbt:00005071PHENOTYPE	Drosophila longitudinal visceral muscle fiber phenotype
 FBbt:00005072PHENOTYPE	Drosophila circular visceral muscle fiber phenotype
 FBbt:00005073PHENOTYPE	somatic muscle phenotype
@@ -1980,6 +1896,7 @@ FBbt:00005085PHENOTYPE	fusion competent cell phenotype
 FBbt:00005089PHENOTYPE	Drosophila muscle attachment site phenotype
 FBbt:00005090PHENOTYPE	tendon cell phenotype
 FBbt:00005091PHENOTYPE	Drosophila apodeme phenotype
+FBbt:00005092PHENOTYPE	tonofibrilla phenotype
 FBbt:00005093PHENOTYPE	nervous system phenotype
 FBbt:00005094PHENOTYPE	Drosophila central nervous system phenotype
 FBbt:00005095PHENOTYPE	brain phenotype
@@ -2017,7 +1934,6 @@ FBbt:00005152PHENOTYPE	glial cell of the perineurium phenotype
 FBbt:00005153PHENOTYPE	Drosophila perineurial sheath glial cell phenotype
 FBbt:00005155PHENOTYPE	sense organ phenotype
 FBbt:00005156PHENOTYPE	Drosophila mechanosensory sensory organ phenotype
-FBbt:00005157PHENOTYPE	chemosensory sensory organ phenotype
 FBbt:00005158PHENOTYPE	Drosophila olfactory sensory organ phenotype
 FBbt:00005162PHENOTYPE	Drosophila photoreceptor phenotype
 FBbt:00005163PHENOTYPE	Drosophila sensory organ cell phenotype
@@ -2067,9 +1983,6 @@ FBbt:00005222PHENOTYPE	scolopidial neuron phenotype
 FBbt:00005223PHENOTYPE	Drosophila scolopidial dendrite phenotype
 FBbt:00005236PHENOTYPE	Drosophila photoreceptor cell pigment granule phenotype
 FBbt:00005246PHENOTYPE	Drosophila midgut primordium phenotype
-FBbt:00005254PHENOTYPE	embryonic/larval heart anchoring cell phenotype
-FBbt:00005255PHENOTYPE	Drosophila embryonic heart anchoring cell primordium phenotype
-FBbt:00005257PHENOTYPE	cardiac outflow muscle phenotype
 FBbt:00005258PHENOTYPE	spermatocyte cyst phenotype
 FBbt:00005259PHENOTYPE	germinal proliferation center phenotype
 FBbt:00005260PHENOTYPE	secondary spermatogonium phenotype
@@ -2082,7 +1995,6 @@ FBbt:00005320PHENOTYPE	individualization stage spermatid phenotype
 FBbt:00005326PHENOTYPE	stomodeal invagination phenotype
 FBbt:00005349PHENOTYPE	Kc167 cell-line phenotype
 FBbt:00005378PHENOTYPE	wing margin phenotype
-FBbt:00005380PHENOTYPE	pharynx phenotype
 FBbt:00005382PHENOTYPE	Drosophila salivary gland phenotype
 FBbt:00005383PHENOTYPE	Drosophila midgut phenotype
 FBbt:00005384PHENOTYPE	hindgut phenotype
@@ -2096,7 +2008,6 @@ FBbt:00005400PHENOTYPE	pupal epidermis phenotype
 FBbt:00005401PHENOTYPE	Drosophila adult epidermis phenotype
 FBbt:00005402PHENOTYPE	oocyte associated follicle cell phenotype
 FBbt:00005403PHENOTYPE	Drosophila stem cell fusome phenotype
-FBbt:00005405PHENOTYPE	Drosophila round stem cell fusome phenotype
 FBbt:00005406PHENOTYPE	Drosophila ovarian sheath cell phenotype
 FBbt:00005407PHENOTYPE	Drosophila mushroom body vertical lobe phenotype
 FBbt:00005408PHENOTYPE	mushroom body medial lobe phenotype
@@ -2115,7 +2026,7 @@ FBbt:00005501PHENOTYPE	Drosophila Malpighian tubule main body primordium phenoty
 FBbt:00005509PHENOTYPE	Drosophila embryonic dorsal pouch primordium phenotype
 FBbt:00005510PHENOTYPE	antennal primordium phenotype
 FBbt:00005511PHENOTYPE	pars intercerebralis primordium phenotype
-FBbt:00005513PHENOTYPE	embryonic primordium of adult hindgut precursor phenotype
+FBbt:00005512PHENOTYPE	salivary gland body primordium phenotype
 FBbt:00005518PHENOTYPE	somatic muscle primordium phenotype
 FBbt:00005519PHENOTYPE	Drosophila visceral muscle primordium phenotype
 FBbt:00005520PHENOTYPE	Drosophila fat body/gonad primordium phenotype
@@ -2156,12 +2067,12 @@ FBbt:00005634PHENOTYPE	Drosophila embryonic Malpighian tubule phenotype
 FBbt:00005635PHENOTYPE	Drosophila embryonic posterior Malpighian tubule phenotype
 FBbt:00005636PHENOTYPE	embryonic anterior Malpighian tubule phenotype
 FBbt:00005643PHENOTYPE	embryonic Malpighian tubule tip cell phenotype
+FBbt:00005645PHENOTYPE	Drosophila embryonic Malpighian tubule Type II cell phenotype
 FBbt:00005647PHENOTYPE	presumptive embryonic/larval muscle system phenotype
 FBbt:00005649PHENOTYPE	embryonic somatic muscle phenotype
 FBbt:00005653PHENOTYPE	embryonic visceral muscle phenotype
 FBbt:00005662PHENOTYPE	embryonic central brain phenotype
 FBbt:00005663PHENOTYPE	embryonic central brain glial cell phenotype
-FBbt:00005665PHENOTYPE	embryonic central brain neuron phenotype
 FBbt:00005668PHENOTYPE	Drosophila embryonic frontal ganglion phenotype
 FBbt:00005673PHENOTYPE	Drosophila lateral cord glial cell phenotype
 FBbt:00005675PHENOTYPE	Drosophila lateral cord neuron phenotype
@@ -2175,6 +2086,7 @@ FBbt:00005720PHENOTYPE	lamina anlage glial cell phenotype
 FBbt:00005721PHENOTYPE	epithelial glial cell phenotype
 FBbt:00005722PHENOTYPE	marginal glial cell phenotype
 FBbt:00005725PHENOTYPE	Drosophila adult Malpighian tubule phenotype
+FBbt:00005733PHENOTYPE	adult specialised Malpighian tubule cell phenotype
 FBbt:00005736PHENOTYPE	Drosophila adult Malpighian tubule Type II cell phenotype
 FBbt:00005737PHENOTYPE	Drosophila S2 cell-line phenotype
 FBbt:00005738PHENOTYPE	medulla neuropil glial cell phenotype
@@ -2188,11 +2100,9 @@ FBbt:00005748PHENOTYPE	Drosophila embryonic anal pad phenotype
 FBbt:00005752PHENOTYPE	proventriculus phenotype
 FBbt:00005753PHENOTYPE	proventriculus inner layer phenotype
 FBbt:00005755PHENOTYPE	Drosophila proventriculus outer layer phenotype
-FBbt:00005757PHENOTYPE	Drosophila neurohemal organ phenotype
 FBbt:00005758PHENOTYPE	Drosophila hindgut visceral muscle fiber phenotype
 FBbt:00005762PHENOTYPE	Drosophila scolopale phenotype
 FBbt:00005763PHENOTYPE	scolopidial cilium phenotype
-FBbt:00005780PHENOTYPE	Drosophila mushroom body dorsal paired medial cell phenotype
 FBbt:00005781PHENOTYPE	Drosophila gastric caecum phenotype
 FBbt:00005782PHENOTYPE	copper cell phenotype
 FBbt:00005783PHENOTYPE	Drosophila midgut interstitial cell phenotype
@@ -2203,7 +2113,6 @@ FBbt:00005792PHENOTYPE	main segment of Malpighian tubule phenotype
 FBbt:00005793PHENOTYPE	ureter phenotype
 FBbt:00005795PHENOTYPE	Malpighian tubule tip cell phenotype
 FBbt:00005797PHENOTYPE	Malpighian tubule Type II cell phenotype
-FBbt:00005799PHENOTYPE	corpus cardiacum phenotype
 FBbt:00005800PHENOTYPE	Drosophila corpus allatum phenotype
 FBbt:00005801PHENOTYPE	Drosophila mushroom body phenotype
 FBbt:00005803PHENOTYPE	Drosophila frontal ganglion phenotype
@@ -2229,13 +2138,11 @@ FBbt:00005862PHENOTYPE	Pav1 neuroblast phenotype
 FBbt:00005882PHENOTYPE	Fell hair phenotype
 FBbt:00005883PHENOTYPE	Drosophila eye photoreceptor cell stalk phenotype
 FBbt:00005891PHENOTYPE	Drosophila photoreceptor cell R8 stalk phenotype
-FBbt:00005892PHENOTYPE	adult peripheral nervous system phenotype
 FBbt:00005893PHENOTYPE	embryonic/larval peripheral nervous system phenotype
 FBbt:00005894PHENOTYPE	Drosophila Pcv2 neuroblast phenotype
 FBbt:00005895PHENOTYPE	Drosophila Pcv3 neuroblast phenotype
 FBbt:00005896PHENOTYPE	Pcv4 neuroblast phenotype
 FBbt:00005899PHENOTYPE	dorsal cluster neuron phenotype
-FBbt:00005902PHENOTYPE	VL fascicle phenotype
 FBbt:00005903PHENOTYPE	Drosophila intermediate longitudinal fascicle phenotype
 FBbt:00005908PHENOTYPE	Drosophila medial longitudinal fascicle phenotype
 FBbt:00005913PHENOTYPE	arista lateral phenotype
@@ -2284,13 +2191,11 @@ FBbt:00006019PHENOTYPE	Tv neuron phenotype
 FBbt:00006020PHENOTYPE	Drosophila lch5 cap attachment cell phenotype
 FBbt:00006021PHENOTYPE	lch5 ligament attachment cell phenotype
 FBbt:00006022PHENOTYPE	Drosophila external sensory organ precursor cell IIIb phenotype
-FBbt:00006023PHENOTYPE	Drosophila eo glial cell phenotype
 FBbt:00006024PHENOTYPE	Drosophila dorsal multidendritic neuron ddaF phenotype
 FBbt:00006025PHENOTYPE	abdominal dorsal multidendritic neuron ddaF phenotype
-FBbt:00006026PHENOTYPE	abdominal 1 dorsal multidendritic neuron ddaF phenotype
-FBbt:00006028PHENOTYPE	Drosophila EH neurosecretory neuron phenotype
 FBbt:00006029PHENOTYPE	Drosophila wing pouch phenotype
 FBbt:00006031PHENOTYPE	somatic cell of testis phenotype
+FBbt:00006032PHENOTYPE	mesothoracic tergum primordium phenotype
 FBbt:00006033PHENOTYPE	Drosophila wing hinge primordium phenotype
 FBbt:00006041PHENOTYPE	Drosophila U4 neuron phenotype
 FBbt:00006043PHENOTYPE	Drosophila U5 neuron phenotype
@@ -2304,7 +2209,6 @@ FBbt:00007021PHENOTYPE	embryonic/larval oenocyte precursor phenotype
 FBbt:00007026PHENOTYPE	Drosophila adult midgut epithelium phenotype
 FBbt:00007030PHENOTYPE	oocyte associated follicular epithelium phenotype
 FBbt:00007031PHENOTYPE	Drosophila nurse cell associated follicular epithelium phenotype
-FBbt:00007035PHENOTYPE	Drosophila anterior adult hindgut phenotype
 FBbt:00007036PHENOTYPE	adult posterior midgut epithelium phenotype
 FBbt:00007037PHENOTYPE	enterocyte of posterior adult midgut epithelium phenotype
 FBbt:00007038PHENOTYPE	Drosophila enteroendocrine cell phenotype
@@ -2317,7 +2221,6 @@ FBbt:00007081PHENOTYPE	lateral medial fascicle phenotype
 FBbt:00007084PHENOTYPE	midline crossing tract phenotype
 FBbt:00007097PHENOTYPE	Drosophila antennal lobe glomerulus DP1m phenotype
 FBbt:00007098PHENOTYPE	antennal lobe glomerulus DP1l phenotype
-FBbt:00007101PHENOTYPE	Drosophila antennal lobe glomerulus VA1d phenotype
 FBbt:00007102PHENOTYPE	antennal lobe glomerulus VA7m phenotype
 FBbt:00007103PHENOTYPE	antennal lobe glomerulus VA7l phenotype
 FBbt:00007105PHENOTYPE	antennal lobe glomerulus VC3l phenotype
@@ -2328,8 +2231,6 @@ FBbt:00007109PHENOTYPE	imaginal disc anterior compartment phenotype
 FBbt:00007111PHENOTYPE	Drosophila imaginal disc posterior compartment phenotype
 FBbt:00007113PHENOTYPE	mushroom body neuroblast phenotype
 FBbt:00007115PHENOTYPE	embryonic/larval neuroblast phenotype
-FBbt:00007117PHENOTYPE	Drosophila neuropil glial sheath phenotype
-FBbt:00007132PHENOTYPE	Drosophila dorsal air sac phenotype
 FBbt:00007135PHENOTYPE	dorsal air sac primordium phenotype
 FBbt:00007136PHENOTYPE	male germline cyst phenotype
 FBbt:00007137PHENOTYPE	female germline cyst phenotype
@@ -2347,6 +2248,7 @@ FBbt:00007166PHENOTYPE	wing blade ventral compartment phenotype
 FBbt:00007173PHENOTYPE	cholinergic neuron phenotype
 FBbt:00007191PHENOTYPE	Drosophila calyx of larval mushroom body phenotype
 FBbt:00007226PHENOTYPE	Drosophila local interneuron of larval antennal lobe phenotype
+FBbt:00007228PHENOTYPE	GABAergic neuron phenotype
 FBbt:00007247PHENOTYPE	Drosophila chorionic layer phenotype
 FBbt:00007250PHENOTYPE	Drosophila inter-ommatidial cell phenotype
 FBbt:00007255PHENOTYPE	Drosophila abdominal ventral monoscolopidial chordotonal organ vch2 phenotype
@@ -2354,7 +2256,6 @@ FBbt:00007272PHENOTYPE	class I dendritic arborizing neuron phenotype
 FBbt:00007273PHENOTYPE	Drosophila class II dendritic arborizing neuron phenotype
 FBbt:00007274PHENOTYPE	Drosophila class III dendritic arborizing neuron phenotype
 FBbt:00007275PHENOTYPE	Drosophila class IV dendritic arborizing neuron phenotype
-FBbt:00007295PHENOTYPE	Drosophila embryonic/larval thoracic/abdominal ventral sensory cluster phenotype
 FBbt:00007319PHENOTYPE	Drosophila cardial cell phenotype
 FBbt:00007320PHENOTYPE	embryonic/larval cardial cell phenotype
 FBbt:00007321PHENOTYPE	embryonic cardioblast phenotype
@@ -2366,7 +2267,6 @@ FBbt:00007328PHENOTYPE	Drosophila segmental nerve branch SNa of A1-7 phenotype
 FBbt:00007329PHENOTYPE	segmental nerve branch SNc of A1-7 phenotype
 FBbt:00007333PHENOTYPE	Drosophila AC thermosensory neuron phenotype
 FBbt:00007338PHENOTYPE	Drosophila lateral oviduct circular muscle phenotype
-FBbt:00007340PHENOTYPE	haltere trichome phenotype
 FBbt:00007348PHENOTYPE	Drosophila antennal sensillum trichodeum T1 phenotype
 FBbt:00007352PHENOTYPE	Drosophila antennal olfactory receptor neuron phenotype
 FBbt:00007353PHENOTYPE	maxillary palp olfactory receptor neuron phenotype
@@ -2387,11 +2287,11 @@ FBbt:00007390PHENOTYPE	local interneuron of adult antennal lobe phenotype
 FBbt:00007392PHENOTYPE	projection neuron phenotype
 FBbt:00007401PHENOTYPE	Drosophila adult antennal lobe phenotype
 FBbt:00007402PHENOTYPE	GABAergic local interneuron of the adult antennal lobe phenotype
-FBbt:00007405PHENOTYPE	CSD interneuron phenotype
 FBbt:00007406PHENOTYPE	Drosophila tergotrochanteral muscle motor neuron phenotype
 FBbt:00007410PHENOTYPE	tracheal lumen phenotype
 FBbt:00007411PHENOTYPE	Drosophila large labellar taste bristle phenotype
 FBbt:00007412PHENOTYPE	intermediate labellar taste bristle phenotype
+FBbt:00007413PHENOTYPE	Drosophila short labellar taste bristle phenotype
 FBbt:00007422PHENOTYPE	Drosophila antennal lobe projection neuron phenotype
 FBbt:00007423PHENOTYPE	lamina furrow phenotype
 FBbt:00007426PHENOTYPE	ipsilateral tract phenotype
@@ -2402,23 +2302,17 @@ FBbt:00007438PHENOTYPE	adult antennal lobe projection neuron adPN phenotype
 FBbt:00007439PHENOTYPE	Drosophila adult antennal lobe projection neuron lPN phenotype
 FBbt:00007446PHENOTYPE	adult antennal lobe projection neuron VA4 lPN phenotype
 FBbt:00007449PHENOTYPE	Drosophila adult antennal lobe projection neuron VC2 lPN phenotype
-FBbt:00007452PHENOTYPE	Drosophila adult antennal lobe projection neuron VM1 lPN phenotype
 FBbt:00007455PHENOTYPE	Drosophila rhabdomere of eye photoreceptor cell phenotype
 FBbt:00007456PHENOTYPE	Drosophila persistent antennal lobe projection neuron phenotype
 FBbt:00007457PHENOTYPE	prothoracic gland innervating neuron PG-LP phenotype
 FBbt:00007472PHENOTYPE	primary trachea phenotype
 FBbt:00007476PHENOTYPE	adult antennal lobe projection neuron VC1 lPN phenotype
-FBbt:00007477PHENOTYPE	air sac primordium phenotype
 FBbt:00007484PHENOTYPE	mushroom body intrinsic neuron phenotype
-FBbt:00007489PHENOTYPE	dorsal air sac primordium tip cell phenotype
 FBbt:00007512PHENOTYPE	embryonic/larval gut phenotype
 FBbt:00007513PHENOTYPE	adult gut phenotype
 FBbt:00007516PHENOTYPE	Drosophila vertical system neuron phenotype
 FBbt:00007595PHENOTYPE	tarsal segment 5 phenotype
 FBbt:00007608PHENOTYPE	Drosophila abdominal segment 10 anterior compartment phenotype
-FBbt:00007632PHENOTYPE	Drosophila prothoracic segment anterior compartment phenotype
-FBbt:00007634PHENOTYPE	mesothoracic segment anterior compartment phenotype
-FBbt:00007636PHENOTYPE	metathoracic segment anterior compartment phenotype
 FBbt:00007643PHENOTYPE	dorsal-ventral compartment boundary of the wing disc phenotype
 FBbt:00007644PHENOTYPE	anterior-posterior compartment boundary of the wing disc phenotype
 FBbt:00007646PHENOTYPE	posterior fused midgut primordium phenotype
@@ -2428,6 +2322,7 @@ FBbt:00007671PHENOTYPE	abdominal temporary eclosion muscle DA phenotype
 FBbt:00007675PHENOTYPE	embryonic/larval motor neuron phenotype
 FBbt:00007676PHENOTYPE	Drosophila larval optic anlage phenotype
 FBbt:00007677PHENOTYPE	medial lobe of adult mushroom body phenotype
+FBbt:00007679PHENOTYPE	Drosophila type Ib motor neuron phenotype
 FBbt:00008110PHENOTYPE	wing disc posterior compartment phenotype
 FBbt:00008111PHENOTYPE	wing disc anterior compartment phenotype
 FBbt:00008113PHENOTYPE	leg disc anterior compartment phenotype
@@ -2449,21 +2344,18 @@ FBbt:00015899PHENOTYPE	lateral longitudinal fascicle phenotype
 FBbt:00016005PHENOTYPE	Drosophila salivary gland common duct primordium phenotype
 FBbt:00016007PHENOTYPE	Drosophila ventral trunk epidermis primordium phenotype
 FBbt:00016012PHENOTYPE	Drosophila denticle field phenotype
-FBbt:00016015PHENOTYPE	midline neuronal primordium phenotype
 FBbt:00016016PHENOTYPE	midline neuron phenotype
 FBbt:00016018PHENOTYPE	dorsal ridge primordium phenotype
 FBbt:00016665PHENOTYPE	temporary eclosion muscle phenotype
 FBbt:00016687PHENOTYPE	Drosophila fruitless expressing neuron phenotype
 FBbt:00017001PHENOTYPE	Drosophila anterior spiracle primordium phenotype
 FBbt:00017003PHENOTYPE	visceral branch primordium phenotype
-FBbt:00017007PHENOTYPE	crystal cell primordium phenotype
 FBbt:00017008PHENOTYPE	Drosophila longitudinal visceral muscle primordium phenotype
 FBbt:00017010PHENOTYPE	dorsal trunk primordium phenotype
 FBbt:00017012PHENOTYPE	Drosophila proventriculus outer layer primordium phenotype
 FBbt:00017015PHENOTYPE	Drosophila circular visceral muscle primordium phenotype
 FBbt:00017020PHENOTYPE	oenocyte primordium phenotype
 FBbt:00017027PHENOTYPE	gastric caecum primordium phenotype
-FBbt:00018002PHENOTYPE	Drosophila stomatogastric nervous system anlage phenotype
 FBbt:00018008PHENOTYPE	Drosophila proventriculus inner layer primordium phenotype
 FBbt:00018009PHENOTYPE	proventriculus intermediate layer primordium phenotype
 FBbt:00025990PHENOTYPE	Drosophila ectoderm derivative phenotype
@@ -2472,6 +2364,7 @@ FBbt:00027000PHENOTYPE	anterior wing margin phenotype
 FBbt:00027001PHENOTYPE	posterior wing margin phenotype
 FBbt:00040000PHENOTYPE	Drosophila adult antennal lobe projection neuron DC3 adPN phenotype
 FBbt:00045010PHENOTYPE	mushroom body spur phenotype
+FBbt:00057002PHENOTYPE	late elongation-stage spermatid phenotype
 FBbt:00057007PHENOTYPE	mature primary spermatocyte cyst cell phenotype
 FBbt:00057009PHENOTYPE	Drosophila head cyst cell phenotype
 FBbt:00057011PHENOTYPE	male germline cell phenotype
@@ -2479,7 +2372,6 @@ FBbt:00057145PHENOTYPE	Drosophila meiotic primary spermatocyte phenotype
 FBbt:00057146PHENOTYPE	primary spermatocyte in meiotic prophase I phenotype
 FBbt:00057149PHENOTYPE	primary spermatocyte in meiotic anaphase I phenotype
 FBbt:00057167PHENOTYPE	Drosophila polar primary spermatocyte phenotype
-FBbt:00067000PHENOTYPE	Drosophila antennal trichoid sensillum at3 phenotype
 FBbt:00067003PHENOTYPE	Drosophila adult olfactory receptor neuron Or59b phenotype
 FBbt:00067007PHENOTYPE	adult olfactory receptor neuron Or59c phenotype
 FBbt:00067010PHENOTYPE	antennal trichoid sensillum at4 phenotype
@@ -2487,7 +2379,6 @@ FBbt:00067012PHENOTYPE	Drosophila antennal basiconic sensillum ab1 phenotype
 FBbt:00067013PHENOTYPE	Drosophila adult olfactory receptor neuron Or10a phenotype
 FBbt:00067015PHENOTYPE	Drosophila antennal intermediate sensillum ai1 phenotype
 FBbt:00067019PHENOTYPE	Drosophila antennal basiconic sensillum ab10 phenotype
-FBbt:00067020PHENOTYPE	adult olfactory receptor neuron Or67a phenotype
 FBbt:00067022PHENOTYPE	Drosophila antennal basiconic sensillum ab9 phenotype
 FBbt:00067023PHENOTYPE	Drosophila adult olfactory receptor neuron Or67b phenotype
 FBbt:00067025PHENOTYPE	Drosophila adult olfactory receptor neuron Or22 phenotype
@@ -2502,7 +2393,6 @@ FBbt:00067039PHENOTYPE	adult olfactory receptor neuron Or35a phenotype
 FBbt:00067041PHENOTYPE	adult olfactory receptor neuron Or71a phenotype
 FBbt:00067042PHENOTYPE	adult olfactory receptor neuron Or42a phenotype
 FBbt:00067043PHENOTYPE	Drosophila antennal basiconic sensillum ab5 phenotype
-FBbt:00067046PHENOTYPE	adult olfactory receptor neuron Or42b phenotype
 FBbt:00067047PHENOTYPE	adult olfactory receptor neuron Or83c phenotype
 FBbt:00067048PHENOTYPE	adult olfactory receptor neuron Or43a phenotype
 FBbt:00067049PHENOTYPE	adult olfactory receptor neuron Or85a phenotype
@@ -2545,22 +2435,15 @@ FBbt:00100048PHENOTYPE	S-type sensilla S3 phenotype
 FBbt:00100050PHENOTYPE	Drosophila S-type sensilla S5 phenotype
 FBbt:00100051PHENOTYPE	S-type sensilla S6 phenotype
 FBbt:00100055PHENOTYPE	S-type sensilla S10 phenotype
-FBbt:00100063PHENOTYPE	Drosophila I-type sensilla I5 phenotype
-FBbt:00100066PHENOTYPE	I-type sensilla I8 phenotype
-FBbt:00100067PHENOTYPE	Drosophila I-type sensilla I9 phenotype
-FBbt:00100068PHENOTYPE	I-type sensilla I10 phenotype
 FBbt:00100070PHENOTYPE	Drosophila L-type sensilla L2 phenotype
 FBbt:00100072PHENOTYPE	L-type sensilla L4 phenotype
 FBbt:00100074PHENOTYPE	Drosophila L-type sensilla L6 phenotype
-FBbt:00100100PHENOTYPE	Drosophila Rh5 photoreceptor of Bolwig organ phenotype
 FBbt:00100112PHENOTYPE	Drosophila Rh6 photoreceptor of Bolwig organ phenotype
 FBbt:00100113PHENOTYPE	Drosophila marginal nerve phenotype
 FBbt:00100136PHENOTYPE	prothoracic leg taste bristle chemosensory neuron phenotype
 FBbt:00100138PHENOTYPE	embryonic/larval subesophageal ganglion phenotype
 FBbt:00100150PHENOTYPE	Drosophila medial triple row bristle phenotype
 FBbt:00100163PHENOTYPE	adult pacemaker neuron phenotype
-FBbt:00100171PHENOTYPE	Drosophila adult Pdf neuron phenotype
-FBbt:00100172PHENOTYPE	Drosophila pupal Pdf neuron phenotype
 FBbt:00100205PHENOTYPE	Drosophila cell body rind of medulla phenotype
 FBbt:00100206PHENOTYPE	cell body rind of lamina phenotype
 FBbt:00100214PHENOTYPE	Drosophila dopaminergic PAM neuron phenotype
@@ -2572,15 +2455,15 @@ FBbt:00100219PHENOTYPE	Drosophila dopaminergic PPL1 neuron phenotype
 FBbt:00100220PHENOTYPE	Drosophila dopaminergic PPL2ab neuron phenotype
 FBbt:00100221PHENOTYPE	dopaminergic PPL2c neuron phenotype
 FBbt:00100222PHENOTYPE	Drosophila mushroom body anterior paired lateral cell phenotype
+FBbt:00100246PHENOTYPE	Drosophila mushroom body pedunculus-medial lobe and vertical lobe arborizing neuron 2 phenotype
 FBbt:00100247PHENOTYPE	Drosophila gamma Kenyon cell phenotype
 FBbt:00100248PHENOTYPE	Drosophila alpha/beta Kenyon cell phenotype
 FBbt:00100249PHENOTYPE	Drosophila alpha'/beta' Kenyon cell phenotype
 FBbt:00100310PHENOTYPE	posterior signalling centre of lymph gland primary lobe phenotype
 FBbt:00100311PHENOTYPE	cortical zone of lymph gland primary lobe phenotype
 FBbt:00100312PHENOTYPE	medullary zone of lymph gland primary lobe phenotype
-FBbt:00100379PHENOTYPE	Drosophila adult antennal lobe projection neuron VM6+VP1 adPN phenotype
 FBbt:00100395PHENOTYPE	Drosophila antennal intermediate sensillum I2 phenotype
-FBbt:00100481PHENOTYPE	Drosophila adult antennal lobe projection neuron VM3 adPN phenotype
+FBbt:00100497PHENOTYPE	adult glial cell phenotype
 FBbt:00100499PHENOTYPE	Drosophila adult CNS glial cell phenotype
 FBbt:00100504PHENOTYPE	Drosophila ensheathing neuropil associated glial cell phenotype
 FBbt:00100505PHENOTYPE	reticular neuropil associated glial cell phenotype
@@ -2588,7 +2471,6 @@ FBbt:00100507PHENOTYPE	Drosophila adult brain subperineurial glial cell phenotyp
 FBbt:00100513PHENOTYPE	adult epithelial glial cell phenotype
 FBbt:00100521PHENOTYPE	embryonic/larval wrapping glial cell of the eye disc phenotype
 FBbt:00100522PHENOTYPE	embryonic/larval optic stalk surface glial cell phenotype
-FBbt:00100525PHENOTYPE	adult optic chiasma glial cell phenotype
 FBbt:00100529PHENOTYPE	Drosophila embryonic/larval carpet glial cell phenotype
 FBbt:00100532PHENOTYPE	type I neuroblast phenotype
 FBbt:00100533PHENOTYPE	type II neuroblast phenotype
@@ -2598,6 +2480,7 @@ FBbt:00100750PHENOTYPE	neuroblast BLV phenotype
 FBbt:00110011PHENOTYPE	adult olfactory receptor neuron Ir75d ac1 phenotype
 FBbt:00110014PHENOTYPE	adult olfactory receptor neuron Ir75d ac2 phenotype
 FBbt:00110017PHENOTYPE	Drosophila adult olfactory receptor neuron Ir75d ac4 phenotype
+FBbt:00110029PHENOTYPE	Drosophila antennal lobe glomerulus VC5 phenotype
 FBbt:00110035PHENOTYPE	larval dorsomedial neurosecretory cell phenotype
 FBbt:00110108PHENOTYPE	embryonic peripheral glial cell 5 phenotype
 FBbt:00110109PHENOTYPE	Drosophila embryonic peripheral glial cell 6 phenotype
@@ -2607,12 +2490,12 @@ FBbt:00110179PHENOTYPE	Drosophila H-cell phenotype
 FBbt:00110180PHENOTYPE	Drosophila H-cell sib phenotype
 FBbt:00110181PHENOTYPE	VUM motorneuron phenotype
 FBbt:00110182PHENOTYPE	VUM interneuron phenotype
-FBbt:00110194PHENOTYPE	pupal brain phenotype
 FBbt:00110205PHENOTYPE	enteroblast phenotype
 FBbt:00110206PHENOTYPE	Drosophila enteroblast of posterior adult midgut epithelium phenotype
 FBbt:00110207PHENOTYPE	Drosophila enteroendocrine cell of posterior adult midgut epithelium phenotype
 FBbt:00110208PHENOTYPE	Drosophila intestinal stem cell of posterior adult midgut epithelium phenotype
 FBbt:00110221PHENOTYPE	Drosophila dorsal acute muscle 1 phenotype
+FBbt:00110226PHENOTYPE	Drosophila dorsal oblique muscle 1 phenotype
 FBbt:00110229PHENOTYPE	Drosophila dorsal oblique muscle 2 phenotype
 FBbt:00110236PHENOTYPE	Drosophila dorsal oblique muscle 3 phenotype
 FBbt:00110239PHENOTYPE	Drosophila dorsal oblique muscle 4 phenotype
@@ -2623,16 +2506,17 @@ FBbt:00110262PHENOTYPE	Drosophila lateral transverse muscle 1 phenotype
 FBbt:00110265PHENOTYPE	Drosophila lateral transverse muscle 2 phenotype
 FBbt:00110268PHENOTYPE	Drosophila lateral transverse muscle 3 phenotype
 FBbt:00110271PHENOTYPE	Drosophila lateral transverse muscle 4 phenotype
-FBbt:00110280PHENOTYPE	Drosophila ventral transverse muscle 1 phenotype
 FBbt:00110417PHENOTYPE	adult fruitless aDT-b (female) neuron phenotype
 FBbt:00110449PHENOTYPE	Drosophila adult fruitless aSP-a (female) neuron phenotype
 FBbt:00110451PHENOTYPE	Drosophila adult fruitless aSP-b (female) neuron phenotype
 FBbt:00110507PHENOTYPE	Drosophila adult fruitless pMP-e (female) neuron phenotype
 FBbt:00110555PHENOTYPE	adult fruitless aSP4 (male) neuron phenotype
 FBbt:00110571PHENOTYPE	Drosophila optic lobe forming neuroblast phenotype
+FBbt:00110577PHENOTYPE	adult MBp lineage neuron phenotype
 FBbt:00110579PHENOTYPE	adult fruitless aDT-b (male) neuron phenotype
 FBbt:00110595PHENOTYPE	adult fruitless aSP-a (male) neuron phenotype
 FBbt:00110597PHENOTYPE	adult fruitless aSP-b (male) neuron phenotype
+FBbt:00110639PHENOTYPE	adult subesophageal zone phenotype
 FBbt:00110657PHENOTYPE	Drosophila adult mushroom body alpha-lobe phenotype
 FBbt:00110658PHENOTYPE	adult mushroom body beta-lobe phenotype
 FBbt:00110663PHENOTYPE	adult male posterior abdominal ganglion neuron phenotype
@@ -2687,7 +2571,6 @@ FBcv:0000368	female sterile germline-dependent
 FBcv:0000369	female sterile soma-dependent
 FBcv:0000370	male sterile
 FBcv:0000371	male semi-sterile
-FBcv:0000372	male sterile germline-dependent
 FBcv:0000374	fertile
 FBcv:0000375	semi-fertile
 FBcv:0000376	male fertile
@@ -2794,7 +2677,6 @@ FBcv:0000723	neoplasia
 FBcv:0000724	hypoplasia
 FBcv:0000725	oxidative stress response defective
 FBcv:0000734	terminal phenotype
-FBcv:0000791	delayed aging
 FBcv:0000792	premature aging
 FBcv:0001324	endocytosis defective
 FBcv:0001325	exocytosis defective
@@ -2839,6 +2721,8 @@ FBcv:0002041	some die during embryonic stage
 FBcv:0002042	lethal - all die during immature adult stage
 FBcv:0002050	majority die during immature adult stage
 FBcv:0002051	some die during immature adult stage
+FBcv:0006005	increased occurrence of cell division
+FBcv:0006006	decreased occurrence of cell division
 GO:0000087PHENOTYPE	mitotic M phase phenotype
 GO:0000088PHENOTYPE	mitotic prophase phenotype
 GO:0000228PHENOTYPE	nuclear chromosome phenotype
@@ -2854,6 +2738,7 @@ GO:0000794PHENOTYPE	condensed nuclear chromosome phenotype
 GO:0000795PHENOTYPE	synaptonemal complex phenotype
 GO:0000922PHENOTYPE	spindle pole phenotype
 GO:0000932PHENOTYPE	cytoplasmic mRNA processing body phenotype
+GO:0001669PHENOTYPE	acrosomal vesicle phenotype
 GO:0001673PHENOTYPE	male germ cell nucleus phenotype
 GO:0001674PHENOTYPE	female germ cell nucleus phenotype
 GO:0001939PHENOTYPE	female pronucleus phenotype
@@ -2869,7 +2754,6 @@ GO:0005739PHENOTYPE	mitochondrion phenotype
 GO:0005741PHENOTYPE	mitochondrial outer membrane phenotype
 GO:0005743PHENOTYPE	mitochondrial inner membrane phenotype
 GO:0005759PHENOTYPE	mitochondrial matrix phenotype
-GO:0005761PHENOTYPE	mitochondrial ribosome phenotype
 GO:0005764PHENOTYPE	lysosome phenotype
 GO:0005768PHENOTYPE	endosome phenotype
 GO:0005769PHENOTYPE	early endosome phenotype
@@ -2879,6 +2763,7 @@ GO:0005773PHENOTYPE	vacuole phenotype
 GO:0005776PHENOTYPE	autophagosome phenotype
 GO:0005777PHENOTYPE	peroxisome phenotype
 GO:0005783PHENOTYPE	endoplasmic reticulum phenotype
+GO:0005790PHENOTYPE	smooth endoplasmic reticulum phenotype
 GO:0005791PHENOTYPE	rough endoplasmic reticulum phenotype
 GO:0005794PHENOTYPE	Golgi apparatus phenotype
 GO:0005795PHENOTYPE	Golgi stack phenotype
@@ -2905,11 +2790,11 @@ GO:0005911PHENOTYPE	cell-cell junction phenotype
 GO:0005912PHENOTYPE	adherens junction phenotype
 GO:0005913PHENOTYPE	cell-cell adherens junction phenotype
 GO:0005921PHENOTYPE	gap junction phenotype
+GO:0005925PHENOTYPE	focal adhesion phenotype
 GO:0005927PHENOTYPE	muscle tendon junction phenotype
 GO:0005929PHENOTYPE	cilium phenotype
 GO:0005930PHENOTYPE	axoneme phenotype
 GO:0007049PHENOTYPE	cell cycle phenotype
-GO:0007067PHENOTYPE	mitotic nuclear division phenotype
 GO:0007127PHENOTYPE	meiosis I phenotype
 GO:0007128PHENOTYPE	meiotic prophase I phenotype
 GO:0007133PHENOTYPE	meiotic anaphase I phenotype
@@ -2920,8 +2805,8 @@ GO:0015030PHENOTYPE	Cajal body phenotype
 GO:0015629PHENOTYPE	actin cytoskeleton phenotype
 GO:0015630PHENOTYPE	microtubule cytoskeleton phenotype
 GO:0016020PHENOTYPE	membrane phenotype
+GO:0016234PHENOTYPE	inclusion body phenotype
 GO:0016324PHENOTYPE	apical plasma membrane phenotype
-GO:0016460PHENOTYPE	myosin II complex phenotype
 GO:0016529PHENOTYPE	sarcoplasmic reticulum phenotype
 GO:0030016PHENOTYPE	myofibril phenotype
 GO:0030017PHENOTYPE	sarcomere phenotype
@@ -2966,6 +2851,7 @@ GO:0036379PHENOTYPE	myofilament phenotype
 GO:0042383PHENOTYPE	sarcolemma phenotype
 GO:0042585PHENOTYPE	germinal vesicle phenotype
 GO:0042587PHENOTYPE	glycogen granule phenotype
+GO:0042599PHENOTYPE	lamellar body phenotype
 GO:0042600PHENOTYPE	chorion phenotype
 GO:0042645PHENOTYPE	mitochondrial nucleoid phenotype
 GO:0042995PHENOTYPE	cell projection phenotype
@@ -2974,9 +2860,10 @@ GO:0043186PHENOTYPE	P granule phenotype
 GO:0043195PHENOTYPE	terminal bouton phenotype
 GO:0043197PHENOTYPE	dendritic spine phenotype
 GO:0043204PHENOTYPE	perikaryon phenotype
+GO:0043226PHENOTYPE	organelle phenotype
 GO:0043231PHENOTYPE	intracellular membrane-bounded organelle phenotype
 GO:0043679PHENOTYPE	axon terminus phenotype
-GO:0044297PHENOTYPE	cell body phenotype
+GO:0044303PHENOTYPE	axon collateral phenotype
 GO:0044456PHENOTYPE	synapse part phenotype
 GO:0044754PHENOTYPE	autolysosome phenotype
 GO:0045120PHENOTYPE	pronucleus phenotype
@@ -3001,6 +2888,7 @@ GO:0060417PHENOTYPE	yolk phenotype
 GO:0070825PHENOTYPE	micropyle phenotype
 GO:0072686PHENOTYPE	mitotic spindle phenotype
 GO:0072687PHENOTYPE	meiotic spindle phenotype
+GO:0097060PHENOTYPE	synaptic membrane phenotype
 GO:0097386PHENOTYPE	glial cell projection phenotype
 GO:0097447PHENOTYPE	dendritic tree phenotype
 GO:0097512PHENOTYPE	cardiac myofibril phenotype

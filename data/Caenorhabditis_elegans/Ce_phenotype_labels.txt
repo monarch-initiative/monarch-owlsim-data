@@ -1,27 +1,3 @@
-FBbt:00001251PHENOTYPE	Drosophila embryonic/larval glial cell phenotype
-FBbt:00001684PHENOTYPE	Drosophila embryonic/larval hemocyte phenotype
-FBbt:00001722PHENOTYPE	ring gland phenotype
-FBbt:00001724PHENOTYPE	prothoracic gland phenotype
-FBbt:00001766PHENOTYPE	Drosophila eye-antennal disc phenotype
-FBbt:00001778PHENOTYPE	Drosophila wing disc phenotype
-FBbt:00001780PHENOTYPE	Drosophila ventral thoracic disc phenotype
-FBbt:00001911PHENOTYPE	embryonic/larval nervous system phenotype
-FBbt:00004133PHENOTYPE	interommatidial bristle phenotype
-FBbt:00004230PHENOTYPE	Drosophila pigment cell phenotype
-FBbt:00004508PHENOTYPE	eye phenotype
-FBbt:00004993PHENOTYPE	epidermis phenotype
-FBbt:00005098PHENOTYPE	peripheral nervous system phenotype
-FBbt:00006009PHENOTYPE	eye photoreceptor cell phenotype
-FBbt:00006015PHENOTYPE	Drosophila wing blade phenotype
-FBcv:0000351	lethal
-FBcv:0000354	visible
-FBcv:0000424	cell death defective
-FBcv:0001347	phenotype
-FBcv:0002002	lethal - all die before end of larval stage
-FBcv:0002007	lethal - all die during larval stage
-FBcv:0002023	some die during larval stage
-FBcv:0002027	lethal - all die before end of pupal stage
-FBcv:0002039	some die during pupal stage
 HP:0001508	Failure to thrive
 HP:0001511	Intrauterine growth retardation
 MP:0002209	decreased germ cell number
@@ -237,6 +213,7 @@ WBPhenotype:0000354	cell differentiation variant
 WBPhenotype:0000357	unfertilized oocytes laid
 WBPhenotype:0000358	extra cell division postembryonic
 WBPhenotype:0000359	tunicamycin response variant
+WBPhenotype:0000360	cytoplasmic streaming defective
 WBPhenotype:0000361	lima bean arrest
 WBPhenotype:0000363	cell division slow
 WBPhenotype:0000364	gut granule birefringence misplaced
@@ -424,6 +401,7 @@ WBPhenotype:0000710	intestinal morphology variant
 WBPhenotype:0000711	organism hypersensitive ionizing radiation
 WBPhenotype:0000712	germ cell ionizing radiation response variant
 WBPhenotype:0000715	muscle excess
+WBPhenotype:0000716	muscle cell attachment variant
 WBPhenotype:0000717	gene expression variant
 WBPhenotype:0000718	dosage compensation variant
 WBPhenotype:0000722	nucleolus variant
@@ -725,6 +703,7 @@ WBPhenotype:0001349	protein phosphorylation variant
 WBPhenotype:0001350	protein phosphorylation increased
 WBPhenotype:0001351	protein phosphorylation reduced
 WBPhenotype:0001352	endoplasmic reticulum metabolism variant
+WBPhenotype:0001353	centration defective early emb
 WBPhenotype:0001354	actin cytoskeleton filament morphology variant
 WBPhenotype:0001355	gonad morphology variant
 WBPhenotype:0001357	male gonad morphology variant
@@ -944,6 +923,7 @@ WBPhenotype:0001846	phagosome maturation defective
 WBPhenotype:0001850	radiation induced germ cell apoptosis resistant
 WBPhenotype:0001857	pathogen induced gene expression variant
 WBPhenotype:0001859	Dosage compensation complex assembly variant
+WBPhenotype:0001860	endocytic recycling defective
 WBPhenotype:0001861	environmental stimuli induced gene expression variant
 WBPhenotype:0001864	protein transport variant
 WBPhenotype:0001865	protein ubiquitination variant
@@ -992,6 +972,7 @@ WBPhenotype:0001916	increased pathogen survival
 WBPhenotype:0001917	protein acetylation variant
 WBPhenotype:0001918	chemical hypersensitive
 WBPhenotype:0001919	gut granules enlarged
+WBPhenotype:0001920	twisted pharynx
 WBPhenotype:0001922	axonal transport variant
 WBPhenotype:0001923	fewer seam cells
 WBPhenotype:0001924	oocytes stacked
@@ -1080,6 +1061,7 @@ WBPhenotype:0002081	peptide uptake by intestinal cell increased
 WBPhenotype:0002082	peptide uptake by intestinal cell decreased
 WBPhenotype:0002086	crossover distribution variant
 WBPhenotype:0002089	cell component morphology variant
+WBPhenotype:0002090	endosome morphology variant
 WBPhenotype:0002091	late endosome morphology variant
 WBPhenotype:0002092	early endosome morphology variant
 WBPhenotype:0002094	RAB-11 recycling endosome morphology variant
@@ -1097,6 +1079,7 @@ WBPhenotype:0002107	RAB-11 recycling endosome localization variant
 WBPhenotype:0002110	RME-1 recycling endosome morphology variant
 WBPhenotype:0002113	synapsis formation variant
 WBPhenotype:0002118	population fitness variant
+WBPhenotype:0002119	alternative splicing defective
 WBPhenotype:0002120	mitochondrial DNA repair variant
 WBPhenotype:0002124	circumferential actin bundles disorganized
 WBPhenotype:0002129	mitochondrial DNA copy number variant
@@ -1171,6 +1154,9 @@ WBPhenotype:0002391	cytokinesis failure
 WBPhenotype:0002394	phagosome sealing defective
 WBPhenotype:0002396	tumor prolapse frequency decreased
 WBPhenotype:0002397	tumor prolapse frequency increased
+WBPhenotype:0002414	spindle variant
+WBPhenotype:0002423	hypoxia response variant
+WBPhenotype:0002428	intestinal degeneration
 WBPhenotype:0004004	male response to contact defective
 WBPhenotype:0004007	periodic spicule prodding defective
 WBPhenotype:0004018	sinusoidal movement variant

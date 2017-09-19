@@ -1,178 +1,3 @@
-FBbt:00000004PHENOTYPE	Drosophila head phenotype
-FBbt:00000018PHENOTYPE	mesothoracic segment phenotype
-FBbt:00000019PHENOTYPE	metathoracic segment phenotype
-FBbt:00000052PHENOTYPE	Drosophila embryo phenotype
-FBbt:00000111PHENOTYPE	ectoderm phenotype
-FBbt:00000126PHENOTYPE	Drosophila mesoderm phenotype
-FBbt:00000155PHENOTYPE	Drosophila embryonic head phenotype
-FBbt:00000160PHENOTYPE	embryonic antennal segment phenotype
-FBbt:00000164PHENOTYPE	embryonic maxillary segment phenotype
-FBbt:00000165PHENOTYPE	embryonic labial segment phenotype
-FBbt:00000168PHENOTYPE	embryonic prothoracic segment phenotype
-FBbt:00000185PHENOTYPE	Drosophila embryonic/larval tracheal system phenotype
-FBbt:00001102PHENOTYPE	Drosophila ventral nerve cord phenotype
-FBbt:00001251PHENOTYPE	Drosophila embryonic/larval glial cell phenotype
-FBbt:00001446PHENOTYPE	Drosophila embryonic/larval neuron phenotype
-FBbt:00001447PHENOTYPE	Drosophila aCC neuron phenotype
-FBbt:00001448PHENOTYPE	pCC neuron phenotype
-FBbt:00001453PHENOTYPE	RP2 motor neuron phenotype
-FBbt:00001564PHENOTYPE	Drosophila U neuron phenotype
-FBbt:00001666PHENOTYPE	Drosophila cardioblast phenotype
-FBbt:00001690PHENOTYPE	crystal cell phenotype
-FBbt:00001693PHENOTYPE	Drosophila embryonic/larval garland cell phenotype
-FBbt:00001744PHENOTYPE	Drosophila larval mesothoracic segment phenotype
-FBbt:00001745PHENOTYPE	Drosophila larval metathoracic segment phenotype
-FBbt:00001778PHENOTYPE	Drosophila wing disc phenotype
-FBbt:00001846PHENOTYPE	Drosophila mouth hooks phenotype
-FBbt:00001847PHENOTYPE	dental sclerite phenotype
-FBbt:00001848PHENOTYPE	epipharyngeal sclerite phenotype
-FBbt:00001849PHENOTYPE	hypostomal sclerite phenotype
-FBbt:00001878PHENOTYPE	embryonic/larval salivary gland phenotype
-FBbt:00001919PHENOTYPE	Drosophila embryonic/larval central nervous system phenotype
-FBbt:00002027PHENOTYPE	Drosophila dorsal multidendritic neuron ddaC phenotype
-FBbt:00002378PHENOTYPE	Drosophila abdominal 1 lch5 neuron phenotype
-FBbt:00002379PHENOTYPE	Drosophila abdominal 2 lch5 neuron phenotype
-FBbt:00002380PHENOTYPE	Drosophila abdominal 3 lch5 neuron phenotype
-FBbt:00002381PHENOTYPE	abdominal 4 lch5 neuron phenotype
-FBbt:00002382PHENOTYPE	Drosophila abdominal 5 lch5 neuron phenotype
-FBbt:00002383PHENOTYPE	abdominal 6 lch5 neuron phenotype
-FBbt:00002384PHENOTYPE	abdominal 7 lch5 neuron phenotype
-FBbt:00002743PHENOTYPE	Drosophila T1 beard phenotype
-FBbt:00002832PHENOTYPE	abdominal 1 lateral pentascolopidial chordotonal organ lch5 phenotype
-FBbt:00002833PHENOTYPE	Drosophila abdominal 2 lateral pentascolopidial chordotonal organ lch5 phenotype
-FBbt:00002834PHENOTYPE	abdominal 3 lateral pentascolopidial chordotonal organ lch5 phenotype
-FBbt:00002835PHENOTYPE	abdominal 4 lateral pentascolopidial chordotonal organ lch5 phenotype
-FBbt:00002836PHENOTYPE	Drosophila abdominal 5 lateral pentascolopidial chordotonal organ lch5 phenotype
-FBbt:00002837PHENOTYPE	abdominal 6 lateral pentascolopidial chordotonal organ lch5 phenotype
-FBbt:00002838PHENOTYPE	Drosophila abdominal 7 lateral pentascolopidial chordotonal organ lch5 phenotype
-FBbt:00003007PHENOTYPE	adult head phenotype
-FBbt:00003126PHENOTYPE	adult mouth phenotype
-FBbt:00003154PHENOTYPE	Drosophila adult heart phenotype
-FBbt:00003624PHENOTYPE	adult brain phenotype
-FBbt:00003625PHENOTYPE	Drosophila adult brain cell body rind phenotype
-FBbt:00003684PHENOTYPE	Drosophila adult mushroom body phenotype
-FBbt:00003686PHENOTYPE	Drosophila Kenyon cell phenotype
-FBbt:00003695PHENOTYPE	mushroom body gamma-lobe phenotype
-FBbt:00003701PHENOTYPE	Drosophila optic lobe phenotype
-FBbt:00003748PHENOTYPE	Drosophila medulla phenotype
-FBbt:00004126PHENOTYPE	postvertical bristle phenotype
-FBbt:00004128PHENOTYPE	ocellar bristle phenotype
-FBbt:00004133PHENOTYPE	interommatidial bristle phenotype
-FBbt:00004193PHENOTYPE	cone cell phenotype
-FBbt:00004211PHENOTYPE	Drosophila photoreceptor cell phenotype
-FBbt:00004231PHENOTYPE	primary pigment cell phenotype
-FBbt:00004232PHENOTYPE	Drosophila secondary pigment cell phenotype
-FBbt:00004233PHENOTYPE	Drosophila tertiary pigment cell phenotype
-FBbt:00004287PHENOTYPE	prothoracic tarsal bristle longitudinal row 1 phenotype
-FBbt:00004312PHENOTYPE	Drosophila scutellar bristle phenotype
-FBbt:00004323PHENOTYPE	Drosophila wing sensillum phenotype
-FBbt:00004340PHENOTYPE	wing hair phenotype
-FBbt:00004395PHENOTYPE	Drosophila mesothoracic tarsal bristle longitudinal row 1 phenotype
-FBbt:00004406PHENOTYPE	Drosophila mesothoracic tarsal bristle longitudinal row 8 phenotype
-FBbt:00004453PHENOTYPE	Drosophila metathoracic tarsal bristle longitudinal row 1 phenotype
-FBbt:00004460PHENOTYPE	metathoracic tarsal bristle longitudinal row 8 phenotype
-FBbt:00004463PHENOTYPE	abdominal sternite bristle phenotype
-FBbt:00004476PHENOTYPE	Drosophila tergite phenotype
-FBbt:00004505PHENOTYPE	Drosophila ocellus phenotype
-FBbt:00004508PHENOTYPE	eye phenotype
-FBbt:00004510PHENOTYPE	Drosophila ommatidium phenotype
-FBbt:00004511PHENOTYPE	Drosophila antenna phenotype
-FBbt:00004519PHENOTYPE	arista phenotype
-FBbt:00004546PHENOTYPE	Drosophila maxillary palpus phenotype
-FBbt:00004640PHENOTYPE	leg phenotype
-FBbt:00004646PHENOTYPE	tarsal segment phenotype
-FBbt:00004650PHENOTYPE	tarsal segment 3 phenotype
-FBbt:00004651PHENOTYPE	Drosophila tarsal segment 4 phenotype
-FBbt:00004653PHENOTYPE	Drosophila pretarsus phenotype
-FBbt:00004729PHENOTYPE	Drosophila wing phenotype
-FBbt:00004731PHENOTYPE	Drosophila wing hinge phenotype
-FBbt:00004751PHENOTYPE	wing vein phenotype
-FBbt:00004759PHENOTYPE	wing vein L1 phenotype
-FBbt:00004762PHENOTYPE	wing vein L4 phenotype
-FBbt:00004769PHENOTYPE	wing cell phenotype
-FBbt:00004783PHENOTYPE	haltere phenotype
-FBbt:00004844PHENOTYPE	Drosophila anal plate phenotype
-FBbt:00004860PHENOTYPE	Drosophila germline cell phenotype
-FBbt:00004878PHENOTYPE	nurse cell phenotype
-FBbt:00004984PHENOTYPE	Drosophila embryonic/first instar larval cuticle phenotype
-FBbt:00004991PHENOTYPE	Drosophila pupal cuticle phenotype
-FBbt:00005123PHENOTYPE	Drosophila motor neuron phenotype
-FBbt:00005166PHENOTYPE	Drosophila external sensory organ precursor cell IIa phenotype
-FBbt:00005167PHENOTYPE	external sensory organ precursor cell IIb phenotype
-FBbt:00005174PHENOTYPE	Drosophila eo neuron phenotype
-FBbt:00005176PHENOTYPE	eo sensory structure phenotype
-FBbt:00005179PHENOTYPE	Drosophila macrochaeta phenotype
-FBbt:00005201PHENOTYPE	denticle belt phenotype
-FBbt:00005215PHENOTYPE	Drosophila chordotonal organ phenotype
-FBbt:00005236PHENOTYPE	Drosophila photoreceptor cell pigment granule phenotype
-FBbt:00005378PHENOTYPE	wing margin phenotype
-FBbt:00005382PHENOTYPE	Drosophila salivary gland phenotype
-FBbt:00005390PHENOTYPE	Drosophila pupal thorax phenotype
-FBbt:00005400PHENOTYPE	pupal epidermis phenotype
-FBbt:00005407PHENOTYPE	Drosophila mushroom body vertical lobe phenotype
-FBbt:00005684PHENOTYPE	Drosophila heart primordium phenotype
-FBbt:00005837PHENOTYPE	Drosophila embryonic/larval neuromuscular junction phenotype
-FBbt:00005838PHENOTYPE	NMJ bouton phenotype
-FBbt:00005926PHENOTYPE	olfactory receptor neuron phenotype
-FBbt:00006009PHENOTYPE	eye photoreceptor cell phenotype
-FBbt:00007326PHENOTYPE	intersegmental nerve branch ISNb of A1-7 phenotype
-FBbt:00007371PHENOTYPE	retinal pigment cell phenotype
-FBbt:00007386PHENOTYPE	Drosophila adult olfactory receptor neuron phenotype
-FBbt:00007675PHENOTYPE	embryonic/larval motor neuron phenotype
-FBbt:00100171PHENOTYPE	Drosophila adult Pdf neuron phenotype
-FBcv:0000002	thermotaxis behavior defective
-FBcv:0000316	homeotic
-FBcv:0000349	viable
-FBcv:0000350	partially lethal - majority live
-FBcv:0000351	lethal
-FBcv:0000352	partially lethal - majority die
-FBcv:0000354	visible
-FBcv:0000357	size defective
-FBcv:0000358	small body
-FBcv:0000359	decreased cell number
-FBcv:0000363	increased cell size
-FBcv:0000374	fertile
-FBcv:0000375	semi-fertile
-FBcv:0000380	non-enhancer of variegation
-FBcv:0000385	short lived
-FBcv:0000386	long lived
-FBcv:0000387	behavior defective
-FBcv:0000388	gravitaxis defective
-FBcv:0000395	locomotor rhythm defective
-FBcv:0000397	learning defective
-FBcv:0000398	memory defective
-FBcv:0000411	visual behavior defective
-FBcv:0000414	locomotor behavior defective
-FBcv:0000416	uncoordinated
-FBcv:0000418	flightless
-FBcv:0000419	feeding behavior defective
-FBcv:0000420	grooming behavior defective
-FBcv:0000425	increased cell death
-FBcv:0000430	cell polarity defective
-FBcv:0000432	mitotic cell cycle defective
-FBcv:0000434	neurophysiology defective
-FBcv:0000435	neuroanatomy defective
-FBcv:0000439	chemical resistant
-FBcv:0000440	chemical sensitive
-FBcv:0000446	melanotic mass phenotype
-FBcv:0000449	planar polarity defective
-FBcv:0000450	developmental rate defective
-FBcv:0000451	wound healing defective
-FBcv:0000683	temperature response defective
-FBcv:0000705	sleep defective
-FBcv:0000708	starvation stress response defective
-FBcv:0000717	increased cell growth
-FBcv:0000721	mating behavior defective
-FBcv:0000725	oxidative stress response defective
-FBcv:0001347	phenotype
-FBcv:0002002	lethal - all die before end of larval stage
-FBcv:0002015	partially lethal
-FBcv:0002023	some die during larval stage
-FBcv:0002027	lethal - all die before end of pupal stage
-FBcv:0002030	lethal - all die during pupal stage
-FBcv:0002032	lethal - all die before end of embryonic stage
-FBcv:0002039	some die during pupal stage
-FBcv:0002041	some die during embryonic stage
 GO:0000012PHENOTYPE	single strand break repair phenotype
 GO:0000045PHENOTYPE	autophagosome assembly phenotype
 GO:0000050PHENOTYPE	urea cycle phenotype
@@ -182,7 +7,6 @@ GO:0000077PHENOTYPE	DNA damage checkpoint phenotype
 GO:0000079PHENOTYPE	regulation of cyclin-dependent protein serine/threonine kinase activity phenotype
 GO:0000082PHENOTYPE	G1/S transition of mitotic cell cycle phenotype
 GO:0000086PHENOTYPE	G2/M transition of mitotic cell cycle phenotype
-GO:0000096PHENOTYPE	sulfur amino acid metabolic process phenotype
 GO:0000122PHENOTYPE	negative regulation of transcription from RNA polymerase II promoter phenotype
 GO:0000132PHENOTYPE	establishment of mitotic spindle orientation phenotype
 GO:0000165PHENOTYPE	MAPK cascade phenotype
@@ -663,7 +487,6 @@ GO:0007050PHENOTYPE	cell cycle arrest phenotype
 GO:0007052PHENOTYPE	mitotic spindle organization phenotype
 GO:0007059PHENOTYPE	chromosome segregation phenotype
 GO:0007060PHENOTYPE	male meiosis chromosome segregation phenotype
-GO:0007067PHENOTYPE	mitotic nuclear division phenotype
 GO:0007088PHENOTYPE	regulation of mitotic nuclear division phenotype
 GO:0007091PHENOTYPE	metaphase/anaphase transition of mitotic cell cycle phenotype
 GO:0007093PHENOTYPE	mitotic cell cycle checkpoint phenotype
@@ -672,7 +495,6 @@ GO:0007095PHENOTYPE	mitotic G2 DNA damage checkpoint phenotype
 GO:0007097PHENOTYPE	nuclear migration phenotype
 GO:0007099PHENOTYPE	centriole replication phenotype
 GO:0007100PHENOTYPE	mitotic centrosome separation phenotype
-GO:0007126PHENOTYPE	meiotic nuclear division phenotype
 GO:0007127PHENOTYPE	meiosis I phenotype
 GO:0007128PHENOTYPE	meiotic prophase I phenotype
 GO:0007129PHENOTYPE	synapsis phenotype
@@ -879,7 +701,6 @@ GO:0009968PHENOTYPE	negative regulation of signal transduction phenotype
 GO:0009994PHENOTYPE	oocyte differentiation phenotype
 GO:0010001PHENOTYPE	glial cell differentiation phenotype
 GO:0010002PHENOTYPE	cardioblast differentiation phenotype
-GO:0010032PHENOTYPE	meiotic chromosome condensation phenotype
 GO:0010033PHENOTYPE	response to organic substance phenotype
 GO:0010035PHENOTYPE	response to inorganic substance phenotype
 GO:0010070PHENOTYPE	zygote asymmetric cell division phenotype
@@ -992,7 +813,6 @@ GO:0016321PHENOTYPE	female meiosis chromosome segregation phenotype
 GO:0016322PHENOTYPE	neuron remodeling phenotype
 GO:0016323PHENOTYPE	basolateral plasma membrane phenotype
 GO:0016331PHENOTYPE	morphogenesis of embryonic epithelium phenotype
-GO:0016337PHENOTYPE	single organismal cell-cell adhesion phenotype
 GO:0016339PHENOTYPE	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules phenotype
 GO:0016358PHENOTYPE	dendrite development phenotype
 GO:0016409PHENOTYPE	palmitoyltransferase activity phenotype
@@ -1223,8 +1043,6 @@ GO:0030325PHENOTYPE	adrenal gland development phenotype
 GO:0030330PHENOTYPE	DNA damage response, signal transduction by p53 class mediator phenotype
 GO:0030334PHENOTYPE	regulation of cell migration phenotype
 GO:0030336PHENOTYPE	negative regulation of cell migration phenotype
-GO:0030424PHENOTYPE	axon phenotype
-GO:0030425PHENOTYPE	dendrite phenotype
 GO:0030431PHENOTYPE	sleep phenotype
 GO:0030432PHENOTYPE	peristalsis phenotype
 GO:0030500PHENOTYPE	regulation of bone mineralization phenotype
@@ -1294,7 +1112,6 @@ GO:0031647PHENOTYPE	regulation of protein stability phenotype
 GO:0031668PHENOTYPE	cellular response to extracellular stimulus phenotype
 GO:0031946PHENOTYPE	regulation of glucocorticoid biosynthetic process phenotype
 GO:0031947PHENOTYPE	negative regulation of glucocorticoid biosynthetic process phenotype
-GO:0031982PHENOTYPE	vesicle phenotype
 GO:0031987PHENOTYPE	locomotion involved in locomotory behavior phenotype
 GO:0032006PHENOTYPE	regulation of TOR signaling phenotype
 GO:0032007PHENOTYPE	negative regulation of TOR signaling phenotype
@@ -1363,7 +1180,6 @@ GO:0033153PHENOTYPE	T cell receptor V(D)J recombination phenotype
 GO:0033157PHENOTYPE	regulation of intracellular protein transport phenotype
 GO:0033209PHENOTYPE	tumor necrosis factor-mediated signaling pathway phenotype
 GO:0033292PHENOTYPE	T-tubule organization phenotype
-GO:0033315PHENOTYPE	meiotic DNA replication checkpoint phenotype
 GO:0033316PHENOTYPE	meiotic spindle assembly checkpoint phenotype
 GO:0033327PHENOTYPE	Leydig cell differentiation phenotype
 GO:0033344PHENOTYPE	cholesterol efflux phenotype
@@ -1390,7 +1206,6 @@ GO:0034595PHENOTYPE	phosphatidylinositol phosphate 5-phosphatase activity phenot
 GO:0034599PHENOTYPE	cellular response to oxidative stress phenotype
 GO:0034612PHENOTYPE	response to tumor necrosis factor phenotype
 GO:0034613PHENOTYPE	cellular protein localization phenotype
-GO:0034620PHENOTYPE	cellular response to unfolded protein phenotype
 GO:0034629PHENOTYPE	cellular protein complex localization phenotype
 GO:0034644PHENOTYPE	cellular response to UV phenotype
 GO:0034765PHENOTYPE	regulation of ion transmembrane transport phenotype
@@ -1461,7 +1276,6 @@ GO:0040012PHENOTYPE	regulation of locomotion phenotype
 GO:0040013PHENOTYPE	negative regulation of locomotion phenotype
 GO:0040016PHENOTYPE	embryonic cleavage phenotype
 GO:0040020PHENOTYPE	regulation of meiotic nuclear division phenotype
-GO:0040023PHENOTYPE	establishment of nucleus localization phenotype
 GO:0040029PHENOTYPE	regulation of gene expression, epigenetic phenotype
 GO:0040036PHENOTYPE	regulation of fibroblast growth factor receptor signaling pathway phenotype
 GO:0040040PHENOTYPE	thermosensory behavior phenotype
@@ -1519,6 +1333,7 @@ GO:0042476PHENOTYPE	odontogenesis phenotype
 GO:0042490PHENOTYPE	mechanoreceptor differentiation phenotype
 GO:0042491PHENOTYPE	auditory receptor cell differentiation phenotype
 GO:0042493PHENOTYPE	response to drug phenotype
+GO:0042509PHENOTYPE	regulation of tyrosine phosphorylation of STAT protein phenotype
 GO:0042541PHENOTYPE	hemoglobin biosynthetic process phenotype
 GO:0042551PHENOTYPE	neuron maturation phenotype
 GO:0042552PHENOTYPE	myelination phenotype
@@ -1570,7 +1385,6 @@ GO:0043113PHENOTYPE	receptor clustering phenotype
 GO:0043143PHENOTYPE	regulation of translation by machinery localization phenotype
 GO:0043153PHENOTYPE	entrainment of circadian clock by photoperiod phenotype
 GO:0043161PHENOTYPE	proteasome-mediated ubiquitin-dependent protein catabolic process phenotype
-GO:0043195PHENOTYPE	terminal bouton phenotype
 GO:0043200PHENOTYPE	response to amino acid phenotype
 GO:0043249PHENOTYPE	erythrocyte maturation phenotype
 GO:0043277PHENOTYPE	apoptotic cell clearance phenotype
@@ -1595,7 +1409,6 @@ GO:0043487PHENOTYPE	regulation of RNA stability phenotype
 GO:0043491PHENOTYPE	protein kinase B signaling phenotype
 GO:0043523PHENOTYPE	regulation of neuron apoptotic process phenotype
 GO:0043534PHENOTYPE	blood vessel endothelial cell migration phenotype
-GO:0043535PHENOTYPE	regulation of blood vessel endothelial cell migration phenotype
 GO:0043542PHENOTYPE	endothelial cell migration phenotype
 GO:0043547PHENOTYPE	positive regulation of GTPase activity phenotype
 GO:0043549PHENOTYPE	regulation of kinase activity phenotype
@@ -1627,8 +1440,6 @@ GO:0044267PHENOTYPE	cellular protein metabolic process phenotype
 GO:0044342PHENOTYPE	type B pancreatic cell proliferation phenotype
 GO:0044458PHENOTYPE	motile cilium assembly phenotype
 GO:0044537PHENOTYPE	regulation of circulating fibrinogen levels phenotype
-GO:0044702PHENOTYPE	single organism reproductive process phenotype
-GO:0044708PHENOTYPE	single-organism behavior phenotype
 GO:0044773PHENOTYPE	mitotic DNA damage checkpoint phenotype
 GO:0044782PHENOTYPE	cilium organization phenotype
 GO:0044853PHENOTYPE	plasma membrane raft phenotype
@@ -2331,7 +2142,6 @@ GO:0086006PHENOTYPE	voltage-gated sodium channel activity involved in cardiac mu
 GO:0086014PHENOTYPE	atrial cardiac muscle cell action potential phenotype
 GO:0086064PHENOTYPE	cell communication by electrical coupling involved in cardiac conduction phenotype
 GO:0086065PHENOTYPE	cell communication involved in cardiac conduction phenotype
-GO:0090002PHENOTYPE	establishment of protein localization to plasma membrane phenotype
 GO:0090009PHENOTYPE	primitive streak formation phenotype
 GO:0090030PHENOTYPE	regulation of steroid hormone biosynthetic process phenotype
 GO:0090032PHENOTYPE	negative regulation of steroid hormone biosynthetic process phenotype
@@ -2424,7 +2234,6 @@ HP:0000032	Abnormality of male external genitalia
 HP:0000035	Abnormality of the testis
 HP:0000036	Abnormality of the penis
 HP:0000037	Male pseudohermaphroditism
-HP:0000040	Long penis
 HP:0000045	Abnormality of the scrotum
 HP:0000046	Scrotal hypoplasia
 HP:0000047	Hypospadias
@@ -2489,6 +2298,7 @@ HP:0000316	Hypertelorism
 HP:0000325	Triangular face
 HP:0000327	Hypoplasia of the maxilla
 HP:0000347	Micrognathia
+HP:0000348	High forehead
 HP:0000362	Otosclerosis
 HP:0000365	Hearing impairment
 HP:0000369	Low-set ears
@@ -2616,6 +2426,7 @@ HP:0000966	Hypohidrosis
 HP:0000967	Petechiae
 HP:0000969	Edema
 HP:0000970	Anhidrosis
+HP:0000971	Abnormality of the sweat gland
 HP:0000973	Cutis laxa
 HP:0000978	Bruising susceptibility
 HP:0000979	Purpura
@@ -2631,6 +2442,7 @@ HP:0001019	Erythroderma
 HP:0001028	Hemangioma
 HP:0001036	Parakeratosis
 HP:0001045	Vitiligo
+HP:0001051	Seborrheic dermatitis
 HP:0001059	Pterygium
 HP:0001067	Neurofibromas
 HP:0001081	Cholelithiasis
@@ -2647,7 +2459,7 @@ HP:0001126	Cryptophthalmos
 HP:0001134	Anterior polar cataract
 HP:0001138	Optic neuropathy
 HP:0001142	Lenticonus
-HP:0001156	Brachydactyly syndrome
+HP:0001156	Brachydactyly
 HP:0001159	Syndactyly
 HP:0001166	Arachnodactyly
 HP:0001191	Abnormality of the carpal bones
@@ -2699,6 +2511,7 @@ HP:0001513	Obesity
 HP:0001537	Umbilical hernia
 HP:0001539	Omphalocele
 HP:0001541	Ascites
+HP:0001543	Gastroschisis
 HP:0001547	Abnormality of the rib cage
 HP:0001552	Barrel-shaped chest
 HP:0001561	Polyhydramnios
@@ -2775,10 +2588,10 @@ HP:0001894	Thrombocytosis
 HP:0001896	Reticulocytopenia
 HP:0001899	Increased hematocrit
 HP:0001901	Polycythemia
+HP:0001902	Giant platelets
 HP:0001903	Anemia
 HP:0001909	Leukemia
 HP:0001911	Abnormality of granulocytes
-HP:0001913	Granulocytopenia
 HP:0001923	Reticulocytosis
 HP:0001927	Acanthocytosis
 HP:0001931	Hypochromic anemia
@@ -2857,6 +2670,7 @@ HP:0002239	Gastrointestinal hemorrhage
 HP:0002240	Hepatomegaly
 HP:0002242	Abnormality of the intestine
 HP:0002244	Abnormality of the small intestine
+HP:0002247	Duodenal atresia
 HP:0002249	Melena
 HP:0002250	Abnormality of the large intestine
 HP:0002251	Aganglionic megacolon
@@ -2902,7 +2716,7 @@ HP:0002607	Bowel incontinence
 HP:0002613	Biliary cirrhosis
 HP:0002615	Hypotension
 HP:0002616	Aortic root dilatation
-HP:0002617	Aneurysm
+HP:0002617	Dilatation
 HP:0002619	Varicose veins
 HP:0002621	Atherosclerosis
 HP:0002623	Overriding aorta
@@ -2944,6 +2758,7 @@ HP:0002795	Functional respiratory abnormality
 HP:0002797	Osteolysis
 HP:0002808	Kyphosis
 HP:0002813	Abnormality of limb bone morphology
+HP:0002823	Abnormality of femur morphology
 HP:0002835	Aspiration
 HP:0002836	Bladder exstrophy
 HP:0002840	Lymphadenitis
@@ -2984,6 +2799,8 @@ HP:0002983	Micromelia
 HP:0002984	Hypoplasia of the radius
 HP:0002986	Radial bowing
 HP:0002990	Fibular aplasia
+HP:0002991	Abnormality of fibula morphology
+HP:0002992	Abnormality of tibia morphology
 HP:0003006	Neuroblastoma
 HP:0003010	Prolonged bleeding time
 HP:0003022	Hypoplasia of the ulna
@@ -3077,14 +2894,14 @@ HP:0003712	Skeletal muscle hypertrophy
 HP:0003750	Increased muscle fatiguability
 HP:0003758	Reduced subcutaneous adipose tissue
 HP:0003761	Calcinosis
-HP:0003765	Psoriasis
+HP:0003765	Psoriasiform dermatitis
 HP:0003808	Abnormal muscle tone
 HP:0003811	Neonatal death
 HP:0003826	Stillbirth
 HP:0003862	Absent humerus
 HP:0003865	Bowed humerus
 HP:0003974	Absent radius
-HP:0003982	Absent ulna
+HP:0003982	Aplasia of the ulna
 HP:0003988	Long ulna
 HP:0004099	Macrodactyly
 HP:0004231	Carpal bone aplasia
@@ -3146,6 +2963,7 @@ HP:0005110	Atrial fibrillation
 HP:0005111	Dilatation of the ascending aorta
 HP:0005133	Right ventricular dilatation
 HP:0005145	Coronary artery stenosis
+HP:0005156	Hypoplastic left atrium
 HP:0005160	Total anomalous pulmonary venous return
 HP:0005164	Dysplastic pulmonary valve
 HP:0005165	Shortened PR interval
@@ -3215,7 +3033,7 @@ HP:0006660	Aplastic clavicles
 HP:0006682	Ventricular extrasystoles
 HP:0006690	Myocardial calcification
 HP:0006693	Myocardial steatosis
-HP:0006698	Ventricular aneurysm
+HP:0006698	Dilatation of the ventricular cavity
 HP:0006739	Squamous cell carcinoma of the skin
 HP:0006771	Duodenal adenocarcinoma
 HP:0006827	Atrophy of the spinal cord
@@ -3229,6 +3047,7 @@ HP:0007033	Cerebellar dysplasia
 HP:0007082	Dilated third ventricle
 HP:0007265	Absent mesencephalon
 HP:0007343	Abnormal morphology of the limbic system
+HP:0007430	Generalized edema
 HP:0007485	Absence of subcutaneous fat
 HP:0007544	Piebaldism
 HP:0007656	Lacrimal gland aplasia
@@ -3272,7 +3091,7 @@ HP:0008404	Nail dystrophy
 HP:0008417	Vertebral hypoplasia
 HP:0008419	Intervertebral disc degeneration
 HP:0008428	Vertebral clefting
-HP:0008465	Absent vertebrae
+HP:0008465	Absent vertebra
 HP:0008516	Abnormality of the vertebral spinous processes
 HP:0008551	Microtia
 HP:0008609	Morphological abnormality of the middle ear
@@ -3345,6 +3164,7 @@ HP:0010493	Long metacarpals
 HP:0010497	Sirenomelia
 HP:0010504	Increased length of the tibia
 HP:0010516	Thymus hyperplasia
+HP:0010537	Wide cranial sutures
 HP:0010605	Chalazion
 HP:0010614	Fibroma
 HP:0010626	Anterior pituitary agenesis
@@ -3371,6 +3191,7 @@ HP:0010775	Vascular ring
 HP:0010783	Erythema
 HP:0010784	Uterine neoplasm
 HP:0010789	Abnormality of the Leydig cells
+HP:0010790	Hyoplasia of the Leydig cells
 HP:0010791	Hyperplasia of the Leydig cells
 HP:0010799	Pinealoma
 HP:0010808	Protruding tongue
@@ -3444,6 +3265,7 @@ HP:0011377	Aplasia of the vestibule
 HP:0011380	Morphological abnormality of the semicircular canal
 HP:0011381	Aplasia of the semicircular canal
 HP:0011390	Morphological abnormality of the inner ear
+HP:0011393	Aplasia of the vestibular nerve.
 HP:0011423	Hyperchloremia
 HP:0011441	Abnormality of the medulla oblongata
 HP:0011455	Absent malleus
@@ -3466,6 +3288,7 @@ HP:0011555	Double inlet left ventricle
 HP:0011560	Mitral atresia
 HP:0011565	Common atrium
 HP:0011573	Hypoplastic tricuspid valve
+HP:0011581	Double outlet left ventricle
 HP:0011588	Cervical aortic arch
 HP:0011590	Double aortic arch
 HP:0011599	Mesocardia
@@ -3476,7 +3299,7 @@ HP:0011616	Pulmonary situs inversus
 HP:0011622	Inlet ventricular septal defect
 HP:0011623	Muscular ventricular septal defect
 HP:0011641	Coronary artery fistula
-HP:0011645	Sinus of Valsalva aneurysm
+HP:0011645	Dilatation of the sinus of Valsalva
 HP:0011675	Arrhythmia
 HP:0011681	Subarterial ventricular septal defect
 HP:0011682	Perimembranous ventricular septal defect
@@ -3485,6 +3308,7 @@ HP:0011718	Abnormality of the pulmonary veins
 HP:0011729	Abnormality of joint mobility
 HP:0011733	Abnormality of adrenal physiology
 HP:0011742	Ectopic adrenal gland
+HP:0011756	Posterior pituitary agenesis
 HP:0011788	Increased serum free triiodothyronine
 HP:0011800	Midface retrusion
 HP:0011801	Enlargement of parotid gland
@@ -3501,17 +3325,17 @@ HP:0011854	Hemoperitoneum
 HP:0011862	Abnormal bone collagen fibril morphology
 HP:0011869	Abnormal platelet function
 HP:0011875	Abnormal platelet morphology
-HP:0011876	Abnormal platelet volume
 HP:0011877	Increased mean platelet volume
 HP:0011885	Hemorrhage of the eye
 HP:0011893	Abnormal leukocyte count
 HP:0011902	Abnormal hemoglobin
 HP:0011935	Decreased urinary urate
 HP:0011969	Elevated luteinizing hormone
+HP:0011970	Cerebral amyloid angiopathy
 HP:0011974	Myelofibrosis
 HP:0011990	Abnormality of neutrophil physiology
 HP:0011992	Abnormality of neutrophil morphology
-HP:0011995	Atrial septal aneurysm
+HP:0011995	Atrial septal dilatation
 HP:0012020	Right aortic arch
 HP:0012050	Anasarca
 HP:0012068	Aspartylglucosaminuria
@@ -3596,6 +3420,7 @@ HP:0012444	Brain atrophy
 HP:0012447	Abnormal myelination
 HP:0012450	Chronic constipation
 HP:0012465	Elevated hepatic iron concentration
+HP:0012471	Thick vermilion border
 HP:0012472	Eclabion
 HP:0012490	Panniculitis
 HP:0012503	Abnormality of the pituitary gland
@@ -3613,6 +3438,7 @@ HP:0012590	Abnormal urine output
 HP:0012592	Albuminuria
 HP:0012594	Microalbuminuria
 HP:0012598	Abnormal urine potassium concentration
+HP:0012599	Abnormal urine phosphate concentration
 HP:0012601	Hypochloriduria
 HP:0012603	Abnormal urine sodium concentration
 HP:0012608	Hypermagnesiuria
@@ -3629,6 +3455,7 @@ HP:0012649	Increased inflammatory response
 HP:0012673	Aplasia of the upper vagina
 HP:0012675	Iron accumulation in brain
 HP:0012676	Copper accumulation in brain
+HP:0012680	Abnormality of the pineal gland
 HP:0012688	Abnormality of pineal physiology
 HP:0012722	Heart block
 HP:0012723	Sinoatrial block
@@ -3653,6 +3480,7 @@ HP:0012875	Abnormal ejaculation
 HP:0020006	Ciliary body coloboma
 HP:0025016	Abnormal capillary morphology
 HP:0025028	Abnormality of enteric nervous system morphology
+HP:0025057	Abnormality of olfactory lobe morphology
 HP:0025100	Abnormal morphology of the hippocampus
 HP:0025321	Copper accumulation in liver
 HP:0030010	Hydrometrocolpos
@@ -3720,6 +3548,8 @@ HP:0030791	Abnormal jaw morphology
 HP:0030809	Abnormal tongue morphology
 HP:0030853	Heterotaxy
 HP:0030875	Abnormality of pulmonary circulation
+HP:0030971	Abnormal vena cava morphology
+HP:0031066	Abnormal ovarian physiology
 HP:0040006	Mortality/Aging
 HP:0040012	Chromosome breakage
 HP:0040013	Decreased mitochondrial number
@@ -3759,6 +3589,10 @@ HP:0040273	Adenocarcinoma of the intestines
 HP:0040274	Adenocarcinoma of the small intestine
 HP:0040275	Adenocarcinoma of the large intestine
 HP:0040276	Adenocarcinoma of the colon
+HP:0040298	Hyperplasia of the endometrium
+HP:0040302	Hyperglycerolemia
+HP:0040318	Red urine
+HP:0040326	Hypoplasia of the olfactory bulb
 HP:0045005	Neural tube defect
 HP:0045006	Aplasia of lymphatic vessels
 HP:0045009	Abnormal morphology of the radius
@@ -3793,6 +3627,7 @@ HP:0100543	Cognitive impairment
 HP:0100545	Arterial stenosis
 HP:0100547	Abnormality of forebrain morphology
 HP:0100577	Urinary bladder inflammation
+HP:0100596	Absent nares
 HP:0100598	Pulmonary edema
 HP:0100604	Neoplasm of the lip
 HP:0100614	Myositis
@@ -3994,6 +3829,7 @@ MP:0000322	increased granulocyte number
 MP:0000328	increased enterocyte cell number
 MP:0000332	hemoglobinemia
 MP:0000333	decreased bone marrow cell number
+MP:0000334	decreased granulocyte number
 MP:0000336	decreased mast cell number
 MP:0000339	decreased enterocyte cell number
 MP:0000341	abnormal bile color
@@ -4123,8 +3959,6 @@ MP:0000550	abnormal forelimb morphology
 MP:0000551	absent forelimb
 MP:0000556	abnormal hindlimb morphology
 MP:0000557	absent hindlimb
-MP:0000558	abnormal tibia morphology
-MP:0000559	abnormal femur morphology
 MP:0000566	synostosis
 MP:0000567	truncation of digits
 MP:0000568	ectopic digits
@@ -4824,6 +4658,7 @@ MP:0001937	abnormal sexual maturation
 MP:0001939	secondary sex reversal
 MP:0001940	testis hypoplasia
 MP:0001942	abnormal lung volume
+MP:0001945	bronchoconstriction
 MP:0001947	abnormal mucociliary clearance
 MP:0001950	abnormal respiratory sounds
 MP:0001951	abnormal breathing pattern
@@ -4907,7 +4742,6 @@ MP:0002176	increased brain weight
 MP:0002177	abnormal outer ear morphology
 MP:0002182	abnormal astrocyte morphology
 MP:0002184	abnormal innervation
-MP:0002187	abnormal fibula morphology
 MP:0002188	small heart
 MP:0002190	disorganized myocardium
 MP:0002191	abnormal artery morphology
@@ -5014,6 +4848,7 @@ MP:0002362	abnormal spleen marginal zone morphology
 MP:0002363	abnormal spleen marginal sinus morphology
 MP:0002364	abnormal thymus size
 MP:0002367	abnormal thymus lobule morphology
+MP:0002368	abnormal thymus capsule morphology
 MP:0002369	abnormal thymus subcapsular epithelium morphology
 MP:0002371	abnormal thymus cortex morphology
 MP:0002375	abnormal thymus medulla morphology
@@ -5604,7 +5439,6 @@ MP:0003439	abnormal glycerol level
 MP:0003440	decreased glycerol level
 MP:0003441	increased glycerol level
 MP:0003442	decreased circulating glycerol level
-MP:0003443	increased circulating glycerol level
 MP:0003444	abnormal neurotransmitter uptake
 MP:0003447	decreased tumor growth/size
 MP:0003448	abnormal tumor morphology
@@ -5640,7 +5474,6 @@ MP:0003496	increased thyroid adenoma incidence
 MP:0003497	insensitivity to parathyroid hormone
 MP:0003501	iodide oxidation defect
 MP:0003505	increased prolactinoma incidence
-MP:0003507	abnormal ovary physiology
 MP:0003509	increased circulating dihydrotestosterone level
 MP:0003510	decreased circulating dihydrotestosterone level
 MP:0003511	abnormal labium morphology
@@ -5674,6 +5507,7 @@ MP:0003588	ureter stenosis
 MP:0003589	abnormal ureter physiology
 MP:0003590	ureteral reflux
 MP:0003596	epididymal inflammation
+MP:0003599	large penis
 MP:0003607	abnormal prostate gland physiology
 MP:0003613	abnormal kidney medulla development
 MP:0003626	kidney medulla hypoplasia
@@ -5759,7 +5593,6 @@ MP:0003755	abnormal palate morphology
 MP:0003761	arched palate
 MP:0003763	abnormal thymus physiology
 MP:0003769	abnormal lip morphology
-MP:0003771	abnormal lip shape
 MP:0003786	premature aging
 MP:0003787	abnormal imprinting
 MP:0003790	absent CD4-positive, alpha beta T cells
@@ -5845,6 +5678,7 @@ MP:0003894	abnormal Purkinje cell innervation
 MP:0003895	increased ectoderm apoptosis
 MP:0003898	abnormal QRS complex
 MP:0003901	abnormal PR interval
+MP:0003902	abnormal cell mass
 MP:0003903	increased cell mass
 MP:0003904	decreased cell mass
 MP:0003905	abnormal aorta elastin content
@@ -6338,6 +6172,7 @@ MP:0004505	decreased renal glomerulus number
 MP:0004506	abnormal pubis morphology
 MP:0004507	abnormal ischium morphology
 MP:0004508	abnormal pectoral girdle bone morphology
+MP:0004513	avnosmia
 MP:0004514	dystocia
 MP:0004515	abnormal vestibular hair cell stereociliary bundle morphology
 MP:0004516	fused vestibular hair cell stereocilia
@@ -6497,7 +6332,6 @@ MP:0004715	absent vestibulocochlear nerve
 MP:0004716	abnormal cochlear nerve morphology
 MP:0004717	absent cochlear nerve
 MP:0004718	abnormal vestibular nerve morphology
-MP:0004719	absent vestibular nerve
 MP:0004721	abnormal platelet dense granule morphology
 MP:0004722	abnormal platelet dense granule number
 MP:0004725	decreased platelet serotonin level
@@ -6514,6 +6348,7 @@ MP:0004736	abnormal distortion product otoacoustic emission
 MP:0004737	absent distortion product otoacoustic emissions
 MP:0004739	conductive hearing loss
 MP:0004740	sensorineural hearing loss
+MP:0004741	mixed hearing loss
 MP:0004742	abnormal vestibular system physiology
 MP:0004746	abnormal cochlear IHC afferent innervation pattern
 MP:0004747	abnormal cochlear OHC afferent innervation pattern
@@ -6916,6 +6751,7 @@ MP:0005304	cystic bulbourethral gland
 MP:0005305	prostate gland anterior lobe hyperplasia
 MP:0005306	abnormal phalanx morphology
 MP:0005307	head tossing
+MP:0005308	abnormal circulating ammonia level
 MP:0005310	abnormal salivary gland physiology
 MP:0005313	absent adrenal gland
 MP:0005316	abnormal response to tactile stimuli
@@ -7056,7 +6892,6 @@ MP:0005531	increased renal vascular resistance
 MP:0005532	abnormal vascular resistance
 MP:0005533	increased body temperature
 MP:0005535	abnormal body temperature
-MP:0005536	Leydig cell hypoplasia
 MP:0005537	abnormal cerebral aqueduct morphology
 MP:0005540	decreased urine albumin level
 MP:0005541	abnormal iris stromal pigmentation
@@ -7195,7 +7030,6 @@ MP:0006057	decreased vascular endothelial cell number
 MP:0006058	decreased cerebral infarction size
 MP:0006059	decreased susceptibility to ischemic brain injury
 MP:0006060	increased cerebral infarction size
-MP:0006062	abnormal vena cava morphology
 MP:0006063	abnormal inferior vena cava morphology
 MP:0006064	abnormal superior vena cava morphology
 MP:0006065	abnormal heart position or orientation
@@ -7318,6 +7152,7 @@ MP:0006321	increased myocardial fiber number
 MP:0006322	abnormal perichondrium morphology
 MP:0006323	abnormal extraembryonic mesoderm development
 MP:0006324	abnormal cochlear nerve fiber response
+MP:0006328	nonsyndromic hearing impairment
 MP:0006330	syndromic hearing impairment
 MP:0006331	abnormal patterning of the organ of Corti
 MP:0006332	abnormal cochlear potential
@@ -7805,6 +7640,7 @@ MP:0008487	abnormal mesonephros morphology
 MP:0008488	abnormal semicircular canal ampulla morphology
 MP:0008489	slow postnatal weight gain
 MP:0008490	enlarged dorsal root ganglion
+MP:0008491	dorsal root ganglion hyperplasia
 MP:0008492	dorsal root ganglion degeneration
 MP:0008493	alpha-synuclein inclusion body
 MP:0008494	absence of all nails
@@ -8248,7 +8084,6 @@ MP:0009088	thin uterine horn
 MP:0009089	short uterine horn
 MP:0009090	myometrium hypoplasia
 MP:0009091	endometrium hypoplasia
-MP:0009092	endometrium hyperplasia
 MP:0009093	oocyte degeneration
 MP:0009094	abnormal endometrial gland morphology
 MP:0009096	decreased endometrial gland number
@@ -8511,6 +8346,7 @@ MP:0009413	skeletal muscle fiber atrophy
 MP:0009414	skeletal muscle fiber necrosis
 MP:0009415	skeletal muscle degeneration
 MP:0009416	cardiac muscle degeneration
+MP:0009418	cardiac muscle atrophy
 MP:0009419	skeletal muscle fibrosis
 MP:0009420	skeletal muscle endomysial fibrosis
 MP:0009421	increased gastrocnemius weight
@@ -8536,7 +8372,7 @@ MP:0009444	ovarian follicular cyst
 MP:0009446	abnormal platelet dense granule physiology
 MP:0009448	decreased platelet ATP level
 MP:0009450	abnormal axon fasciculation
-MP:0009451	abnormal chromosome pairing during meiosis
+MP:0009451	abnormal chromosomal synapsis
 MP:0009452	abnormal synaptonemal complex
 MP:0009453	enhanced contextual conditioning behavior
 MP:0009454	impaired contextual conditioning behavior
@@ -8590,7 +8426,9 @@ MP:0009522	submandibular gland hypoplasia
 MP:0009523	submandibular gland hyperplasia
 MP:0009524	absent submandibular gland
 MP:0009525	abnormal submandibular duct morphology
+MP:0009526	absent sublingual gland
 MP:0009527	abnormal sublingual duct morphology
+MP:0009532	decreased parotid gland size
 MP:0009533	absent palatine gland
 MP:0009534	absent anterior lingual gland
 MP:0009535	abnormal skin sebaceous gland morphology
@@ -8616,6 +8454,7 @@ MP:0009561	superior cervical ganglion degeneration
 MP:0009562	abnormal odor adaptation
 MP:0009563	dyskeratosis
 MP:0009564	abnormal meiotic configurations
+MP:0009567	mitotic nondisjunction
 MP:0009568	abnormal red blood cell deformability
 MP:0009569	abnormal left lung morphology
 MP:0009570	abnormal right lung morphology
@@ -8650,6 +8489,7 @@ MP:0009600	hypergranulosis
 MP:0009601	epidermis stratum granulosum hyperplasia
 MP:0009602	abnormal keratohyalin granule morphology
 MP:0009603	absent keratohyalin granules
+MP:0009604	increased keratohyalin granule number
 MP:0009605	decreased keratohyalin granule number
 MP:0009606	increased keratohyalin granule size
 MP:0009607	decreased keratohyalin granule size
@@ -8667,8 +8507,10 @@ MP:0009624	small inguinal lymph nodes
 MP:0009625	abnormal abdominal lymph node morphology
 MP:0009626	abnormal celiac lymph node morphology
 MP:0009628	absent brachial lymph nodes
+MP:0009629	small brachial lymph nodes
 MP:0009630	absent axillary lymph nodes
 MP:0009631	enlarged axillary lymph nodes
+MP:0009632	small axillary lymph nodes
 MP:0009633	absent cervical lymph nodes
 MP:0009634	absent popliteal lymph nodes
 MP:0009635	enlarged popliteal lymph nodes
@@ -8694,6 +8536,7 @@ MP:0009659	striated fur
 MP:0009660	abnormal induced retinal neovascularization
 MP:0009661	abnormal pregnancy
 MP:0009662	abnormal uterine receptivity
+MP:0009663	abnormal uterine-embryonic axis
 MP:0009664	abnormal luminal closure
 MP:0009665	abnormal embryo apposition
 MP:0009666	abnormal embryo attachment
@@ -8915,7 +8758,6 @@ MP:0009940	abnormal hippocampus pyramidal cell morphology
 MP:0009941	abnormal olfactory bulb interneuron morphology
 MP:0009942	abnormal olfactory bulb granule cell morphology
 MP:0009943	abnormal olfactory bulb periglomerular cell morphology
-MP:0009944	abnormal olfactory lobe morphology
 MP:0009945	abnormal accessory olfactory bulb morphology
 MP:0009946	abnormal olfactory bulb layer morphology
 MP:0009947	abnormal olfactory bulb external plexiform layer morphology
@@ -8992,7 +8834,7 @@ MP:0010053	decreased grip strength
 MP:0010055	abnormal sensory neuron physiology
 MP:0010056	ectopic skeletal muscle
 MP:0010057	abnormal olfactory bulb outer nerve layer morphology
-MP:0010059	olfactory bulb hypoplasia
+MP:0010060	abnormal creatine level
 MP:0010061	increased creatine level
 MP:0010062	decreased creatine level
 MP:0010064	increased circulating creatine level
@@ -9148,6 +8990,7 @@ MP:0010286	increased plasmacytoma incidence
 MP:0010287	increased reproductive system tumor incidence
 MP:0010288	increased gland tumor incidence
 MP:0010289	increased urinary system tumor incidence
+MP:0010291	increased cardiovascular system tumor incidence
 MP:0010292	increased alimentary system tumor incidence
 MP:0010294	increased kidney tumor incidence
 MP:0010296	increased hemolymphoid system tumor incidence
@@ -9232,6 +9075,7 @@ MP:0010399	decreased skeletal muscle glycogen level
 MP:0010401	increased skeletal muscle glycogen level
 MP:0010412	atrioventricular septal defect
 MP:0010414	partial atrioventricular septal defect
+MP:0010416	interventricular septum membranous part aneurysm
 MP:0010423	heart right ventricle aneurysm
 MP:0010425	abnormal heart and great vessel attachment
 MP:0010426	abnormal heart and great artery attachment
@@ -9265,8 +9109,10 @@ MP:0010486	absent right subclavian artery
 MP:0010487	abnormal right subclavian artery morphology
 MP:0010488	abnormal left subclavian artery morphology
 MP:0010489	abnormal heart atrium auricular region morphology
+MP:0010490	abnormal inferior vena cava valve morphology
 MP:0010492	abnormal atrium endocardium morphology
 MP:0010493	abnormal atrium myocardium morphology
+MP:0010496	abnormal pectinate muscle morphology
 MP:0010498	abnormal interventricular septum muscular part morphology
 MP:0010499	abnormal ventricle myocardium morphology
 MP:0010500	myocardium hypoplasia
@@ -9283,6 +9129,7 @@ MP:0010512	absent PR interval
 MP:0010514	fragmented QRS complex
 MP:0010515	abnormal Q wave
 MP:0010526	aortic arch coarctation
+MP:0010533	atrioventricular node hypoplasia
 MP:0010537	tumor regression
 MP:0010539	decreased level of surface class II molecules
 MP:0010540	long stride length
@@ -9344,6 +9191,7 @@ MP:0010621	abnormal tricuspid valve anulus morphology
 MP:0010622	abnormal tricuspid valve cusp morphology
 MP:0010625	absent tricuspid valve cusps
 MP:0010626	thick tricuspid valve cusps
+MP:0010627	enlarged tricuspid valve
 MP:0010629	thick tricuspid valve
 MP:0010630	abnormal cardiac muscle tissue morphology
 MP:0010632	cardiac muscle necrosis
@@ -9373,6 +9221,7 @@ MP:0010662	abnormal intersomitic artery morphology
 MP:0010663	abnormal brachiocephalic trunk morphology
 MP:0010664	abnormal vitelline artery morphology
 MP:0010666	abnormal vitelline vein morphology
+MP:0010667	abnormal umbilical vein morphology
 MP:0010668	abnormal hepatic portal vein morphology
 MP:0010674	increased activation-induced B cell apoptosis
 MP:0010675	decreased activation-induced B cell apoptosis
@@ -9581,6 +9430,7 @@ MP:0010941	abnormal foramen magnum morphology
 MP:0010943	abnormal bronchus epithelium morphology
 MP:0010944	respiratory epithelium hypertrophy
 MP:0010945	lung epithelium hyperplasia
+MP:0010946	hyperpnea
 MP:0010947	abnormal single-strand DNA break repair
 MP:0010948	abnormal double-strand DNA break repair
 MP:0010949	decreased Clara cell number
@@ -9714,6 +9564,7 @@ MP:0011109	lethality throughout fetal growth and development, incomplete penetra
 MP:0011110	preweaning lethality, incomplete penetrance
 MP:0011111	lethality during fetal growth through weaning, complete penetrance
 MP:0011112	lethality during fetal growth through weaning, incomplete penetrance
+MP:0011113	abnormal airway basal cell morphology
 MP:0011114	abnormal airway basal cell differentiation
 MP:0011115	airway basal cell hyperplasia
 MP:0011116	absent Reichert's membrane
@@ -9721,6 +9572,7 @@ MP:0011117	abnormal susceptibility to weight gain
 MP:0011120	increased primordial ovarian follicle number
 MP:0011121	decreased primordial ovarian follicle number
 MP:0011122	absent primordial ovarian follicles
+MP:0011123	abnormal primary ovarian follicle number
 MP:0011124	increased primary ovarian follicle number
 MP:0011125	decreased primary ovarian follicle number
 MP:0011128	increased secondary ovarian follicle number
@@ -9808,6 +9660,7 @@ MP:0011235	abnormal blood oxygen capacity
 MP:0011237	decreased blood oxygen capacity
 MP:0011238	abnormal inner ear development
 MP:0011239	abnormal skin coloration
+MP:0011240	abnormal fetal derived definitive erythrocyte morphology
 MP:0011241	abnormal fetal derived definitive erythrocyte cell number
 MP:0011242	increased fetal derived definitive erythrocyte cell number
 MP:0011243	decreased fetal derived definitive erythrocyte cell number
@@ -9925,7 +9778,6 @@ MP:0011409	increased renal glomerulus basement membrane thickness
 MP:0011411	abnormal gonadal ridge morphology
 MP:0011412	gonadal ridge hypoplasia
 MP:0011413	colorless urine
-MP:0011414	erythruria
 MP:0011415	abnormal aldosterone level
 MP:0011416	abnormal testis interstitial tissue morphology
 MP:0011417	abnormal renal transport
@@ -10168,6 +10020,7 @@ MP:0011797	blind ureter
 MP:0011799	increased urinary bladder weight
 MP:0011802	seminal vesiculitis
 MP:0011805	decreased cell migration
+MP:0011806	decreased dermal fibroblast proliferation
 MP:0011807	decreased lung fibroblast proliferation
 MP:0011808	abnormal myoblast differentiation
 MP:0011815	increased pre-pro B cell number
@@ -10224,12 +10077,14 @@ MP:0011904	abnormal Schwann cell physiology
 MP:0011906	increased Schwann cell proliferation
 MP:0011910	decreased pancreatic endocrine progenitor cell proliferation
 MP:0011911	abnormal pancreatic endocrine progenitor cell physiology
+MP:0011913	abnormal reticulocyte cell number
 MP:0011915	increased heart left atrium weight
 MP:0011919	abnormal R wave
 MP:0011922	abnormal circulating osteocalcin level
 MP:0011923	abnormal bladder urine volume
 MP:0011924	abnormal liver zinc level
 MP:0011925	abnormal heart echocardiography feature
+MP:0011926	abnormal cardiac valve physiology
 MP:0011929	abnormal aortic valve flow
 MP:0011932	abnormal endocrine pancreas development
 MP:0011934	abnormal branching involved in pancreas development
@@ -10258,6 +10113,7 @@ MP:0011968	decreased threshold for auditory brainstem response
 MP:0011969	abnormal circulating triglyceride level
 MP:0011971	increased circulating lactate dehydrogenase level
 MP:0011972	decreased circulating lactate dehydrogenase level
+MP:0011974	intestinal stenosis
 MP:0011975	neuronal cytoplasmic inclusions
 MP:0011976	sweet preference
 MP:0011977	abnormal sodium ion homeostasis
@@ -10284,6 +10140,7 @@ MP:0012009	early parturition
 MP:0012010	parturition failure
 MP:0012013	abnormal innate avoidance response
 MP:0012014	abnormal olfactory neuron innervation pattern
+MP:0012017	grizzled coat color
 MP:0012020	abnormal olfactory epithelium physiology
 MP:0012022	increased melanocyte number
 MP:0012023	decreased melanocyte number
@@ -10317,6 +10174,7 @@ MP:0012072	decreased susceptibility to osteoporosis
 MP:0012073	premature mammary gland growth during pregnancy
 MP:0012075	impaired mammary gland growth during pregnancy
 MP:0012076	abnormal agouti pigmentation
+MP:0012078	abnormal tail ring morphology
 MP:0012081	absent heart tube
 MP:0012082	delayed heart development
 MP:0012083	absent foregut
@@ -10416,6 +10274,7 @@ MP:0012216	decreased plasmalogen level
 MP:0012217	increased plasmalogen level
 MP:0012218	decreased brain plasmalogen level
 MP:0012222	decreased circulating prothrombin level
+MP:0012226	increased sterol level
 MP:0012230	abnormal sphingolipid level
 MP:0012231	abnormal ganglioside level
 MP:0012232	abnormal ceramide level
@@ -10486,12 +10345,15 @@ MP:0012317	impaired conditioning behavior
 MP:0012318	slow extinction of fear memory
 MP:0012319	fast extinction of fear memory
 MP:0012320	abnormal body fat mass
+MP:0012322	decreased total tissue mass
+MP:0012323	increased total tissue mass
 MP:0012325	decreased circulating antithrombin level
 MP:0012328	decreased circulating factor VIII level
 MP:0012329	increased circulating factor VIII level
 MP:0012331	increased circulating fibrinogen level
 MP:0012335	increased circulating homocysteine level
 MP:0012337	increased vitamin D level
+MP:0012338	decreased bile salt level
 MP:0012341	low preference for an addictive substance
 MP:0012347	low sweet preference
 MP:0012349	increased susceptibility to induction of seizure by inducing agent
@@ -10568,9 +10430,11 @@ MP:0012540	abnormal lamina terminalis morphology
 MP:0012541	absent lamina terminalis
 MP:0012544	abnormal caudal neuropore morphology
 MP:0012547	spina bifida cystica
+MP:0012548	myelocele
 MP:0012555	decreased cell death
 MP:0012556	increased cell death
 MP:0012557	decreased calcium uptake by cardiac muscle
+MP:0012558	increased calcium uptake by cardiac muscle
 MP:0012559	decreased forebrain volume
 MP:0012563	increased tumor incidence following infection
 MP:0012570	increased mammary gland tumor incidence in breeding females
@@ -10579,10 +10443,12 @@ MP:0012572	increased susceptibility to chemically induced skin inflammation
 MP:0012574	decreased noradrenaline level
 MP:0012575	increased noradrenaline level
 MP:0012592	decreased brain choline acetyltransferase activity
+MP:0012593	increased brain choline acetyltransferase activity
 MP:0012604	decreased glutathione level
 MP:0012606	increased glutathione level
 MP:0012615	decreased circulating factor IX level
 MP:0012616	increased circulating factor IX level
+MP:0012634	decreased phospholipase A2 level
 MP:0012652	decreased catalase level
 MP:0012661	decreased circulating ceruloplasmin level
 MP:0012664	decreased circulating haptoglobin level
@@ -10591,6 +10457,7 @@ MP:0012667	split sternal manubrium
 MP:0012669	abnormal somite segmentation clock
 MP:0012670	prolonged somite segmentation clock period
 MP:0012671	retinal spots
+MP:0012674	tomacula
 MP:0012675	enlarged floor plate
 MP:0012677	absent brain ventricles
 MP:0012678	absent fourth ventricle
@@ -10616,6 +10483,7 @@ MP:0012709	delayed caudal neuropore closure
 MP:0012710	diastematomyelia
 MP:0012714	decreased ventral ectodermal ridge size
 MP:0012717	increased hemangioblast number
+MP:0012719	abnormal neck morphology
 MP:0012722	absent neck
 MP:0012723	abnormal nuchal region morphology
 MP:0012724	absent head fold
@@ -10656,6 +10524,7 @@ MP:0012764	increased alpha-beta T cell number
 MP:0012765	decreased alpha-beta T cell number
 MP:0012767	increased KLRG1-positive NK cell number
 MP:0012768	decreased KLRG1-positive NK cell number
+MP:0012779	abnormal brain cholesterol level
 MP:0012785	decreased rhombomere 1 size
 MP:0012786	increased rhombomere 1 size
 MP:0012788	abnormal rhombomere 2 morphology
@@ -10678,6 +10547,7 @@ MP:0013002	decreased enteric neural crest cell number
 MP:0013003	absent enteric neural crest cell
 MP:0013005	decreased enteric neural crest cell proliferation
 MP:0013006	abnormal enteric neural crest cell migration
+MP:0013007	abnormal vagal neural crest cell migration
 MP:0013009	increased vagal neural crest cell apoptosis
 MP:0013011	absent vagal neural crest cells
 MP:0013012	abnormal trunk neural crest cell migration
@@ -10720,6 +10590,7 @@ MP:0013182	increased spinal cord apoptosis
 MP:0013183	absent trigeminal ganglion
 MP:0013184	hemorrhagic ascites
 MP:0013185	absent anterior definitive endoderm
+MP:0013186	abnormal basilar artery morphology
 MP:0013187	dilated basilar artery
 MP:0013189	abnormal exploration in a new environment
 MP:0013191	increased sebaceous gland number
@@ -10758,6 +10629,7 @@ MP:0013258	abnormal extracellular matrix morphology
 MP:0013262	abnormal mouth floor morphology
 MP:0013265	abnormal fourth pharyngeal pouch morphology
 MP:0013267	first pharyngeal arch hypoplasia
+MP:0013268	second pharyngeal arch hypoplasia
 MP:0013272	abnormal translation
 MP:0013273	abnormal translational elongation
 MP:0013277	abnormal fasted circulating glucose level
@@ -10774,6 +10646,7 @@ MP:0013292	embryonic lethality prior to organogenesis
 MP:0013293	embryonic lethality prior to tooth bud stage
 MP:0013294	prenatal lethality prior to heart atrial septation
 MP:0013298	increased susceptibility to colitis induced morbidity/mortality
+MP:0013299	decreased susceptibility to colitis induced morbidity/mortality
 MP:0013300	abnormal submandibular gland physiology
 MP:0013302	increased pancreas iron level
 MP:0013303	decreased pancreas iron level
@@ -10814,6 +10687,7 @@ MP:0013356	ectopic pituitary gland
 MP:0013361	absent pineal recess
 MP:0013362	absent pineal gland
 MP:0013364	enlarged pineal gland
+MP:0013366	adrenal gland atrophy
 MP:0013368	abnormal sweat gland physiology
 MP:0013373	increased sebum secretion
 MP:0013375	abnormal sebocyte morphology
@@ -11023,6 +10897,7 @@ MP:0013744	abnormal conjunctival sac morphology
 MP:0013745	abnormal eyelid margin morphology
 MP:0013751	increased cystadenoma incidence
 MP:0013754	abnormal ocular surface morphology
+MP:0013762	abnormal effector T cell number
 MP:0013763	increased T-helper cell number
 MP:0013765	iris hyperplasia
 MP:0013766	absent palatal rugae
@@ -11039,7 +10914,6 @@ MP:0013782	abnormal mammary duct terminal end bud morphology
 MP:0013784	abnormal mammary gland bud elongation
 MP:0013785	abnormal mammary gland bud morphology
 MP:0013788	external nares atresia
-MP:0013791	absent external nares
 MP:0013792	abnormal small intestine goblet cell morphology
 MP:0013794	abnormal intestinal villus goblet cell morphology
 MP:0013795	abnormal colon goblet cell morphology
@@ -11050,9 +10924,60 @@ MP:0013799	abnormal intestinal goblet cell physiology
 MP:0013802	abnormal IgG2 level
 MP:0013803	increased IgG2 level
 MP:0013808	abnormal tunnel of Corti morphology
+MP:0013809	absent pectinate muscle
+MP:0013810	absent brachiocephalic trunk
+MP:0013812	enlarged orbital veins
+MP:0013813	dilated hepatic portal vein
+MP:0013814	abnormal hepatic portal vein connection
+MP:0013815	abnormal digastric muscle morphology
 MP:0013818	abnormal oral cavity morphology
 MP:0013820	absent optic cup
+MP:0013823	absent segment of anterior cerebral artery
+MP:0013824	abnormal hypoglossal canal morphology
+MP:0013825	small hypoglossal canal
+MP:0013826	absent hypoglossal canal
+MP:0013827	thin oculomotor nerve
+MP:0013828	thin facial nerve
+MP:0013829	thin splanchnic nerve
+MP:0013830	abnormal intrathoracic topology of vagus nerve
+MP:0013831	vagus nerve compression
+MP:0013832	thin vagus nerve
+MP:0013833	absent olfactory nerve
+MP:0013834	thin hypoglossal nerve
+MP:0013835	absent hypoglossal nerve
+MP:0013836	abnormal hypoglossal nerve topology
+MP:0013840	absent segment of posterior cerebral artery
+MP:0013841	abnormal lymphatic vessel topology
+MP:0013842	ductus venosus stenosis
+MP:0013843	hepatic portal vein stenosis
+MP:0013844	abnormal perichondrial ossification
+MP:0013845	abnormal eye muscle topology
+MP:0013846	retropharyngeal edema
+MP:0013847	retropleural edema
 MP:0013848	subcutaneous edema
+MP:0013849	absent abducens nerve
+MP:0013850	absent posterior commissure
+MP:0013851	abnormal Wolffian duct topology
+MP:0013852	abnormal Mullerian duct topology
+MP:0013853	abnormal hepatic portal vein formation
+MP:0013855	absent celiac artery
+MP:0013857	abnormal abdominal muscle morphology
+MP:0013858	abnormal azygos vein topology
+MP:0013859	abnormal vitelline vein connection
+MP:0013860	anastomosis between common carotid and vertebral artery
+MP:0013861	abnormal pancreas topology
+MP:0013862	abnormal cecum position
+MP:0013864	enlarged paraumbilical vein
+MP:0013865	abnormal dorsal pancreas topology
+MP:0013867	abnormal ventral pancreas morphology
+MP:0013871	abnormal stapedial artery topology
+MP:0013873	abnormal ductus venosus morphology
+MP:0013874	abnormal ductus venosus topology
+MP:0013875	trigeminal neuroma
+MP:0013876	absent ductus venosus valve
+MP:0013877	abnormal ductus venosus valve morphology
+MP:0013878	abnormal ductus venosus valve topology
+MP:0013879	duplication of ductus venosus
 MP:0013883	increased CD4-positive, CD25-positive NK T cell number
 MP:0013891	increased common myeloid progenitor cell number
 MP:0013892	increased common lymphocyte progenitor cell number
@@ -11069,8 +10994,33 @@ MP:0013906	absent embryonic telencephalon
 MP:0013907	abnormal cerebrospinal fluid flow
 MP:0013908	small lateral ventricles
 MP:0013912	abnormal circardian rhythm entrainment
+MP:0013913	absent costovertebral joint
+MP:0013914	absent intracranial segment of vertebral artery
+MP:0013915	abnormal brachial plexus formation
+MP:0013916	decreased intestine length
+MP:0013917	persistent right 6th pharyngeal arch artery
+MP:0013918	abnormal endolymphatic sac topology
+MP:0013923	small prevertebral sympathetic ganglia
+MP:0013924	abnormal dural venous sinus morphology
 MP:0013925	abnormal vascular plexus formation
+MP:0013927	abnormal facial nerve topology
+MP:0013928	thin motoric part of trigeminal nerve
+MP:0013929	absent eye muscles
+MP:0013930	abnormal digastric muscle connection
+MP:0013931	abnormal olfactory bulb position
+MP:0013932	fragmented Meckel's cartilage
+MP:0013933	short Meckel's cartilage
+MP:0013935	basal brain tissue herniation
+MP:0013936	abnormal thymus topology
+MP:0013937	absent lobe of thyroid gland
 MP:0013941	abnormal enthesis morphology
+MP:0013943	abnormal ureter topology
+MP:0013945	abnormal elbow joint morphology
+MP:0013948	intraembryonal intestine elongation
+MP:0013949	fusion of axis and occipital bones
+MP:0013950	abnormal dorsal root ganglion topology
+MP:0013952	retro-esophageal left subclavian artery
+MP:0013953	left sided brachiocephalic trunk
 MP:0013955	increased colon length
 MP:0013956	decreased colon length
 MP:0013957	increased small intestine length
@@ -11078,8 +11028,50 @@ MP:0013958	decreased small intestine length
 MP:0013959	increased large intestine length
 MP:0013961	abnormal Hensen stripe morphology
 MP:0013962	absent Hensen stripe
+MP:0013963	jugular vein stenosis
+MP:0013965	abnormally deep median sulcus of tongue
+MP:0013966	abnormal infrahyoid muscle morphology
+MP:0013967	abnormal infrahyoid muscle connection
+MP:0013968	multiple persisting craniopharyngeal ducts
+MP:0013969	reduced sympathetic cervical ganglion size
+MP:0013970	absent connection between subcutaneous lymph vessels and lymph sac
+MP:0013971	blood in lymph vessels
+MP:0013973	abnormal hepatic vein connection
+MP:0013975	abnormal coronary sinus connection
+MP:0013976	abnormal left vena cava superior connection
+MP:0013977	symmetric azygos veins
+MP:0013978	abnormal carotid artery origin
+MP:0013979	abnormal subclavian artery origin
+MP:0013980	abnormal pulmonary artery origin
+MP:0013981	double lumen aortic arch
+MP:0013982	inverse situs of great intrathoracic arteries
+MP:0013985	abnormal umbilical vein topology
+MP:0013986	abnormal vitelline vein topology
+MP:0013987	absent intrahepatic inferior vena cava segment
+MP:0013988	absent portal vein segment
+MP:0013992	persistent dorsal ophthalmic artery
+MP:0013994	abnormal parasellar internal carotid artery branch morphology
+MP:0013995	abnormal external carotid artery origin
+MP:0013996	abnormal vertebral artery origin
+MP:0013997	abnormal internal carotid artery topology
+MP:0013998	absent canalicular internal carotid artery segment
+MP:0013999	absent parasellar internal carotid artery
+MP:0014000	anastomosis between internal carotid artery and basilar artery
+MP:0014001	abnormal vertebral artery topology
+MP:0014002	absent extracranial vertebral artery segment
+MP:0014003	additional anastomosis between intracranial vertebral arteries
+MP:0014004	absent basilar artery segment
+MP:0014006	absent posterior communicating artery
+MP:0014009	anastomosis between middle cerebral arteries
 MP:0014010	abnormal peroxisome morphology
+MP:0014011	abnormal ovary tissue architecture
 MP:0014012	abnormal cranial blood vasculature morphology
+MP:0014017	abnormal Wolffian duct connection
+MP:0014018	embryo tumor
+MP:0014019	embryo cyst
+MP:0014021	heterochrony
+MP:0014022	abnormal duodenum topology
+MP:0014023	abnormal intestine placement
 MP:0014026	abnormal respiratory epithelial transmembrane transport
 MP:0014028	decreased respiratory epithelial chloride transmembrane transport
 MP:0014033	abnormal submucosal gland morphology
@@ -11111,6 +11103,8 @@ MP:0014088	abnormal Kimura membrane morphology
 MP:0014089	abnormal tectorial membrane marginal band morphology
 MP:0014090	abnormal tectorial membrane covernet morphology
 MP:0014091	abnormal tectorial membrane striated-sheet matrix morphology
+MP:0014098	decreased pancreatic amylase secretion
+MP:0014100	increased chondrocyte proliferation
 MP:0014101	decreased chondrocyte proliferation
 MP:0014103	increased chondrocyte apoptosis
 MP:0014105	abnormal chondrocyte differentiation
@@ -11120,6 +11114,7 @@ MP:0014117	increased pancreatic beta cell apoptosis
 MP:0014118	decreased pancreatic beta cell apoptosis
 MP:0014119	abnormal mandibular nerve innervation pattern
 MP:0014121	increased pancreatic islet cell apoptosis
+MP:0014122	decreased pancreatic islet cell apoptosis
 MP:0014124	increased amylin secretion
 MP:0014125	decreased amylin secretion
 MP:0014126	increased mammary gland apoptosis
@@ -11156,18 +11151,22 @@ MP:0014175	abnormal ciliary epithelium morphology
 MP:0014176	abnormal cilary zonule morphology
 MP:0014178	increased brain apoptosis
 MP:0014179	abnormal blood-retinal barrier function
+MP:0014180	abnormal thymus apoptosis
 MP:0014181	abnormal respiratory epithelial sodium ion transmembrane transport
 MP:0014182	decreased respiratory epithelial sodium ion transmembrane transport
 MP:0014183	increased respiratory epithelial sodium ion transmembrane transport
 MP:0014193	decreased epididymal cell proliferation
 MP:0014194	increased epididymal epithelium cell proliferation
 MP:0014198	absent pituitary infundibular stalk
+MP:0014200	abnormal respiratory epithelium physiology
 MP:0014201	abnormal intestinal epithelium physiology
 MP:0014206	decreased intestinal epithelial sodium ion transmembrane transport
 MP:0014208	decreased intestinal epithelial chloride transmembrane transport
 MP:0014219	decreased intestinal mucosa thickness
 MP:0014222	decreased colon goblet cell number
 MP:0014224	increased ileal goblet cell number
+MP:0014226	abnormal alveolar macrophage physiology
+MP:0014228	increased alveolar macrophage number
 MP:0014230	dilated crypts of Lieberkuhn
 MP:0014231	intestinal mucus accumulation
 MP:0014232	pancreatic acinus dilation
@@ -11179,19 +11178,24 @@ MP:0020011	increased bone mineral density of femur
 MP:0020016	decreased aldehyde dehydrogenase activity
 MP:0020039	increased bone ossification
 MP:0020040	decreased bone ossification
+MP:0020066	abnormal neocortex size
 MP:0020067	increased neocortex size
 MP:0020069	decreased neocortex size
 MP:0020070	decreased neocortex volume
 MP:0020078	decreased brain tyrosine 3-monooxygenase activity
 MP:0020080	increased bone mineralization
 MP:0020082	increased hippocampus volume
+MP:0020083	decreased hippocampus volume
 MP:0020087	increased susceptibility to non-insulin-dependent diabetes
 MP:0020088	decreased susceptibility to non-insulin-dependent diabetes
+MP:0020089	increased susceptibility to diet-induced non-insulin dependent diabetes
 MP:0020090	decreased susceptibility to diet-induced non-insulin dependent diabetes
 MP:0020101	abnormal hepatic glucose production
 MP:0020102	increased hepatic glucose production
 MP:0020103	decreased hepatic glucose production
 MP:0020117	decreased sphingosine level
+MP:0020126	decreased circulating HDL phospholipid level
+MP:0020129	decreased circulating non-HDL phospholipid level
 MP:0020134	abnormal gallbladder size
 MP:0020135	abnormal heart ventricle wall thickness
 MP:0020137	decreased bone mineralization
@@ -11199,6 +11203,7 @@ MP:0020138	delayed bone mineralization
 MP:0020140	increased brain external capsule size
 MP:0020141	decreased brain external capsule size
 MP:0020142	increased anti-sperm antibody level
+MP:0020151	abnormal circulating non-HDL cholesterol level
 MP:0020152	abnormal oocyte number
 MP:0020153	abnormal urine albumin level
 MP:0020154	impaired humoral immune response
@@ -11211,10 +11216,13 @@ MP:0020169	increased thyroid gland weight
 MP:0020174	abnormal IgG level
 MP:0020175	abnormal IgG1 level
 MP:0020183	altered susceptibility to fungal infection
+MP:0020184	altered susceptibility to parasitic infection
+MP:0020185	altered susceptibility to viral infection
 MP:0020186	altered susceptibility to bacterial infection
 MP:0020187	altered susceptibility to prion infection
 MP:0020194	abnormal glycosphingolipid level
 MP:0020211	slow movement
+MP:0020213	enhanced leukocyte migration
 MP:0020214	susceptible to malignant hyperthermia
 MP:0020215	impaired blood coagulation
 MP:0020216	decreased circulating complement protein level
@@ -11240,22 +11248,31 @@ MP:0020330	increased capillary density
 MP:0020331	increased capillary tortuosity
 MP:0020332	impaired leukocyte tethering or rolling
 MP:0020333	enhanced leukocyte tethering or rolling
+MP:0020335	abnormal dentate gyrus neuron dendrite morphology
 MP:0020338	abnormal hippocampal pyramidal neuron dendrite morphology
 MP:0020340	abnormal inhibitory learning
 MP:0020344	abnormal susceptibility to injury induced morbidity/mortality
+MP:0020345	abnormal myocardial fiber currents
+MP:0020346	abnormal mycardial fiber calcium currents
+MP:0020347	abnormal mycoardial fiber sodium currents
 MP:0020348	decreased olfactory sensory neuron number
 MP:0020350	fused pharyngeal arches
 MP:0020351	decreased vocalization
 MP:0020352	abnormal endoplasmic reticulum physiology
+MP:0020353	abnormal endoplasmic reticulum stress
 MP:0020354	increased endoplasmic reticulum stress
 MP:0020355	abnormal Sertoli cell barrier morphology
 MP:0020356	abnormal Sertoli cell barrier function
 MP:0020357	abnormal excitatory synapse morphology
 MP:0020358	abnormal inhibitory synapse morphology
+MP:0020359	abnormal ribbon synapse morphology
+MP:0020361	abnormal symmetric synapse morphology
+MP:0020362	abnormal male germ cell physiology
 MP:0020366	decreased brain iron level
 MP:0020367	increased heart iron level
 MP:0020368	decreased heart iron level
 MP:0020369	increased intestinal iron level
+MP:0020373	abnormal blood vessel lumen formation
 MP:0020378	abnormal cell cytoskeleton morphology
 MP:0020382	increased kidney epithelial cell primary cilium length
 MP:0020383	decreased kidney epithelial cell primary cilium length
@@ -11271,10 +11288,45 @@ MP:0020393	increased neuronal precursor proliferation
 MP:0020394	decreased neuronal precursor proliferation
 MP:0020395	abnormal response to social novelty
 MP:0020396	abnormal social recognition
+MP:0020399	enhanced megakaryocyte emperipolesis
 MP:0020401	argininuria
 MP:0020407	abnormal placental thrombosis
 MP:0020408	altered susceptibility to induced thrombosis
 MP:0020409	abnormal cardiac thrombosis
 MP:0020411	increased abdominal adipose tissue amount
+MP:0020413	increased amnion apoptosis
+MP:0020414	abnormal fibroblast physiology
+MP:0020415	abnormal fibroblast chemotaxis
+MP:0020416	decreased fibroblast chemotaxis
+MP:0020417	increased fibroblast chemotaxis
+MP:0020419	decreased cardiac muscle relaxation
+MP:0020421	increased freezing behavior
+MP:0020426	abnormal beige fat cell physiology
+MP:0020427	increased hepatocyte karyomegaly
+MP:0020431	decreased platelet alpha-granule number
+MP:0020432	decreased platelet dense granule number
+MP:0020434	increased astrocyte size
 MP:0030000	abnormal subglottis morphology
+MP:0030002	increased lung apoptosis
+MP:0030003	hippocampus atrophy
+MP:0030004	hippocampus hypoplasia
+MP:0030005	increased retinal apoptosis
+MP:0030006	decreased retinal apoptosis
+MP:0030007	abnormal bone marrow adipose tissue morphology
+MP:0030009	increased bone marrow adipose tissue amount
+MP:0030011	small cervical lymph nodes
+MP:0030012	impaired central nervous system regeneration
+MP:0030013	improved central nervous system regeneration
+MP:0030014	calcified brain
+MP:0030016	increased adipocyte glucose uptake
+MP:0030017	decreased adipocyte glucose uptake
+MP:0030018	increased cardiac cell glucose uptake
+MP:0030020	decreased cardiac cell glucose uptake
+MP:0030021	increased muscle cell glucose uptake
+MP:0030022	decreased muscle cell glucose uptake
+MP:0030024	abnormal meiotic attachment of telomere to nuclear envelope
+MP:0030026	small Meckel's cartilage
+MP:0030027	basioccipital bone hypoplasia
+MP:0030028	absent exoccipital bone
+MP:0030030	Wormian bones
 MP:3000003	abnormal Ebner's gland morphology

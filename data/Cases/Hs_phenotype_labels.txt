@@ -1,0 +1,679 @@
+HP:0000010	Recurrent urinary tract infections
+HP:0000016	Urinary retention
+HP:0000020	Urinary incontinence
+HP:0000028	Cryptorchidism
+HP:0000054	Micropenis
+HP:0000062	Ambiguous genitalia
+HP:0000081	Duplicated collecting system
+HP:0000085	Horseshoe kidney
+HP:0000089	Renal hypoplasia
+HP:0000103	Polyuria
+HP:0000107	Renal cyst
+HP:0000124	Renal tubular dysfunction
+HP:0000126	Hydronephrosis
+HP:0000138	Ovarian cyst
+HP:0000154	Wide mouth
+HP:0000160	Narrow mouth
+HP:0000180	Lobulated tongue
+HP:0000183	Difficulty in tongue movements
+HP:0000194	Open mouth
+HP:0000212	Gingival overgrowth
+HP:0000218	High palate
+HP:0000219	Thin upper lip vermilion
+HP:0000224	Decreased taste sensation
+HP:0000232	Everted lower lip vermilion
+HP:0000248	Brachycephaly
+HP:0000252	Microcephaly
+HP:0000255	Acute sinusitis
+HP:0000256	Macrocephaly
+HP:0000272	Malar flattening
+HP:0000277	Abnormality of the mandible
+HP:0000280	Coarse facial features
+HP:0000286	Epicanthus
+HP:0000294	Low anterior hairline
+HP:0000298	Mask-like facies
+HP:0000307	Pointed chin
+HP:0000311	Round face
+HP:0000316	Hypertelorism
+HP:0000322	Short philtrum
+HP:0000324	Facial asymmetry
+HP:0000337	Broad forehead
+HP:0000347	Micrognathia
+HP:0000349	Widow's peak
+HP:0000365	Hearing impairment
+HP:0000368	Low-set, posteriorly rotated ears
+HP:0000369	Low-set ears
+HP:0000377	Abnormality of the pinna
+HP:0000403	Recurrent otitis media
+HP:0000405	Conductive hearing impairment
+HP:0000407	Sensorineural hearing impairment
+HP:0000411	Protruding ear
+HP:0000414	Bulbous nose
+HP:0000447	Pear-shaped nose
+HP:0000455	Broad nasal tip
+HP:0000470	Short neck
+HP:0000473	Torticollis
+HP:0000474	Thickened nuchal skin fold
+HP:0000479	Abnormality of the retina
+HP:0000481	Abnormality of the cornea
+HP:0000484	Hyperopic astigmatism
+HP:0000486	Strabismus
+HP:0000498	Blepharitis
+HP:0000505	Visual impairment
+HP:0000506	Telecanthus
+HP:0000508	Ptosis
+HP:0000510	Rod-cone dystrophy
+HP:0000514	Slow saccadic eye movements
+HP:0000518	Cataract
+HP:0000527	Long eyelashes
+HP:0000534	Abnormality of the eyebrow
+HP:0000535	Sparse and thin eyebrow
+HP:0000540	Hypermetropia
+HP:0000543	Optic disc pallor
+HP:0000545	Myopia
+HP:0000565	Esotropia
+HP:0000577	Exotropia
+HP:0000582	Upslanted palpebral fissure
+HP:0000601	Hypotelorism
+HP:0000609	Optic nerve hypoplasia
+HP:0000613	Photophobia
+HP:0000622	Blurred vision
+HP:0000639	Nystagmus
+HP:0000646	Amblyopia
+HP:0000648	Optic atrophy
+HP:0000651	Diplopia
+HP:0000664	Synophrys
+HP:0000666	Horizontal nystagmus
+HP:0000670	Carious teeth
+HP:0000682	Abnormality of dental enamel
+HP:0000687	Widely spaced teeth
+HP:0000689	Dental malocclusion
+HP:0000691	Microdontia
+HP:0000708	Behavioral abnormality
+HP:0000716	Depression
+HP:0000717	Autism
+HP:0000722	Obsessive-compulsive behavior
+HP:0000729	Autistic behavior
+HP:0000733	Stereotypy
+HP:0000736	Short attention span
+HP:0000737	Irritability
+HP:0000739	Anxiety
+HP:0000741	Apathy
+HP:0000745	Diminished motivation
+HP:0000750	Delayed speech and language development
+HP:0000759	Abnormal peripheral nervous system morphology
+HP:0000762	Decreased nerve conduction velocity
+HP:0000768	Pectus carinatum
+HP:0000795	Abnormality of the urethra
+HP:0000802	Impotence
+HP:0000817	Poor eye contact
+HP:0000821	Hypothyroidism
+HP:0000822	Hypertension
+HP:0000823	Delayed puberty
+HP:0000833	Glucose intolerance
+HP:0000836	Hyperthyroidism
+HP:0000846	Adrenal insufficiency
+HP:0000873	Diabetes insipidus
+HP:0000938	Osteopenia
+HP:0000939	Osteoporosis
+HP:0000952	Jaundice
+HP:0000958	Dry skin
+HP:0000960	Sacral dimple
+HP:0000961	Cyanosis
+HP:0000964	Eczema
+HP:0000965	Cutis marmorata
+HP:0000967	Petechiae
+HP:0000975	Hyperhidrosis
+HP:0000977	Soft skin
+HP:0000980	Pallor
+HP:0000988	Skin rash
+HP:0000998	Hypertrichosis
+HP:0001004	Lymphedema
+HP:0001007	Hirsutism
+HP:0001027	Soft, doughy skin
+HP:0001028	Hemangioma
+HP:0001034	Hypermelanotic macule
+HP:0001047	Atopic dermatitis
+HP:0001054	Numerous nevi
+HP:0001061	Acne
+HP:0001093	Optic nerve dysplasia
+HP:0001134	Anterior polar cataract
+HP:0001166	Arachnodactyly
+HP:0001182	Tapered finger
+HP:0001187	Hyperextensibility of the finger joints
+HP:0001220	Interphalangeal joint contracture of finger
+HP:0001227	Abnormality of the thenar eminence
+HP:0001239	Wrist flexion contracture
+HP:0001249	Intellectual disability
+HP:0001250	Seizures
+HP:0001251	Ataxia
+HP:0001252	Muscular hypotonia
+HP:0001256	Intellectual disability, mild
+HP:0001257	Spasticity
+HP:0001260	Dysarthria
+HP:0001263	Global developmental delay
+HP:0001265	Hyporeflexia
+HP:0001266	Choreoathetosis
+HP:0001269	Hemiparesis
+HP:0001271	Polyneuropathy
+HP:0001272	Cerebellar atrophy
+HP:0001273	Abnormality of the corpus callosum
+HP:0001284	Areflexia
+HP:0001287	Meningitis
+HP:0001288	Gait disturbance
+HP:0001290	Generalized hypotonia
+HP:0001298	Encephalopathy
+HP:0001308	Tongue fasciculations
+HP:0001315	Reduced tendon reflexes
+HP:0001324	Muscle weakness
+HP:0001328	Specific learning disability
+HP:0001332	Dystonia
+HP:0001336	Myoclonus
+HP:0001337	Tremor
+HP:0001344	Absent speech
+HP:0001348	Brisk reflexes
+HP:0001357	Plagiocephaly
+HP:0001363	Craniosynostosis
+HP:0001371	Flexion contracture
+HP:0001376	Limitation of joint mobility
+HP:0001382	Joint hypermobility
+HP:0001385	Hip dysplasia
+HP:0001388	Joint laxity
+HP:0001397	Hepatic steatosis
+HP:0001433	Hepatosplenomegaly
+HP:0001488	Bilateral ptosis
+HP:0001489	Posterior vitreous detachment
+HP:0001508	Failure to thrive
+HP:0001511	Intrauterine growth retardation
+HP:0001513	Obesity
+HP:0001518	Small for gestational age
+HP:0001528	Hemihypertrophy
+HP:0001530	Mild postnatal growth retardation
+HP:0001531	Failure to thrive in infancy
+HP:0001558	Decreased fetal movement
+HP:0001561	Polyhydramnios
+HP:0001562	Oligohydramnios
+HP:0001583	Rotary nystagmus
+HP:0001595	Abnormality of the hair
+HP:0001598	Concave nail
+HP:0001601	Laryngomalacia
+HP:0001605	Vocal cord paralysis
+HP:0001609	Hoarse voice
+HP:0001611	Nasal speech
+HP:0001618	Dysphonia
+HP:0001622	Premature birth
+HP:0001623	Breech presentation
+HP:0001629	Ventricular septal defect
+HP:0001631	Atrial septal defect
+HP:0001633	Abnormality of the mitral valve
+HP:0001634	Mitral valve prolapse
+HP:0001638	Cardiomyopathy
+HP:0001643	Patent ductus arteriosus
+HP:0001644	Dilated cardiomyopathy
+HP:0001646	Abnormality of the aortic valve
+HP:0001649	Tachycardia
+HP:0001650	Aortic valve stenosis
+HP:0001653	Mitral regurgitation
+HP:0001657	Prolonged QT interval
+HP:0001659	Aortic regurgitation
+HP:0001662	Bradycardia
+HP:0001702	Abnormality of the tricuspid valve
+HP:0001711	Abnormal morphology of the left ventricle
+HP:0001712	Left ventricular hypertrophy
+HP:0001716	Wolff-Parkinson-White syndrome
+HP:0001743	Abnormality of the spleen
+HP:0001761	Pes cavus
+HP:0001762	Talipes equinovarus
+HP:0001763	Pes planus
+HP:0001770	Toe syndactyly
+HP:0001773	Short foot
+HP:0001787	Abnormal delivery
+HP:0001822	Hallux valgus
+HP:0001824	Weight loss
+HP:0001831	Short toe
+HP:0001840	Metatarsus adductus
+HP:0001848	Calcaneovalgus deformity
+HP:0001873	Thrombocytopenia
+HP:0001875	Neutropenia
+HP:0001880	Eosinophilia
+HP:0001891	Iron deficiency anemia
+HP:0001903	Anemia
+HP:0001943	Hypoglycemia
+HP:0001944	Dehydration
+HP:0001946	Ketosis
+HP:0001947	Renal tubular acidosis
+HP:0001954	Episodic fever
+HP:0001955	Unexplained fevers
+HP:0001956	Truncal obesity
+HP:0001959	Polydipsia
+HP:0001965	Abnormality of the scalp
+HP:0001998	Neonatal hypoglycemia
+HP:0001999	Abnormal facial shape
+HP:0002007	Frontal bossing
+HP:0002011	Morphological abnormality of the central nervous system
+HP:0002014	Diarrhea
+HP:0002015	Dysphagia
+HP:0002019	Constipation
+HP:0002020	Gastroesophageal reflux
+HP:0002033	Poor suck
+HP:0002045	Hypothermia
+HP:0002046	Heat intolerance
+HP:0002058	Myopathic facies
+HP:0002059	Cerebral atrophy
+HP:0002061	Lower limb spasticity
+HP:0002064	Spastic gait
+HP:0002066	Gait ataxia
+HP:0002072	Chorea
+HP:0002076	Migraine
+HP:0002079	Hypoplasia of the corpus callosum
+HP:0002088	Abnormality of lung morphology
+HP:0002090	Pneumonia
+HP:0002092	Pulmonary arterial hypertension
+HP:0002093	Respiratory insufficiency
+HP:0002099	Asthma
+HP:0002119	Ventriculomegaly
+HP:0002120	Cerebral cortical atrophy
+HP:0002121	Absence seizures
+HP:0002123	Generalized myoclonic seizures
+HP:0002126	Polymicrogyria
+HP:0002127	Abnormal upper motor neuron morphology
+HP:0002133	Status epilepticus
+HP:0002136	Broad-based gait
+HP:0002141	Gait imbalance
+HP:0002144	Tethered cord
+HP:0002162	Low posterior hairline
+HP:0002172	Postural instability
+HP:0002187	Intellectual disability, profound
+HP:0002188	Delayed CNS myelination
+HP:0002191	Progressive spasticity
+HP:0002194	Delayed gross motor development
+HP:0002196	Myelopathy
+HP:0002197	Generalized seizures
+HP:0002204	Pulmonary embolism
+HP:0002205	Recurrent respiratory infections
+HP:0002208	Coarse hair
+HP:0002209	Sparse scalp hair
+HP:0002230	Generalized hirsutism
+HP:0002254	Intermittent diarrhea
+HP:0002273	Tetraparesis
+HP:0002282	Heterotopia
+HP:0002283	Global brain atrophy
+HP:0002300	Mutism
+HP:0002304	Akinesia
+HP:0002307	Drooling
+HP:0002315	Headache
+HP:0002321	Vertigo
+HP:0002334	Abnormality of the cerebellar vermis
+HP:0002342	Intellectual disability, moderate
+HP:0002355	Difficulty walking
+HP:0002359	Frequent falls
+HP:0002360	Sleep disturbance
+HP:0002362	Shuffling gait
+HP:0002366	Abnormal lower motor neuron morphology
+HP:0002376	Developmental regression
+HP:0002380	Fasciculations
+HP:0002381	Aphasia
+HP:0002383	Encephalitis
+HP:0002384	Focal seizures with impairment of consciousness or awareness
+HP:0002389	Cavum septum pellucidum
+HP:0002392	EEG with polyspike wave complexes
+HP:0002395	Lower limb hyperreflexia
+HP:0002396	Cogwheel rigidity
+HP:0002398	Degeneration of anterior horn cells
+HP:0002403	Positive Romberg sign
+HP:0002415	Leukodystrophy
+HP:0002421	Poor head control
+HP:0002423	Long-tract signs
+HP:0002450	Abnormal motor neuron morphology
+HP:0002451	Limb dystonia
+HP:0002459	Dysautonomia
+HP:0002460	Distal muscle weakness
+HP:0002495	Impaired vibratory sensation
+HP:0002500	Abnormality of the cerebral white matter
+HP:0002506	Diffuse cerebral atrophy
+HP:0002509	Limb hypertonia
+HP:0002514	Cerebral calcification
+HP:0002521	Hypsarrhythmia
+HP:0002522	Areflexia of lower limbs
+HP:0002538	Abnormality of the cerebral cortex
+HP:0002540	Inability to walk
+HP:0002566	Intestinal malrotation
+HP:0002572	Episodic vomiting
+HP:0002579	Gastrointestinal dysmotility
+HP:0002580	Volvulus
+HP:0002599	Head titubation
+HP:0002607	Bowel incontinence
+HP:0002616	Aortic root dilatation
+HP:0002617	Dilatation
+HP:0002650	Scoliosis
+HP:0002673	Coxa valga
+HP:0002714	Downturned corners of mouth
+HP:0002719	Recurrent infections
+HP:0002738	Hypoplastic frontal sinuses
+HP:0002757	Recurrent fractures
+HP:0002761	Generalized joint laxity
+HP:0002781	Upper airway obstruction
+HP:0002783	Recurrent lower respiratory tract infections
+HP:0002790	Neonatal breathing dysregulation
+HP:0002808	Kyphosis
+HP:0002829	Arthralgia
+HP:0002835	Aspiration
+HP:0002870	Obstructive sleep apnea
+HP:0002888	Ependymoma
+HP:0002901	Hypocalcemia
+HP:0002902	Hyponatremia
+HP:0002909	Generalized aminoaciduria
+HP:0002917	Hypomagnesemia
+HP:0002924	obsolete Decreased circulating aldosterone level
+HP:0002936	Distal sensory impairment
+HP:0002938	Lumbar hyperlordosis
+HP:0002944	Thoracolumbar scoliosis
+HP:0003026	Short long bone
+HP:0003077	Hyperlipidemia
+HP:0003081	Increased urinary potassium
+HP:0003119	Abnormality of lipid metabolism
+HP:0003134	Abnormality of peripheral nerve conduction
+HP:0003186	Inverted nipples
+HP:0003193	Allergic rhinitis
+HP:0003198	Myopathy
+HP:0003202	Skeletal muscle atrophy
+HP:0003228	Hypernatremia
+HP:0003236	Elevated serum creatine phosphokinase
+HP:0003237	Increased IgG level
+HP:0003323	Progressive muscle weakness
+HP:0003325	Limb-girdle muscle weakness
+HP:0003376	Steppage gait
+HP:0003382	Hypertrophic nerve changes
+HP:0003390	Sensory axonal neuropathy
+HP:0003394	Muscle cramps
+HP:0003401	Paresthesia
+HP:0003423	Thoracolumbar kyphoscoliosis
+HP:0003429	CNS hypomyelination
+HP:0003445	EMG: neuropathic changes
+HP:0003447	Axonal loss
+HP:0003449	Cold-induced muscle cramps
+HP:0003457	EMG abnormality
+HP:0003458	EMG: myopathic abnormalities
+HP:0003474	Sensory impairment
+HP:0003484	Upper limb muscle weakness
+HP:0003487	Babinski sign
+HP:0003493	Antinuclear antibody positivity
+HP:0003496	Increased IgM level
+HP:0003517	Birth length greater than 97th percentile
+HP:0003546	Exercise intolerance
+HP:0003547	Shoulder girdle muscle weakness
+HP:0003551	Difficulty climbing stairs
+HP:0003552	Muscle stiffness
+HP:0003561	Birth length less than 3rd percentile
+HP:0003645	Prolonged partial thromboplastin time
+HP:0003691	Scapular winging
+HP:0003700	Generalized amyotrophy
+HP:0003722	Neck flexor weakness
+HP:0003737	Mitochondrial myopathy
+HP:0003763	Bruxism
+HP:0003764	Nevus
+HP:0003799	Marked delay in bone age
+HP:0004209	Clinodactyly of the 5th finger
+HP:0004279	Short palm
+HP:0004303	Abnormality of muscle fibers
+HP:0004322	Short stature
+HP:0004324	Increased body weight
+HP:0004325	Decreased body weight
+HP:0004379	Abnormality of alkaline phosphatase activity
+HP:0004466	Prolonged brainstem auditory evoked potentials
+HP:0004482	Relative macrocephaly
+HP:0004488	Macrocephaly at birth
+HP:0004660	Hypoplasia of facial musculature
+HP:0004876	Spontaneous neonatal pneumothorax
+HP:0004936	Venous thrombosis
+HP:0005072	Hyperextensibility at wrists
+HP:0005109	Abnormality of the Achilles tendon
+HP:0005214	Intestinal obstruction
+HP:0005263	Gastritis
+HP:0005280	Depressed nasal bridge
+HP:0005469	Flat occiput
+HP:0005484	Postnatal microcephaly
+HP:0005556	Abnormality of the metopic suture
+HP:0005750	Contractures of the joints of the lower limbs
+HP:0005946	Ventilator dependence with inability to wean
+HP:0005968	Temperature instability
+HP:0005988	Congenital muscular torticollis
+HP:0006101	Finger syndactyly
+HP:0006114	Multiple palmar creases
+HP:0006311	Generalized microdontia
+HP:0006313	Widely spaced primary teeth
+HP:0006462	Generalized bone demineralization
+HP:0006482	Abnormality of dental morphology
+HP:0006530	Interstitial pulmonary abnormality
+HP:0006532	Recurrent pneumonia
+HP:0006543	Cardiorespiratory arrest
+HP:0006568	Increased hepatic glycogen content
+HP:0006801	Hyperactive deep tendon reflexes
+HP:0006808	Cerebral hypomyelination
+HP:0006829	Severe muscular hypotonia
+HP:0006849	Hypodysplasia of the corpus callosum
+HP:0006855	Cerebellar vermis atrophy
+HP:0006858	Impaired distal proprioception
+HP:0006863	Severe expressive language delay
+HP:0006895	Lower limb hypertonia
+HP:0006926	Metachromatic leukodystrophy variant
+HP:0006938	Impaired vibration sensation at ankles
+HP:0006956	Dilation of lateral ventricles
+HP:0006958	Abnormal auditory evoked potentials
+HP:0006960	Choroid plexus calcification
+HP:0006964	Cerebral cortical neurodegeneration
+HP:0006983	Slowly progressive spastic quadriparesis
+HP:0006989	Dysplastic corpus callosum
+HP:0006994	Diffuse leukoencephalopathy
+HP:0007002	Motor axonal neuropathy
+HP:0007018	Attention deficit hyperactivity disorder
+HP:0007021	Pain insensitivity
+HP:0007058	Generalized cerebral atrophy/hypoplasia
+HP:0007069	Profound static encephalopathy
+HP:0007074	Thick corpus callosum
+HP:0007083	Hyperactive patellar reflex
+HP:0007141	Sensorimotor neuropathy
+HP:0007165	Periventricular gray matter heterotopia
+HP:0007266	Cerebral dysmyelination
+HP:0007267	Chronic axonal neuropathy
+HP:0007340	Lower limb muscle weakness
+HP:0007354	Amyotrophic lateral sclerosis
+HP:0007359	Focal seizures
+HP:0007360	Aplasia/Hypoplasia of the cerebellum
+HP:0007361	Abnormality of the pons
+HP:0007377	Abnormality of somatosensory evoked potentials
+HP:0007485	Absence of subcutaneous fat
+HP:0007502	Follicular hyperkeratosis
+HP:0007503	Generalized ichthyosis
+HP:0007514	Edema of the dorsum of hands
+HP:0007572	Hyperpigmented streaks
+HP:0007588	Reticular hyperpigmentation
+HP:0007678	Lacrimal duct stenosis
+HP:0007703	Abnormality of retinal pigmentation
+HP:0007715	Weak extraocular muscles
+HP:0007768	Central retinal vessel vascular tortuosity
+HP:0007874	Almond-shaped palpebral fissure
+HP:0007930	Prominent epicanthal folds
+HP:0007979	Gaze-evoked horizontal nystagmus
+HP:0008000	Decreased corneal reflex
+HP:0008033	Congenital exotropia
+HP:0008070	Sparse hair
+HP:0008113	Multiple plantar creases
+HP:0008249	Thyroid hyperplasia
+HP:0008366	Contractures involving the joints of the feet
+HP:0008383	Slow-growing nails
+HP:0008523	Posterior helix pit
+HP:0008529	Absence of acoustic reflex
+HP:0008780	Congenital bilateral hip dislocation
+HP:0008855	Moderate postnatal growth retardation
+HP:0008872	Feeding difficulties in infancy
+HP:0008936	Muscular hypotonia of the trunk
+HP:0008944	Distal lower limb amyotrophy
+HP:0009020	Exercise-induced muscle fatigue
+HP:0009027	Foot dorsiflexor weakness
+HP:0009046	Difficulty running
+HP:0009050	Quadriceps muscle atrophy
+HP:0009051	Increased muscle glycogen content
+HP:0009113	Diaphragmatic weakness
+HP:0009123	Mixed hypo- and hyperpigmentation of the skin
+HP:0009129	Upper limb amyotrophy
+HP:0009763	Limb pain
+HP:0009800	Maternal diabetes
+HP:0009811	Abnormality of the elbow
+HP:0009816	Lower limb undergrowth
+HP:0009824	Upper limb undergrowth
+HP:0009830	Peripheral neuropathy
+HP:0009889	Localized hirsutism
+HP:0009890	High anterior hairline
+HP:0009899	Prominent crus of helix
+HP:0009937	Facial hirsutism
+HP:0010034	Short 1st metacarpal
+HP:0010044	Short 4th metacarpal
+HP:0010047	Short 5th metacarpal
+HP:0010055	Broad hallux
+HP:0010192	Triangular shaped distal phalanges of the toes
+HP:0010301	Spinal dysraphism
+HP:0010471	Oligosacchariduria
+HP:0010485	Hyperextensibility at elbow
+HP:0010535	Sleep apnea
+HP:0010536	Central sleep apnea
+HP:0010539	Thin calvarium
+HP:0010543	Opsoclonus
+HP:0010627	Anterior pituitary hypoplasia
+HP:0010677	Enuresis nocturna
+HP:0010678	Enuresis diurna
+HP:0010721	Abnormal hair whorl
+HP:0010804	Tented upper lip vermilion
+HP:0010833	Spontaneous pain sensation
+HP:0010837	Decreased serum ceruloplasmin
+HP:0010845	EEG with generalized slow activity
+HP:0010862	Delayed fine motor development
+HP:0010864	Intellectual disability, severe
+HP:0010873	Cervical spinal cord atrophy
+HP:0011082	Conical primary incisor
+HP:0011096	Peripheral demyelination
+HP:0011120	Concave nasal ridge
+HP:0011124	Abnormality of epidermal morphology
+HP:0011147	Typical absence seizures
+HP:0011189	Bilateral multifocal epileptiform discharges
+HP:0011197	EEG with focal spike waves
+HP:0011198	EEG with generalized epileptiform discharges
+HP:0011201	EEG with changes in voltage
+HP:0011203	EEG with abnormally slow frequencies
+HP:0011220	Prominent forehead
+HP:0011330	Metopic synostosis
+HP:0011344	Severe global developmental delay
+HP:0011351	Moderate receptive language delay
+HP:0011352	Severe receptive language delay
+HP:0011357	Abnormality of hair density
+HP:0011398	Central hypotonia
+HP:0011410	Caesarian section
+HP:0011428	Short fetal femur length
+HP:0011437	Maternal autoimmune disease
+HP:0011441	Abnormality of the medulla oblongata
+HP:0011446	Abnormality of higher mental function
+HP:0011448	Ankle clonus
+HP:0011451	Congenital microcephaly
+HP:0011452	Functional abnormality of the middle ear
+HP:0011471	Gastrostomy tube feeding in infancy
+HP:0011515	Abnormal stereopsis
+HP:0011675	Arrhythmia
+HP:0011703	Sinus tachycardia
+HP:0011755	Ectopic posterior pituitary
+HP:0011787	Central hypothyroidism
+HP:0011800	Midface retrusion
+HP:0011868	Sciatica
+HP:0011924	Decreased activity of mitochondrial complex III
+HP:0011951	Aspiration pneumonia
+HP:0011952	Acute aspiration pneumonia
+HP:0011968	Feeding difficulties
+HP:0012079	Abnormality of central motor conduction
+HP:0012098	Edema of the dorsum of feet
+HP:0012110	Hypoplasia of the pons
+HP:0012166	Skin-picking
+HP:0012173	Orthostatic tachycardia
+HP:0012188	Hyperemesis gravidarum
+HP:0012229	CSF pleocytosis
+HP:0012323	Sleep myoclonus
+HP:0012333	Abnormal sudomotor regulation
+HP:0012338	Abnormal energy expenditure
+HP:0012343	Decreased serum ferritin
+HP:0012358	Abnormal protein O-linked glycosylation
+HP:0012371	Hyperplasia of midface
+HP:0012378	Fatigue
+HP:0012391	Hyporeflexia of upper limbs
+HP:0012393	Allergy
+HP:0012395	Seasonal allergy
+HP:0012411	Premature pubarche
+HP:0012412	Premature adrenarche
+HP:0012416	Hypercapnia
+HP:0012418	Hypoxemia
+HP:0012420	Meconium stained amniotic fluid
+HP:0012423	Colonic inertia
+HP:0012432	Chronic fatigue
+HP:0012434	Delayed social development
+HP:0012446	Low CSF 5-methyltetrahydrofolate
+HP:0012450	Chronic constipation
+HP:0012452	Restless legs
+HP:0012469	Infantile spasms
+HP:0012473	Tongue atrophy
+HP:0012520	Perivascular spaces
+HP:0012531	Pain
+HP:0012532	Chronic pain
+HP:0012535	Abnormal synaptic transmission
+HP:0012537	Food intolerance
+HP:0012547	Abnormal involuntary eye movements
+HP:0012608	Hypermagnesiuria
+HP:0012650	Perisylvian polymicrogyria
+HP:0012677	Iron accumulation in globus pallidus
+HP:0012695	Decreased thalamic volume
+HP:0012704	Widened subarachnoid space
+HP:0012706	Elevated brain choline level by MRS
+HP:0012707	Elevated brain lactate level by MRS
+HP:0012708	Reduced brain N-acetyl aspartate level by MRS
+HP:0012734	Ketotic hypoglycemia
+HP:0012736	Profound global developmental delay
+HP:0012745	Short palpebral fissure
+HP:0012747	Abnormal brainstem MRI signal intensity
+HP:0012753	T2 hypointense basal ganglia
+HP:0012759	Neurodevelopmental abnormality
+HP:0012762	Cerebral white matter atrophy
+HP:0012764	Orthopnea
+HP:0012805	Iris transillumination defect
+HP:0012841	Retinal vascular tortuosity
+HP:0012881	Abnormality of the labia majora
+HP:0030043	Hip subluxation
+HP:0030048	Colpocephaly
+HP:0030057	Autoimmune antibody positivity
+HP:0030148	Heart murmur
+HP:0030166	Night sweats
+HP:0030190	Oral motor hypotonia
+HP:0030257	Freckled genitalia
+HP:0040025	Clinodactyly of the 4th finger
+HP:0040075	Hypopituitarism
+HP:0040079	Irregular dentition
+HP:0040083	Toe walking
+HP:0100277	Periauricular skin pits
+HP:0100304	Muscle fiber intranuclear inclusion bodies
+HP:0100309	Subdural hemorrhage
+HP:0100492	Joint contractures involving the joints of the feet
+HP:0100512	Vitamin D deficiency
+HP:0100543	Cognitive impairment
+HP:0100553	Hemihypertrophy of lower limb
+HP:0100559	Lower limb asymmetry
+HP:0100576	Amaurosis fugax
+HP:0100703	Tongue thrusting
+HP:0100704	Cortical visual impairment
+HP:0100716	Self-injurious behavior
+HP:0100738	Abnormal eating behavior
+HP:0100750	Atelectasis
+HP:0100767	Abnormality of the placenta
+HP:0100806	Sepsis
+HP:0100814	Blue nevus
+HP:0100828	Increase in T cell count
+HP:0100874	Thick hair
+HP:0100960	Asymmetric ventricles
+HP:0200055	Small hand
+HP:0200097	Oral mucosal blisters
+HP:0200134	Epileptic encephalopathy
+HP:0200136	Oral-pharyngeal dysphagia
