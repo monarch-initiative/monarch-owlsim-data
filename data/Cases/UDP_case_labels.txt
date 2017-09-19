@@ -1,22 +1,3 @@
-:.well-known/genid/person-1398-1	affected male proband with Adenomatous polyposis of the colon
-:.well-known/genid/person-479-1	affected female proband with Adenomatous polyposis of the colon
-:.well-known/genid/person-522-1	affected female proband with Adenomatous polyposis of the colon
-:.well-known/genid/person-525-1	affected female proband with Adenomatous polyposis of the colon
-:.well-known/genid/person-582-1	affected female proband with Adenomatous polyposis of the colon
-:.well-known/genid/person-603-1	affected male son of proband with Adenomatous polyposis of the colon
-:.well-known/genid/person-603-10	affected male son of proband with Adenomatous polyposis of the colon
-:.well-known/genid/person-603-2	affected female proband with Adenomatous polyposis of the colon
-:.well-known/genid/person-603-4	affected female sister of proband with Adenomatous polyposis of the colon
-:.well-known/genid/person-603-6	affected female daughter of proband with Adenomatous polyposis of the colon
-:.well-known/genid/person-603-7	affected female daughter of proband with Adenomatous polyposis of the colon
-:.well-known/genid/person-967-1	affected male proband with Adenomatous polyposis of the colon
-:.well-known/genid/person-967-10	affected female maternal cousin of proband with Adenomatous polyposis of the colon
-:.well-known/genid/person-967-12	affected female maternal cousin of proband with Adenomatous polyposis of the colon
-:.well-known/genid/person-967-13	affected female maternal cousin of proband with Adenomatous polyposis of the colon
-:.well-known/genid/person-967-5	affected female sister of proband with Adenomatous polyposis of the colon
-:.well-known/genid/person-967-6	affected female mother of proband with Adenomatous polyposis of the colon
-:.well-known/genid/person-967-8	affected female maternal cousin of proband with Adenomatous polyposis of the colon
-:.well-known/genid/person-967-9	affected male maternal uncle of proband with Adenomatous polyposis of the colon
 :MONARCH:c000001	MONARCH:c000001
 :MONARCH:c000002	MONARCH:c000002
 :MONARCH:c000003	MONARCH:c000003

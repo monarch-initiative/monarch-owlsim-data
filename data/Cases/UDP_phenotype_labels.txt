@@ -218,7 +218,7 @@ HP:0001657	Prolonged QT interval
 HP:0001659	Aortic regurgitation
 HP:0001662	Bradycardia
 HP:0001702	Abnormality of the tricuspid valve
-HP:0001711	Abnormality of the left ventricle
+HP:0001711	Abnormal morphology of the left ventricle
 HP:0001712	Left ventricular hypertrophy
 HP:0001716	Wolff-Parkinson-White syndrome
 HP:0001743	Abnormality of the spleen
@@ -344,7 +344,7 @@ HP:0002580	Volvulus
 HP:0002599	Head titubation
 HP:0002607	Bowel incontinence
 HP:0002616	Aortic root dilatation
-HP:0002617	Aneurysm
+HP:0002617	Dilatation
 HP:0002650	Scoliosis
 HP:0002673	Coxa valga
 HP:0002714	Downturned corners of mouth
@@ -642,7 +642,7 @@ HP:0012764	Orthopnea
 HP:0012805	Iris transillumination defect
 HP:0012841	Retinal vascular tortuosity
 HP:0012881	Abnormality of the labia majora
-HP:0030043	Hip Subluxation
+HP:0030043	Hip subluxation
 HP:0030048	Colpocephaly
 HP:0030057	Autoimmune antibody positivity
 HP:0030148	Heart murmur
