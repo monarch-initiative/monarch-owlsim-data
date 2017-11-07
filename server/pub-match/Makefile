@@ -1,7 +1,7 @@
 OBO = http://purl.obolibrary.org/obo
 UPHENO = $(OBO)/upheno
 CATALOG = catalog-v001.xml
-DATA = ../data
+DATA = ../../data
 MIRROR= mirror
 
 MM = $(DATA)/Mus_musculus
