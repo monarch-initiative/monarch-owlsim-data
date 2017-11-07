@@ -57,7 +57,7 @@ $(CATALOG):
 
 # TODO: trigger rebuild
 all.owl:  ../additional-associations.txt ../additional-labels.txt $(DR_G2P) $(MM_G2P) $(HS_D2P) $(DM_D2P) $(CE_G2P) $(PUB_P2P)
-	$(OWLTOOLS)  $(ROOT) --merge-imports-closure --load-instances additional-associations.txt --load-labels additional-labels.txt --load-instances $(MM_G2P) --load-labels $(MM_G2L) --load-instances $(DR_G2P) --load-instances $(CASE_C2P) --load-labels $(CASE_C2L) --load-labels $(DR_G2L) --load-instances $(HS_D2P) --load-labels $(HS_D2L) --load-instances $(DM_G2P) --load-labels $(DM_G2L) --load-instances $(CE_G2P) --load-labels $(CE_G2L) --load-instances $(PUB_P2P) --load-labels $(PUB_P2L) --merge-support-ontologies --remove-axioms -t ObjectPropertyDomain --remove-axioms -t ObjectPropertyRange --remove-axioms -t DisjointClasses -o $@
+	$(OWLTOOLS)  $(ROOT) --merge-imports-closure --load-instances ../additional-associations.txt --load-labels ../additional-labels.txt --load-instances $(MM_G2P) --load-labels $(MM_G2L) --load-instances $(DR_G2P) --load-instances $(CASE_C2P) --load-labels $(CASE_C2L) --load-labels $(DR_G2L) --load-instances $(HS_D2P) --load-labels $(HS_D2L) --load-instances $(DM_G2P) --load-labels $(DM_G2L) --load-instances $(CE_G2P) --load-labels $(CE_G2L) --load-instances $(PUB_P2P) --load-labels $(PUB_P2L) --merge-support-ontologies --remove-axioms -t ObjectPropertyDomain --remove-axioms -t ObjectPropertyRange --remove-axioms -t DisjointClasses -o $@
 
 owlsim.cache: all.owl
 	$(OWLTOOLS)  $< --sim-save-lcs-cache --debug-class MP:0000001 -m 3.0 $@ --sim-save-state state1.txt --sim-save-ic-cache ic-cache-redundant.owl --sim-save-state state2.txt
