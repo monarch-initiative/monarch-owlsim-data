@@ -32,9 +32,9 @@ CASE_C2P = $(CASE)/UDP_case_phenotype.txt
 CASE_C2L = $(CASE)/UDP_case_labels.txt
 
 #Experimental
-#PUB = $(DATA)/Pubs
-#PUB_P2P = $(PUB)/Pub_phenotype.txt
-#PUB_P2L = $(PUB)/Pub_labels.txt
+PUB = $(DATA)/Pubs
+PUB_P2P = $(PUB)/Pub_phenotype.txt
+PUB_P2L = $(PUB)/Pub_labels.txt
 
 #ROOT = $(UPHENO)/metazoa.owl
 #ROOT = $(UPHENO)/vertebrate.owl
