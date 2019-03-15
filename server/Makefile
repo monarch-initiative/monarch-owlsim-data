@@ -38,10 +38,10 @@ CASE_C2L = $(CASE)/UDP_case_labels.txt
 #PUB_P2P = $(PUB)/Pub_phenotype.txt
 #PUB_P2L = $(PUB)/Pub_labels.txt
 
-ROOT = $(UPHENO)/metazoa.owl
+#ROOT = $(UPHENO)/metazoa.owl
 #ROOT = $(UPHENO)/vertebrate.owl
 #ROOT = $(UPHENO)/monarch.owl
-#ROOT = https://data.monarchinitiative.org/owl/monarch-merged.owl
+ROOT = http://archive.monarchinitiative.org/201902/owl/monarch-merged.owl
 
 USECAT = --catalog-xml $(ONT)/catalog-v001.xml
 
