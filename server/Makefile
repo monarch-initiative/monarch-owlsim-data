@@ -41,11 +41,11 @@ CASE_C2L = $(CASE)/UDP_case_labels.txt
 #ROOT = $(UPHENO)/metazoa.owl
 #ROOT = $(UPHENO)/vertebrate.owl
 #ROOT = $(UPHENO)/monarch.owl
-ROOT = http://archive.monarchinitiative.org/201902/owl/metazoa.owl
+ROOT = https://archive.monarchinitiative.org/201908/owl/metazoa.owl
 
 USECAT = --catalog-xml $(ONT)/catalog-v001.xml
 
-OWLTOOLS_MEMORY ?= 14G
+OWLTOOLS_MEMORY ?= 100G
 
 OWLTOOLS = OWLTOOLS_MEMORY=$(OWLTOOLS_MEMORY) owltools
 
