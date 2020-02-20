@@ -41,7 +41,7 @@ CASE_C2L = $(CASE)/UDP_case_labels.txt
 #ROOT = $(UPHENO)/metazoa.owl
 #ROOT = $(UPHENO)/vertebrate.owl
 #ROOT = $(UPHENO)/monarch.owl
-ROOT = https://archive.monarchinitiative.org/beta/owl/metazoa.owl
+ROOT = https://archive.monarchinitiative.org/beta/owl/metazoa-slim.owl
 
 USECAT = --catalog-xml $(ONT)/catalog-v001.xml
 
