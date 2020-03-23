@@ -1,5 +1,6 @@
-## !!Deprecated!! 
-### This repo is no longer being updated and will be archived
+#### Monarch Owlsim Data
+
+Makefiles for building the owlsim cache files used in owltools (owlsim)
 
 For monarch data see https://archive.monarchinitiative.org/latest/owlsim/ and https://archive.monarchinitiative.org/latest/tsv/gene_associations/
 
