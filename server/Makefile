@@ -45,7 +45,7 @@ XE_G2L = $(XE)/Xe_gene_labels.txt
 #ROOT = $(UPHENO)/metazoa.owl
 #ROOT = $(UPHENO)/vertebrate.owl
 #ROOT = $(UPHENO)/monarch.owl
-ROOT = https://archive.monarchinitiative.org/beta/owl/metazoa-slim.owl
+ROOT = https://archive.monarchinitiative.org/beta/owl/metazoa.owl
 
 USECAT = --catalog-xml $(ONT)/catalog-v001.xml
 
